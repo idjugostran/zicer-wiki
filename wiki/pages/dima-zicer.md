@@ -3,7 +3,7 @@ title: Дима Зицер
 category: Entities
 summary: Педагог, автор канала о воспитании детей и школе «Апельсин»
 tags: [entity, pedagogue]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2]
 created: 2026-08-04
 updated: 2026-08-04
 ---
@@ -20,6 +20,7 @@ updated: 2026-08-04
 - [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] — Урок 1 курса «12 уроков для продвинутых родителей»: что такое родительство
 - [[pochemu-nelzya-dressirovat-blizkih](pages/pochemu-nelzya-dressirovat-blizkih.md)] — критика метода поощрения и наказания (телеканал «Дождь»)
 - [[apelsinovye-budni](pages/apelsinovye-budni.md)] — интервью о школе «Апельсин»: расписание, самоуправление, субъектность
+- [[kurs-12-urokov-urok-2](pages/kurs-12-urokov-urok-2.md)] — Урок 2 курса: практика любви, критика псевдо-«договора»
 
 ## Related Concepts
 
