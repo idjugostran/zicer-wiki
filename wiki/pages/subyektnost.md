@@ -28,3 +28,4 @@ updated: 2026-08-04
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — та же логика «равенство вместо власти сильного» применительно к семье, а не школе
 - [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)] — историческая рамка того же принципа
 - [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — «ад» как подмена равных отношений иерархией — обратная сторона субъектности
+- [[manipulyatsiya](pages/manipulyatsiya.md)] — лишение воли манипуляцией прямо нарушает принцип равенства сторон

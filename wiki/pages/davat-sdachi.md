@@ -28,3 +28,4 @@ updated: 2026-08-04
 - [[subyektnost](pages/subyektnost.md)] — язык силы прямо противоположен принципу равенства сторон и диалога
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — различие «жалоба vs. просьба о помощи» конкретизирует, что значит «помощь» в родительской функции
 - [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)] — метафора «надсмотрщик и заключённый» перекликается с «ментальностью зоны»
+- [[manipulyatsiya](pages/manipulyatsiya.md)] — смежная классификация: манипуляция как мягкая форма того же силового принуждения
