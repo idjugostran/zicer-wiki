@@ -3,7 +3,7 @@ title: Родительская функция
 category: Concepts
 summary: Формулировка Зицера — защита, помощь, присутствие, поддержка
 tags: [concept, parenting]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi]
 created: 2026-08-04
 updated: 2026-08-04
 ---
@@ -25,3 +25,4 @@ updated: 2026-08-04
 
 - [[isterika](pages/isterika.md)] — ситуация, на примере которой сформулирована функция
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — методический приём конкретизации из Урока 1
+- [[davat-sdachi](pages/davat-sdachi.md)] — различие «жалоба vs. просьба о помощи» конкретизирует смысл «помощи» в этой формуле

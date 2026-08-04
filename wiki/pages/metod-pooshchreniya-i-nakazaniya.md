@@ -3,7 +3,7 @@ title: Метод поощрения и наказания
 category: Concepts
 summary: Заимствованный из дрессуры животных метод — Зицер считает его неприменимым к людям и подменяющим настоящие отношения
 tags: [concept, roditelstvo, pedagogika]
-sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2]
+sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi]
 created: 2026-08-04
 updated: 2026-08-04
 ---
@@ -19,6 +19,7 @@ updated: 2026-08-04
 - [[pochemu-nelzya-dressirovat-blizkih](pages/pochemu-nelzya-dressirovat-blizkih.md)] — вводит концепт целиком
 - [[apelsinovye-budni](pages/apelsinovye-budni.md)] — институциональное воплощение критики: отказ школы «Апельсин» от оценочной системы
 - [[kurs-12-urokov-urok-2](pages/kurs-12-urokov-urok-2.md)] — параллельная критика псевдо-«договора» с той же аналогией
+- [[nuzhno-li-uchit-detey-davat-sdachi](pages/nuzhno-li-uchit-detey-davat-sdachi.md)] — та же логика применительно к силовому решению конфликтов между детьми
 
 ## Related Concepts
 
