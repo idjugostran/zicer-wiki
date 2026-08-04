@@ -1,0 +1,4 @@
+# Audit reports are regenerated local-only artifacts (wiki-audit). The committed record
+# of an audit is the `review:` frontmatter token on the audited page, not the report.
+wiki/pages/audit-*.md
+.DS_Store
