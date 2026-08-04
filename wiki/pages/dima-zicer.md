@@ -3,7 +3,7 @@ title: Дима Зицер
 category: Entities
 summary: Педагог, автор канала о воспитании детей и школе «Апельсин»
 tags: [entity, pedagogue]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami]
 created: 2026-08-04
 updated: 2026-08-04
 ---
@@ -23,6 +23,7 @@ updated: 2026-08-04
 - [[kurs-12-urokov-urok-2](pages/kurs-12-urokov-urok-2.md)] — Урок 2 курса: практика любви, критика псевдо-«договора»
 - [[nuzhno-li-uchit-detey-davat-sdachi](pages/nuzhno-li-uchit-detey-davat-sdachi.md)] — выпуск программы «Любить нельзя воспитывать» о критике совета «давать сдачи»
 - [[kurs-12-urokov-urok-3](pages/kurs-12-urokov-urok-3.md)] — Урок 3 курса: телесная природа реактивных поступков
+- [[konflikty-mezhdu-detmi-i-roditelyami](pages/konflikty-mezhdu-detmi-i-roditelyami.md)] — эфир радио «Маяк» о конфликтах между детьми и родителями
 
 ## Related Concepts
 
@@ -36,3 +37,5 @@ updated: 2026-08-04
 - [[programma-lyubit-nelzya-vospityvat](pages/programma-lyubit-nelzya-vospityvat.md)] — программа вопросов-ответов, которую он ведёт
 - [[davat-sdachi](pages/davat-sdachi.md)] — критикуемый им совет
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — центральный концепт Урока 3
+- [[programma-hochu-vse-znat](pages/programma-hochu-vse-znat.md)] — программа радио «Маяк», где он был гостем
+- [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)] — его историческая рамка неравенства детей и взрослых

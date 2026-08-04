@@ -27,3 +27,4 @@ updated: 2026-08-04
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — смежная критика силовых/иерархических моделей решения отношений
 - [[subyektnost](pages/subyektnost.md)] — язык силы прямо противоположен принципу равенства сторон и диалога
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — различие «жалоба vs. просьба о помощи» конкретизирует, что значит «помощь» в родительской функции
+- [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)] — метафора «надсмотрщик и заключённый» перекликается с «ментальностью зоны»

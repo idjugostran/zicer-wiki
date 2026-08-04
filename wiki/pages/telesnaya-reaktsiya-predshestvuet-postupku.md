@@ -3,7 +3,7 @@ title: Телесная реакция предшествует поступку
 category: Concepts
 summary: Реактивные действия (крик, удар) вызываются телесным сигналом (сжатые кулаки, сухость во рту), возникающим за секунды до поступка, а не осознанным решением
 tags: [concept, samoregulyatsiya, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-3]
+sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami]
 created: 2026-08-04
 updated: 2026-08-04
 ---
@@ -19,6 +19,7 @@ updated: 2026-08-04
 ## Appearances in Sources
 
 - [[kurs-12-urokov-urok-3](pages/kurs-12-urokov-urok-3.md)] — вводит концепт целиком, на двух примерах (пощёчина матери, агрессивный второклассник)
+- [[konflikty-mezhdu-detmi-i-roditelyami](pages/konflikty-mezhdu-detmi-i-roditelyami.md)] — техника напрямую применена в живом звонке (Настя, 15 лет, конфликт с сестрой)
 
 ## Related Concepts
 
