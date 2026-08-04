@@ -4,10 +4,13 @@
 
 ### Sources
 - [[tak-nazyvaemye-detskie-isteriki](pages/tak-nazyvaemye-detskie-isteriki.md)] — Зицер отрицает саму категорию «детской истерики» как отдельную от взрослой, и даёт практический алгоритм поведения родителя во время и после неё _(2026-08-04)_
+- [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] — Первый урок курса — что такое родительство, почему клише «любить ребёнка» бесполезны без конкретики, домашнее задание из 10 конкретных пунктов _(2026-08-04)_
 
 ### Entities
 - [[dima-zicer](pages/dima-zicer.md)] — Педагог, автор канала о воспитании детей и школе «Апельсин» _(2026-08-04)_
+- [[kurs-12-urokov-dlya-prodvinutyh-roditeley](pages/kurs-12-urokov-dlya-prodvinutyh-roditeley.md)] — Бесплатный еженедельный курс Димы Зицера из 12 уроков с обязательными домашними заданиями _(2026-08-04)_
 
 ### Concepts
 - [[isterika](pages/isterika.md)] — Реактивное неконтролируемое состояние — по Зицеру, не специфичное для детей, а общечеловеческое _(2026-08-04)_
+- [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — Любовь и забота — не эмоция-клише, а список конкретных действий, поддающихся описанию _(2026-08-04)_
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — Формулировка Зицера — защита, помощь, присутствие, поддержка _(2026-08-04)_
