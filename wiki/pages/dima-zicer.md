@@ -3,7 +3,7 @@ title: Дима Зицер
 category: Entities
 summary: Педагог, автор канала о воспитании детей и школе «Апельсин»
 tags: [entity, pedagogue]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3]
 created: 2026-08-04
 updated: 2026-08-04
 ---
@@ -22,6 +22,7 @@ updated: 2026-08-04
 - [[apelsinovye-budni](pages/apelsinovye-budni.md)] — интервью о школе «Апельсин»: расписание, самоуправление, субъектность
 - [[kurs-12-urokov-urok-2](pages/kurs-12-urokov-urok-2.md)] — Урок 2 курса: практика любви, критика псевдо-«договора»
 - [[nuzhno-li-uchit-detey-davat-sdachi](pages/nuzhno-li-uchit-detey-davat-sdachi.md)] — выпуск программы «Любить нельзя воспитывать» о критике совета «давать сдачи»
+- [[kurs-12-urokov-urok-3](pages/kurs-12-urokov-urok-3.md)] — Урок 3 курса: телесная природа реактивных поступков
 
 ## Related Concepts
 
@@ -34,3 +35,4 @@ updated: 2026-08-04
 - [[subyektnost](pages/subyektnost.md)] — центральный принцип устройства школы
 - [[programma-lyubit-nelzya-vospityvat](pages/programma-lyubit-nelzya-vospityvat.md)] — программа вопросов-ответов, которую он ведёт
 - [[davat-sdachi](pages/davat-sdachi.md)] — критикуемый им совет
+- [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — центральный концепт Урока 3
