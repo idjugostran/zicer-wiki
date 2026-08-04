@@ -3,7 +3,7 @@ title: Метод поощрения и наказания
 category: Concepts
 summary: Заимствованный из дрессуры животных метод — Зицер считает его неприменимым к людям и подменяющим настоящие отношения
 tags: [concept, roditelstvo, pedagogika]
-sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi]
+sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad]
 created: 2026-08-04
 updated: 2026-08-04
 ---
@@ -20,8 +20,10 @@ updated: 2026-08-04
 - [[apelsinovye-budni](pages/apelsinovye-budni.md)] — институциональное воплощение критики: отказ школы «Апельсин» от оценочной системы
 - [[kurs-12-urokov-urok-2](pages/kurs-12-urokov-urok-2.md)] — параллельная критика псевдо-«договора» с той же аналогией
 - [[nuzhno-li-uchit-detey-davat-sdachi](pages/nuzhno-li-uchit-detey-davat-sdachi.md)] — та же логика применительно к силовому решению конфликтов между детьми
+- [[sravnenie-100-shagov-v-ad](pages/sravnenie-100-shagov-v-ad.md)] — та же логика применительно к сравнению/оценке как механизму зависимости
 
 ## Related Concepts
 
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — смежная тема (как говорить об отношениях без клише), другой фокус
 - [[subyektnost](pages/subyektnost.md)] — положительная альтернатива: равенство сторон вместо транзакции/оценки
+- [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — смежный концепт: механизм зависимости, стоящий за оценкой

@@ -27,3 +27,4 @@ updated: 2026-08-04
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — критика оценок как транзакции между неравными сторонами; субъектность — положительная альтернатива той же проблемы
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — та же логика «равенство вместо власти сильного» применительно к семье, а не школе
 - [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)] — историческая рамка того же принципа
+- [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — «ад» как подмена равных отношений иерархией — обратная сторона субъектности

@@ -23,3 +23,4 @@ updated: 2026-08-04
 - [[dima-zicer](pages/dima-zicer.md)] — соучредитель школы
 - [[subyektnost](pages/subyektnost.md)] — центральный принцип устройства школы
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — критика оценок, институционально воплощённая в отказе школы от оценочной системы
+- [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — та же критика оценок с точки зрения психологического механизма зависимости
