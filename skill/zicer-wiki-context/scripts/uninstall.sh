@@ -2,7 +2,7 @@
 # Uninstaller for the zicer-wiki-context Hermes skill — reverses exactly
 # what scripts/setup.sh does, back to a clean state:
 #
-#   curl -fsSL https://raw.githubusercontent.com/idjugostran/zicer-wiki/main/skill/zicer-wiki-context/scripts/uninstall.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/idjugostran/zicer-wiki/master/skill/zicer-wiki-context/scripts/uninstall.sh | bash
 #
 # What it does, in order:
 #   0. Delete the installed checkout (default ~/Zicer) — the wiki/ +

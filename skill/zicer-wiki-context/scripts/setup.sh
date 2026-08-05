@@ -4,7 +4,7 @@
 # Designed to be run as a one-liner straight from GitHub, with nothing
 # pre-cloned on the machine:
 #
-#   curl -fsSL https://raw.githubusercontent.com/idjugostran/zicer-wiki/main/skill/zicer-wiki-context/scripts/setup.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/idjugostran/zicer-wiki/master/skill/zicer-wiki-context/scripts/setup.sh | bash
 #
 # Everything is self-contained: it does a SPARSE clone of just the data the
 # skill actually reads (wiki/, skill/ — NOT raw/, which is the archival
