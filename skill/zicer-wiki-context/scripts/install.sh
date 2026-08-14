@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
-# Installer for the zicer-wiki-remote Claude skill.
+# Installer for the zicer-wiki-context Claude skill.
 #
 # Installs ONE file (SKILL.md) — the wiki data itself is never downloaded, the
 # skill fetches it from GitHub over HTTPS at answer time. No git, no clone.
 # Run it straight from GitHub with nothing pre-cloned:
 #
-#   curl -fsSL https://raw.githubusercontent.com/idjugostran/zicer-wiki/master/skill/zicer-wiki-remote/scripts/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/idjugostran/zicer-wiki/master/skill/zicer-wiki-context/scripts/install.sh | bash
 #
 # Idempotent — re-running just overwrites the installed SKILL.md with the
 # current one (that's also how you update it).
@@ -17,13 +17,13 @@
 # Options (env var or flag; flags only work on a local copy, not curl|bash):
 #   ZICER_WIKI_REPO   --repo owner/name    wiki repo to read (default: idjugostran/zicer-wiki)
 #                     --branch NAME        branch to read (default: master)
-#                     --name NAME          installed skill name (default: zicer-wiki-remote)
+#                     --name NAME          installed skill name (default: zicer-wiki-context)
 #                     --description TEXT   skill description (default: the H1 of that wiki's index.md)
 #                     --dir PATH           skills dir (default: ~/.claude/skills)
 #                     --skill-source URL   where to download SKILL.md from (default: this repo)
 #
 # claude.ai (web) has no skills directory to write into — there, install by
-# uploading the skill/zicer-wiki-remote/ folder through the Skills UI instead.
+# uploading the skill/zicer-wiki-context/ folder through the Skills UI instead.
 #
 # To uninstall: rm -rf ~/.claude/skills/<name>
 
@@ -31,7 +31,7 @@ set -euo pipefail
 
 REPO="${ZICER_WIKI_REPO:-idjugostran/zicer-wiki}"
 BRANCH="master"
-SKILL_NAME="zicer-wiki-remote"
+SKILL_NAME="zicer-wiki-context"
 DESCRIPTION=""
 SKILLS_DIR="$HOME/.claude/skills"
 SKILL_SOURCE=""
@@ -49,7 +49,7 @@ while [[ $# -gt 0 ]]; do
 done
 
 BASE_URL="https://raw.githubusercontent.com/$REPO/$BRANCH"
-SKILL_SOURCE="${SKILL_SOURCE:-https://raw.githubusercontent.com/idjugostran/zicer-wiki/master/skill/zicer-wiki-remote/SKILL.md}"
+SKILL_SOURCE="${SKILL_SOURCE:-https://raw.githubusercontent.com/idjugostran/zicer-wiki/master/skill/zicer-wiki-context/SKILL.md}"
 
 # Check the wiki is actually readable BEFORE installing anything - a typo in
 # --repo, a wrong branch or a private repo would otherwise install a skill that
