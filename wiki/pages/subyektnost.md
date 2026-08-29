@@ -3,7 +3,7 @@ title: Субъектность
 category: Concepts
 summary: Равенство всех участников образовательного процесса как субъектов отношений вне зависимости от возраста и статуса
 tags: [concept, apelsin, pedagogika]
-sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-10, lnv-v-gostyah-u-zicera-chast-1]
+sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-10, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162]
 created: 2026-08-04
 updated: 2026-08-30
 ---
@@ -22,6 +22,7 @@ updated: 2026-08-30
 - [[konflikty-mezhdu-detmi-i-roditelyami](pages/konflikty-mezhdu-detmi-i-roditelyami.md)] — историческое обоснование того же принципа
 - [[urok-matematiki-v-shkole-apelsin](pages/urok-matematiki-v-shkole-apelsin.md)] — формула границы свободы в действии на конкретном уроке (см. [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)])
 - [[lnv-v-gostyah-u-zicera-chast-1](pages/lnv-v-gostyah-u-zicera-chast-1.md)] — занимает место первого из «пяти факторов неформального образования»
+- [[lnv-vypusk-162](pages/lnv-vypusk-162.md)] — критика ритуала «вставать, отвечая учителю» как маркера иерархии, а не уважения — та же логика, что и асимметрия «вы/ты»
 
 ## Related Concepts
 

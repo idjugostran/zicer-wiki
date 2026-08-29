@@ -3,7 +3,7 @@ title: Взаимный обмен интересами
 category: Concepts
 summary: Отвлечь ребёнка от гаджетов запретом нельзя — работает встречное движение: попроситься в мир ребёнка, затем пригласить его в свой мир как в подарок, а не в обязанность
 tags: [concept, roditelstvo, kurs-12-urokov, gadzhety]
-sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah]
+sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162]
 created: 2026-08-29
 updated: 2026-08-30
 ---
@@ -22,6 +22,7 @@ updated: 2026-08-30
 - [[lnv-vypusk-215](pages/lnv-vypusk-215.md)] — формула лета как «хочу», а не «надо»: искренняя совместная страсть вместо навязанной обязанности
 - [[kurs-12-urokov-urok-10](pages/kurs-12-urokov-urok-10.md)] — Зицер сам ссылается на этот пример, обобщая технику с гаджетов на любую личностную склонность
 - [[nablyudatel-o-podrostkah](pages/nablyudatel-o-podrostkah.md)] — отказ от формального дозирования экранного времени в пользу того же принципа живого примера увлечённости
+- [[lnv-vypusk-162](pages/lnv-vypusk-162.md)] — попроситься в мир 15-летней дочери на 10 минут вместо навязывания своих увлечений
 
 ## Related Concepts
 

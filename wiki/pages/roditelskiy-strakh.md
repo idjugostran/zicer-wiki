@@ -3,7 +3,7 @@ title: Родительский страх
 category: Concepts
 summary: Страх за ребёнка как источник контролирующего поведения — снимается не подавлением, а признанием страха перед собой и ребёнком
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1]
+sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162]
 created: 2026-08-29
 updated: 2026-08-30
 ---
@@ -34,6 +34,7 @@ updated: 2026-08-30
 - [[lnv-vypusk-171](pages/lnv-vypusk-171.md)] — «вы боитесь того, чего ещё не произошло» — тревога о кружке для трёхлетней дочери как реакция на воображаемое будущее, а не на реальность
 - [[lnv-vypusk-214](pages/lnv-vypusk-214.md)] — техника «повернуть тумблер»: сначала любовь и значимость, потом обращение за помощью как акт любви, только затем ожидания
 - [[lnv-v-gostyah-u-zicera-chast-1](pages/lnv-v-gostyah-u-zicera-chast-1.md)] — на примере Гарри Поттера: подготовка к воображаемым будущим трудностям бессмысленна, важнее гибкость и понимание себя
+- [[lnv-vypusk-162](pages/lnv-vypusk-162.md)] — «дети приходят с авансом доверия» — та же логика, что и в отношениях с родителями, применённая к учителю
 
 ## Related Concepts
 
