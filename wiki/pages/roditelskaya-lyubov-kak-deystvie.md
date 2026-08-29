@@ -3,7 +3,7 @@ title: Родительская любовь как действие
 category: Concepts
 summary: Любовь и забота — не эмоция-клише, а список конкретных действий, поддающихся описанию
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-171]
+sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali]
 created: 2026-08-04
 updated: 2026-08-30
 ---
@@ -23,6 +23,7 @@ updated: 2026-08-30
 - [[kurs-12-urokov-urok-7](pages/kurs-12-urokov-urok-7.md)] — та же техника конкретизации применена к выбору школы (см. [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)])
 - [[kurs-12-urokov-urok-9](pages/kurs-12-urokov-urok-9.md)] — та же техника конкретизации применена к «женственности»/«мужественности» (см. [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)])
 - [[lnv-vypusk-171](pages/lnv-vypusk-171.md)] — та же техника письменной конкретизации применена к самостоятельному решению подростка (список плюсов/минусов похода в школу), а не к формуле родительского действия
+- [[u-nego-sdvg-ili-my-ego-razbalovali](pages/u-nego-sdvg-ili-my-ego-razbalovali.md)] — тот же приём применён к самоотчёту ребёнка о собственной мотивации: «мне нравится» нужно перевести в конкретные детали, иначе это станет отговоркой
 
 ## Related Concepts
 

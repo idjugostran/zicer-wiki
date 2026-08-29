@@ -3,7 +3,7 @@ title: Программа «Любить нельзя воспитывать»
 category: Entities
 summary: Авторская программа Димы Зицера, отвечающая на вопросы зрителей о взаимоотношениях между людьми разного возраста
 tags: [entity, programma, dima-zicer]
-sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162]
+sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, u-nego-sdvg-ili-my-ego-razbalovali]
 created: 2026-08-04
 updated: 2026-08-30
 ---
@@ -29,6 +29,7 @@ updated: 2026-08-30
 - [[lnv-vypusk-214](pages/lnv-vypusk-214.md)] — выпуск №214: техника «повернуть тумблер», «поведенческая ловушка»
 - [[lnv-v-gostyah-u-zicera-chast-1](pages/lnv-v-gostyah-u-zicera-chast-1.md)] — домашний спецвыпуск №399: «пять факторов неформального образования»
 - [[lnv-vypusk-162](pages/lnv-vypusk-162.md)] — выпуск №162 на радио «Маяк»: критика ритуала «вставать, отвечая учителю»
+- [[u-nego-sdvg-ili-my-ego-razbalovali](pages/u-nego-sdvg-ili-my-ego-razbalovali.md)] — звонок про 8-летнего сына с СДВГ, бросающего кружки
 
 ## Related Concepts
 
