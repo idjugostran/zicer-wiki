@@ -11,4 +11,5 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-08-29 | N7OHEaCCZ-M | 18:55 | не фиксировалось | Sonnet 5 | high | 98.9k/1M (10%) | 2% (resets 2h47m) | 8% (resets Fri 10:00 PM) | 175.7k/1M (18%) | 4% (resets 2h38m) | 8% (resets Fri 10:00 PM) | полный цикл: ingest в wiki. Δcontext +76.8k (+8%), Δ5h +2% |
 | 2026-08-29 | rLTRZGIhkjw | 25:38 | не фиксировалось | Sonnet 5 | high | 175.7k/1M (18%) | 4% (resets 2h38m) | 8% (resets Fri 10:00 PM) | 239.9k/1M (24%) | 7% (resets 2h29m) | 8% (resets Fri 10:00 PM) | полный цикл: ingest в wiki, 2 новых концепта. Δcontext +64.2k (+6%), Δ5h +3% |
-| 2026-08-29 | MCqSjAjiexA | | старт 16:44 | Sonnet 5 | high | 246.2k/1M (25%) | 8% (resets 2h27m) | 8% (resets Fri 10:00 PM) | | | | |
+| 2026-08-29 | MCqSjAjiexA | 13:57 | 16:44 → 16:47 (~3 мин) | Sonnet 5 | high | 246.2k/1M (25%) | 8% (resets 2h27m) | 8% (resets Fri 10:00 PM) | 283.7k/1M (28%) | 9% (resets 2h22m) | 9% (resets Fri 10:00 PM) | полный цикл: ingest в wiki, 1 новый концепт. Δcontext +37.5k (+3%), Δ5h +1% |
+| 2026-08-29 | zufl8hFO6uA | | старт 16:49 | Sonnet 5 | high | 283.7k/1M (28%) | 9% (resets 2h22m) | 9% (resets Fri 10:00 PM) | | | | |

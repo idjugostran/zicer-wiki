@@ -3,7 +3,7 @@ title: Дима Зицер
 category: Entities
 summary: Педагог, автор канала о воспитании детей и школе «Апельсин»
 tags: [entity, pedagogue]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -29,6 +29,7 @@ updated: 2026-08-29
 - [[kurs-12-urokov-urok-4](pages/kurs-12-urokov-urok-4.md)] — Урок 4 курса: родительский страх как источник контроля
 - [[kurs-12-urokov-urok-5](pages/kurs-12-urokov-urok-5.md)] — Урок 5 курса: возрастные кризисы, выбор через пробы, «дом как тыл»
 - [[kak-razgovarivat-s-detmi-o-sekse](pages/kak-razgovarivat-s-detmi-o-sekse.md)] — выпуск «Психологии на Дожде»: открытый разговор с детьми о сексе
+- [[kak-ponimat-signaly-tela](pages/kak-ponimat-signaly-tela.md)] — более ранний выпуск «Психологии на Дожде»: тело как причина, а не следствие реактивного поведения
 
 ## Related Concepts
 
