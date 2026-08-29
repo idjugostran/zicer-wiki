@@ -3,7 +3,7 @@ title: Модели поведения
 category: Concepts
 summary: Модель поведения — рамка, закрепившаяся через повторение похожих ситуаций; безвредна, пока осознаётся, и опасна, когда становится незаметной «второй натурой», ощущаемой как характер
 tags: [concept, roditelstvo, samoregulyatsiya]
-sources: [otkuda-berutsya-modeli-povedeniya]
+sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet]
 created: 2026-08-29
 updated: 2026-08-29
 ---
@@ -19,6 +19,7 @@ updated: 2026-08-29
 ## Appearances in Sources
 
 - [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] — вводит концепт целиком
+- [[pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet](pages/pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet.md)] — конкретный случай: ребёнок усваивает модель давления от родителей и применяет её к младшей сестре
 
 ## Related Concepts
 
@@ -27,3 +28,4 @@ updated: 2026-08-29
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — частный случай: транзакционная модель отношений, унаследованная из дрессуры
 - [[isterika](pages/isterika.md)] — пример модели («истерика»), закрепляющейся с обеих сторон при повторении бытовой ситуации
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — более поздняя, формализованная версия той же практики осознавания («сканирование тела» вместо вопроса «это я, или не я»)
+- [[znachimost-rebenka-v-seme](pages/znachimost-rebenka-v-seme.md)] — практическое следствие: реальное включение ребёнка в решения разрывает цепочку усвоения деструктивной модели

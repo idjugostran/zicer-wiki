@@ -3,7 +3,7 @@ title: Программа «Любить нельзя воспитывать»
 category: Entities
 summary: Авторская программа Димы Зицера, отвечающая на вопросы зрителей о взаимоотношениях между людьми разного возраста
 tags: [entity, programma, dima-zicer]
-sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom]
+sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -21,6 +21,7 @@ updated: 2026-08-29
 - [[lnv-vypusk-215](pages/lnv-vypusk-215.md)] — выпуск №215: комментарий к резонансному школьному инциденту и восемь звонков
 - [[mozhet-li-rebenok-bullit-mamu](pages/mozhet-li-rebenok-bullit-mamu.md)] — короткий выпуск: сын игнорирует маму, ориентируясь только на папу
 - [[kak-vyzhit-ryadom-s-podrostkom](pages/kak-vyzhit-ryadom-s-podrostkom.md)] — выпуск ЛНВ#334: резкая перемена в характере 14-летней дочери
+- [[pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet](pages/pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet.md)] — выпуск ЛНВ №331: агрессия пятилетнего мальчика к младшей сестре
 
 ## Related Concepts
 
