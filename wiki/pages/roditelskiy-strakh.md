@@ -3,7 +3,7 @@ title: Родительский страх
 category: Concepts
 summary: Страх за ребёнка как источник контролирующего поведения — снимается не подавлением, а признанием страха перед собой и ребёнком
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5]
+sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse]
 created: 2026-08-29
 updated: 2026-08-29
 ---
@@ -22,6 +22,7 @@ updated: 2026-08-29
 - [[apelsinovye-budni](pages/apelsinovye-budni.md)] — конкретный пример того же страха: опасение, что свобода выбора предмета приведёт к отказу от «серьёзных» дисциплин
 - [[konflikty-mezhdu-detmi-i-roditelyami](pages/konflikty-mezhdu-detmi-i-roditelyami.md)] — тот же механизм в форме «страха перед новым» (телевизор, гаджеты) как инстинктивной причины запрета
 - [[kurs-12-urokov-urok-5](pages/kurs-12-urokov-urok-5.md)] — краткая отсылка к тому же страху применительно к переходному возрасту («страшно, какими они будут завтра»)
+- [[kak-razgovarivat-s-detmi-o-sekse](pages/kak-razgovarivat-s-detmi-o-sekse.md)] — тот же механизм на теме секса: неудобство родителя, а не риск для ребёнка, — источник избегания
 
 ## Related Concepts
 
@@ -29,3 +30,4 @@ updated: 2026-08-29
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — «быть рядом», «поддерживать» из общей формулы родительской функции здесь получают конкретный механизм: родитель, признающий свой страх, становится безопасным «адресом»
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — тот же методологический ход: абстрактная эмоция (страх, как и любовь) требует конкретного действия (называние вслух), а не остаётся фоном поведения
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — переходный возраст — период, где родительский страх «каким он станет» звучит особенно остро
+- [[otkrytyi-razgovor-o-sekse](pages/otkrytyi-razgovor-o-sekse.md)] — конкретизация того же механизма на теме секса: замалчивание из-за неудобства взрослого, а не заботы о ребёнке
