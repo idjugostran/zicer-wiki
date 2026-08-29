@@ -3,7 +3,7 @@ title: Метод поощрения и наказания
 category: Concepts
 summary: Заимствованный из дрессуры животных метод — Зицер считает его неприменимым к людям и подменяющим настоящие отношения
 tags: [concept, roditelstvo, pedagogika]
-sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253]
+sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -28,3 +28,4 @@ updated: 2026-08-29
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — смежная тема (как говорить об отношениях без клише), другой фокус
 - [[subyektnost](pages/subyektnost.md)] — положительная альтернатива: равенство сторон вместо транзакции/оценки
 - [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — смежный концепт: механизм зависимости, стоящий за оценкой
+- [[modeli-povedeniya](pages/modeli-povedeniya.md)] — общая рамка: метод поощрения/наказания как частный случай унаследованной транзакционной модели

@@ -3,7 +3,7 @@ title: Телесная реакция предшествует поступку
 category: Concepts
 summary: Реактивные действия (крик, удар) вызываются телесным сигналом (сжатые кулаки, сухость во рту), возникающим за секунды до поступка, а не осознанным решением
 tags: [concept, samoregulyatsiya, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-ponimat-signaly-tela, lnv-vypusk-253, lnv-vypusk-215, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8]
+sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-ponimat-signaly-tela, lnv-vypusk-253, lnv-vypusk-215, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -31,6 +31,7 @@ updated: 2026-08-29
 - [[lnv-vypusk-215](pages/lnv-vypusk-215.md)] — тот же тезис (модели поведения усваиваются от взрослых, а не изобретаются) применён к резонансному школьному инциденту
 - [[svoboda-ot-vospitaniya-tedx](pages/svoboda-ot-vospitaniya-tedx.md)] — TEDx-лекция почти дословно повторяет два кейса из [[kak-ponimat-signaly-tela](pages/kak-ponimat-signaly-tela.md)] — независимое подтверждение тезиса на публичном выступлении
 - [[kurs-12-urokov-urok-8](pages/kurs-12-urokov-urok-8.md)] — та же техника (вдох, сканирование тела) применена к разговору на «сложные темы», а не к реактивному поступку
+- [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] — более ранняя, менее формализованная версия той же практики осознавания («это я, или не я» вместо «сканирования тела»)
 
 ## Related Concepts
 

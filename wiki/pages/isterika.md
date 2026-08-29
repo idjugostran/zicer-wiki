@@ -3,7 +3,7 @@ title: Истерика (детская и взрослая)
 category: Concepts
 summary: Реактивное неконтролируемое состояние — по Зицеру, не специфичное для детей, а общечеловеческое
 tags: [concept, emotional-regulation]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-3, lnv-vypusk-215]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-3, lnv-vypusk-215, otkuda-berutsya-modeli-povedeniya]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -19,6 +19,7 @@ updated: 2026-08-29
 - [[tak-nazyvaemye-detskie-isteriki](pages/tak-nazyvaemye-detskie-isteriki.md)] — вводит концепт целиком: природа, повод, три вида помощи в моменте, правило «причины — отдельно»
 - [[kurs-12-urokov-urok-3](pages/kurs-12-urokov-urok-3.md)] — телесный механизм того же явления у взрослого/родителя
 - [[lnv-vypusk-215](pages/lnv-vypusk-215.md)] — комментарий к резонансному школьному инциденту: ребёнок усваивает крайние модели поведения от взрослых, а не изобретает их сам
+- [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] — ритуал укладывания спать как пример модели, закрепляющейся с обеих сторон при повторении
 
 ## Related Concepts
 
