@@ -1,8 +1,8 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas]
-updated: 2026-08-29
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey]
+updated: 2026-08-30
 ---
 
 # Дима Зицер — педагогика, воспитание детей, конфликты в семье, школа «Апельсин» — Overview
@@ -71,10 +71,12 @@ updated: 2026-08-29
 
 Собрав второй батч подборки (источники 25–30, 10 коротких популярных видео), можно отметить: все шесть новых источников либо расширили существующие концепты новыми конкретными деталями и техниками ([[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)], [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)]), либо ввели новые диагностические рамки того же типа, что и раньше — механизм, скрывающийся за поведением взрослого или ребёнка, который выглядит иначе на поверхности ([[modeli-povedeniya](pages/modeli-povedeniya.md)], [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)]). Ни один источник батча не потребовал разрешения противоречий — подборка остаётся внутренне согласованной.
 
+Тридцать первый источник открывает новый батч (второй набор из 10 видео, на этот раз без фильтра по длительности — топ-10 по популярности среди необработанных): развёрнутый, нетипично длинный выпуск ЛНВ про маму, застрявшую в цикле «разрешить/запретить» с 13-летним сыном. Даёт [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] конкретную практическую границу — инструмент контроля перестаёт работать примерно в 7–10 лет — и третий раз независимо подтверждает диагностику «мы орём/срываемся, потому что можем» ([[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)], [[davat-sdachi](pages/davat-sdachi.md)]). Новый концепт [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — двухшаговая техника (заранее подготовленный список из 10 личных удовольствий как замена вмешательству, затем сценарий примирения, начинающийся с признания собственной трудности) — родственна [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)], но развёрнута в многодневную практику, а не мгновенную технику.
+
 ## Open Questions
 
 - Курс «12 уроков» в этой подборке покрыт без пропусков с Урока 1 по Урок 10 (из 12) — добирать ли оставшиеся Уроки 11–12?
-- Подборка расширена за пределы исходного топ-10 (30 источников обработано, включая второй батч из 10 коротких видео) — продолжать ли добирать уроки курса по порядку, или ориентироваться по общему рейтингу просмотров канала?
+- Подборка расширена за пределы исходного топ-10 (31 источник обработано, второй батч из 10 видео без фильтра по длительности начат) — продолжать ли добирать уроки курса по порядку, или ориентироваться по общему рейтингу просмотров канала?
 - Пример «мать ударила ребёнка за пролитый на документы сок» встречается дважды (Урок 3 и источник 14) с разным возрастом ребёнка (2 vs 3 года) — вероятно, один реальный случай, но стоит иметь в виду при дальнейшей обработке источников: если разница окажется системной (а не просто неточностью пересказа), это может означать два разных случая, а не один.
 - Аудиокнига VKXL6F0hXqA (~7 часов) остаётся необработанной по выбору пользователя — если к ней вернутся, потребуется отдельное решение о формате (см. выше).
 
@@ -109,3 +111,4 @@ updated: 2026-08-29
 - [[lichnost-a-ne-povedenie](pages/lichnost-a-ne-povedenie.md)] — конкретное поведение против личностного содержания; «не разрушить», а не «вырастить» личность
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — унижение как следствие функциональной, а не партнёрской рамки отношений с ребёнком
 - [[ekzistentsialnyi-vopros-perehodnogo-vozrasta](pages/ekzistentsialnyi-vopros-perehodnogo-vozrasta.md)] — «зачем я живу» как типичный, а не кризисный вопрос переходного возраста
+- [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — заранее подготовленный список из 10 личных удовольствий вместо вмешательства; примирение только после недели практики

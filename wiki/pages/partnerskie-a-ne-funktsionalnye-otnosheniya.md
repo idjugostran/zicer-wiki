@@ -3,9 +3,9 @@ title: Партнёрские, а не функциональные отноше
 category: Concepts
 summary: Унижение возникает, когда родитель относится к ребёнку как к обязанности («функции»), а не как к человеку — в партнёрских отношениях любое отклонение переносимо, в функциональных — угрожает самоощущению взрослого
 tags: [concept, roditelstvo, unizhenie]
-sources: [pochemu-vzroslye-unizhayut-detey]
+sources: [pochemu-vzroslye-unizhayut-detey, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-08-30
 ---
 
 # Партнёрские, а не функциональные отношения
@@ -19,6 +19,7 @@ updated: 2026-08-29
 ## Appearances in Sources
 
 - [[pochemu-vzroslye-unizhayut-detey](pages/pochemu-vzroslye-unizhayut-detey.md)] — вводит концепт целиком, на примере дочери, вернувшейся позже условленного
+- [[kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey](pages/kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey.md)] — независимое повторение тезиса «мы орём, потому что можем»
 
 ## Related Concepts
 
@@ -27,3 +28,4 @@ updated: 2026-08-29
 - [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)] — историческая рамка, из которой выросло само по себе представление о ребёнке как о «функции», а не о равном человеке
 - [[subyektnost](pages/subyektnost.md)] — партнёрская рамка требует признания за ребёнком равной субъектности, а не только объекта функции
 - [[davat-sdachi](pages/davat-sdachi.md)] — тот же принцип «можно, потому что не ответит» с обратной стороны: взрослый позволяет себе агрессию именно потому, что ребёнок не может дать сдачи
+- [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — практический ответ на тот же механизм «орём, потому что можем»: заменить разрешённую агрессию на заранее подготовленное действие для себя

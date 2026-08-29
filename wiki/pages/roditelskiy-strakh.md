@@ -3,9 +3,9 @@ title: Родительский страх
 category: Concepts
 summary: Страх за ребёнка как источник контролирующего поведения — снимается не подавлением, а признанием страха перед собой и ребёнком
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, mama-prochla-dnevnik-docheri-i-uzhasnulas]
+sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-08-30
 ---
 
 # Родительский страх
@@ -29,6 +29,7 @@ updated: 2026-08-29
 - [[kurs-12-urokov-urok-9](pages/kurs-12-urokov-urok-9.md)] — тот же механизм на теме гендерных моделей воспитания: жёсткие требования «усиливаются» из страха/стереотипов, а не заботы о ребёнке
 - [[pochemu-vzroslye-unizhayut-detey](pages/pochemu-vzroslye-unizhayut-detey.md)] — смежный, но отдельный механизм унижения: угроза не страху за ребёнка, а самоощущению взрослого, слитому с «функцией»
 - [[mama-prochla-dnevnik-docheri-i-uzhasnulas](pages/mama-prochla-dnevnik-docheri-i-uzhasnulas.md)] — та же техника «говорить о себе» применена не к признанию страха, а к прямой просьбе о близости («ты мне нужна»)
+- [[kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey](pages/kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey.md)] — та же техника в сценарии примирения: мама первой признаёт собственную трудность, а не требует от сына соответствия
 
 ## Related Concepts
 
@@ -45,3 +46,4 @@ updated: 2026-08-29
 - [[kurs-12-urokov-urok-10](pages/kurs-12-urokov-urok-10.md)] — новый конкретный случай: страх «он мне на шею сядет» разбирается через личностный подход к желаниям всех членов семьи
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — смежный механизм унижения через «функциональную» рамку отношений, отличный от страха за ребёнка
 - [[ekzistentsialnyi-vopros-perehodnogo-vozrasta](pages/ekzistentsialnyi-vopros-perehodnogo-vozrasta.md)] — техника «говорить о себе» применена к теме, которую сам страх взрослого чаще всего мешает открыть
+- [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — примирение начинается с того же приёма: признать собственную трудность вслух, а не потребовать от ребёнка соответствия

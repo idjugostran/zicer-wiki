@@ -3,9 +3,9 @@ title: Телесная реакция предшествует поступку
 category: Concepts
 summary: Реактивные действия (крик, удар) вызываются телесным сигналом (сжатые кулаки, сухость во рту), возникающим за секунды до поступка, а не осознанным решением
 tags: [concept, samoregulyatsiya, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-ponimat-signaly-tela, lnv-vypusk-253, lnv-vypusk-215, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, chto-delat-esli-ya-sryvayus-na-svoego-rebenka]
+sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-ponimat-signaly-tela, lnv-vypusk-253, lnv-vypusk-215, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey]
 created: 2026-08-04
-updated: 2026-08-29
+updated: 2026-08-30
 ---
 
 # Телесная реакция предшествует поступку
@@ -35,6 +35,7 @@ updated: 2026-08-29
 - [[kurs-12-urokov-urok-8](pages/kurs-12-urokov-urok-8.md)] — та же техника (вдох, сканирование тела) применена к разговору на «сложные темы», а не к реактивному поступку
 - [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] — более ранняя, менее формализованная версия той же практики осознавания («это я, или не я» вместо «сканирования тела»)
 - [[chto-delat-esli-ya-sryvayus-na-svoego-rebenka](pages/chto-delat-esli-ya-sryvayus-na-svoego-rebenka.md)] — самый детализированный набор инструментов: напоминание «дыши», «расслабь лицо», новый термин «код доступа к ситуации»
+- [[kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey](pages/kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey.md)] — тот же принцип («физическое действие меняет мысли») развёрнут в многодневную практику вместо мгновенной техники
 
 ## Related Concepts
 
