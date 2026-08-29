@@ -30,3 +30,4 @@ updated: 2026-08-29
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — тот же методологический ход (абстрактная эмоция → конкретное действие), применённый к страху вместо любви, из Урока 4
 - [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)] — тот же ход, применённый к выбору школы из Урока 7
 - [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] — тот же ход, применённый к гендерным моделям из Урока 9
+- [[otkaz-ot-nelzya](pages/otkaz-ot-nelzya.md)] — тот же ход: абстрактное правило проверяется прямым вопросом, а не принимается на веру

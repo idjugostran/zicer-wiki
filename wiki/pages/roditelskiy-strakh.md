@@ -38,3 +38,4 @@ updated: 2026-08-29
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — практическая альтернатива запрету из страха на теме гаджетов: искреннее любопытство вместо избегания
 - [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] — конкретизация того же механизма на теме гендерных моделей воспитания
 - [[zashchita-blizkogo-cheloveka](pages/zashchita-blizkogo-cheloveka.md)] — та же техника «говорить о себе» от первого лица, но направленная не внутрь (признание страха), а вовне — в защиту другого близкого человека
+- [[otkaz-ot-nelzya](pages/otkaz-ot-nelzya.md)] — смежный механизм: запрет чаще защищает спокойствие взрослого, чем реально снижает риск для ребёнка
