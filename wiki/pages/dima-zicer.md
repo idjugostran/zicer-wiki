@@ -3,7 +3,7 @@ title: Дима Зицер
 category: Entities
 summary: Педагог, автор канала о воспитании детей и школе «Апельсин»
 tags: [entity, pedagogue]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -30,6 +30,7 @@ updated: 2026-08-29
 - [[kurs-12-urokov-urok-5](pages/kurs-12-urokov-urok-5.md)] — Урок 5 курса: возрастные кризисы, выбор через пробы, «дом как тыл»
 - [[kak-razgovarivat-s-detmi-o-sekse](pages/kak-razgovarivat-s-detmi-o-sekse.md)] — выпуск «Психологии на Дожде»: открытый разговор с детьми о сексе
 - [[kak-ponimat-signaly-tela](pages/kak-ponimat-signaly-tela.md)] — более ранний выпуск «Психологии на Дожде»: тело как причина, а не следствие реактивного поведения
+- [[kurs-12-urokov-urok-6](pages/kurs-12-urokov-urok-6.md)] — Урок 6 курса: гаджеты, родительский страх перед ними, техника взаимного обмена интересами
 
 ## Related Concepts
 
@@ -51,3 +52,4 @@ updated: 2026-08-29
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — центральный концепт Урока 5
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — концепт из Урока 5
 - [[otkrytyi-razgovor-o-sekse](pages/otkrytyi-razgovor-o-sekse.md)] — центральный концепт выпуска про секс
+- [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — центральная техника Урока 6
