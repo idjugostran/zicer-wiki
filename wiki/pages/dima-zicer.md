@@ -3,9 +3,9 @@ title: Дима Зицер
 category: Entities
 summary: Педагог, автор канала о воспитании детей и школе «Апельсин»
 tags: [entity, pedagogue]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4]
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-29
 ---
 
 # Дима Зицер
@@ -26,6 +26,7 @@ updated: 2026-08-04
 - [[konflikty-mezhdu-detmi-i-roditelyami](pages/konflikty-mezhdu-detmi-i-roditelyami.md)] — эфир радио «Маяк» о конфликтах между детьми и родителями
 - [[sravnenie-100-shagov-v-ad](pages/sravnenie-100-shagov-v-ad.md)] — открытый урок школы «Большая медведица» о сравнении и оценке
 - [[o-manipulyatsiyah-i-dogovorah](pages/o-manipulyatsiyah-i-dogovorah.md)] — видео о манипуляции как мягкой форме насилия и псевдо-«договорах»
+- [[kurs-12-urokov-urok-4](pages/kurs-12-urokov-urok-4.md)] — Урок 4 курса: родительский страх как источник контроля
 
 ## Related Concepts
 
@@ -43,3 +44,4 @@ updated: 2026-08-04
 - [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)] — его историческая рамка неравенства детей и взрослых
 - [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — критикуемый им механизм сравнения/оценки
 - [[manipulyatsiya](pages/manipulyatsiya.md)] — критикуемая им мягкая форма насилия
+- [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — центральный концепт Урока 4

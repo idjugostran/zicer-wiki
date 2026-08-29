@@ -5,7 +5,7 @@ summary: Формулировка Зицера — защита, помощь, �
 tags: [concept, parenting]
 sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami]
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-29
 ---
 
 # Родительская функция
@@ -30,3 +30,4 @@ updated: 2026-08-04
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — методический приём конкретизации из Урока 1
 - [[davat-sdachi](pages/davat-sdachi.md)] — различие «жалоба vs. просьба о помощи» конкретизирует смысл «помощи» в этой формуле
 - [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)] — историческая рамка, обосновывающая эту функцию
+- [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — конкретный механизм, которым родитель реализует «быть рядом» и «поддерживать»: признание своего страха вместо контроля над ребёнком

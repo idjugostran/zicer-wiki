@@ -3,9 +3,9 @@ title: Телесная реакция предшествует поступку
 category: Concepts
 summary: Реактивные действия (крик, удар) вызываются телесным сигналом (сжатые кулаки, сухость во рту), возникающим за секунды до поступка, а не осознанным решением
 tags: [concept, samoregulyatsiya, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah]
+sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4]
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-29
 ---
 
 # Телесная реакция предшествует поступку
@@ -22,7 +22,9 @@ updated: 2026-08-04
 - [[konflikty-mezhdu-detmi-i-roditelyami](pages/konflikty-mezhdu-detmi-i-roditelyami.md)] — техника напрямую применена в живом звонке (Настя, 15 лет, конфликт с сестрой)
 - [[sravnenie-100-shagov-v-ad](pages/sravnenie-100-shagov-v-ad.md)] — та же техника рекомендована для изменения привычки сравнивать, со ссылкой на статьи Зицера
 - [[o-manipulyatsiyah-i-dogovorah](pages/o-manipulyatsiyah-i-dogovorah.md)] — та же техника (вдох, вода) как первый шаг против манипулятивного позыва
+- [[kurs-12-urokov-urok-4](pages/kurs-12-urokov-urok-4.md)] — тот же телесный сигнал («тело сжимается») прослеживается до источника — родительского страха
 
 ## Related Concepts
 
 - [[isterika](pages/isterika.md)] — тот же механизм реактивного состояния, здесь применённый к взрослому/родителю, а не к ребёнку
+- [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — источник телесной реакции в Уроке 4: страх, а не реакция вообще
