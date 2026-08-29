@@ -3,7 +3,7 @@ title: Дима Зицер
 category: Entities
 summary: Педагог, автор канала о воспитании детей и школе «Апельсин»
 tags: [entity, pedagogue]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -36,6 +36,7 @@ updated: 2026-08-29
 - [[kurs-12-urokov-urok-9](pages/kurs-12-urokov-urok-9.md)] — Урок 9 курса: гендерные модели воспитания
 - [[lnv-vypusk-253](pages/lnv-vypusk-253.md)] — выпуск «Любить нельзя воспитывать» №253: десять звонков в эфир
 - [[lnv-vypusk-215](pages/lnv-vypusk-215.md)] — выпуск «Любить нельзя воспитывать» №215: комментарий к школьному инциденту и восемь звонков
+- [[mozhet-li-rebenok-bullit-mamu](pages/mozhet-li-rebenok-bullit-mamu.md)] — короткий выпуск про игнорирование мамы шестилетним сыном
 
 ## Related Concepts
 
@@ -60,4 +61,5 @@ updated: 2026-08-29
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — центральная техника Урока 6
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — центральный концепт разбора урока математики
 - [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)] — центральный концепт Урока 7
+- [[zashchita-blizkogo-cheloveka](pages/zashchita-blizkogo-cheloveka.md)] — центральный концепт выпуска про игнорирование мамы
 - [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] — центральный концепт Урока 9

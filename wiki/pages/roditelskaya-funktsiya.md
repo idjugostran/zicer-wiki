@@ -3,7 +3,7 @@ title: Родительская функция
 category: Concepts
 summary: Формулировка Зицера — защита, помощь, присутствие, поддержка
 tags: [concept, parenting]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -26,6 +26,7 @@ updated: 2026-08-29
 - [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] — методологическое уточнение: формулировки нужно раскладывать на конкретные действия
 - [[konflikty-mezhdu-detmi-i-roditelyami](pages/konflikty-mezhdu-detmi-i-roditelyami.md)] — дом как безопасный «тыл», быть на стороне ребёнка даже когда он не прав
 - [[kurs-12-urokov-urok-5](pages/kurs-12-urokov-urok-5.md)] — разворачивает «тыл» применительно к подростковому возрасту, добавляет рекомендацию про личное хобби родителя
+- [[mozhet-li-rebenok-bullit-mamu](pages/mozhet-li-rebenok-bullit-mamu.md)] — «защита» развёрнута в новую сторону: один родитель защищает другого от ребёнка (см. [[zashchita-blizkogo-cheloveka](pages/zashchita-blizkogo-cheloveka.md)])
 
 ## Related Concepts
 
@@ -35,3 +36,4 @@ updated: 2026-08-29
 - [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)] — историческая рамка, обосновывающая эту функцию
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — конкретный механизм, которым родитель реализует «быть рядом» и «поддерживать»: признание своего страха вместо контроля над ребёнком
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — возрастная рамка, в которой формула «тыла» получает наибольшее значение (переходный возраст)
+- [[zashchita-blizkogo-cheloveka](pages/zashchita-blizkogo-cheloveka.md)] — «защита» применительно к другому родителю, а не только к ребёнку

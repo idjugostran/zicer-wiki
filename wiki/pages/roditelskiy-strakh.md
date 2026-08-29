@@ -37,3 +37,4 @@ updated: 2026-08-29
 - [[otkrytyi-razgovor-o-sekse](pages/otkrytyi-razgovor-o-sekse.md)] — конкретизация того же механизма на теме секса: замалчивание из-за неудобства взрослого, а не заботы о ребёнке
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — практическая альтернатива запрету из страха на теме гаджетов: искреннее любопытство вместо избегания
 - [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] — конкретизация того же механизма на теме гендерных моделей воспитания
+- [[zashchita-blizkogo-cheloveka](pages/zashchita-blizkogo-cheloveka.md)] — та же техника «говорить о себе» от первого лица, но направленная не внутрь (признание страха), а вовне — в защиту другого близкого человека
