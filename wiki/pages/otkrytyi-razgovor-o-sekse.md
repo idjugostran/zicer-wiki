@@ -3,7 +3,7 @@ title: Открытый разговор с детьми о сексе
 category: Concepts
 summary: Секс — обычная интересная тема для ребёнка, а не опасная; неловкость при разговоре о ней — унаследованная взрослыми модель, а не реакция на реальный риск
 tags: [concept, seks, roditelstvo]
-sources: [kak-razgovarivat-s-detmi-o-sekse]
+sources: [kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-8]
 created: 2026-08-29
 updated: 2026-08-29
 ---
@@ -19,8 +19,10 @@ updated: 2026-08-29
 ## Appearances in Sources
 
 - [[kak-razgovarivat-s-detmi-o-sekse](pages/kak-razgovarivat-s-detmi-o-sekse.md)] — вводит концепт целиком
+- [[kurs-12-urokov-urok-8](pages/kurs-12-urokov-urok-8.md)] — обобщает этот же случай на весь класс «сложных тем» (секс, смерть, дурные привычки), почти дословно повторяя цитату Руссо и довод про лексику
 
 ## Related Concepts
 
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — тот же механизм: источник «опасности» — неудобство самого взрослого, а не риск для ребёнка; замалчивание не защищает, а лишь исключает родителя из разговора
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — тот же методологический ход: неудобную тему нужно перевести в конкретные слова и действия, а не оставлять фоновым дискомфортом
+- [[tak-nazyvaemye-slozhnye-temy](pages/tak-nazyvaemye-slozhnye-temy.md)] — обобщение того же тезиса на весь класс «сложных тем»

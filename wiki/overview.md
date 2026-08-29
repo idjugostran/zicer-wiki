@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, svoboda-ot-vospitaniya-tedx]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8]
 updated: 2026-08-29
 ---
 
@@ -55,10 +55,12 @@ updated: 2026-08-29
 
 Двадцать третий источник (TEDx-лекция «Freedom from Education») почти дословно повторяет два кейса из [[kak-ponimat-signaly-tela](pages/kak-ponimat-signaly-tela.md)] (тролейбус/скульптор, агрессивный второклассник) — третье по счёту подтверждение [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] независимым выступлением того же периода. Новый концепт [[otkaz-ot-nelzya](pages/otkaz-ot-nelzya.md)] вводит рамку, которой не хватало подборке: явное разделение запретов на реальные опасности (устранять физически) и произвольные привычки (проверять прямым вопросом) — и наблюдение, что отказ от произвольного «нельзя» освобождает не только ребёнка, но и самого родителя.
 
+Двадцать четвёртый источник (Урок 8 курса, ранее пропущенный по рейтингу просмотров) закрывает разрыв в последовательности — теперь обработаны Уроки 1–9 без пропусков. Новый концепт [[tak-nazyvaemye-slozhnye-temy](pages/tak-nazyvaemye-slozhnye-temy.md)] обобщает [[otkrytyi-razgovor-o-sekse](pages/otkrytyi-razgovor-o-sekse.md)] с одной темы (секс) на весь класс тем, которые «сложными» делает не содержание, а телесный дискомфорт родителя, — почти дословно повторяя ту же цитату Руссо и довод про лексику из более раннего источника.
+
 ## Open Questions
 
-- Курс «12 уроков» в этой подборке доходит до Урока 9, пропуская Урок 8 (48 000 просмотров — ниже порога отбора по популярности) — стоит ли вернуться и добрать Урок 8 для полноты последовательности?
-- Подборка расширена за пределы исходного топ-10 (23 источника обработано) — продолжать ли добирать уроки курса по порядку, или ориентироваться по общему рейтингу просмотров канала?
+- Курс «12 уроков» в этой подборке теперь покрыт без пропусков с Урока 1 по Урок 9 (из 12) — добирать ли оставшиеся Уроки 10–12?
+- Подборка расширена за пределы исходного топ-10 (24 источника обработано) — продолжать ли добирать уроки курса по порядку, или ориентироваться по общему рейтингу просмотров канала?
 - Пример «мать ударила ребёнка за пролитый на документы сок» встречается дважды (Урок 3 и источник 14) с разным возрастом ребёнка (2 vs 3 года) — вероятно, один реальный случай, но стоит иметь в виду при дальнейшей обработке источников: если разница окажется системной (а не просто неточностью пересказа), это может означать два разных случая, а не один.
 - Аудиокнига VKXL6F0hXqA (~7 часов) остаётся необработанной по выбору пользователя — если к ней вернутся, потребуется отдельное решение о формате (см. выше).
 
@@ -87,3 +89,4 @@ updated: 2026-08-29
 - [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] — жёсткие гендерные модели воспитания вредят обоим полам одинаково
 - [[zashchita-blizkogo-cheloveka](pages/zashchita-blizkogo-cheloveka.md)] — родитель, к которому прислушивается ребёнок, должен защитить другого родителя
 - [[otkaz-ot-nelzya](pages/otkaz-ot-nelzya.md)] — реальные опасности устранять физически, произвольные запреты проверять прямым вопросом
+- [[tak-nazyvaemye-slozhnye-temy](pages/tak-nazyvaemye-slozhnye-temy.md)] — секс, смерть, дурные привычки — не сложны сами по себе, сложность создаёт родитель

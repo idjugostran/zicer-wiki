@@ -3,7 +3,7 @@ title: Курс «Двенадцать уроков для продвинуты�
 category: Entities
 summary: Бесплатный еженедельный курс Димы Зицера из 12 уроков с обязательными домашними заданиями
 tags: [entity, course, dima-zicer]
-sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-3, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kurs-12-urokov-urok-6, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9]
+sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-3, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kurs-12-urokov-urok-6, kurs-12-urokov-urok-7, kurs-12-urokov-urok-8, kurs-12-urokov-urok-9]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -23,6 +23,7 @@ updated: 2026-08-29
 - [[kurs-12-urokov-urok-5](pages/kurs-12-urokov-urok-5.md)] — Урок 5: возрастные кризисы (3 года, 7 лет, переходный возраст), выбор через пробы, «дом как тыл» для подростка
 - [[kurs-12-urokov-urok-6](pages/kurs-12-urokov-urok-6.md)] — Урок 6: гаджеты, родительский страх перед ними, техника взаимного обмена интересами
 - [[kurs-12-urokov-urok-7](pages/kurs-12-urokov-urok-7.md)] — Урок 7: выбор школы, родитель как заказчик образования
+- [[kurs-12-urokov-urok-8](pages/kurs-12-urokov-urok-8.md)] — Урок 8: так называемые «сложные темы» (секс, смерть, дурные привычки)
 - [[kurs-12-urokov-urok-9](pages/kurs-12-urokov-urok-9.md)] — Урок 9: гендерные модели воспитания, личность важнее «мальчиковости»/«девочковости»
 
 ## Related Concepts
@@ -37,3 +38,4 @@ updated: 2026-08-29
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — концепт из Урока 6 про гаджеты и обмен интересами
 - [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)] — концепт из Урока 7 про выбор школы
 - [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] — концепт из Урока 9 про гендерные модели воспитания
+- [[tak-nazyvaemye-slozhnye-temy](pages/tak-nazyvaemye-slozhnye-temy.md)] — концепт из Урока 8 про «сложные темы»
