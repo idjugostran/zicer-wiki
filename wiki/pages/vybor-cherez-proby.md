@@ -3,9 +3,9 @@ title: Выбор через пробы
 category: Concepts
 summary: Смена детских увлечений — не каприз, а нормальный механизм выбора через пробу; принуждение «доводить до конца» учит подчинению, а не решительности
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-5]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-171]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-08-30
 ---
 
 # Выбор через пробы
@@ -19,6 +19,7 @@ updated: 2026-08-29
 ## Appearances in Sources
 
 - [[kurs-12-urokov-urok-5](pages/kurs-12-urokov-urok-5.md)] — вводит концепт на примере смены увлечения «пение → рисование»
+- [[lnv-vypusk-171](pages/lnv-vypusk-171.md)] — совет не выбирать кружок на годы вперёд, а наблюдать за уже проявленным интересом ребёнка; «человек имеет право быть счастливым» — как обоснование права на смену решения
 
 ## Related Concepts
 

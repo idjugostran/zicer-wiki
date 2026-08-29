@@ -3,7 +3,7 @@ title: «Давать сдачи»
 category: Concepts
 summary: Критика совета учить детей отвечать на агрессию физической силой — приравнивается к обучению «языку зоны»
 tags: [concept, konflikty, nasilie]
-sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey]
+sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171]
 created: 2026-08-04
 updated: 2026-08-30
 ---
@@ -23,6 +23,7 @@ updated: 2026-08-30
 - [[nuzhno-li-uchit-detey-davat-sdachi](pages/nuzhno-li-uchit-detey-davat-sdachi.md)] — вводит концепт целиком, на примере реального звонка в эфир
 - [[lnv-vypusk-253](pages/lnv-vypusk-253.md)] — независимый повторный случай: совет «давать сдачи» брату отклонён по той же логике
 - [[chto-delat-esli-ya-sryvayus-na-svoego-rebenka](pages/chto-delat-esli-ya-sryvayus-na-svoego-rebenka.md)] — обратная сторона того же механизма: мама признаёт, что бьёт сына именно потому, что он (пока) не может дать сдачи
+- [[lnv-vypusk-171](pages/lnv-vypusk-171.md)] — почти дословное повторение критики совета «давать сдачи» на новом звонке
 - [[kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey](pages/kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey.md)] — третье независимое подтверждение того же тезиса: «мы орём, потому что можем», а не потому, что не можем сдержаться
 
 ## Related Concepts
