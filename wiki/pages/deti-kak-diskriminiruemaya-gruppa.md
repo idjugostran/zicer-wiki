@@ -5,7 +5,7 @@ summary: Историческая рамка Зицера — неравенст
 tags: [concept, subyektnost, roditelstvo]
 sources: [konflikty-mezhdu-detmi-i-roditelyami]
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-29
 ---
 
 # Дети как «последняя дискриминируемая группа»
@@ -24,3 +24,4 @@ updated: 2026-08-04
 
 - [[subyektnost](pages/subyektnost.md)] — та же логика равенства сторон, здесь обоснованная историческим/межпоколенческим сравнением
 - [[davat-sdachi](pages/davat-sdachi.md)] — метафора «надсмотрщик и заключённый» перекликается с «ментальностью зоны»
+- [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] — та же риторическая рамка (неравенство как унаследованная модель без альтернативных путей), применённая к полу, а не возрасту

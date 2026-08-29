@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9]
 updated: 2026-08-29
 ---
 
@@ -43,11 +43,14 @@ updated: 2026-08-29
 
 Семнадцатый источник (Урок 7 курса) переносит методологический ход Урока 1 — конкретный список вместо абстрактного желания — на выбор школы. Новый концепт [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)] переопределяет родителя как заказчика образовательной услуги, а не пассивного получателя «системы»; аналогия с рестораном без заказа посетителей и обувной мастерской без чёткого запроса делает абстрактный тезис проверяемым. Вопрос «зачем домашнее задание» из [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] (источник 16) почти дословно повторяется здесь — независимое подтверждение одной и той же позиции Зицера с двух разных источников, снятых в разное время и в разных форматах.
 
+Восемнадцатый источник (Урок 9 курса, «Девочки и мальчики — они такие разные») переносит формулу [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] на пятую по счёту конкретную область — гендерные модели воспитания. Новый концепт [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] почти дословно повторяет ключевую формулу источника 15: жёсткие требования «усиливаются» родителями «из собственного страха или собственных стереотипов», а не из заботы о ребёнке — на этот раз применительно к «мужскому»/«женскому» воспитанию, а не к гаджетам. Аудиокнига «Любить нельзя воспитывать» (~7 часов, целая книга Зицера) была пропущена по решению пользователя — качественно другой по масштабу источник, требующий отдельного решения о формате обработки (одна большая страница vs. разбивка по главам), если к ней вернутся позже.
+
 ## Open Questions
 
-- Курс «12 уроков» в этой подборке доходит до Урока 7 (по просмотрам в топ-30 вошли первые семь из 12) — сохраняется ли та же структура в оставшихся 5 уроках?
-- Подборка расширена за пределы исходного топ-10 (17 источников обработано) — продолжать ли добирать уроки курса по порядку, или ориентироваться по общему рейтингу просмотров канала?
+- Курс «12 уроков» в этой подборке доходит до Урока 9, пропуская Урок 8 (48 000 просмотров — ниже порога отбора по популярности) — стоит ли вернуться и добрать Урок 8 для полноты последовательности?
+- Подборка расширена за пределы исходного топ-10 (18 источников обработано) — продолжать ли добирать уроки курса по порядку, или ориентироваться по общему рейтингу просмотров канала?
 - Пример «мать ударила ребёнка за пролитый на документы сок» встречается дважды (Урок 3 и источник 14) с разным возрастом ребёнка (2 vs 3 года) — вероятно, один реальный случай, но стоит иметь в виду при дальнейшей обработке источников: если разница окажется системной (а не просто неточностью пересказа), это может означать два разных случая, а не один.
+- Аудиокнига VKXL6F0hXqA (~7 часов) остаётся необработанной по выбору пользователя — если к ней вернутся, потребуется отдельное решение о формате (см. выше).
 
 ## Key Entities / Concepts
 
@@ -71,3 +74,4 @@ updated: 2026-08-29
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — попроситься в мир ребёнка, затем пригласить его в свой — альтернатива запрету на гаджеты
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — жёсткие структурные рамки урока без единого поведенческого стандарта
 - [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)] — родитель как заказчик образования, а не пассивный получатель системы
+- [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] — жёсткие гендерные модели воспитания вредят обоим полам одинаково

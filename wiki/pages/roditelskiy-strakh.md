@@ -3,7 +3,7 @@ title: Родительский страх
 category: Concepts
 summary: Страх за ребёнка как источник контролирующего поведения — снимается не подавлением, а признанием страха перед собой и ребёнком
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6]
+sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9]
 created: 2026-08-29
 updated: 2026-08-29
 ---
@@ -26,6 +26,7 @@ updated: 2026-08-29
 - [[kurs-12-urokov-urok-5](pages/kurs-12-urokov-urok-5.md)] — краткая отсылка к тому же страху применительно к переходному возрасту («страшно, какими они будут завтра»)
 - [[kak-razgovarivat-s-detmi-o-sekse](pages/kak-razgovarivat-s-detmi-o-sekse.md)] — тот же механизм на теме секса: неудобство родителя, а не риск для ребёнка, — источник избегания
 - [[kurs-12-urokov-urok-6](pages/kurs-12-urokov-urok-6.md)] — тот же механизм на теме гаджетов, с новой деталью: придуманные псевдо-исследования как рационализация страха
+- [[kurs-12-urokov-urok-9](pages/kurs-12-urokov-urok-9.md)] — тот же механизм на теме гендерных моделей воспитания: жёсткие требования «усиливаются» из страха/стереотипов, а не заботы о ребёнке
 
 ## Related Concepts
 
@@ -35,3 +36,4 @@ updated: 2026-08-29
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — переходный возраст — период, где родительский страх «каким он станет» звучит особенно остро
 - [[otkrytyi-razgovor-o-sekse](pages/otkrytyi-razgovor-o-sekse.md)] — конкретизация того же механизма на теме секса: замалчивание из-за неудобства взрослого, а не заботы о ребёнке
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — практическая альтернатива запрету из страха на теме гаджетов: искреннее любопытство вместо избегания
+- [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] — конкретизация того же механизма на теме гендерных моделей воспитания
