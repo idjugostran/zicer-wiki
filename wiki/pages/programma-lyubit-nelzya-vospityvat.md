@@ -3,7 +3,7 @@ title: Программа «Любить нельзя воспитывать»
 category: Entities
 summary: Авторская программа Димы Зицера, отвечающая на вопросы зрителей о взаимоотношениях между людьми разного возраста
 tags: [entity, programma, dima-zicer]
-sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, chto-delat-esli-ya-sryvayus-na-svoego-rebenka]
+sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -23,6 +23,7 @@ updated: 2026-08-29
 - [[kak-vyzhit-ryadom-s-podrostkom](pages/kak-vyzhit-ryadom-s-podrostkom.md)] — выпуск ЛНВ#334: резкая перемена в характере 14-летней дочери
 - [[pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet](pages/pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet.md)] — выпуск ЛНВ №331: агрессия пятилетнего мальчика к младшей сестре
 - [[chto-delat-esli-ya-sryvayus-na-svoego-rebenka](pages/chto-delat-esli-ya-sryvayus-na-svoego-rebenka.md)] — звонок мамы, дерущейся с 9-летним сыном: конкретные телесные техники прерывания агрессии
+- [[mama-prochla-dnevnik-docheri-i-uzhasnulas](pages/mama-prochla-dnevnik-docheri-i-uzhasnulas.md)] — звонок мамы про дневник 12-летней дочери: экзистенциальный вопрос переходного возраста
 
 ## Related Concepts
 

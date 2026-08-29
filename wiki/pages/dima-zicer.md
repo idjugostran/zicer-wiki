@@ -3,7 +3,7 @@ title: Дима Зицер
 category: Entities
 summary: Педагог, автор канала о воспитании детей и школе «Апельсин»
 tags: [entity, pedagogue]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, chto-delat-esli-ya-sryvayus-na-svoego-rebenka]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -45,6 +45,7 @@ updated: 2026-08-29
 - [[kurs-12-urokov-urok-10](pages/kurs-12-urokov-urok-10.md)] — Урок 10 курса: личность и поведение
 - [[pochemu-vzroslye-unizhayut-detey](pages/pochemu-vzroslye-unizhayut-detey.md)] — программа «Правила жизни» (канал «Культура»): механизм унижения детей
 - [[chto-delat-esli-ya-sryvayus-na-svoego-rebenka](pages/chto-delat-esli-ya-sryvayus-na-svoego-rebenka.md)] — звонок мамы, дерущейся с сыном: конкретные телесные техники прерывания агрессии
+- [[mama-prochla-dnevnik-docheri-i-uzhasnulas](pages/mama-prochla-dnevnik-docheri-i-uzhasnulas.md)] — звонок мамы про дневник 12-летней дочери: экзистенциальный вопрос переходного возраста
 
 ## Related Concepts
 
@@ -77,3 +78,4 @@ updated: 2026-08-29
 - [[lichnost-a-ne-povedenie](pages/lichnost-a-ne-povedenie.md)] — центральный концепт Урока 10
 - [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] — центральный концепт Урока 9
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — центральный концепт выпуска про унижение детей
+- [[ekzistentsialnyi-vopros-perehodnogo-vozrasta](pages/ekzistentsialnyi-vopros-perehodnogo-vozrasta.md)] — центральный концепт выпуска про дневник дочери

@@ -3,7 +3,7 @@ title: Возрастные кризисы как смена системы ко
 category: Concepts
 summary: Три ключевые возрастные границы (3 года, 7 лет, переходный возраст) — не сбои, а последовательная смена «системы координат» взаимодействия с миром
 tags: [concept, roditelstvo, kurs-12-urokov, podrostki]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas]
 created: 2026-08-29
 updated: 2026-08-29
 ---
@@ -22,9 +22,11 @@ updated: 2026-08-29
 - [[lnv-vypusk-253](pages/lnv-vypusk-253.md)] — резкая смена характера 16-летней дочери объясняется переходным возрастом, а не переездом в другую страну
 - [[kak-vyzhit-ryadom-s-podrostkom](pages/kak-vyzhit-ryadom-s-podrostkom.md)] — почти дословное повторение метафоры «как по битому стеклу» и «системы координат» на новом случае
 - [[pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet](pages/pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet.md)] — кризис трёх лет (невозможность делиться) как объяснительная рамка для истока проблемы
+- [[mama-prochla-dnevnik-docheri-i-uzhasnulas](pages/mama-prochla-dnevnik-docheri-i-uzhasnulas.md)] — называет ядро пересмотра явно: экзистенциальный вопрос «зачем я живу», типичный для этого возраста
 
 ## Related Concepts
 
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — родительская роль в переходном возрасте конкретизируется здесь через формулу «дом как тыл»
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — практическое следствие концепта: смена интересов ребёнка — не каприз, а часть той же логики пересмотра
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — пример принудительного доедания каши в возрасте до 7 лет показывает, как ребёнок теряет собственные телесные ориентиры под давлением авторитета родителя
+- [[ekzistentsialnyi-vopros-perehodnogo-vozrasta](pages/ekzistentsialnyi-vopros-perehodnogo-vozrasta.md)] — конкретизация ядра переходного возраста: вопрос смысла жизни, а не отдельные пересматриваемые привычки
