@@ -3,7 +3,7 @@ title: «Давать сдачи»
 category: Concepts
 summary: Критика совета учить детей отвечать на агрессию физической силой — приравнивается к обучению «языку зоны»
 tags: [concept, konflikty, nasilie]
-sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253]
+sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, chto-delat-esli-ya-sryvayus-na-svoego-rebenka]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -22,6 +22,7 @@ updated: 2026-08-29
 
 - [[nuzhno-li-uchit-detey-davat-sdachi](pages/nuzhno-li-uchit-detey-davat-sdachi.md)] — вводит концепт целиком, на примере реального звонка в эфир
 - [[lnv-vypusk-253](pages/lnv-vypusk-253.md)] — независимый повторный случай: совет «давать сдачи» брату отклонён по той же логике
+- [[chto-delat-esli-ya-sryvayus-na-svoego-rebenka](pages/chto-delat-esli-ya-sryvayus-na-svoego-rebenka.md)] — обратная сторона того же механизма: мама признаёт, что бьёт сына именно потому, что он (пока) не может дать сдачи
 
 ## Related Concepts
 
@@ -30,3 +31,4 @@ updated: 2026-08-29
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — различие «жалоба vs. просьба о помощи» конкретизирует, что значит «помощь» в родительской функции
 - [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)] — метафора «надсмотрщик и заключённый» перекликается с «ментальностью зоны»
 - [[manipulyatsiya](pages/manipulyatsiya.md)] — смежная классификация: манипуляция как мягкая форма того же силового принуждения
+- [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — тот же принцип «можно, потому что не ответит» применён взрослым к ребёнку, а не наоборот
