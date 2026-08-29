@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin]
 updated: 2026-08-29
 ---
 
@@ -39,10 +39,12 @@ updated: 2026-08-29
 
 Пятнадцатый источник (Урок 6 курса) — четвёртая по счёту конкретная область (после интернет-опасностей, страха перед новым и секса), где воспроизводится [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — на этот раз применительно к гаджетам. Урок добавляет механизму новую деталь: когда страх слишком силён, чтобы с ним разбираться, взрослые не просто запрещают, а рационализируют задним числом — придумывают несуществующие «исследования». Новый концепт [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — первая техника в подборке, прямо противоположная запрету: не назвать страх (как в Уроке 4) и не промолчать/заговорить (как в теме секса), а встречно обменяться мирами — попроситься в мир ребёнка, затем пригласить его в свой. Условием техники оказывается собственная страсть взрослого — прямое продолжение домашнего задания Урока 5 про личное хобби.
 
+Шестнадцатый источник (съёмка урока математики в «Апельсине» с разбором) — первый источник подборки, дающий не пересказ принципов школы, а прямую съёмку урока: [[subyektnost](pages/subyektnost.md)] и отказ от оценок видны в действии, а не только в описании. Новый концепт [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] уточняет, как именно субъектность работает на уровне организации урока — различая жёсткие структурные рамки (место, правила, канва) и ненужную дисциплину (единый поведенческий стандарт); шум и движение внутри рамок оказываются признаком вовлечённости, а не потери контроля. Источник также подтверждает [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] с новой стороны: отсутствие сравнения между учениками не просто снижает тревогу — оно напрямую освобождает энергию для взаимопомощи, которую соревнование выключает.
+
 ## Open Questions
 
 - Курс «12 уроков» в этой подборке доходит до Урока 6 (по просмотрам в топ-30 вошли первые шесть из 12) — сохраняется ли та же структура в оставшихся 6 уроках?
-- Подборка расширена за пределы исходного топ-10 (15 источников обработано) — продолжать ли добирать уроки курса по порядку, или ориентироваться по общему рейтингу просмотров канала?
+- Подборка расширена за пределы исходного топ-10 (16 источников обработано) — продолжать ли добирать уроки курса по порядку, или ориентироваться по общему рейтингу просмотров канала?
 - Пример «мать ударила ребёнка за пролитый на документы сок» встречается дважды (Урок 3 и источник 14) с разным возрастом ребёнка (2 vs 3 года) — вероятно, один реальный случай, но стоит иметь в виду при дальнейшей обработке источников: если разница окажется системной (а не просто неточностью пересказа), это может означать два разных случая, а не один.
 
 ## Key Entities / Concepts
@@ -65,3 +67,4 @@ updated: 2026-08-29
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — выбор через пробы против принудительного «доведения до конца»
 - [[otkrytyi-razgovor-o-sekse](pages/otkrytyi-razgovor-o-sekse.md)] — секс как обычная тема; неловкость создаёт взрослый, а не риск для ребёнка
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — попроситься в мир ребёнка, затем пригласить его в свой — альтернатива запрету на гаджеты
+- [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — жёсткие структурные рамки урока без единого поведенческого стандарта

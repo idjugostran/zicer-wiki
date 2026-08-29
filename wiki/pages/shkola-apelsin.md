@@ -3,9 +3,9 @@ title: Школа «Апельсин»
 category: Entities
 summary: Школа неформального образования в Санкт-Петербурге, основана Димой и Наташей Зицер в 2008 году
 tags: [entity, shkola, apelsin]
-sources: [apelsinovye-budni]
+sources: [apelsinovye-budni, urok-matematiki-v-shkole-apelsin]
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-29
 ---
 
 # Школа «Апельсин»
@@ -17,6 +17,7 @@ updated: 2026-08-04
 ## Appearances in Sources
 
 - [[apelsinovye-budni](pages/apelsinovye-budni.md)] — единственный пока источник, полностью посвящённый устройству школы
+- [[urok-matematiki-v-shkole-apelsin](pages/urok-matematiki-v-shkole-apelsin.md)] — прямая съёмка урока математики: субъектность, отсутствие оценок и домашних заданий в действии, а не в описании
 
 ## Related Concepts
 
@@ -24,3 +25,4 @@ updated: 2026-08-04
 - [[subyektnost](pages/subyektnost.md)] — центральный принцип устройства школы
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — критика оценок, институционально воплощённая в отказе школы от оценочной системы
 - [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — та же критика оценок с точки зрения психологического механизма зависимости
+- [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — как школа совмещает жёсткую структуру урока со свободой поведения

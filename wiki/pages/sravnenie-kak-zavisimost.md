@@ -3,9 +3,9 @@ title: Сравнение
 category: Concepts
 summary: Сравнение/оценка как психологический механизм, близкий к зависимости — подменяет внутренний интерес потребностью во внешнем одобрении
 tags: [concept, otsenka, roditelstvo, pedagogika]
-sources: [sravnenie-100-shagov-v-ad]
+sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin]
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-29
 ---
 
 # Сравнение
@@ -19,9 +19,11 @@ updated: 2026-08-04
 ## Appearances in Sources
 
 - [[sravnenie-100-shagov-v-ad](pages/sravnenie-100-shagov-v-ad.md)] — вводит концепт целиком, с практическим ориентиром «лечения» и альтернативными инструментами
+- [[urok-matematiki-v-shkole-apelsin](pages/urok-matematiki-v-shkole-apelsin.md)] — конкретный практический эффект отсутствия сравнения: дети охотно помогают друг другу, потому что их не оценивают относительно друг друга
 
 ## Related Concepts
 
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — смежная критика транзакционных/иерархических моделей отношений; там метод дрессуры в целом, здесь — конкретно механизм сравнения/оценки
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — та же телесная техника рекомендована для изменения привычки сравнивать
 - [[subyektnost](pages/subyektnost.md)] — «ад» как подмена равных отношений иерархией — обратная сторона того же принципа
+- [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — тот же вывод с другой стороны: отсутствие сравнения освобождает энергию для взаимопомощи внутри жёстких, но не дисциплинарных рамок урока
