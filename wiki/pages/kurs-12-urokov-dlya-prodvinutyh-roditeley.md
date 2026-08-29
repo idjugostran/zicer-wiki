@@ -3,9 +3,9 @@ title: Курс «Двенадцать уроков для продвинуты�
 category: Entities
 summary: Бесплатный еженедельный курс Димы Зицера из 12 уроков с обязательными домашними заданиями
 tags: [entity, course, dima-zicer]
-sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-3, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kurs-12-urokov-urok-6, kurs-12-urokov-urok-7, kurs-12-urokov-urok-8, kurs-12-urokov-urok-9, kurs-12-urokov-urok-10]
+sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-3, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kurs-12-urokov-urok-6, kurs-12-urokov-urok-7, kurs-12-urokov-urok-8, kurs-12-urokov-urok-9, kurs-12-urokov-urok-10, kurs-12-urokov-urok-11]
 created: 2026-08-04
-updated: 2026-08-29
+updated: 2026-08-30
 ---
 
 # Курс «Двенадцать уроков для продвинутых родителей»
@@ -26,6 +26,7 @@ updated: 2026-08-29
 - [[kurs-12-urokov-urok-8](pages/kurs-12-urokov-urok-8.md)] — Урок 8: так называемые «сложные темы» (секс, смерть, дурные привычки)
 - [[kurs-12-urokov-urok-9](pages/kurs-12-urokov-urok-9.md)] — Урок 9: гендерные модели воспитания, личность важнее «мальчиковости»/«девочковости»
 - [[kurs-12-urokov-urok-10](pages/kurs-12-urokov-urok-10.md)] — Урок 10: личность присутствует с рождения; путаница поведения и личностного содержания
+- [[kurs-12-urokov-urok-11](pages/kurs-12-urokov-urok-11.md)] — Урок 11: «дурная компания», техника «пригласить друга домой»
 
 ## Related Concepts
 
@@ -41,3 +42,4 @@ updated: 2026-08-29
 - [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] — концепт из Урока 9 про гендерные модели воспитания
 - [[tak-nazyvaemye-slozhnye-temy](pages/tak-nazyvaemye-slozhnye-temy.md)] — концепт из Урока 8 про «сложные темы»
 - [[lichnost-a-ne-povedenie](pages/lichnost-a-ne-povedenie.md)] — концепт из Урока 10 про личность и поведение
+- [[durnaya-kompaniya-i-svoy-ugol](pages/durnaya-kompaniya-i-svoy-ugol.md)] — концепт из Урока 11 про дружбу и «свой угол» дома

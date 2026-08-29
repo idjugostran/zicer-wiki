@@ -3,7 +3,7 @@ title: Родительская функция
 category: Concepts
 summary: Формулировка Зицера — защита, помощь, присутствие, поддержка
 tags: [concept, parenting]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11]
 created: 2026-08-04
 updated: 2026-08-30
 ---
@@ -30,6 +30,7 @@ updated: 2026-08-30
 - [[kak-vyzhit-ryadom-s-podrostkom](pages/kak-vyzhit-ryadom-s-podrostkom.md)] — «дом как тыл» конкретизирован: подросток должен иметь возможность «выдыхать» дома без требований к виду и настроению
 - [[pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet](pages/pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet.md)] — обратный случай: дом как источник давления вместо убежища
 - [[dima-zicer-v-programme-nam-nado-pogovorit-rtvi](pages/dima-zicer-v-programme-nam-nado-pogovorit-rtvi.md)] — краткая формулировка того же принципа: дом «его, и твой, и мой»
+- [[kurs-12-urokov-urok-11](pages/kurs-12-urokov-urok-11.md)] — конкретизирует «дом как тыл» через механизм «дурной компании»: без «своего угла» дома ребёнок ищет принятие где угодно и любой ценой
 
 ## Related Concepts
 
@@ -40,4 +41,5 @@ updated: 2026-08-30
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — конкретный механизм, которым родитель реализует «быть рядом» и «поддерживать»: признание своего страха вместо контроля над ребёнком
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — возрастная рамка, в которой формула «тыла» получает наибольшее значение (переходный возраст)
 - [[zashchita-blizkogo-cheloveka](pages/zashchita-blizkogo-cheloveka.md)] — «защита» применительно к другому родителю, а не только к ребёнку
+- [[durnaya-kompaniya-i-svoy-ugol](pages/durnaya-kompaniya-i-svoy-ugol.md)] — «дом как тыл» как профилактика «дурной компании»
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — то же слово «функция» в противоположном, критикуемом смысле: там — конкретные действия родителя (защита, помощь), здесь — сама форма отношений с ребёнком (обязанность вместо человека). Терминологическая, не фактическая развилка

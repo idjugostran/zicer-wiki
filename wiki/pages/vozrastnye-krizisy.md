@@ -3,7 +3,7 @@ title: Возрастные кризисы как смена системы ко
 category: Concepts
 summary: Три ключевые возрастные границы (3 года, 7 лет, переходный возраст) — не сбои, а последовательная смена «системы координат» взаимодействия с миром
 tags: [concept, roditelstvo, kurs-12-urokov, podrostki]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11]
 created: 2026-08-29
 updated: 2026-08-30
 ---
@@ -25,6 +25,7 @@ updated: 2026-08-30
 - [[mama-prochla-dnevnik-docheri-i-uzhasnulas](pages/mama-prochla-dnevnik-docheri-i-uzhasnulas.md)] — называет ядро пересмотра явно: экзистенциальный вопрос «зачем я живу», типичный для этого возраста
 - [[kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey](pages/kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey.md)] — конкретизирует границу кризиса семилетия с практической стороны: инструмент «разрешать/запрещать» перестаёт работать в том же возрастном диапазоне (7–10 лет)
 - [[dima-zicer-v-programme-nam-nado-pogovorit-rtvi](pages/dima-zicer-v-programme-nam-nado-pogovorit-rtvi.md)] — независимое повторение метафоры «коробочки» для переходного возраста
+- [[kurs-12-urokov-urok-11](pages/kurs-12-urokov-urok-11.md)] — явно называет тот же возрастной порог (7-8 лет), после которого влияние среды начинает перевешивать родительское
 
 ## Related Concepts
 
@@ -33,3 +34,4 @@ updated: 2026-08-30
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — пример принудительного доедания каши в возрасте до 7 лет показывает, как ребёнок теряет собственные телесные ориентиры под давлением авторитета родителя
 - [[ekzistentsialnyi-vopros-perehodnogo-vozrasta](pages/ekzistentsialnyi-vopros-perehodnogo-vozrasta.md)] — конкретизация ядра переходного возраста: вопрос смысла жизни, а не отдельные пересматриваемые привычки
 - [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — практический ответ на ситуацию, когда прежний инструмент контроля уже не работает в силу возраста ребёнка
+- [[durnaya-kompaniya-i-svoy-ugol](pages/durnaya-kompaniya-i-svoy-ugol.md)] — следствие того же возрастного сдвига: после 7-8 лет влияние среды и друзей нарастает
