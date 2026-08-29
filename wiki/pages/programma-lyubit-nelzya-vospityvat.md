@@ -3,7 +3,7 @@ title: Программа «Любить нельзя воспитывать»
 category: Entities
 summary: Авторская программа Димы Зицера, отвечающая на вопросы зрителей о взаимоотношениях между людьми разного возраста
 tags: [entity, programma, dima-zicer]
-sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253]
+sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, lnv-vypusk-215]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -18,6 +18,7 @@ updated: 2026-08-29
 
 - [[nuzhno-li-uchit-detey-davat-sdachi](pages/nuzhno-li-uchit-detey-davat-sdachi.md)] — выпуск про звонок мамы о конфликте между детьми и совет «давать сдачи»
 - [[lnv-vypusk-253](pages/lnv-vypusk-253.md)] — выпуск №253: десять звонков на самые разные темы за один эфир
+- [[lnv-vypusk-215](pages/lnv-vypusk-215.md)] — выпуск №215: комментарий к резонансному школьному инциденту и восемь звонков
 
 ## Related Concepts
 
