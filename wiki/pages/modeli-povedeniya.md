@@ -3,9 +3,9 @@ title: Модели поведения
 category: Concepts
 summary: Модель поведения — рамка, закрепившаяся через повторение похожих ситуаций; безвредна, пока осознаётся, и опасна, когда становится незаметной «второй натурой», ощущаемой как характер
 tags: [concept, roditelstvo, samoregulyatsiya]
-sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet]
+sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-08-30
 ---
 
 # Модели поведения
@@ -20,6 +20,7 @@ updated: 2026-08-29
 
 - [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] — вводит концепт целиком
 - [[pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet](pages/pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet.md)] — конкретный случай: ребёнок усваивает модель давления от родителей и применяет её к младшей сестре
+- [[dima-zicer-v-programme-nam-nado-pogovorit-rtvi](pages/dima-zicer-v-programme-nam-nado-pogovorit-rtvi.md)] — новая предметная область: чтение усваивается тем же механизмом подражания, а не декларацией «надо читать»
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Телесная реакция предшествует поступку
 category: Concepts
 summary: Реактивные действия (крик, удар) вызываются телесным сигналом (сжатые кулаки, сухость во рту), возникающим за секунды до поступка, а не осознанным решением
 tags: [concept, samoregulyatsiya, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-ponimat-signaly-tela, lnv-vypusk-253, lnv-vypusk-215, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey]
+sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-ponimat-signaly-tela, lnv-vypusk-253, lnv-vypusk-215, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi]
 created: 2026-08-04
 updated: 2026-08-30
 ---
@@ -28,7 +28,7 @@ updated: 2026-08-30
 - [[o-manipulyatsiyah-i-dogovorah](pages/o-manipulyatsiyah-i-dogovorah.md)] — та же техника (вдох, вода) как первый шаг против манипулятивного позыва
 - [[kurs-12-urokov-urok-4](pages/kurs-12-urokov-urok-4.md)] — тот же телесный сигнал («тело сжимается») прослеживается до источника — родительского страха
 - [[kurs-12-urokov-urok-5](pages/kurs-12-urokov-urok-5.md)] — пример принудительного доедания каши: ребёнок теряет собственный телесный ориентир (голод) под давлением родительского авторитета
-- [[kak-ponimat-signaly-tela](pages/kak-ponimat-signaly-tela.md)] — более ранний (2016) независимый источник того же тезиса; явная формула «тело — причина, а не следствие», история про поясницу и детство, деталь про физическую невозможность удара при разжатых кулаках. Пример матери, ударившей ребёнка за пролитый на документы сок, почти дословно совпадает с примером из Урока 3 (там — двухлетняя дочь, здесь — трёхлетняя) — вероятно, один и тот же реальный случай, пересказанный годы спустя с расхождением в возрасте; не содержательное противоречие (техника и тезис идентичны), а деталь пересказа
+- [[kak-ponimat-signaly-tela](pages/kak-ponimat-signaly-tela.md)] — более ранний (2016) независимый источник того же тезиса; явная формула «тело — причина, а не следствие», история про поясницу и детство, деталь про физическую невозможность удара при разжатых кулаках. Пример матери, ударившей ребёнка за пролитый на документы сок, почти дословно совпадает с примером из Урока 3 (там — двухлетняя дочь, здесь — трёхлетняя) — вероятно, один и тот же реальный случай, пересказанный годы спустя с расхождением в возрасте; не содержательное противоречие (техника и тезис идентичны), а деталь пересказа. Третья версия того же случая — см. [[dima-zicer-v-programme-nam-nado-pogovorit-rtvi](pages/dima-zicer-v-programme-nam-nado-pogovorit-rtvi.md)] — называет возраст «два с половиной года», между этими двумя, что усиливает гипотезу одного случая
 - [[lnv-vypusk-253](pages/lnv-vypusk-253.md)] — телесные инструменты против стресса (дыхание, вода, движение) применены к новому контексту — публичным выступлениям и контрольным у подростка
 - [[lnv-vypusk-215](pages/lnv-vypusk-215.md)] — тот же тезис (модели поведения усваиваются от взрослых, а не изобретаются) применён к резонансному школьному инциденту
 - [[svoboda-ot-vospitaniya-tedx](pages/svoboda-ot-vospitaniya-tedx.md)] — TEDx-лекция почти дословно повторяет два кейса из [[kak-ponimat-signaly-tela](pages/kak-ponimat-signaly-tela.md)] — независимое подтверждение тезиса на публичном выступлении
@@ -36,6 +36,7 @@ updated: 2026-08-30
 - [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] — более ранняя, менее формализованная версия той же практики осознавания («это я, или не я» вместо «сканирования тела»)
 - [[chto-delat-esli-ya-sryvayus-na-svoego-rebenka](pages/chto-delat-esli-ya-sryvayus-na-svoego-rebenka.md)] — самый детализированный набор инструментов: напоминание «дыши», «расслабь лицо», новый термин «код доступа к ситуации»
 - [[kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey](pages/kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey.md)] — тот же принцип («физическое действие меняет мысли») развёрнут в многодневную практику вместо мгновенной техники
+- [[dima-zicer-v-programme-nam-nado-pogovorit-rtvi](pages/dima-zicer-v-programme-nam-nado-pogovorit-rtvi.md)] — независимое повторение примеров (агрессивный второклассник, зеркало) и третья версия истории про сок на документах
 
 ## Related Concepts
 

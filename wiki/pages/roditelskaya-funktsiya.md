@@ -3,9 +3,9 @@ title: Родительская функция
 category: Concepts
 summary: Формулировка Зицера — защита, помощь, присутствие, поддержка
 tags: [concept, parenting]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi]
 created: 2026-08-04
-updated: 2026-08-29
+updated: 2026-08-30
 ---
 
 # Родительская функция
@@ -29,6 +29,7 @@ updated: 2026-08-29
 - [[mozhet-li-rebenok-bullit-mamu](pages/mozhet-li-rebenok-bullit-mamu.md)] — «защита» развёрнута в новую сторону: один родитель защищает другого от ребёнка (см. [[zashchita-blizkogo-cheloveka](pages/zashchita-blizkogo-cheloveka.md)])
 - [[kak-vyzhit-ryadom-s-podrostkom](pages/kak-vyzhit-ryadom-s-podrostkom.md)] — «дом как тыл» конкретизирован: подросток должен иметь возможность «выдыхать» дома без требований к виду и настроению
 - [[pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet](pages/pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet.md)] — обратный случай: дом как источник давления вместо убежища
+- [[dima-zicer-v-programme-nam-nado-pogovorit-rtvi](pages/dima-zicer-v-programme-nam-nado-pogovorit-rtvi.md)] — краткая формулировка того же принципа: дом «его, и твой, и мой»
 
 ## Related Concepts
 

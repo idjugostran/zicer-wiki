@@ -3,9 +3,9 @@ title: Манипуляция
 category: Concepts
 summary: «Мягкая» форма насилия («фокус»), лишающая человека воли без прямого принуждения — дети перенимают её у взрослых
 tags: [concept, nasilie, roditelstvo]
-sources: [o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-5, otkuda-berutsya-modeli-povedeniya]
+sources: [o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-5, otkuda-berutsya-modeli-povedeniya, dima-zicer-v-programme-nam-nado-pogovorit-rtvi]
 created: 2026-08-04
-updated: 2026-08-29
+updated: 2026-08-30
 ---
 
 # Манипуляция
@@ -22,6 +22,7 @@ updated: 2026-08-29
 
 - [[o-manipulyatsiyah-i-dogovorah](pages/o-manipulyatsiyah-i-dogovorah.md)] — вводит концепт целиком, с общей теорией и тремя практическими шагами
 - [[kurs-12-urokov-urok-5](pages/kurs-12-urokov-urok-5.md)] — тот же пример каши («доешь») независимо использован как иллюстрация усвоения ребёнком манипулятивных моделей до 7 лет
+- [[dima-zicer-v-programme-nam-nado-pogovorit-rtvi](pages/dima-zicer-v-programme-nam-nado-pogovorit-rtvi.md)] — структурно идентичный пример («дядя милиционер») независимо подтверждает механизм полной детской веры в правоту родителя
 
 ## Related Concepts
 
