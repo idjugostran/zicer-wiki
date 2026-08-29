@@ -3,7 +3,7 @@ title: Дети как «последняя дискриминируемая г�
 category: Concepts
 summary: Историческая рамка Зицера — неравенство детей и взрослых сопоставимо с историческим бесправием женщин и расовой дискриминацией
 tags: [concept, subyektnost, roditelstvo]
-sources: [konflikty-mezhdu-detmi-i-roditelyami]
+sources: [konflikty-mezhdu-detmi-i-roditelyami, pochemu-vzroslye-unizhayut-detey]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -19,9 +19,11 @@ updated: 2026-08-29
 ## Appearances in Sources
 
 - [[konflikty-mezhdu-detmi-i-roditelyami](pages/konflikty-mezhdu-detmi-i-roditelyami.md)] — вводит концепт целиком, на исторической аналогии и серии живых примеров
+- [[pochemu-vzroslye-unizhayut-detey](pages/pochemu-vzroslye-unizhayut-detey.md)] — усиливает ту же рамку экономическим обоснованием: ребёнок как «недочеловек» до выполнения взрослой функции
 
 ## Related Concepts
 
 - [[subyektnost](pages/subyektnost.md)] — та же логика равенства сторон, здесь обоснованная историческим/межпоколенческим сравнением
 - [[davat-sdachi](pages/davat-sdachi.md)] — метафора «надсмотрщик и заключённый» перекликается с «ментальностью зоны»
 - [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] — та же риторическая рамка (неравенство как унаследованная модель без альтернативных путей), применённая к полу, а не возрасту
+- [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — механизм, вырастающий из той же исторической рамки: ребёнок как «функция», а не равный человек

@@ -39,3 +39,4 @@ updated: 2026-08-29
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — конкретный механизм, которым родитель реализует «быть рядом» и «поддерживать»: признание своего страха вместо контроля над ребёнком
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — возрастная рамка, в которой формула «тыла» получает наибольшее значение (переходный возраст)
 - [[zashchita-blizkogo-cheloveka](pages/zashchita-blizkogo-cheloveka.md)] — «защита» применительно к другому родителю, а не только к ребёнку
+- [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — то же слово «функция» в противоположном, критикуемом смысле: там — конкретные действия родителя (защита, помощь), здесь — сама форма отношений с ребёнком (обязанность вместо человека). Терминологическая, не фактическая развилка

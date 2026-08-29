@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, kurs-12-urokov-urok-10]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey]
 updated: 2026-08-29
 ---
 
@@ -63,10 +63,12 @@ updated: 2026-08-29
 
 Двадцать седьмой источник (Урок 10 курса) вводит различение [[lichnost-a-ne-povedenie](pages/lichnost-a-ne-povedenie.md)] — конкретное поведение против личностного содержания за ним — и переформулирует родительскую задачу с «вырастить личность» на «не разрушить» её, независимо от возраста и способностей (тот же аргумент, что и у [[subyektnost](pages/subyektnost.md)]). Урок прямо ссылается на технику из Урока 6 ([[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)]), обобщая её с гаджетов на любую неожиданную склонность ребёнка, и даёт новый конкретный случай [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] («он мне на шею сядет»).
 
+Двадцать восьмой источник (программа «Правила жизни», канал «Культура») — первый источник подборки за пределами каналов Зицера и радио «Маяк», что независимо подтверждает устойчивость его позиции вне «домашнего» формата. Усиливает [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)] экономическим обоснованием исторической рамки (ребёнок как «недочеловек» до выполнения взрослой функции) и вводит новый диагностический концепт [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)]: унижение возникает не из злого умысла, а из того, что родитель воспринимает отношения с ребёнком как выполнение роли, а не как человеческую связь, — любое отклонение тогда угрожает не отношениям, а самоощущению взрослого. Источник использует слово «функция» в значении, прямо противоположном [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] (там — позитивная формула действий родителя) — терминологическая, не содержательная развилка, отмеченная на обеих страницах.
+
 ## Open Questions
 
 - Курс «12 уроков» в этой подборке покрыт без пропусков с Урока 1 по Урок 10 (из 12) — добирать ли оставшиеся Уроки 11–12?
-- Подборка расширена за пределы исходного топ-10 (27 источников обработано) — продолжать ли добирать уроки курса по порядку, или ориентироваться по общему рейтингу просмотров канала?
+- Подборка расширена за пределы исходного топ-10 (28 источников обработано) — продолжать ли добирать уроки курса по порядку, или ориентироваться по общему рейтингу просмотров канала?
 - Пример «мать ударила ребёнка за пролитый на документы сок» встречается дважды (Урок 3 и источник 14) с разным возрастом ребёнка (2 vs 3 года) — вероятно, один реальный случай, но стоит иметь в виду при дальнейшей обработке источников: если разница окажется системной (а не просто неточностью пересказа), это может означать два разных случая, а не один.
 - Аудиокнига VKXL6F0hXqA (~7 часов) остаётся необработанной по выбору пользователя — если к ней вернутся, потребуется отдельное решение о формате (см. выше).
 
@@ -99,3 +101,4 @@ updated: 2026-08-29
 - [[modeli-povedeniya](pages/modeli-povedeniya.md)] — общая рамка: модель безвредна, пока осознаётся, и опасна, когда становится «второй натурой»
 - [[znachimost-rebenka-v-seme](pages/znachimost-rebenka-v-seme.md)] — деструктивное поведение как поиск значимости; решение — реальное участие в решениях семьи
 - [[lichnost-a-ne-povedenie](pages/lichnost-a-ne-povedenie.md)] — конкретное поведение против личностного содержания; «не разрушить», а не «вырастить» личность
+- [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — унижение как следствие функциональной, а не партнёрской рамки отношений с ребёнком

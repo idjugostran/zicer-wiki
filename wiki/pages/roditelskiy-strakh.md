@@ -3,7 +3,7 @@ title: Родительский страх
 category: Concepts
 summary: Страх за ребёнка как источник контролирующего поведения — снимается не подавлением, а признанием страха перед собой и ребёнком
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10]
+sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey]
 created: 2026-08-29
 updated: 2026-08-29
 ---
@@ -27,6 +27,7 @@ updated: 2026-08-29
 - [[kak-razgovarivat-s-detmi-o-sekse](pages/kak-razgovarivat-s-detmi-o-sekse.md)] — тот же механизм на теме секса: неудобство родителя, а не риск для ребёнка, — источник избегания
 - [[kurs-12-urokov-urok-6](pages/kurs-12-urokov-urok-6.md)] — тот же механизм на теме гаджетов, с новой деталью: придуманные псевдо-исследования как рационализация страха
 - [[kurs-12-urokov-urok-9](pages/kurs-12-urokov-urok-9.md)] — тот же механизм на теме гендерных моделей воспитания: жёсткие требования «усиливаются» из страха/стереотипов, а не заботы о ребёнке
+- [[pochemu-vzroslye-unizhayut-detey](pages/pochemu-vzroslye-unizhayut-detey.md)] — смежный, но отдельный механизм унижения: угроза не страху за ребёнка, а самоощущению взрослого, слитому с «функцией»
 
 ## Related Concepts
 
@@ -41,3 +42,4 @@ updated: 2026-08-29
 - [[otkaz-ot-nelzya](pages/otkaz-ot-nelzya.md)] — смежный механизм: запрет чаще защищает спокойствие взрослого, чем реально снижает риск для ребёнка
 - [[tak-nazyvaemye-slozhnye-temy](pages/tak-nazyvaemye-slozhnye-temy.md)] — тот же механизм, обобщённый на весь класс «сложных тем» (секс, смерть, дурные привычки)
 - [[kurs-12-urokov-urok-10](pages/kurs-12-urokov-urok-10.md)] — новый конкретный случай: страх «он мне на шею сядет» разбирается через личностный подход к желаниям всех членов семьи
+- [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — смежный механизм унижения через «функциональную» рамку отношений, отличный от страха за ребёнка
