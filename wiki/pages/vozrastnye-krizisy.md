@@ -3,7 +3,7 @@ title: Возрастные кризисы как смена системы ко
 category: Concepts
 summary: Три ключевые возрастные границы (3 года, 7 лет, переходный возраст) — не сбои, а последовательная смена «системы координат» взаимодействия с миром
 tags: [concept, roditelstvo, kurs-12-urokov, podrostki]
-sources: [kurs-12-urokov-urok-5]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-253]
 created: 2026-08-29
 updated: 2026-08-29
 ---
@@ -19,6 +19,7 @@ updated: 2026-08-29
 ## Appearances in Sources
 
 - [[kurs-12-urokov-urok-5](pages/kurs-12-urokov-urok-5.md)] — вводит концепт целиком: три возрастные границы (3 года, 7 лет, переходный возраст) и общая логика смены координат
+- [[lnv-vypusk-253](pages/lnv-vypusk-253.md)] — резкая смена характера 16-летней дочери объясняется переходным возрастом, а не переездом в другую страну
 
 ## Related Concepts
 

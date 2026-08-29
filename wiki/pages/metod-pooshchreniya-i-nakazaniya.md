@@ -3,9 +3,9 @@ title: Метод поощрения и наказания
 category: Concepts
 summary: Заимствованный из дрессуры животных метод — Зицер считает его неприменимым к людям и подменяющим настоящие отношения
 tags: [concept, roditelstvo, pedagogika]
-sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad]
+sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253]
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-29
 ---
 
 # Метод поощрения и наказания
@@ -21,6 +21,7 @@ updated: 2026-08-04
 - [[kurs-12-urokov-urok-2](pages/kurs-12-urokov-urok-2.md)] — параллельная критика псевдо-«договора» с той же аналогией
 - [[nuzhno-li-uchit-detey-davat-sdachi](pages/nuzhno-li-uchit-detey-davat-sdachi.md)] — та же логика применительно к силовому решению конфликтов между детьми
 - [[sravnenie-100-shagov-v-ad](pages/sravnenie-100-shagov-v-ad.md)] — та же логика применительно к сравнению/оценке как механизму зависимости
+- [[lnv-vypusk-253](pages/lnv-vypusk-253.md)] — звонок про четырёхлетнего сына, ставящего условия («буду есть, если купишь машинку») — бытовой пример того же транзакционного механизма
 
 ## Related Concepts
 

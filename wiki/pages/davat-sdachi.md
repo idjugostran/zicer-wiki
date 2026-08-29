@@ -3,9 +3,9 @@ title: «Давать сдачи»
 category: Concepts
 summary: Критика совета учить детей отвечать на агрессию физической силой — приравнивается к обучению «языку зоны»
 tags: [concept, konflikty, nasilie]
-sources: [nuzhno-li-uchit-detey-davat-sdachi]
+sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253]
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-29
 ---
 
 # «Давать сдачи»
@@ -21,6 +21,7 @@ updated: 2026-08-04
 ## Appearances in Sources
 
 - [[nuzhno-li-uchit-detey-davat-sdachi](pages/nuzhno-li-uchit-detey-davat-sdachi.md)] — вводит концепт целиком, на примере реального звонка в эфир
+- [[lnv-vypusk-253](pages/lnv-vypusk-253.md)] — независимый повторный случай: совет «давать сдачи» брату отклонён по той же логике
 
 ## Related Concepts
 
