@@ -3,9 +3,9 @@ title: Манипуляция
 category: Concepts
 summary: «Мягкая» форма насилия («фокус»), лишающая человека воли без прямого принуждения — дети перенимают её у взрослых
 tags: [concept, nasilie, roditelstvo]
-sources: [o-manipulyatsiyah-i-dogovorah]
+sources: [o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-5]
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-29
 ---
 
 # Манипуляция
@@ -21,9 +21,11 @@ updated: 2026-08-04
 ## Appearances in Sources
 
 - [[o-manipulyatsiyah-i-dogovorah](pages/o-manipulyatsiyah-i-dogovorah.md)] — вводит концепт целиком, с общей теорией и тремя практическими шагами
+- [[kurs-12-urokov-urok-5](pages/kurs-12-urokov-urok-5.md)] — тот же пример каши («доешь») независимо использован как иллюстрация усвоения ребёнком манипулятивных моделей до 7 лет
 
 ## Related Concepts
 
 - [[davat-sdachi](pages/davat-sdachi.md)] — смежная критика «языка силы» в отношениях
 - [[subyektnost](pages/subyektnost.md)] — лишение воли манипуляцией прямо нарушает принцип равенства сторон
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — та же телесная техника (вдох, вода) рекомендована как первый шаг против манипулятивного позыва
+- [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — возрастная рамка (до 7 лет), объясняющая, почему ребёнок в принципе не может усомниться в правоте манипулирующего взрослого

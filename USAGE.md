@@ -7,3 +7,4 @@
 | Дата | Видео (ID) | Модель | Effort | До: Context | До: 5h limit | До: Weekly | После: Context | После: 5h limit | После: Weekly | Заметки |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 2026-08-29 | N7OHEaCCZ-M | Sonnet 5 | high | 98.9k/1M (10%) | 2% (resets 2h47m) | 8% (resets Fri 10:00 PM) | 175.7k/1M (18%) | 4% (resets 2h38m) | 8% (resets Fri 10:00 PM) | полный цикл: ingest в wiki. Δcontext +76.8k (+8%), Δ5h +2% |
+| 2026-08-29 | rLTRZGIhkjw | Sonnet 5 | high | 175.7k/1M (18%) | 4% (resets 2h38m) | 8% (resets Fri 10:00 PM) | | | | до = после N7OHEaCCZ-M (переиспользовано по просьбе пользователя, без нового скриншота) |

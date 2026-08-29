@@ -3,7 +3,7 @@ title: Родительский страх
 category: Concepts
 summary: Страх за ребёнка как источник контролирующего поведения — снимается не подавлением, а признанием страха перед собой и ребёнком
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami]
+sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5]
 created: 2026-08-29
 updated: 2026-08-29
 ---
@@ -21,9 +21,11 @@ updated: 2026-08-29
 - [[kurs-12-urokov-urok-4](pages/kurs-12-urokov-urok-4.md)] — вводит концепт целиком: пример дочери, задержавшейся допоздна; техника «говорить о себе»; пример интернет-опасностей; формула «стать адресом»
 - [[apelsinovye-budni](pages/apelsinovye-budni.md)] — конкретный пример того же страха: опасение, что свобода выбора предмета приведёт к отказу от «серьёзных» дисциплин
 - [[konflikty-mezhdu-detmi-i-roditelyami](pages/konflikty-mezhdu-detmi-i-roditelyami.md)] — тот же механизм в форме «страха перед новым» (телевизор, гаджеты) как инстинктивной причины запрета
+- [[kurs-12-urokov-urok-5](pages/kurs-12-urokov-urok-5.md)] — краткая отсылка к тому же страху применительно к переходному возрасту («страшно, какими они будут завтра»)
 
 ## Related Concepts
 
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — тот же телесный механизм (зажатое тело) урока 3 здесь трактуется как телесное проявление именно страха, а не реакции вообще
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — «быть рядом», «поддерживать» из общей формулы родительской функции здесь получают конкретный механизм: родитель, признающий свой страх, становится безопасным «адресом»
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — тот же методологический ход: абстрактная эмоция (страх, как и любовь) требует конкретного действия (называние вслух), а не остаётся фоном поведения
+- [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — переходный возраст — период, где родительский страх «каким он станет» звучит особенно остро

@@ -3,7 +3,7 @@ title: Дима Зицер
 category: Entities
 summary: Педагог, автор канала о воспитании детей и школе «Апельсин»
 tags: [entity, pedagogue]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -27,6 +27,7 @@ updated: 2026-08-29
 - [[sravnenie-100-shagov-v-ad](pages/sravnenie-100-shagov-v-ad.md)] — открытый урок школы «Большая медведица» о сравнении и оценке
 - [[o-manipulyatsiyah-i-dogovorah](pages/o-manipulyatsiyah-i-dogovorah.md)] — видео о манипуляции как мягкой форме насилия и псевдо-«договорах»
 - [[kurs-12-urokov-urok-4](pages/kurs-12-urokov-urok-4.md)] — Урок 4 курса: родительский страх как источник контроля
+- [[kurs-12-urokov-urok-5](pages/kurs-12-urokov-urok-5.md)] — Урок 5 курса: возрастные кризисы, выбор через пробы, «дом как тыл»
 
 ## Related Concepts
 
@@ -45,3 +46,5 @@ updated: 2026-08-29
 - [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — критикуемый им механизм сравнения/оценки
 - [[manipulyatsiya](pages/manipulyatsiya.md)] — критикуемая им мягкая форма насилия
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — центральный концепт Урока 4
+- [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — центральный концепт Урока 5
+- [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — концепт из Урока 5
