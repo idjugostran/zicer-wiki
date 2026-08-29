@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom]
 updated: 2026-08-29
 ---
 
@@ -51,10 +51,12 @@ updated: 2026-08-29
 
 Двадцать первый источник (короткий выпуск «Может ли ребёнок „буллить" маму?») даёт новый концепт [[zashchita-blizkogo-cheloveka](pages/zashchita-blizkogo-cheloveka.md)] — разворот привычного направления «защиты» в [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]: обычно родитель защищает ребёнка от внешнего мира, здесь один родитель должен защитить другого родителя от собственного ребёнка. Использует ту же технику «говорить о себе» от первого лица, что и [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] (Урок 4), но направленную вовне, а не внутрь.
 
+Двадцать второй источник (ЛНВ#334, про 14-летнюю дочь) почти дословно повторяет ключевую метафору [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] («как по битому стеклу», «система координат») — независимое подтверждение того, что это устойчивый образ Зицера, а не разовая иллюстрация Урока 5. Развивает [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]: подросток должен иметь возможность «выдыхать» именно дома. Стилистически источник заметен приёмом — Зицер напрямую озвучивает внутреннюю позицию подростка от первого лица.
+
 ## Open Questions
 
 - Курс «12 уроков» в этой подборке доходит до Урока 9, пропуская Урок 8 (48 000 просмотров — ниже порога отбора по популярности) — стоит ли вернуться и добрать Урок 8 для полноты последовательности?
-- Подборка расширена за пределы исходного топ-10 (21 источник обработан) — продолжать ли добирать уроки курса по порядку, или ориентироваться по общему рейтингу просмотров канала?
+- Подборка расширена за пределы исходного топ-10 (22 источника обработано) — продолжать ли добирать уроки курса по порядку, или ориентироваться по общему рейтингу просмотров канала?
 - Пример «мать ударила ребёнка за пролитый на документы сок» встречается дважды (Урок 3 и источник 14) с разным возрастом ребёнка (2 vs 3 года) — вероятно, один реальный случай, но стоит иметь в виду при дальнейшей обработке источников: если разница окажется системной (а не просто неточностью пересказа), это может означать два разных случая, а не один.
 - Аудиокнига VKXL6F0hXqA (~7 часов) остаётся необработанной по выбору пользователя — если к ней вернутся, потребуется отдельное решение о формате (см. выше).
 
