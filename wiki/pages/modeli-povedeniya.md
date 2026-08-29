@@ -3,7 +3,7 @@ title: Модели поведения
 category: Concepts
 summary: Модель поведения — рамка, закрепившаяся через повторение похожих ситуаций; безвредна, пока осознаётся, и опасна, когда становится незаметной «второй натурой», ощущаемой как характер
 tags: [concept, roditelstvo, samoregulyatsiya]
-sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah]
+sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252]
 created: 2026-08-29
 updated: 2026-08-30
 ---
@@ -22,6 +22,7 @@ updated: 2026-08-30
 - [[pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet](pages/pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet.md)] — конкретный случай: ребёнок усваивает модель давления от родителей и применяет её к младшей сестре
 - [[dima-zicer-v-programme-nam-nado-pogovorit-rtvi](pages/dima-zicer-v-programme-nam-nado-pogovorit-rtvi.md)] — новая предметная область: чтение усваивается тем же механизмом подражания, а не декларацией «надо читать»
 - [[nablyudatel-o-podrostkah](pages/nablyudatel-o-podrostkah.md)] — трудный возраст как катализатор накопленных моделей, а не причина; решающую роль играют модели, а не гены или абстрактное воспитание
+- [[lnv-vypusk-252](pages/lnv-vypusk-252.md)] — дополняющий вопрос «зачем»: не откуда взялась модель, а что она продолжает обслуживать
 
 ## Related Concepts
 
@@ -31,3 +32,4 @@ updated: 2026-08-30
 - [[isterika](pages/isterika.md)] — пример модели («истерика»), закрепляющейся с обеих сторон при повторении бытовой ситуации
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — более поздняя, формализованная версия той же практики осознавания («сканирование тела» вместо вопроса «это я, или не я»)
 - [[znachimost-rebenka-v-seme](pages/znachimost-rebenka-v-seme.md)] — практическое следствие: реальное включение ребёнка в решения разрывает цепочку усвоения деструктивной модели
+- [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — смежный, но отдельный вопрос: зачем модель продолжает воспроизводиться, а не откуда она взялась

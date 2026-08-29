@@ -3,7 +3,7 @@ title: Отступление к собственному удовольстви
 category: Concepts
 summary: Когда контроль над ребёнком перестал работать, вместо вмешательства — заранее подготовленный список из 10 личных удовольствий; примирение начинается только после того, как этот цикл сломан
 tags: [concept, samoregulyatsiya, podrostki]
-sources: [kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-214, u-nego-sdvg-ili-my-ego-razbalovali]
+sources: [kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-214, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252]
 created: 2026-08-30
 updated: 2026-08-30
 ---
@@ -22,6 +22,7 @@ updated: 2026-08-30
 - [[dima-zicer-v-programme-nam-nado-pogovorit-rtvi](pages/dima-zicer-v-programme-nam-nado-pogovorit-rtvi.md)] — добавляет временное измерение: практику полезно начинать превентивно, до начала кризиса, а не только реактивно
 - [[lnv-vypusk-214](pages/lnv-vypusk-214.md)] — сценарий примирения («сначала отступление, потом разговор») повторяется в технике «повернуть тумблер»
 - [[u-nego-sdvg-ili-my-ego-razbalovali](pages/u-nego-sdvg-ili-my-ego-razbalovali.md)] — примирение (объятия, извинение) недостаточно само по себе; нужен отдельный разговор о конкретных инструментах на будущее
+- [[lnv-vypusk-252](pages/lnv-vypusk-252.md)] — то же внимание к конкретному ощущению, стоящему за действием (см. [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)])
 
 ## Related Concepts
 
