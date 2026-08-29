@@ -3,7 +3,7 @@ title: Родительская любовь как действие
 category: Concepts
 summary: Любовь и забота — не эмоция-клише, а список конкретных действий, поддающихся описанию
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2]
+sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-7]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -20,9 +20,11 @@ updated: 2026-08-29
 
 - [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] — вводит концепт и даёт домашнее задание на его основе
 - [[kurs-12-urokov-urok-2](pages/kurs-12-urokov-urok-2.md)] — переводит концепт в конкретную бытовую практику на трёх примерах
+- [[kurs-12-urokov-urok-7](pages/kurs-12-urokov-urok-7.md)] — та же техника конкретизации применена к выбору школы (см. [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)])
 
 ## Related Concepts
 
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — формулировка родительской функции (защита/помощь/присутствие/поддержка) из другого источника; этот концепт настаивает, что даже такие формулировки нужно раскладывать на конкретные действия
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — смежная тема из другого источника (как говорить об отношениях без клише), другой фокус: предостережение против транзакционности вместо конкретизации любви
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — тот же методологический ход (абстрактная эмоция → конкретное действие), применённый к страху вместо любви, из Урока 4
+- [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)] — тот же ход, применённый к выбору школы из Урока 7

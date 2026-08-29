@@ -3,7 +3,7 @@ title: Урок математики в школе «Апельсин»
 category: Sources
 summary: Съёмка урока математики во 2 классе (сложение/вычитание крупных чисел через игру в банк) с последующим разбором с Димой и Наташей Зицер — рамки вместо дисциплины, отсутствие домашних заданий и оценок на практике
 tags: [source, transcript, shkola-apelsin, dima-zicer, matematika]
-sources: [urok-matematiki-v-shkole-apelsin]
+sources: [urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7]
 created: 2026-08-29
 updated: 2026-08-29
 ---
@@ -45,7 +45,7 @@ updated: 2026-08-29
 
 ## Relation to Other Wiki Pages
 
-Первый источник подборки, дающий не пересказ принципов «Апельсина» ([[apelsinovye-budni](pages/apelsinovye-budni.md)]), а прямую съёмку урока — конкретную иллюстрацию [[subyektnost](pages/subyektnost.md)] и отказа от оценок в действии, а не только в описании. Разбор соревнования и взаимопомощи подтверждает механизм из [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] и [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] с новой стороны: не только оценка индивидуально вредна, но само сравнение между учениками разрушает взаимопомощь как таковую.
+Первый источник подборки, дающий не пересказ принципов «Апельсина» ([[apelsinovye-budni](pages/apelsinovye-budni.md)]), а прямую съёмку урока — конкретную иллюстрацию [[subyektnost](pages/subyektnost.md)] и отказа от оценок в действии, а не только в описании. Разбор соревнования и взаимопомощи подтверждает механизм из [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] и [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] с новой стороны: не только оценка индивидуально вредна, но само сравнение между учениками разрушает взаимопомощь как таковую. Вопрос «зачем домашнее задание» независимо повторяется в [[kurs-12-urokov-urok-7](pages/kurs-12-urokov-urok-7.md)] — та же позиция подтверждена с двух разных источников.
 
 ## Footnotes
 

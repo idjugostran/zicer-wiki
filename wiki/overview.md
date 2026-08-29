@@ -1,7 +1,7 @@
 ---
 title: Overview
 tags: [overview, synthesis]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7]
 updated: 2026-08-29
 ---
 
@@ -41,10 +41,12 @@ updated: 2026-08-29
 
 Шестнадцатый источник (съёмка урока математики в «Апельсине» с разбором) — первый источник подборки, дающий не пересказ принципов школы, а прямую съёмку урока: [[subyektnost](pages/subyektnost.md)] и отказ от оценок видны в действии, а не только в описании. Новый концепт [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] уточняет, как именно субъектность работает на уровне организации урока — различая жёсткие структурные рамки (место, правила, канва) и ненужную дисциплину (единый поведенческий стандарт); шум и движение внутри рамок оказываются признаком вовлечённости, а не потери контроля. Источник также подтверждает [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] с новой стороны: отсутствие сравнения между учениками не просто снижает тревогу — оно напрямую освобождает энергию для взаимопомощи, которую соревнование выключает.
 
+Семнадцатый источник (Урок 7 курса) переносит методологический ход Урока 1 — конкретный список вместо абстрактного желания — на выбор школы. Новый концепт [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)] переопределяет родителя как заказчика образовательной услуги, а не пассивного получателя «системы»; аналогия с рестораном без заказа посетителей и обувной мастерской без чёткого запроса делает абстрактный тезис проверяемым. Вопрос «зачем домашнее задание» из [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] (источник 16) почти дословно повторяется здесь — независимое подтверждение одной и той же позиции Зицера с двух разных источников, снятых в разное время и в разных форматах.
+
 ## Open Questions
 
-- Курс «12 уроков» в этой подборке доходит до Урока 6 (по просмотрам в топ-30 вошли первые шесть из 12) — сохраняется ли та же структура в оставшихся 6 уроках?
-- Подборка расширена за пределы исходного топ-10 (16 источников обработано) — продолжать ли добирать уроки курса по порядку, или ориентироваться по общему рейтингу просмотров канала?
+- Курс «12 уроков» в этой подборке доходит до Урока 7 (по просмотрам в топ-30 вошли первые семь из 12) — сохраняется ли та же структура в оставшихся 5 уроках?
+- Подборка расширена за пределы исходного топ-10 (17 источников обработано) — продолжать ли добирать уроки курса по порядку, или ориентироваться по общему рейтингу просмотров канала?
 - Пример «мать ударила ребёнка за пролитый на документы сок» встречается дважды (Урок 3 и источник 14) с разным возрастом ребёнка (2 vs 3 года) — вероятно, один реальный случай, но стоит иметь в виду при дальнейшей обработке источников: если разница окажется системной (а не просто неточностью пересказа), это может означать два разных случая, а не один.
 
 ## Key Entities / Concepts
@@ -68,3 +70,4 @@ updated: 2026-08-29
 - [[otkrytyi-razgovor-o-sekse](pages/otkrytyi-razgovor-o-sekse.md)] — секс как обычная тема; неловкость создаёт взрослый, а не риск для ребёнка
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — попроситься в мир ребёнка, затем пригласить его в свой — альтернатива запрету на гаджеты
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — жёсткие структурные рамки урока без единого поведенческого стандарта
+- [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)] — родитель как заказчик образования, а не пассивный получатель системы
