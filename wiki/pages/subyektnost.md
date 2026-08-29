@@ -3,7 +3,7 @@ title: Субъектность
 category: Concepts
 summary: Равенство всех участников образовательного процесса как субъектов отношений вне зависимости от возраста и статуса
 tags: [concept, apelsin, pedagogika]
-sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin]
+sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-10]
 created: 2026-08-04
 updated: 2026-08-29
 ---
@@ -31,3 +31,4 @@ updated: 2026-08-29
 - [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — «ад» как подмена равных отношений иерархией — обратная сторона субъектности
 - [[manipulyatsiya](pages/manipulyatsiya.md)] — лишение воли манипуляцией прямо нарушает принцип равенства сторон
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — использует ту же формулу границы свободы, чтобы объяснить, как жёсткая структура урока совмещается со свободой поведения
+- [[lichnost-a-ne-povedenie](pages/lichnost-a-ne-povedenie.md)] — тот же аргумент («статус/возраст/способности не отменяют равенства»), применённый к самому понятию личности

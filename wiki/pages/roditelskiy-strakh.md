@@ -3,7 +3,7 @@ title: Родительский страх
 category: Concepts
 summary: Страх за ребёнка как источник контролирующего поведения — снимается не подавлением, а признанием страха перед собой и ребёнком
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8]
+sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10]
 created: 2026-08-29
 updated: 2026-08-29
 ---
@@ -40,3 +40,4 @@ updated: 2026-08-29
 - [[zashchita-blizkogo-cheloveka](pages/zashchita-blizkogo-cheloveka.md)] — та же техника «говорить о себе» от первого лица, но направленная не внутрь (признание страха), а вовне — в защиту другого близкого человека
 - [[otkaz-ot-nelzya](pages/otkaz-ot-nelzya.md)] — смежный механизм: запрет чаще защищает спокойствие взрослого, чем реально снижает риск для ребёнка
 - [[tak-nazyvaemye-slozhnye-temy](pages/tak-nazyvaemye-slozhnye-temy.md)] — тот же механизм, обобщённый на весь класс «сложных тем» (секс, смерть, дурные привычки)
+- [[kurs-12-urokov-urok-10](pages/kurs-12-urokov-urok-10.md)] — новый конкретный случай: страх «он мне на шею сядет» разбирается через личностный подход к желаниям всех членов семьи
