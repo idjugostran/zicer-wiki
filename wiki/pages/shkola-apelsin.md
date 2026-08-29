@@ -3,9 +3,9 @@ title: Школа «Апельсин»
 category: Entities
 summary: Школа неформального образования в Санкт-Петербурге, основана Димой и Наташей Зицер в 2008 году
 tags: [entity, shkola, apelsin]
-sources: [apelsinovye-budni, urok-matematiki-v-shkole-apelsin]
+sources: [apelsinovye-budni, urok-matematiki-v-shkole-apelsin, lnv-v-gostyah-u-zicera-chast-1]
 created: 2026-08-04
-updated: 2026-08-29
+updated: 2026-08-30
 ---
 
 # Школа «Апельсин»
@@ -18,6 +18,7 @@ updated: 2026-08-29
 
 - [[apelsinovye-budni](pages/apelsinovye-budni.md)] — единственный пока источник, полностью посвящённый устройству школы
 - [[urok-matematiki-v-shkole-apelsin](pages/urok-matematiki-v-shkole-apelsin.md)] — прямая съёмка урока математики: субъектность, отсутствие оценок и домашних заданий в действии, а не в описании
+- [[lnv-v-gostyah-u-zicera-chast-1](pages/lnv-v-gostyah-u-zicera-chast-1.md)] — институциональное воплощение «пяти факторов неформального образования»
 
 ## Related Concepts
 
@@ -26,3 +27,4 @@ updated: 2026-08-29
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — критика оценок, институционально воплощённая в отказе школы от оценочной системы
 - [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — та же критика оценок с точки зрения психологического механизма зависимости
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — как школа совмещает жёсткую структуру урока со свободой поведения
+- [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)] — общая структура, для которой школа служит институциональным примером

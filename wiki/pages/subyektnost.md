@@ -3,9 +3,9 @@ title: Субъектность
 category: Concepts
 summary: Равенство всех участников образовательного процесса как субъектов отношений вне зависимости от возраста и статуса
 tags: [concept, apelsin, pedagogika]
-sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-10]
+sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-10, lnv-v-gostyah-u-zicera-chast-1]
 created: 2026-08-04
-updated: 2026-08-29
+updated: 2026-08-30
 ---
 
 # Субъектность
@@ -21,6 +21,7 @@ updated: 2026-08-29
 - [[apelsinovye-budni](pages/apelsinovye-budni.md)] — вводит понятие и объясняет его практические следствия
 - [[konflikty-mezhdu-detmi-i-roditelyami](pages/konflikty-mezhdu-detmi-i-roditelyami.md)] — историческое обоснование того же принципа
 - [[urok-matematiki-v-shkole-apelsin](pages/urok-matematiki-v-shkole-apelsin.md)] — формула границы свободы в действии на конкретном уроке (см. [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)])
+- [[lnv-v-gostyah-u-zicera-chast-1](pages/lnv-v-gostyah-u-zicera-chast-1.md)] — занимает место первого из «пяти факторов неформального образования»
 
 ## Related Concepts
 
@@ -32,3 +33,4 @@ updated: 2026-08-29
 - [[manipulyatsiya](pages/manipulyatsiya.md)] — лишение воли манипуляцией прямо нарушает принцип равенства сторон
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — использует ту же формулу границы свободы, чтобы объяснить, как жёсткая структура урока совмещается со свободой поведения
 - [[lichnost-a-ne-povedenie](pages/lichnost-a-ne-povedenie.md)] — тот же аргумент («статус/возраст/способности не отменяют равенства»), применённый к самому понятию личности
+- [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)] — субъектность как первый из пяти факторов общей рамки неформального образования

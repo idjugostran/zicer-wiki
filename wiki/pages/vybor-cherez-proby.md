@@ -3,7 +3,7 @@ title: Выбор через пробы
 category: Concepts
 summary: Смена детских увлечений — не каприз, а нормальный механизм выбора через пробу; принуждение «доводить до конца» учит подчинению, а не решительности
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-171]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1]
 created: 2026-08-29
 updated: 2026-08-30
 ---
@@ -20,9 +20,11 @@ updated: 2026-08-30
 
 - [[kurs-12-urokov-urok-5](pages/kurs-12-urokov-urok-5.md)] — вводит концепт на примере смены увлечения «пение → рисование»
 - [[lnv-vypusk-171](pages/lnv-vypusk-171.md)] — совет не выбирать кружок на годы вперёд, а наблюдать за уже проявленным интересом ребёнка; «человек имеет право быть счастливым» — как обоснование права на смену решения
+- [[lnv-v-gostyah-u-zicera-chast-1](pages/lnv-v-gostyah-u-zicera-chast-1.md)] — институционализация выбора с 4 лет через индивидуальный учебный план и парламент (см. [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)])
 
 ## Related Concepts
 
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — смена интересов ребёнка — конкретное проявление общей логики пересмотра, свойственной возрастным переходам
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — тот же методологический ход: за декларируемым принципом («ответственность», «доведение до конца») нужно увидеть конкретное действие и его реальные последствия для ребёнка
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — принуждение продолжать нелюбимое занятие «потому что сам решил» структурно близко к транзакционным моделям, которые критикует этот источник
+- [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)] — выбор как один из пяти факторов, институционализированный через индивидуальный учебный план
