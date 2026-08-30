@@ -120,9 +120,13 @@ similar-looking page.
    - If the wiki has no page covering what was asked, say so plainly ("в базе
      знаний вики пока нет ничего про X") instead of quietly falling back to
      general knowledge.
-   - **Disclose that this skill answered.** End the reply with a short
-     plain-text marker on its own line, e.g. `📚 Источник: Zicer Wiki
-     (zicer-wiki-context)` — no brackets or links.
+   - **Disclose that this skill answered, with base stats.** `wiki/index.md`
+     already carries a `**Sources:** N · **Last updated:** DATE` line right
+     after its generated-by comment — you already fetched this in step 1, no
+     extra request needed. End the reply with a short plain-text marker on
+     its own line built from it, e.g. `📚 Источник: Zicer Wiki
+     (zicer-wiki-context) — N видео, обновлено DATE` (fill in the real
+     N/DATE from that line) — no brackets or links.
 
 4. **Never write to the wiki from this skill.** This is read-only context
    grounding — if asked to add or change wiki content, say that's outside what
@@ -158,4 +162,6 @@ After answering, every factual claim should be traceable to a named wiki page
 (in prose, not a `[[slug](pages/slug.md)]` link). If it isn't, it was answered
 from general knowledge — go back and ground it, or say the wiki doesn't cover
 it. Check the reply contains no literal `[[...]]` or `pages/....md` text, and
-that it ends with the `📚 Источник:` disclosure line.
+that it ends with the `📚 Источник: Zicer Wiki (zicer-wiki-context) — N видео,
+обновлено DATE` disclosure line, with real numbers from `wiki/index.md`'s
+stats line — not literal "N"/"DATE" placeholders.
