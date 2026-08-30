@@ -47,6 +47,8 @@ updated: 2026-08-30
 
 Разговор «отдельно от ситуации» повторяет технику «повернуть тумблер» из [[lnv-vypusk-214](pages/lnv-vypusk-214.md)] и сценарий примирения из [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)].
 
+Формулировка «мы не дадим своих детей в обиду» связывает этот выпуск с [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)]: защита от буллинга — ответственность взрослых и школы, а не проверка ребёнка на способность «дать сдачи».
+
 ## Footnotes
 
 [^1]: [[lnv-vypusk-162](pages/lnv-vypusk-162.md)] [01:04:00]-[01:07:12] [synthesis] — критика ритуала «вставать, отвечая»; уважение как аванс, а не техническая постановка

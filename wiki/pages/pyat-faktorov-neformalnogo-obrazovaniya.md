@@ -3,7 +3,7 @@ title: Пять факторов неформального образовани
 category: Concepts
 summary: Структурированный ответ Зицера на вопрос «можно ли обойтись без школы» — субъектность, выбор, личный интерес, субъектное взаимодействие, учение как исследование
 tags: [concept, obrazovanie, shkola-apelsin]
-sources: [lnv-v-gostyah-u-zicera-chast-1, o-shkole-i-ne-tolko-kidfrendli]
+sources: [lnv-v-gostyah-u-zicera-chast-1, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-223]
 created: 2026-08-30
 updated: 2026-08-30
 ---
@@ -22,6 +22,7 @@ updated: 2026-08-30
 
 - [[lnv-v-gostyah-u-zicera-chast-1](pages/lnv-v-gostyah-u-zicera-chast-1.md)] — вводит все пять факторов единым списком в ответ на вопрос зрителя о жизни без школы
 - [[o-shkole-i-ne-tolko-kidfrendli](pages/o-shkole-i-ne-tolko-kidfrendli.md)] — конкретный пример фактора «субъектное взаимодействие»: живой разговор со спором обучает лучше принудительного молчания
+- [[lnv-vypusk-223](pages/lnv-vypusk-223.md)] — бытовая проверка личного интереса: восьмилетняя девочка учится рисовать с удовольствием, хотя не понимает смысла части школьных заданий; взрослые ищут вместе с ней её основания для учёбы и школы
 
 ## Related Concepts
 
@@ -29,3 +30,4 @@ updated: 2026-08-30
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — смежная логика выбора, здесь институционализированная через индивидуальный учебный план и парламент
 - [[shkola-apelsin](pages/shkola-apelsin.md)] — институциональное воплощение всех пяти факторов
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — та же школа «Апельсин», другой ракурс: как устроен конкретный урок, а не общая структура образования
+- [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)] — предварительное условие любого учебного интереса: ребёнок физически и социально защищён в школе

@@ -3,7 +3,7 @@ title: Рамки, а не дисциплина
 category: Concepts
 summary: Урок не нуждается в едином поведенческом стандарте (дисциплине) — ему нужны чёткие рамки (место, правила, канва); шум и движение внутри рамок — признак вовлечённости, а не потери контроля
 tags: [concept, shkola-apelsin, pedagogika]
-sources: [urok-matematiki-v-shkole-apelsin, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali]
+sources: [urok-matematiki-v-shkole-apelsin, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-223]
 created: 2026-08-29
 updated: 2026-08-30
 ---
@@ -23,6 +23,7 @@ updated: 2026-08-30
 - [[urok-matematiki-v-shkole-apelsin](pages/urok-matematiki-v-shkole-apelsin.md)] — вводит концепт целиком, в разборе конкретного урока математики
 - [[lnv-vypusk-171](pages/lnv-vypusk-171.md)] — расширяет концепт на момент семейного кризиса: твёрдая граница вместо переговоров, диалог откладывается до спокойного состояния
 - [[u-nego-sdvg-ili-my-ego-razbalovali](pages/u-nego-sdvg-ili-my-ego-razbalovali.md)] — иллюстрация вне школы: театральный кружок, ребёнок становится осветителем вместо актёра — рамка сохранена, гибкость найдена
+- [[lnv-vypusk-223](pages/lnv-vypusk-223.md)] — трёхлетнего ребёнка, который замахивается на мать, останавливают сразу и спокойно: физическая граница не равна наказанию или ответной агрессии
 
 ## Related Concepts
 

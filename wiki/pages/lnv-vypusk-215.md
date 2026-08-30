@@ -46,6 +46,8 @@ updated: 2026-08-29
 
 Тот же формат живых звонков, что и в [[lnv-vypusk-253](pages/lnv-vypusk-253.md)] и [[konflikty-mezhdu-detmi-i-roditelyami](pages/konflikty-mezhdu-detmi-i-roditelyami.md)]. Звонок Артёма почти дословно повторяет структуру первого звонка выпуска #253 (сиблинговая ревность после рождения младшего — решение: гарантированное личное время). Финальная тема лета («хочу» вместо «надо») — прямое продолжение техники [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] из Урока 6: искренняя совместная страсть вместо навязанной обязанности. Комментарий к резонансному инциденту дополняет тезис [[isterika](pages/isterika.md)] и [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] о том, что дети усваивают модели поведения от окружающих взрослых, а не изобретают их сами — применённый здесь к крайнему случаю.
 
+Случай травли в бассейне также стал одним из примеров [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)]: безопасность ребёнка требует взрослого вмешательства, а не ожидания, что дети сами исправят ситуацию.
+
 ## Footnotes
 
 [^1]: [[lnv-vypusk-215](pages/lnv-vypusk-215.md)] [00:00:00]-[00:08:34] [synthesis] — комментарий к резонансному школьному инциденту (Таганрог)
