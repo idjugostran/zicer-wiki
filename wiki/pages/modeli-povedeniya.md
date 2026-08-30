@@ -3,7 +3,7 @@ title: Модели поведения
 category: Concepts
 summary: Модель поведения — рамка, закрепившаяся через повторение похожих ситуаций; безвредна, пока осознаётся, и опасна, когда становится незаметной «второй натурой», ощущаемой как характер
 tags: [concept, roditelstvo, samoregulyatsiya]
-sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli]
+sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-201]
 created: 2026-08-29
 updated: 2026-08-30
 ---
@@ -24,6 +24,7 @@ updated: 2026-08-30
 - [[nablyudatel-o-podrostkah](pages/nablyudatel-o-podrostkah.md)] — трудный возраст как катализатор накопленных моделей, а не причина; решающую роль играют модели, а не гены или абстрактное воспитание
 - [[lnv-vypusk-252](pages/lnv-vypusk-252.md)] — дополняющий вопрос «зачем»: не откуда взялась модель, а что она продолжает обслуживать
 - [[o-shkole-i-ne-tolko-kidfrendli](pages/o-shkole-i-ne-tolko-kidfrendli.md)] — советское наследие «мы поступаем правильно» как унаследованная модель, подавляющая рефлексию
+- [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — учительская практическая техника формирования модели: работать одновременно с моделью поведения детей («как я хочу, чтобы ко мне относились, когда я ошибаюсь») и с пониманием родителей через собрание
 
 ## Related Concepts
 

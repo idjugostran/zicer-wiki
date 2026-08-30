@@ -3,7 +3,7 @@ title: Дима Зицер
 category: Entities
 summary: Педагог, автор канала о воспитании детей и школе «Апельсин»
 tags: [entity, pedagogue]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, u-nego-sdvg-ili-my-ego-razbalovali, kurs-12-urokov-urok-11, lnv-vypusk-252, kak-spasti-15-letnego-syna, o-shkole-i-ne-tolko-kidfrendli, o-diskriminatsii-detey-vzroslymi, mama-dorogaya-bulling]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, u-nego-sdvg-ili-my-ego-razbalovali, kurs-12-urokov-urok-11, lnv-vypusk-252, kak-spasti-15-letnego-syna, o-shkole-i-ne-tolko-kidfrendli, o-diskriminatsii-detey-vzroslymi, mama-dorogaya-bulling, lnv-vypusk-201]
 created: 2026-08-04
 updated: 2026-08-30
 ---
@@ -60,6 +60,7 @@ updated: 2026-08-30
 - [[o-shkole-i-ne-tolko-kidfrendli](pages/o-shkole-i-ne-tolko-kidfrendli.md)] — интервью «Кидфрендли»: школа как «камера хранения», критика принудительного молчания
 - [[o-diskriminatsii-detey-vzroslymi](pages/o-diskriminatsii-detey-vzroslymi.md)] — ранний (2017) монолог: общее определение дискриминации, «дети — эксперты своего момента»
 - [[mama-dorogaya-bulling](pages/mama-dorogaya-bulling.md)] — панель ЮНЕСКО про буллинг: навязанный коллективизм как почва, техника «зачем, а не что» для инициатора
+- [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — выпуск №201: восемь звонков, центральный — развёрнутый разбор, почему нельзя читать переписку ребёнка
 
 ## Related Concepts
 
@@ -99,3 +100,4 @@ updated: 2026-08-30
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — центральный концепт выпуска №252
 - [[my-vmesto-on-diagnostika-subyektnosti](pages/my-vmesto-on-diagnostika-subyektnosti.md)] — центральный концепт звонка про 15-летнего сына
 - [[kollektivizm-kak-pochva-dlya-bullinga](pages/kollektivizm-kak-pochva-dlya-bullinga.md)] — центральный концепт панели про буллинг
+- [[chtenie-perepiski-detey](pages/chtenie-perepiski-detey.md)] — центральный концепт выпуска №201

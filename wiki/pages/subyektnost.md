@@ -3,7 +3,7 @@ title: Субъектность
 category: Concepts
 summary: Равенство всех участников образовательного процесса как субъектов отношений вне зависимости от возраста и статуса
 tags: [concept, apelsin, pedagogika]
-sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-10, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kak-spasti-15-letnego-syna, o-shkole-i-ne-tolko-kidfrendli, mama-dorogaya-bulling]
+sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-10, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kak-spasti-15-letnego-syna, o-shkole-i-ne-tolko-kidfrendli, mama-dorogaya-bulling, lnv-vypusk-201]
 created: 2026-08-04
 updated: 2026-08-30
 ---
@@ -26,6 +26,7 @@ updated: 2026-08-30
 - [[kak-spasti-15-letnego-syna](pages/kak-spasti-15-letnego-syna.md)] — диагностика «мы, а не он»: отсутствие субъектности вскрывается через анализ местоимений в рассказе родителя
 - [[o-shkole-i-ne-tolko-kidfrendli](pages/o-shkole-i-ne-tolko-kidfrendli.md)] — единственный надёжный способ сравнить школы — спросить самого ребёнка
 - [[mama-dorogaya-bulling](pages/mama-dorogaya-bulling.md)] — личностные, а не навязанные коллективные отношения в классе как защита от буллинга
+- [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — право ребёнка сказать «да» или «нет», дружить ли с конкретным человеком, вместо принуждения себя к отношениям; и право пятилетнего ребёнка самому переключаться между занятиями без вмешательства взрослого в его цели
 
 ## Related Concepts
 

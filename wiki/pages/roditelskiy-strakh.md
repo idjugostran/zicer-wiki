@@ -3,7 +3,7 @@ title: Родительский страх
 category: Concepts
 summary: Страх за ребёнка как источник контролирующего поведения — снимается не подавлением, а признанием страха перед собой и ребёнком
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kurs-12-urokov-urok-11, lnv-vypusk-252, o-diskriminatsii-detey-vzroslymi]
+sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kurs-12-urokov-urok-11, lnv-vypusk-252, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-201]
 created: 2026-08-29
 updated: 2026-08-30
 ---
@@ -38,6 +38,7 @@ updated: 2026-08-30
 - [[kurs-12-urokov-urok-11](pages/kurs-12-urokov-urok-11.md)] — запрет дружбы из страха выталкивает её «в подворотню», вместо того чтобы снизить риск
 - [[lnv-vypusk-252](pages/lnv-vypusk-252.md)] — институциональная причина инцидента (бассейн без присмотра) первична по отношению к страхам о мотивах ребёнка
 - [[o-diskriminatsii-detey-vzroslymi](pages/o-diskriminatsii-detey-vzroslymi.md)] — сладкое как «охота» — ограничение само создаёт одержимость, которую взрослые затем приписывают врождённой невоздержанности
+- [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — конкретизация на теме цифровой переписки: «мы очень боимся, мы должны быть в курсе» прямо названо источником слежки за перепиской ребёнка (см. новый концепт [[chtenie-perepiski-detey](pages/chtenie-perepiski-detey.md)])
 
 ## Related Concepts
 
@@ -56,3 +57,4 @@ updated: 2026-08-30
 - [[ekzistentsialnyi-vopros-perehodnogo-vozrasta](pages/ekzistentsialnyi-vopros-perehodnogo-vozrasta.md)] — техника «говорить о себе» применена к теме, которую сам страх взрослого чаще всего мешает открыть
 - [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — примирение начинается с того же приёма: признать собственную трудность вслух, а не потребовать от ребёнка соответствия
 - [[durnaya-kompaniya-i-svoy-ugol](pages/durnaya-kompaniya-i-svoy-ugol.md)] — запрет дружбы из страха — конкретный случай общего механизма родительского страха
+- [[chtenie-perepiski-detey](pages/chtenie-perepiski-detey.md)] — конкретный случай общего механизма: слежка за перепиской как проявление родительского страха, замаскированного под заботу о безопасности
