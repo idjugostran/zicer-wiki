@@ -3,7 +3,7 @@ title: Взаимный обмен интересами
 category: Concepts
 summary: Отвлечь ребёнка от гаджетов запретом нельзя — работает встречное движение: попроситься в мир ребёнка, затем пригласить его в свой мир как в подарок, а не в обязанность
 tags: [concept, roditelstvo, kurs-12-urokov, gadzhety]
-sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251]
+sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-248]
 created: 2026-08-29
 updated: 2026-08-30
 ---
@@ -24,6 +24,7 @@ updated: 2026-08-30
 - [[nablyudatel-o-podrostkah](pages/nablyudatel-o-podrostkah.md)] — отказ от формального дозирования экранного времени в пользу того же принципа живого примера увлечённости
 - [[lnv-vypusk-162](pages/lnv-vypusk-162.md)] — попроситься в мир 15-летней дочери на 10 минут вместо навязывания своих увлечений
 - [[lnv-vypusk-251](pages/lnv-vypusk-251.md)] — два новых случая: совместная игра вместо запрета смартфона; структурированное совместное возвращение к игре-страшилке маленькими порциями
+- [[lnv-vypusk-248](pages/lnv-vypusk-248.md)] — диагностический пример: отец считает сына неспособным преодолевать трудности, но не знает, чего тот достиг в Minecraft; оценке должно предшествовать искреннее изучение мира ребёнка
 
 ## Related Concepts
 

@@ -37,6 +37,7 @@ updated: 2026-08-30
 - [[dima-zicer](pages/dima-zicer.md)]
 - [[programma-lyubit-nelzya-vospityvat](pages/programma-lyubit-nelzya-vospityvat.md)]
 - [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)]
+- [[samopovrezhdenie-kak-signal](pages/samopovrezhdenie-kak-signal.md)]
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)]
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)]
 
@@ -47,6 +48,8 @@ updated: 2026-08-30
 «Мы орём, потому что можем» почти дословно повторяет диагностику [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] и [[davat-sdachi](pages/davat-sdachi.md)] (источник про маму, дерущуюся с сыном) — третье независимое подтверждение того, что агрессия к близким объясняется разрешением себе, а не потерей контроля.
 
 Новый концепт [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] структурно родственен [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] (дыхание, вода, лицо в зеркале) — тот же принцип «физическое действие важнее мысли», но развёрнутый не как способ погасить реакцию в моменте, а как систематическая многодневная практика с отложенным разговором.
+
+В паре с более поздним [[lnv-vypusk-248](pages/lnv-vypusk-248.md)] этот случай входит в концепт [[samopovrezhdenie-kak-signal](pages/samopovrezhdenie-kak-signal.md)]: похожее видимое поведение требует сначала различить контекст отношений — чрезмерный контроль или дефицит безопасной близости — вместо универсального объяснения и одного рецепта.
 
 ## Footnotes
 

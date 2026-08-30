@@ -3,7 +3,7 @@ title: Родительская функция
 category: Concepts
 summary: Формулировка Зицера — защита, помощь, присутствие, поддержка
 tags: [concept, parenting]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-248]
 created: 2026-08-04
 updated: 2026-08-30
 ---
@@ -35,6 +35,7 @@ updated: 2026-08-30
 - [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — два новых случая: удалённая поддержка подростка через «я готова разделить с тобой любую проблему» без давления на обсуждение конфликта с другим родителем; и буквальный физический аналог «тыла» — нельзя силой отрывать плачущего ребёнка при расставании
 - [[lnv-vypusk-251](pages/lnv-vypusk-251.md)] — техника минимальной рефлексии: «расскажи словами, что тебя расстроило» вместо «перестань плакать»; и защита ребёнка от чужого замечания при посторонних как форма «тыла»
 - [[lnv-vypusk-200](pages/lnv-vypusk-200.md)] — три новых случая: конкретные правила безопасности как форма защиты («взрослые обязаны сделать свою часть работы»); родители обязаны защищать ребёнка от школы, которая «хватает за руку/шкирку» («это происходит, потому что вы позволяете»); отец после развода остаётся «на стороне» дочери через соцсети, несмотря на заблокированный контакт
+- [[lnv-vypusk-248](pages/lnv-vypusk-248.md)] — две грани функции: безопасная близость как возможность подростку выразить боль иначе, чем самоповреждением; и спокойная физическая остановка маленького ребёнка, который бьёт мать, без эмоциональной эскалации
 
 ## Related Concepts
 
@@ -47,3 +48,4 @@ updated: 2026-08-30
 - [[zashchita-blizkogo-cheloveka](pages/zashchita-blizkogo-cheloveka.md)] — «защита» применительно к другому родителю, а не только к ребёнку
 - [[durnaya-kompaniya-i-svoy-ugol](pages/durnaya-kompaniya-i-svoy-ugol.md)] — «дом как тыл» как профилактика «дурной компании»
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — то же слово «функция» в противоположном, критикуемом смысле: там — конкретные действия родителя (защита, помощь), здесь — сама форма отношений с ребёнком (обязанность вместо человека). Терминологическая, не фактическая развилка
+- [[samopovrezhdenie-kak-signal](pages/samopovrezhdenie-kak-signal.md)] — применение присутствия и поддержки к ситуации, где подростку не хватает безопасного способа выразить переживание

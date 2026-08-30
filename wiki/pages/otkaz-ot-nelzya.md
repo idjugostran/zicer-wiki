@@ -3,7 +3,7 @@ title: Отказ от произвольного «нельзя»
 category: Concepts
 summary: Большинство родительских запретов не выдерживают прямой проверки; реальные опасности стоит устранять физически, а не превращать в бесконечный запрет — произвольные же «нельзя» держат в «тюрьме» и родителя, и ребёнка
 tags: [concept, roditelstvo, granitsy]
-sources: [svoboda-ot-vospitaniya-tedx]
+sources: [svoboda-ot-vospitaniya-tedx, lnv-vypusk-248]
 created: 2026-08-29
 updated: 2026-08-29
 ---
@@ -19,6 +19,7 @@ updated: 2026-08-29
 ## Appearances in Sources
 
 - [[svoboda-ot-vospitaniya-tedx](pages/svoboda-ot-vospitaniya-tedx.md)] — вводит концепт целиком, с примерами мороженого, супа, шапки и истории про режим сна
+- [[lnv-vypusk-248](pages/lnv-vypusk-248.md)] — однодневный диагностический эксперимент: убрать нравоучения после детского «не хочу», заменить приказ реальным вопросом и проверить, поддерживалось ли сопротивление взрослой частью цикла
 
 ## Related Concepts
 

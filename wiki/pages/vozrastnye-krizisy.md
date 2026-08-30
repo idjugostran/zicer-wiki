@@ -3,7 +3,7 @@ title: Возрастные кризисы как смена системы ко
 category: Concepts
 summary: Три ключевые возрастные границы (3 года, 7 лет, переходный возраст) — не сбои, а последовательная смена «системы координат» взаимодействия с миром
 tags: [concept, roditelstvo, kurs-12-urokov, podrostki]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, o-diskriminatsii-detey-vzroslymi]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-248]
 created: 2026-08-29
 updated: 2026-08-30
 ---
@@ -27,6 +27,7 @@ updated: 2026-08-30
 - [[dima-zicer-v-programme-nam-nado-pogovorit-rtvi](pages/dima-zicer-v-programme-nam-nado-pogovorit-rtvi.md)] — независимое повторение метафоры «коробочки» для переходного возраста
 - [[kurs-12-urokov-urok-11](pages/kurs-12-urokov-urok-11.md)] — явно называет тот же возрастной порог (7-8 лет), после которого влияние среды начинает перевешивать родительское
 - [[o-diskriminatsii-detey-vzroslymi](pages/o-diskriminatsii-detey-vzroslymi.md)] — тот же порог (~7 лет) как граница полного, не подвергаемого сомнению доверия ребёнка к родителям
+- [[lnv-vypusk-248](pages/lnv-vypusk-248.md)] — два живых проявления смены координат: шестнадцатилетняя девушка пересматривает прежде уверенный образовательный выбор; ребёнок около трёх лет сильнее проверяет эмоциональную связь с матерью, одновременно нуждаясь в спокойной границе безопасности
 
 ## Related Concepts
 
@@ -36,3 +37,4 @@ updated: 2026-08-30
 - [[ekzistentsialnyi-vopros-perehodnogo-vozrasta](pages/ekzistentsialnyi-vopros-perehodnogo-vozrasta.md)] — конкретизация ядра переходного возраста: вопрос смысла жизни, а не отдельные пересматриваемые привычки
 - [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — практический ответ на ситуацию, когда прежний инструмент контроля уже не работает в силу возраста ребёнка
 - [[durnaya-kompaniya-i-svoy-ugol](pages/durnaya-kompaniya-i-svoy-ugol.md)] — следствие того же возрастного сдвига: после 7-8 лет влияние среды и друзей нарастает
+- [[samopovrezhdenie-kak-signal](pages/samopovrezhdenie-kak-signal.md)] — подростковый пересмотр отношений составляет контекст тяжёлого переживания, но не является универсальным объяснением самоповреждения

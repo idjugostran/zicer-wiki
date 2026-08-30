@@ -28,6 +28,7 @@ updated: 2026-08-30
 
 ## Related Concepts
 
+- [[samopovrezhdenie-kak-signal](pages/samopovrezhdenie-kak-signal.md)] — различает два контекста похожего симптома: чрезмерный контроль требует сначала отступить, а эмоциональная дистанция — восстановить безопасный канал близости
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — тот же принцип «физическое действие важнее мысли», но развёрнутый в многодневную практику вместо мгновенной разрядки
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — техника отвечает на ситуацию, где инструмент контроля (работающий примерно до 7–10 лет) уже перестал действовать
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — то же наблюдение «мы орём, потому что можем», независимо подтверждённое здесь
