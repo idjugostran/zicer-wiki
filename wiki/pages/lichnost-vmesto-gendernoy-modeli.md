@@ -3,9 +3,9 @@ title: Личность вместо гендерной модели
 category: Concepts
 summary: Жёсткие гендерные сценарии («мальчик = твёрдая рука», «девочка = покорность») вредят обоим полам одинаково; личность и интересы ребёнка важнее культивирования «мальчиковости»/«девочковости»
 tags: [concept, roditelstvo, kurs-12-urokov, gender]
-sources: [kurs-12-urokov-urok-9]
+sources: [kurs-12-urokov-urok-9, kak-spasti-15-letnego-syna]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-08-30
 ---
 
 # Личность вместо гендерной модели
@@ -19,6 +19,7 @@ updated: 2026-08-29
 ## Appearances in Sources
 
 - [[kurs-12-urokov-urok-9](pages/kurs-12-urokov-urok-9.md)] — вводит концепт целиком, на примерах карьерных стереотипов, фразы «будь мужиком», воспитания дочерей для подчинения и выбора игрушек
+- [[kak-spasti-15-letnego-syna](pages/kak-spasti-15-letnego-syna.md)] — конкретный тяжёлый случай: ожидание отца «стать добытчиком» как часть давления, лишающего сына права на собственные желания
 
 ## Related Concepts
 

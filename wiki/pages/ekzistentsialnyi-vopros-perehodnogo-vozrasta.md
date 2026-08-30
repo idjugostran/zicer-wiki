@@ -3,9 +3,9 @@ title: Экзистенциальный вопрос переходного во
 category: Concepts
 summary: «Зачем я живу» — типичный, а не кризисный вопрос, который переходный возраст открывает едва ли не впервые в жизни; пугающая для взрослых тема, но обычно не сигнал непосредственной опасности
 tags: [concept, podrostki, kurs-12-urokov]
-sources: [mama-prochla-dnevnik-docheri-i-uzhasnulas]
+sources: [mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-spasti-15-letnego-syna]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-08-30
 ---
 
 # Экзистенциальный вопрос переходного возраста
@@ -19,8 +19,10 @@ updated: 2026-08-29
 ## Appearances in Sources
 
 - [[mama-prochla-dnevnik-docheri-i-uzhasnulas](pages/mama-prochla-dnevnik-docheri-i-uzhasnulas.md)] — вводит концепт целиком, на примере записи 12-летней дочери в дневнике
+- [[kak-spasti-15-letnego-syna](pages/kak-spasti-15-letnego-syna.md)] — обратная сторона того же вопроса: «зачем ему жить», заданный не подростком себе, а Зицером — родителю, как диагностика тяжёлого случая
 
 ## Related Concepts
 
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — общая рамка переходного возраста как пересмотра усвоенного; здесь называется ядро этого пересмотра — сам вопрос смысла жизни
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — та же техника разговора от первого лица вместо допроса, применённая здесь к просьбе о близости, а не к признанию страха
+- [[my-vmesto-on-diagnostika-subyektnosti](pages/my-vmesto-on-diagnostika-subyektnosti.md)] — «зачем ему жить» как часть той же диагностики тяжёлого семейного кризиса

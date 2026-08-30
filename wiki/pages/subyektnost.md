@@ -3,7 +3,7 @@ title: Субъектность
 category: Concepts
 summary: Равенство всех участников образовательного процесса как субъектов отношений вне зависимости от возраста и статуса
 tags: [concept, apelsin, pedagogika]
-sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-10, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162]
+sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-10, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kak-spasti-15-letnego-syna]
 created: 2026-08-04
 updated: 2026-08-30
 ---
@@ -23,6 +23,7 @@ updated: 2026-08-30
 - [[urok-matematiki-v-shkole-apelsin](pages/urok-matematiki-v-shkole-apelsin.md)] — формула границы свободы в действии на конкретном уроке (см. [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)])
 - [[lnv-v-gostyah-u-zicera-chast-1](pages/lnv-v-gostyah-u-zicera-chast-1.md)] — занимает место первого из «пяти факторов неформального образования»
 - [[lnv-vypusk-162](pages/lnv-vypusk-162.md)] — критика ритуала «вставать, отвечая учителю» как маркера иерархии, а не уважения — та же логика, что и асимметрия «вы/ты»
+- [[kak-spasti-15-letnego-syna](pages/kak-spasti-15-letnego-syna.md)] — диагностика «мы, а не он»: отсутствие субъектности вскрывается через анализ местоимений в рассказе родителя
 
 ## Related Concepts
 
@@ -35,3 +36,4 @@ updated: 2026-08-30
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — использует ту же формулу границы свободы, чтобы объяснить, как жёсткая структура урока совмещается со свободой поведения
 - [[lichnost-a-ne-povedenie](pages/lichnost-a-ne-povedenie.md)] — тот же аргумент («статус/возраст/способности не отменяют равенства»), применённый к самому понятию личности
 - [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)] — субъектность как первый из пяти факторов общей рамки неформального образования
+- [[my-vmesto-on-diagnostika-subyektnosti](pages/my-vmesto-on-diagnostika-subyektnosti.md)] — конкретный диагностический инструмент для тяжёлых случаев отнятой субъектности
