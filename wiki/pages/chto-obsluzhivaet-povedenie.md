@@ -3,7 +3,7 @@ title: «Что обслуживает» поведение
 category: Concepts
 summary: Вместо оценки самого поступка — искать эмоциональную «плату», которую он приносит: какое состояние или ощущение человек хочет получить, повторяя это поведение
 tags: [concept, samoregulyatsiya, podrostki]
-sources: [lnv-vypusk-252]
+sources: [lnv-vypusk-252, mama-dorogaya-bulling]
 created: 2026-08-30
 updated: 2026-08-30
 ---
@@ -19,6 +19,7 @@ updated: 2026-08-30
 ## Appearances in Sources
 
 - [[lnv-vypusk-252](pages/lnv-vypusk-252.md)] — вводит технику на двух примерах: 11-летний мальчик, провоцирующий конфликты едкими замечаниями; 12-летняя девочка, матерящаяся «чтобы не быть лохушкой»
+- [[mama-dorogaya-bulling](pages/mama-dorogaya-bulling.md)] — применение техники к инициатору травли (см. [[kollektivizm-kak-pochva-dlya-bullinga](pages/kollektivizm-kak-pochva-dlya-bullinga.md)])
 
 ## Related Concepts
 

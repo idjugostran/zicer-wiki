@@ -3,7 +3,7 @@ title: Дети как «последняя дискриминируемая г�
 category: Concepts
 summary: Историческая рамка Зицера — неравенство детей и взрослых сопоставимо с историческим бесправием женщин и расовой дискриминацией
 tags: [concept, subyektnost, roditelstvo]
-sources: [konflikty-mezhdu-detmi-i-roditelyami, pochemu-vzroslye-unizhayut-detey, nablyudatel-o-podrostkah, lnv-v-gostyah-u-zicera-chast-1, o-diskriminatsii-detey-vzroslymi]
+sources: [konflikty-mezhdu-detmi-i-roditelyami, pochemu-vzroslye-unizhayut-detey, nablyudatel-o-podrostkah, lnv-v-gostyah-u-zicera-chast-1, o-diskriminatsii-detey-vzroslymi, mama-dorogaya-bulling]
 created: 2026-08-04
 updated: 2026-08-30
 ---
@@ -29,6 +29,7 @@ updated: 2026-08-30
 - [[nablyudatel-o-podrostkah](pages/nablyudatel-o-podrostkah.md)] — языковое подтверждение: само слово «подросток» отказывает в статусе личности; альтернатива «разведчики»
 - [[lnv-v-gostyah-u-zicera-chast-1](pages/lnv-v-gostyah-u-zicera-chast-1.md)] — критика мифа о «беззаботном детстве»: детство как период тотальной зависимости
 - [[o-diskriminatsii-detey-vzroslymi](pages/o-diskriminatsii-detey-vzroslymi.md)] — ранний (2017) источник: общее определение дискриминации, формула отличия от любви, «дети — эксперты своего момента»
+- [[mama-dorogaya-bulling](pages/mama-dorogaya-bulling.md)] — тот же механизм дискриминации (сила без рефлексии) внутри детского коллектива, а не между взрослыми и детьми
 
 ## Related Concepts
 
