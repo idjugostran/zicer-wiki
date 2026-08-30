@@ -3,7 +3,7 @@ title: Родительская функция
 category: Concepts
 summary: Формулировка Зицера — защита, помощь, присутствие, поддержка
 tags: [concept, parenting]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251]
 created: 2026-08-04
 updated: 2026-08-30
 ---
@@ -33,6 +33,7 @@ updated: 2026-08-30
 - [[kurs-12-urokov-urok-11](pages/kurs-12-urokov-urok-11.md)] — конкретизирует «дом как тыл» через механизм «дурной компании»: без «своего угла» дома ребёнок ищет принятие где угодно и любой ценой
 - [[mama-dorogaya-bulling](pages/mama-dorogaya-bulling.md)] — «дом как тыл» особенно необходим именно в момент столкновения с травлей вне дома, когда родители чаще всего непреднамеренно превращают дом в «передовую»
 - [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — два новых случая: удалённая поддержка подростка через «я готова разделить с тобой любую проблему» без давления на обсуждение конфликта с другим родителем; и буквальный физический аналог «тыла» — нельзя силой отрывать плачущего ребёнка при расставании
+- [[lnv-vypusk-251](pages/lnv-vypusk-251.md)] — техника минимальной рефлексии: «расскажи словами, что тебя расстроило» вместо «перестань плакать»; и защита ребёнка от чужого замечания при посторонних как форма «тыла»
 
 ## Related Concepts
 

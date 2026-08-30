@@ -3,7 +3,7 @@ title: Отступление к собственному удовольстви
 category: Concepts
 summary: Когда контроль над ребёнком перестал работать, вместо вмешательства — заранее подготовленный список из 10 личных удовольствий; примирение начинается только после того, как этот цикл сломан
 tags: [concept, samoregulyatsiya, podrostki]
-sources: [kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-214, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, kak-spasti-15-letnego-syna]
+sources: [kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-214, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, kak-spasti-15-letnego-syna, lnv-vypusk-251]
 created: 2026-08-30
 updated: 2026-08-30
 ---
@@ -24,6 +24,7 @@ updated: 2026-08-30
 - [[u-nego-sdvg-ili-my-ego-razbalovali](pages/u-nego-sdvg-ili-my-ego-razbalovali.md)] — примирение (объятия, извинение) недостаточно само по себе; нужен отдельный разговор о конкретных инструментах на будущее
 - [[lnv-vypusk-252](pages/lnv-vypusk-252.md)] — то же внимание к конкретному ощущению, стоящему за действием (см. [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)])
 - [[kak-spasti-15-letnego-syna](pages/kak-spasti-15-letnego-syna.md)] — тяжёлый случай того же принципа: сначала родитель наедине признаёт и оплакивает свою роль, потом идёт к ребёнку
+- [[lnv-vypusk-251](pages/lnv-vypusk-251.md)] — два лёгких случая того же принципа: заранее назвать три вещи, которые готов делать («я имею право чего-то не делать»); занять себя собственным хобби вместо попытки переубедить взрослеющую дочь
 
 ## Related Concepts
 
