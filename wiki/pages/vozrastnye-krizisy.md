@@ -3,7 +3,7 @@ title: Возрастные кризисы как смена системы ко
 category: Concepts
 summary: Три ключевые возрастные границы (3 года, 7 лет, переходный возраст) — не сбои, а последовательная смена «системы координат» взаимодействия с миром
 tags: [concept, roditelstvo, kurs-12-urokov, podrostki]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, o-diskriminatsii-detey-vzroslymi]
 created: 2026-08-29
 updated: 2026-08-30
 ---
@@ -26,6 +26,7 @@ updated: 2026-08-30
 - [[kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey](pages/kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey.md)] — конкретизирует границу кризиса семилетия с практической стороны: инструмент «разрешать/запрещать» перестаёт работать в том же возрастном диапазоне (7–10 лет)
 - [[dima-zicer-v-programme-nam-nado-pogovorit-rtvi](pages/dima-zicer-v-programme-nam-nado-pogovorit-rtvi.md)] — независимое повторение метафоры «коробочки» для переходного возраста
 - [[kurs-12-urokov-urok-11](pages/kurs-12-urokov-urok-11.md)] — явно называет тот же возрастной порог (7-8 лет), после которого влияние среды начинает перевешивать родительское
+- [[o-diskriminatsii-detey-vzroslymi](pages/o-diskriminatsii-detey-vzroslymi.md)] — тот же порог (~7 лет) как граница полного, не подвергаемого сомнению доверия ребёнка к родителям
 
 ## Related Concepts
 
