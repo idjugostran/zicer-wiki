@@ -3,7 +3,7 @@ title: Родительский страх
 category: Concepts
 summary: Страх за ребёнка как источник контролирующего поведения — снимается не подавлением, а признанием страха перед собой и ребёнком
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kurs-12-urokov-urok-11, lnv-vypusk-252, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200]
+sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kurs-12-urokov-urok-11, lnv-vypusk-252, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, mama-narushaet-lichnye-granitsy]
 created: 2026-08-29
 updated: 2026-08-30
 ---
@@ -41,6 +41,7 @@ updated: 2026-08-30
 - [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — конкретизация на теме цифровой переписки: «мы очень боимся, мы должны быть в курсе» прямо названо источником слежки за перепиской ребёнка (см. новый концепт [[chtenie-perepiski-detey](pages/chtenie-perepiski-detey.md)])
 - [[lnv-vypusk-251](pages/lnv-vypusk-251.md)] — тот же механизм в обратную сторону: подросток учится называть страх испуганного родителя вслух и успокаивать его первым, вместо того чтобы повторять свою просьбу; и повторное развенчание мифа о «цифровом слабоумии»
 - [[lnv-vypusk-200](pages/lnv-vypusk-200.md)] — конкретная техника на теме сладкого: не прятать и не заваливать дом сладким из страха зависимости, а вместе с ребёнком идти в магазин и договариваться о количестве
+- [[mama-narushaet-lichnye-granitsy](pages/mama-narushaet-lichnye-granitsy.md)] — самое развёрнутое применение техники «ребёнок называет и успокаивает страх родителя»: три стадии эскалации (любопытство → страх под видом ответственности → вина), плюс новое определение привязанности как личных границ, слегка сдвинутых для близкого человека
 
 ## Related Concepts
 
