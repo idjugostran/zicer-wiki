@@ -11,11 +11,14 @@
 # source-video material the skill never opens, and not bin/ either, since
 # wiki/index.md is committed pre-generated and this installer never runs
 # Python for wiki generation), registers the skill with Hermes
-# (skills.external_dirs), and installs a daily cron job that re-invokes this
-# same script from the local clone so the wiki stays fresh. Unlike the
-# sibling `zicer-wiki-context` skill (which fetches the wiki over HTTPS on
-# every mention, no local data), this Hermes-only variant pre-clones once and
-# refreshes on a schedule instead of fetching remotely on every invocation.
+# (skills.external_dirs), disables the sibling `zicer-wiki-context` skill in
+# Hermes if it's present (same skill/ tree, since Hermes has no built-in way
+# to prefer one of two skills with overlapping triggers — see skills.disabled
+# below), and installs a daily cron job that re-invokes this same script from
+# the local clone so the wiki stays fresh. `zicer-wiki-context` itself is
+# left completely untouched on disk — it keeps working for Claude, which
+# reads SKILL.md files directly and isn't affected by Hermes's
+# skills.disabled list at all; only Hermes's own view of it changes.
 #
 # Idempotent — safe to re-run any time (by hand, or by the daily cron tick
 # this script itself installs): re-running just fast-forwards to the latest
@@ -30,28 +33,34 @@
 #   ZICER_INSTALL_DIR  where to clone it (default: ~/Zicer)
 #   ZICER_CRON_TIME    daily refresh time, 24h HH:MM, local time (default: 04:17)
 # CLI flags (only usable once you have a local copy, e.g. `./setup.sh --no-register`):
-#   --dir PATH          same as ZICER_INSTALL_DIR
-#   --repo URL          same as ZICER_REPO_URL
-#   --no-register       skip the Hermes registration step (clone/update only)
-#   --no-cron           skip installing/updating the daily refresh cron job
-#   --cron-time HH:MM   same as ZICER_CRON_TIME
+#   --dir PATH             same as ZICER_INSTALL_DIR
+#   --repo URL              same as ZICER_REPO_URL
+#   --no-register           skip the Hermes registration step (clone/update only)
+#   --keep-context-skill    don't disable the sibling zicer-wiki-context skill in Hermes
+#   --no-cron               skip installing/updating the daily refresh cron job
+#   --cron-time HH:MM       same as ZICER_CRON_TIME
 #
-# --no-register and --no-cron are independent — skipping one doesn't skip
-# the other (a caller might want the clone kept fresh without touching
-# Hermes's config, or vice versa). The one place they're NOT independent:
-# if --no-register was passed, steps 4/5 (restarting Hermes) are skipped
-# too, same as before cron existed — restarting Hermes to pick up a skill
-# that was never registered with it has nothing to do.
+# --no-register, --no-cron, and --keep-context-skill are independent —
+# skipping one doesn't skip the others (a caller might want the clone kept
+# fresh without touching Hermes's config, or want both skills active in
+# Hermes, or any combination). The one place they're NOT independent:
+# if --no-register was passed, steps 3/5/6 (disabling the sibling skill,
+# restarting Hermes) are skipped too, same as before cron existed —
+# touching Hermes's config/state to pick up a skill that was never
+# registered with it has nothing to do.
 #
 # What it does, in order (see the comment above each numbered step below for
 # the full detail on that step):
 #   0. Sparse-clone/update just wiki/, skill/ (no raw/, no bin/).
 #   1. Check the `hermes` CLI is on PATH.
 #   2. Register the skill with Hermes (skills.external_dirs).
-#   3. Register a daily cron job that re-runs this script from the local
+#   3. Disable the sibling zicer-wiki-context skill in Hermes, if it's
+#      present in the same skill/ tree (skills.disabled) — doesn't touch
+#      its files, only Hermes's view of it.
+#   4. Register a daily cron job that re-runs this script from the local
 #      clone to pull updates and re-sync Hermes if anything changed.
-#   4. Restart the Hermes gateway, if running and something changed.
-#   5. Restart the Hermes desktop app, if running and something changed.
+#   5. Restart the Hermes gateway, if running and something changed.
+#   6. Restart the Hermes desktop app, if running and something changed.
 #
 # To remove everything this script installs, see uninstall.sh in this same
 # directory.
@@ -63,12 +72,14 @@ INSTALL_DIR="${ZICER_INSTALL_DIR:-$HOME/Zicer}"
 CRON_TIME="${ZICER_CRON_TIME:-04:17}"
 DO_REGISTER=1
 DO_CRON=1
+DO_DISABLE_CONTEXT=1
 
 while [[ $# -gt 0 ]]; do
   case "$1" in
     --dir) INSTALL_DIR="$2"; shift 2 ;;
     --repo) REPO_URL="$2"; shift 2 ;;
     --no-register) DO_REGISTER=0; shift ;;
+    --keep-context-skill) DO_DISABLE_CONTEXT=0; shift ;;
     --no-cron) DO_CRON=0; shift ;;
     --cron-time) CRON_TIME="$2"; shift 2 ;;
     *) echo "Unknown argument: $1" >&2; exit 2 ;;
@@ -151,7 +162,15 @@ echo "== 2. Register skill with Hermes (skills.external_dirs) =="
 if [[ "$DO_REGISTER" -eq 0 ]]; then
   echo "  Skipped (--no-register)"
 else
-  python3 - "$INSTALL_DIR/skill" <<'PYEOF'
+  # Output goes through a temp file, not $(...) command substitution -
+  # macOS ships bash 3.2 (frozen pre-GPLv3) as /bin/bash, and its heredoc
+  # parser has a real, confirmed bug where a heredoc nested inside `$(...)`
+  # can mis-parse once the body has enough parenthesized string content,
+  # silently breaking the script for anyone running the plain `curl | bash`
+  # one-liner on a stock Mac. A plain (non-substituted) heredoc redirected
+  # to a file sidesteps that parser path entirely.
+  REGISTER_LOG="$(mktemp)"
+  python3 - "$INSTALL_DIR/skill" > "$REGISTER_LOG" 2>&1 <<'PYEOF'
 import re
 import sys
 from pathlib import Path
@@ -233,6 +252,114 @@ print("  WARNING: could not find a recognizable 'external_dirs:' shape in")
 print(f"           {config_path} - add it manually under skills.external_dirs:")
 print(f'             - "{skill_parent_dir}"')
 PYEOF
+  cat "$REGISTER_LOG"
+  grep -q "^  Added" "$REGISTER_LOG" && CHANGED=1
+  rm -f "$REGISTER_LOG"
+fi
+
+# Hermes has no way to prefer one of two skills with overlapping triggers
+# (see the header comment) - if the sibling zicer-wiki-context skill is
+# checked out right next to this one (same skill/ tree, since setup.sh
+# always sparse-checks out the whole skill/ directory), disabling it in
+# Hermes avoids both being loaded redundantly for the same mention. This
+# never touches zicer-wiki-context's files - Claude reads SKILL.md directly
+# and doesn't consult Hermes's skills.disabled list at all, so it keeps
+# working there unaffected.
+echo "== 3. Disable sibling zicer-wiki-context skill in Hermes (skills.disabled) =="
+CONTEXT_SKILL_DIR="$INSTALL_DIR/skill/zicer-wiki-context"
+if [[ "$DO_REGISTER" -eq 0 ]]; then
+  echo "  Skipped (--no-register)"
+elif [[ "$DO_DISABLE_CONTEXT" -eq 0 ]]; then
+  echo "  Skipped (--keep-context-skill)"
+elif [[ ! -f "$CONTEXT_SKILL_DIR/SKILL.md" ]]; then
+  echo "  OK: zicer-wiki-context not present in this checkout - nothing to disable"
+else
+  # Same temp-file-instead-of-$(...) reasoning as step 2's REGISTER_LOG above
+  # (bash 3.2 heredoc-in-command-substitution parser bug).
+  DISABLE_LOG="$(mktemp)"
+  python3 - > "$DISABLE_LOG" 2>&1 <<'PYEOF'
+import re
+import sys
+from pathlib import Path
+
+skill_name = "zicer-wiki-context"
+config_path = Path.home() / ".hermes" / "config.yaml"
+
+if not config_path.exists():
+    print(f"  WARNING: {config_path} not found - skipping")
+    sys.exit(0)
+
+text = config_path.read_text(encoding="utf-8")
+
+# Scope every match to the skills: block body, not the whole file - "disabled"
+# is a generic enough word that it could plausibly appear as a key under some
+# other top-level section in a large config.
+skills_block = re.search(r"^skills:[ \t]*\n((?:[ \t]+\S.*\n?)*)", text, re.MULTILINE)
+if not skills_block:
+    print("  WARNING: no top-level 'skills:' block found - skipping (step 2 should have created one)")
+    sys.exit(0)
+
+block_start, block_end = skills_block.start(1), skills_block.end(1)
+block = skills_block.group(1)
+
+def commit(new_block: str, note: str) -> None:
+    new_text = text[:block_start] + new_block + text[block_end:]
+    config_path.write_text(new_text, encoding="utf-8")
+    print(f"  {note}")
+
+# Case 1: flow-style list -> "disabled: [...]" (possibly empty)
+flow = re.search(r"^(\s*)disabled:\s*\[(.*)\]\s*$", block, re.MULTILINE)
+if flow:
+    indent, inner = flow.group(1), flow.group(2).strip()
+    items = [i.strip() for i in inner.split(",")] if inner else []
+    if any(i.strip(" '\"") == skill_name for i in items):
+        print(f"  OK: {skill_name} already in skills.disabled")
+        sys.exit(0)
+    items.append(f'"{skill_name}"')
+    new_line = f'{indent}disabled: [{", ".join(items)}]'
+    commit(block[:flow.start()] + new_line + block[flow.end():], f"Added {skill_name} to skills.disabled")
+    sys.exit(0)
+
+# Case 2: block-style list -> "disabled:\n  - foo\n  - bar"
+blk = re.search(r"^(\s*)disabled:\s*\n((?:\1\s+- .*\n?)*)", block, re.MULTILINE)
+if blk:
+    indent, body = blk.group(1), blk.group(2)
+    for line in body.splitlines():
+        item = line.strip()
+        if item.startswith("- ") and item[2:].strip().strip("'\"") == skill_name:
+            print(f"  OK: {skill_name} already in skills.disabled")
+            sys.exit(0)
+    item_indent = indent + "  "
+    new_item = f'{item_indent}- "{skill_name}"\n'
+    commit(block[:blk.end()] + new_item + block[blk.end():], f"Added {skill_name} to skills.disabled")
+    sys.exit(0)
+
+# Case 3: bare scalar -> "disabled: some-skill" - a shape Hermes itself
+# accepts (hermes_cli/skills_config.py normalizes a bare string as a
+# single-item list), so a hand-edited or `hermes skills config`-written
+# config could legitimately look like this.
+scalar = re.search(r"^(\s*)disabled:[ \t]*(\S.*)$", block, re.MULTILINE)
+if scalar:
+    indent, value = scalar.group(1), scalar.group(2).strip()
+    existing = value.strip(" '\"")
+    if existing == skill_name:
+        print(f"  OK: {skill_name} already in skills.disabled")
+        sys.exit(0)
+    new_line = f'{indent}disabled: ["{existing}", "{skill_name}"]'
+    commit(block[:scalar.start()] + new_line + block[scalar.end():], f"Added {skill_name} to skills.disabled")
+    sys.exit(0)
+
+# Case 4: "disabled:" key doesn't exist under skills: yet - insert as the
+# first child, matching the indentation of its siblings (mirrors step 2's
+# Case 4 for external_dirs).
+first_line_indent_match = re.match(r"[ \t]+", block) if block else None
+item_indent = first_line_indent_match.group(0) if first_line_indent_match else "  "
+new_line = f'{item_indent}disabled: ["{skill_name}"]\n'
+commit(new_line + block, f"Added {skill_name} to skills.disabled (key didn't exist yet)")
+PYEOF
+  cat "$DISABLE_LOG"
+  grep -q "^  Added" "$DISABLE_LOG" && CHANGED=1
+  rm -f "$DISABLE_LOG"
 fi
 
 # Cron entry is a single line, tagged with a unique marker comment so it can
@@ -241,7 +368,7 @@ fi
 # `#` starts a shell comment wherever it appears unquoted, so appending the
 # marker at the end of the command is inert at execution time and only
 # matters for `grep`.
-echo "== 3. Register daily cron job (keep local clone fresh) =="
+echo "== 4. Register daily cron job (keep local clone fresh) =="
 CRON_MARKER="# zicer-wiki-hermes: keep local wiki clone fresh"
 if [[ "$DO_CRON" -eq 0 ]]; then
   echo "  Skipped (--no-cron)"
@@ -294,7 +421,7 @@ if [[ "$DO_REGISTER" -eq 0 ]]; then
   exit 0
 fi
 
-echo "== 4. Restart Hermes gateway (pick up new/updated skill content) =="
+echo "== 5. Restart Hermes gateway (pick up new/updated skill content) =="
 if [[ "$CHANGED" -eq 0 ]]; then
   echo "  Skipped: nothing changed this run, no need to restart"
 elif ! hermes gateway status >/dev/null 2>&1; then
@@ -308,7 +435,7 @@ else
   fi
 fi
 
-echo "== 5. Restart Hermes desktop app (pick up new/updated skill content) =="
+echo "== 6. Restart Hermes desktop app (pick up new/updated skill content) =="
 # Desktop is a plain Electron app (apps/desktop/release/...), not a service -
 # `hermes desktop` has no --stop/--restart flag, so detect it by process and
 # quit/relaunch by hand. Detection matches the whole desktop tree (main +
