@@ -14,18 +14,18 @@
 # (skills.external_dirs), disables the sibling `zicer-wiki-context` skill in
 # Hermes if it's present (same skill/ tree, since Hermes has no built-in way
 # to prefer one of two skills with overlapping triggers — see skills.disabled
-# below), and installs a daily cron job that re-invokes this same script from
-# the local clone so the wiki stays fresh. `zicer-wiki-context` itself is
-# left completely untouched on disk — it keeps working for Claude, which
-# reads SKILL.md files directly and isn't affected by Hermes's
-# skills.disabled list at all; only Hermes's own view of it changes.
+# below), and registers a daily job with Hermes's own cron scheduler
+# (visible in its "Scheduled jobs" UI, with run history) that keeps the
+# local wiki clone fresh. `zicer-wiki-context` itself is left completely
+# untouched on disk — it keeps working for Claude, which reads SKILL.md
+# files directly and isn't affected by Hermes's skills.disabled list at
+# all; only Hermes's own view of it changes.
 #
-# Idempotent — safe to re-run any time (by hand, or by the daily cron tick
-# this script itself installs): re-running just fast-forwards to the latest
-# wiki content (so newly added pages show up), never re-registers a path
-# that's already in skills.external_dirs, and never adds a duplicate cron
-# line (matched and replaced via a marker comment). A run with nothing new
-# upstream is a no-op past the git fetch.
+# Idempotent — safe to re-run any time: re-running just fast-forwards to the
+# latest wiki content (so newly added pages show up), never re-registers a
+# path that's already in skills.external_dirs, and never creates a second
+# Hermes cron job (found and updated in place by name via `hermes cron
+# list`). A run with nothing new upstream is a no-op past the git fetch.
 #
 # Override defaults via env vars (useful for the curl|bash form, where
 # there's no way to pass CLI flags before the script exists locally):
@@ -37,7 +37,7 @@
 #   --repo URL              same as ZICER_REPO_URL
 #   --no-register           skip the Hermes registration step (clone/update only)
 #   --keep-context-skill    don't disable the sibling zicer-wiki-context skill in Hermes
-#   --no-cron               skip installing/updating the daily refresh cron job
+#   --no-cron               skip registering/updating the daily refresh job in Hermes's cron
 #   --cron-time HH:MM       same as ZICER_CRON_TIME
 #
 # --no-register, --no-cron, and --keep-context-skill are independent —
@@ -45,9 +45,8 @@
 # fresh without touching Hermes's config, or want both skills active in
 # Hermes, or any combination). The one place they're NOT independent:
 # if --no-register was passed, steps 3/5/6 (disabling the sibling skill,
-# restarting Hermes) are skipped too, same as before cron existed —
-# touching Hermes's config/state to pick up a skill that was never
-# registered with it has nothing to do.
+# restarting Hermes) are skipped too — touching Hermes's config/state to
+# pick up a skill that was never registered with it has nothing to do.
 #
 # What it does, in order (see the comment above each numbered step below for
 # the full detail on that step):
@@ -57,8 +56,11 @@
 #   3. Disable the sibling zicer-wiki-context skill in Hermes, if it's
 #      present in the same skill/ tree (skills.disabled) — doesn't touch
 #      its files, only Hermes's view of it.
-#   4. Register a daily cron job that re-runs this script from the local
-#      clone to pull updates and re-sync Hermes if anything changed.
+#   4. Write a small standalone refresh script (git pull only — deliberately
+#      no Hermes registration or restart logic, see step 4's own comment
+#      below for why) and register/update a daily job for it with Hermes's
+#      own cron scheduler (`hermes cron`) — found by name and edited in
+#      place on repeat runs, never duplicated.
 #   5. Restart the Hermes gateway, if running and something changed.
 #   6. Restart the Hermes desktop app, if running and something changed.
 #
@@ -362,56 +364,86 @@ PYEOF
   rm -f "$DISABLE_LOG"
 fi
 
-# Cron entry is a single line, tagged with a unique marker comment so it can
-# be found/replaced/removed precisely (standard "strip by marker, then
-# re-append" idempotent pattern - same approach ansible's cron module uses).
-# `#` starts a shell comment wherever it appears unquoted, so appending the
-# marker at the end of the command is inert at execution time and only
-# matters for `grep`.
-echo "== 4. Register daily cron job (keep local clone fresh) =="
-CRON_MARKER="# zicer-wiki-hermes: keep local wiki clone fresh"
+# Registers with Hermes's OWN scheduler (visible in its "Scheduled jobs" UI,
+# with run history) instead of the OS crontab that earlier versions of this
+# script used — a plain crontab entry is invisible there and gave no way to
+# see or manage it from Hermes itself. The job's script is deliberately
+# minimal: content refresh only (git pull), no Hermes registration and no
+# restart logic. Two reasons: (1) Hermes statically rejects any cron script
+# that contains a gateway/desktop lifecycle command — blocked to prevent a
+# cron job from restarting the very gateway process running it — so this
+# script must never grow one; (2) a restart isn't needed for content refresh
+# anyway, since Hermes reads skill files fresh off disk on every turn, not
+# just at gateway startup — a new/updated wiki page is visible the moment
+# git pull lands it. Registration changes (skills.external_dirs,
+# skills.disabled, steps 2/3 above) are the one-time exception that still
+# needs a restart to take effect, which steps 5/6 below handle.
+echo "== 4. Register daily refresh job with Hermes's own scheduler =="
+JOB_NAME="zicer-wiki-hermes: keep local wiki clone fresh"
 if [[ "$DO_CRON" -eq 0 ]]; then
   echo "  Skipped (--no-cron)"
 else
-  SCRIPT_PATH="$INSTALL_DIR/skill/zicer-wiki-hermes/scripts/setup.sh"
+  HERMES_SCRIPTS_DIR="$HOME/.hermes/scripts"
+  mkdir -p "$HERMES_SCRIPTS_DIR"
+  REFRESH_SCRIPT="$HERMES_SCRIPTS_DIR/zicer-wiki-hermes-refresh.sh"
+  # Written fresh every run so a changed --dir is picked up. The static body
+  # comes from a quoted (literal, no-expansion) heredoc appended after a
+  # single interpolated INSTALL_DIR= line — deliberately not one heredoc
+  # wrapped in $(...) command substitution, which is exactly the shape that
+  # trips a real bash 3.2 (macOS's /bin/bash) heredoc-parsing bug elsewhere
+  # in this script; see steps 2/3's REGISTER_LOG/DISABLE_LOG comments.
+  {
+    echo '#!/usr/bin/env bash'
+    echo '# Daily wiki-data refresh for zicer-wiki-hermes, run by Hermes''s own'
+    echo '# cron scheduler. Regenerated by setup.sh on every install/update run -'
+    echo '# hand edits here are lost the next time setup.sh runs.'
+    echo 'set -euo pipefail'
+    printf 'INSTALL_DIR=%q\n' "$INSTALL_DIR"
+    cat <<'REFRESHBODY'
+if [[ ! -d "$INSTALL_DIR/.git" ]]; then
+  echo "ERROR: $INSTALL_DIR is not a git checkout - run setup.sh first" >&2
+  exit 1
+fi
+BEFORE="$(git -C "$INSTALL_DIR" rev-parse HEAD)"
+git -C "$INSTALL_DIR" pull --ff-only
+AFTER="$(git -C "$INSTALL_DIR" rev-parse HEAD)"
+if [[ "$BEFORE" == "$AFTER" ]]; then
+  echo "Wiki already up to date ($AFTER)"
+else
+  N=$(git -C "$INSTALL_DIR" rev-list --count "$BEFORE..$AFTER")
+  echo "Wiki updated: $N new commit(s), $BEFORE -> $AFTER"
+fi
+REFRESHBODY
+  } > "$REFRESH_SCRIPT"
+  chmod +x "$REFRESH_SCRIPT"
+
   CRON_HOUR="${CRON_TIME%%:*}"
   CRON_MIN="${CRON_TIME##*:}"
 
-  # Replicate this run's --dir/--repo so a customized install stays
-  # customized on every unattended tick (re-downloading over curl each day
-  # would defeat the point of cron - reuse the now-local clone instead), and
-  # --no-register if this run had it, so an install that explicitly opted
-  # out of touching Hermes doesn't have that silently reversed by cron.
-  # --no-cron is deliberately never replicated - a cron tick that re-runs
-  # itself with --no-cron would deregister its own cron job.
-  CRON_CMD_ARGS=(--dir "$INSTALL_DIR" --repo "$REPO_URL")
-  [[ "$DO_REGISTER" -eq 0 ]] && CRON_CMD_ARGS+=(--no-register)
+  # Idempotency: look up an existing job by name — `hermes cron create` has
+  # no de-dup of its own, so creating twice makes two jobs. `hermes cron
+  # list` has no --json output to parse, so scan the text: track the most
+  # recent "  <hex-id> [status]" line as we go, and report it once a "Name:"
+  # line matching ours is hit. --all includes paused/disabled jobs too, so a
+  # manually-paused job is still found rather than silently duplicated.
+  EXISTING_JOB_ID="$(hermes cron list --all 2>/dev/null | awk -v name="$JOB_NAME" '
+    /^  [a-f0-9]+ \[/ { id = $1 }
+    index($0, "Name:") && index($0, name) { print id; exit }
+  ')"
 
-  # %q shell-quotes each value so a --dir/--repo containing spaces or shell
-  # metacharacters doesn't corrupt the crontab command. Log lives under
-  # $HOME, not $INSTALL_DIR - keeps the sparse git checkout itself free of
-  # untracked files that `git pull --ff-only` would otherwise have to
-  # tolerate on every run.
-  QUOTED_ARGS=""
-  for a in "${CRON_CMD_ARGS[@]}"; do QUOTED_ARGS+="$(printf '%q ' "$a")"; done
-  LOG_FILE="$HOME/.zicer-wiki-hermes-cron.log"
-  CRON_LINE="$CRON_MIN $CRON_HOUR * * * $(printf '%q' "$SCRIPT_PATH") ${QUOTED_ARGS}>> $(printf '%q' "$LOG_FILE") 2>&1 $CRON_MARKER"
-
-  # crontab -l exits non-zero with "no crontab for <user>" when none exists
-  # yet - not an error, just an empty starting point.
-  EXISTING="$(crontab -l 2>/dev/null || true)"
-  # Strip any previous zicer-wiki-hermes line by marker (idempotent - never
-  # duplicates), then append the current one. `grep -v` exits 1 when every
-  # line gets filtered out (e.g. a crontab that only ever had this one
-  # entry) - guard with `|| true` so that doesn't trip set -e, same as the
-  # `crontab -l` guard above.
-  FILTERED="$(printf '%s\n' "$EXISTING" | grep -vF "$CRON_MARKER" || true)"
-  { [[ -n "$FILTERED" ]] && printf '%s\n' "$FILTERED"; printf '%s\n' "$CRON_LINE"; } | crontab -
-  echo "  OK: daily at $CRON_HOUR:$CRON_MIN -> $SCRIPT_PATH ${CRON_CMD_ARGS[*]}"
-  echo "  Log: $LOG_FILE"
-  # ponytail: cron log grows unbounded (append-only, no rotation). Fine at
-  # one line/day; truncate by hand or switch the redirect to `>` if it ever
-  # matters.
+  if [[ -n "$EXISTING_JOB_ID" ]]; then
+    hermes cron edit "$EXISTING_JOB_ID" --schedule "$CRON_MIN $CRON_HOUR * * *" >/dev/null
+    echo "  OK: job $EXISTING_JOB_ID already registered, schedule set to $CRON_HOUR:$CRON_MIN daily"
+  else
+    hermes cron create "$CRON_MIN $CRON_HOUR * * *" \
+      --name "$JOB_NAME" \
+      --no-agent \
+      --script "$(basename "$REFRESH_SCRIPT")" \
+      --deliver local
+    echo "  OK: registered, daily at $CRON_HOUR:$CRON_MIN"
+  fi
+  # No CHANGED=1 here - the running gateway's cron ticker picks up a
+  # new/edited job on its own (confirmed live), no restart needed.
 fi
 
 if [[ "$DO_REGISTER" -eq 0 ]]; then
