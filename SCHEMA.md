@@ -4,6 +4,9 @@
 - **Path:** /Users/idjugostran/Projects/Zicer
 - **Domain:** Дима Зицер — педагогика, воспитание детей, конфликты в семье, школа «Апельсин»
 - **Source types:** YouTube video transcripts
+- **Ingest procedure:** config/youtube-transcript.md — download (yt-dlp) and
+  deduplicate (VTT → clean timestamped text) every video source the same way; read
+  before ingesting any new video
 - **Created:** 2026-08-04
 
 ## Page Frontmatter
@@ -257,5 +260,7 @@ Analyses
 - overview.md reflects the current synthesis across all sources
 - Cross-reference and citation slug-targets follow `config/link-style.md` —
   every skill reads it before writing or scanning links
+- YouTube video sources are downloaded and deduplicated per `config/youtube-transcript.md`
+  before `wiki-ingest` reads them — same yt-dlp command and VTT-cleanup script every time
 - contradiction check: ingest gates on blocking contradictions in touched pages via a transient `contradiction-check: failed` flag, removed before commit — committed pages are always clean (see Contradiction Check)
 - pre-commit gate: git wikis run bin/hooks/pre-commit (via core.hooksPath) → bin/check-contradictions.py, which blocks any commit staging a page that still carries the flag (see Pre-commit Gate); re-run `git config core.hooksPath bin/hooks` after a fresh clone
