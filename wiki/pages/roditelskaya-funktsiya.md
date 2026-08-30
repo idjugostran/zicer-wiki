@@ -3,7 +3,7 @@ title: Родительская функция
 category: Concepts
 summary: Формулировка Зицера — защита, помощь, присутствие, поддержка
 tags: [concept, parenting]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200]
 created: 2026-08-04
 updated: 2026-08-30
 ---
@@ -34,6 +34,7 @@ updated: 2026-08-30
 - [[mama-dorogaya-bulling](pages/mama-dorogaya-bulling.md)] — «дом как тыл» особенно необходим именно в момент столкновения с травлей вне дома, когда родители чаще всего непреднамеренно превращают дом в «передовую»
 - [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — два новых случая: удалённая поддержка подростка через «я готова разделить с тобой любую проблему» без давления на обсуждение конфликта с другим родителем; и буквальный физический аналог «тыла» — нельзя силой отрывать плачущего ребёнка при расставании
 - [[lnv-vypusk-251](pages/lnv-vypusk-251.md)] — техника минимальной рефлексии: «расскажи словами, что тебя расстроило» вместо «перестань плакать»; и защита ребёнка от чужого замечания при посторонних как форма «тыла»
+- [[lnv-vypusk-200](pages/lnv-vypusk-200.md)] — три новых случая: конкретные правила безопасности как форма защиты («взрослые обязаны сделать свою часть работы»); родители обязаны защищать ребёнка от школы, которая «хватает за руку/шкирку» («это происходит, потому что вы позволяете»); отец после развода остаётся «на стороне» дочери через соцсети, несмотря на заблокированный контакт
 
 ## Related Concepts
 

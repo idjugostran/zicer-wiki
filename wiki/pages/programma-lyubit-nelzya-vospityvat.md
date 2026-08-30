@@ -3,7 +3,7 @@ title: Программа «Любить нельзя воспитывать»
 category: Entities
 summary: Авторская программа Димы Зицера, отвечающая на вопросы зрителей о взаимоотношениях между людьми разного возраста
 tags: [entity, programma, dima-zicer]
-sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, kak-spasti-15-letnego-syna, lnv-vypusk-201, lnv-vypusk-251]
+sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, kak-spasti-15-letnego-syna, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200]
 created: 2026-08-04
 updated: 2026-08-30
 ---
@@ -34,6 +34,7 @@ updated: 2026-08-30
 - [[kak-spasti-15-letnego-syna](pages/kak-spasti-15-letnego-syna.md)] — тяжёлый звонок про 15-летнего сына, скатывающегося по «наклонной плоскости»
 - [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — выпуск №201, восемь звонков: чтение переписки подростка, «ворчун», конфликт второклассниц, детский сад
 - [[lnv-vypusk-251](pages/lnv-vypusk-251.md)] — выпуск №251, семь звонков: наклейки-поощрения, личные границы, домашнее обучение, ночные страхи
+- [[lnv-vypusk-200](pages/lnv-vypusk-200.md)] — юбилейный выпуск №200: техника «конкретного запроса», сладости, безопасность подростка
 
 ## Related Concepts
 
