@@ -53,11 +53,11 @@ updated: 2026-08-31
 
 ## Relation to Other Wiki Pages
 
-Первый звонок развивает [[znachimost-rebenka-v-seme](pages/znachimost-rebenka-v-seme.md) конкретным различием между привлечением старшего ребёнка и передачей ему подлинной, посильной роли. История с одеждой показывает тот же механизм в другом масштабе: самостоятельность удерживается не через сопротивление взрослому, если у ребёнка есть реальное авторство в поиске решения.[^2][^6]
+Первый звонок развивает [[znachimost-rebenka-v-seme](pages/znachimost-rebenka-v-seme.md)] конкретным различием между привлечением старшего ребёнка и передачей ему подлинной, посильной роли. История с одеждой показывает тот же механизм в другом масштабе: самостоятельность удерживается не через сопротивление взрослому, если у ребёнка есть реальное авторство в поиске решения.[^2][^6]
 
-Разговор о дочери и партнёре матери продолжает [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md): никто не обязан выполнять роль «идеальной семьи» ради спокойствия взрослого. Школьная история связывает [[subyektnost](pages/subyektnost.md) с [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md): публичная оценка и унижение лишают ребёнка позиции участника, тогда как совместное планирование года возвращает её.[^3][^4]
+Разговор о дочери и партнёре матери продолжает [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)]: никто не обязан выполнять роль «идеальной семьи» ради спокойствия взрослого. Школьная история связывает [[subyektnost](pages/subyektnost.md)] с [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)]: публичная оценка и унижение лишают ребёнка позиции участника, тогда как совместное планирование года возвращает её.[^3][^4]
 
-Спорт уточняет [[vybor-cherez-proby](pages/vybor-cherez-proby.md): важна не только свобода уйти из занятия, но и разница между командой «надо» и просьбой ребёнка о поддержке. Сюжеты об одежде и телефоне соединяются с [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] и [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md): взрослый не исправляет ребёнка извне, а входит в совместное действие и помогает сформулировать желаемое.[^5][^6][^7]
+Спорт уточняет [[vybor-cherez-proby](pages/vybor-cherez-proby.md)]: важна не только свобода уйти из занятия, но и разница между командой «надо» и просьбой ребёнка о поддержке. Сюжеты об одежде и телефоне соединяются с [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] и [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)]: взрослый не исправляет ребёнка извне, а входит в совместное действие и помогает сформулировать желаемое.[^5][^6][^7]
 
 ## Footnotes
 
