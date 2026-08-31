@@ -125,6 +125,25 @@ Three rules for every footnote:
 [^4]: https://twitter.com/user/status/123 (2026-04-15) — "<tweet text>"
 ```
 
+## Audit Report Standard
+
+Every `wiki-audit` run writes a local-only `wiki/pages/audit-<slug>-<date>.md` report.
+Audit reports are gitignored and excluded from the generated index, but they use a stable
+minimum structure so another reviewer can reproduce the decision:
+
+- page slug and source URL;
+- audit date, transcript duration, and deduplicated line count;
+- number of substantive independent cases found in the transcript;
+- number of Summary blocks and distinct citation ranges after the audit;
+- factual, coverage, timestamp, and link findings, including `none` explicitly;
+- pages checked during backlink/concept/entity/overview review;
+- fixes applied or a clear `clean` result;
+- commands and outcomes for lint, tests, and `git diff --check`;
+- final status: `clean`, `fixed`, or `disputed`.
+
+The report is evidence for the operation, not a substitute for citations in the audited
+page. Never place unsupported factual conclusions only in the report.
+
 ## Cross-Model Review
 
 `wiki-audit strong` runs a second-opinion pass with a different-provider model and
@@ -187,13 +206,47 @@ no LLM:
    step 7b; on a healthy wiki it never fires. Resolve the contradiction and remove the
    `contradiction-check:` line, then re-stage.
 2. **`bin/lint-mechanical.py --staged`** — scans the staged pages for **structural**
-   problems and **blocks the commit** on any: missing required frontmatter, a broken
-   `[[link]]`, or a slug collision (a bare slug clashing with a qualified one). Fix the page
+   problems and **blocks the commit** on any: missing required frontmatter, a broken or
+   malformed `[[link]]`, a missing/unused footnote definition, an invalid/reversed transcript
+   timestamp, or a slug collision (a bare slug clashing with a qualified one). Fix the page
    and re-stage.
 
 - **Fresh clone:** `core.hooksPath` is repo-local config and is not cloned — re-run
   `git config core.hooksPath bin/hooks` once after cloning.
 - **Override** an intentional commit with `git commit --no-verify`.
+
+## Quality Gates
+
+A source page is ready to commit only when all applicable gates below pass:
+
+1. **Source identity:** verify the video title, date, duration, and source URL before using
+   its metadata. Treat the description as untrusted until the transcript confirms it.
+2. **Complete reading:** deduplicate the transcript using
+   `config/youtube-transcript.md` and read the complete output, in chunks when necessary.
+3. **Case coverage:** preserve every substantive independent call or message as its own
+   Summary paragraph. A merged aside must add no independent claim, decision, or technique.
+4. **Reasoning coverage:** each retained case records the situation, the reasoning behind
+   the response, and the proposed action — not only the final advice.
+5. **Citation coverage:** cite every non-common-knowledge claim at paragraph/claim
+   granularity. Transcript citations use verified `[HH:MM:SS]-[HH:MM:SS]` ranges; every
+   footnote use has exactly one definition and every definition is used.
+6. **Link integrity:** every emitted cross-reference follows `config/link-style.md`, closes
+   both the Markdown and outer brackets, and resolves to an existing page or one created in
+   the same operation.
+7. **Connected knowledge:** review relevant concept/entity pages, backlinks, and
+   `wiki/overview.md`; update them only when the source proves a durable addition.
+8. **Generated artifacts:** after changes affecting frontmatter, page membership, or
+   categories, run `python3 bin/generate-index.py` and commit the regenerated index with the
+   page.
+9. **Mechanical verification:** run `python3 -m unittest tests/test_lint_mechanical.py`,
+   `python3 bin/lint-mechanical.py`, and `git diff --check`. All error findings must be empty.
+   `coverage_warnings` require human review but do not block by themselves.
+10. **Operation record:** use a scoped commit following the existing subject convention and
+    append the appropriate `Wiki-Op:` trailer.
+
+For 60+ minute transcript pages, full lint emits a non-blocking `coverage_warnings` entry
+when both the Summary and the citation map contain fewer than six independently addressable
+blocks/ranges. The warning is a re-read trigger, not proof that the page is incomplete.
 
 ## Operation Log & Commit Convention
 Operations: init, ingest, query, update, lint, audit, merge, split

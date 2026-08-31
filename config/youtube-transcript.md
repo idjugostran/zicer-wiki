@@ -87,3 +87,9 @@ summarize the situation, the reasoning behind the response, and the proposed act
 do not record only the final advice. Before committing, compare the number of Summary
 paragraphs and distinct timestamp ranges against the actual calls in the transcript. If
 the page is materially shorter than comparable episodes, recheck for omitted cases.
+
+`python3 bin/lint-mechanical.py` provides a conservative backstop: for a transcript page
+whose cited duration reaches 60 minutes, it emits `coverage_warnings` only when both the
+Summary and its timestamp-range map contain fewer than six blocks. This warning never
+replaces full transcript review and is not a commit blocker; it identifies pages that need
+human rechecking.

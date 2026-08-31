@@ -7,8 +7,10 @@ Two modes:
                                            staged files only (pre-commit gate)
 
 Full mode emits a JSON object {"findings": {...}, "clusters": [...]} for wiki-lint to fold
-into its report. Staged mode runs the per-file/resolvable checks against the staged blobs and
-exits non-zero if any fire, so the pre-commit hook blocks the commit. Stdlib only.
+into its report. Findings include malformed links, citation/timestamp errors, and a
+non-blocking long-transcript coverage heuristic. Staged mode runs the blocking
+per-file/resolvable checks against the staged blobs and exits non-zero if any fire, so the
+pre-commit hook blocks the commit. Stdlib only.
 """
 import json
 import re
@@ -26,6 +28,16 @@ REQUIRED_FIELDS = ("title", "category", "summary", "tags", "sources", "created",
 #   obsidian: [[slug]] or [[slug|display]]
 #   markdown: [[slug](pages/slug.md)]
 LINK_RE = re.compile(r"\[\[([^\]|]+?)(?:\|[^\]]*)?\](?:\(pages/[^)]*\.md\))?\]")
+MALFORMED_MARKDOWN_LINK_RE = re.compile(
+    r"\[\[[^\]\n]+\]\(pages/[^)\n]+\.md\)(?!\])"
+)
+FOOTNOTE_USE_RE = re.compile(r"\[\^([^\]]+)\]")
+FOOTNOTE_DEF_RE = re.compile(r"^\[\^([^\]]+)\]:", re.MULTILINE)
+FOOTNOTE_LINE_RE = re.compile(r"^\[\^([^\]]+)\]:(.*)$", re.MULTILINE)
+TIMESTAMP_RE = re.compile(r"\[(\d{2}:\d{2}:\d{2})\]")
+TIMESTAMP_RANGE_RE = re.compile(
+    r"\[(\d{2}:\d{2}:\d{2})\]-\[(\d{2}:\d{2}:\d{2})\]"
+)
 STALE_MARKERS = ("current", "latest", "recent", "state-of-the-art")
 YEAR_RE = re.compile(r"\b(19|20)\d{2}\b")
 STALE_AGE_DAYS = 90
@@ -81,6 +93,81 @@ def links_in(text):
     return [m.strip() for m in LINK_RE.findall(text)]
 
 
+def malformed_links_in(text):
+    """Return markdown-style wiki links missing their outer closing bracket."""
+    return MALFORMED_MARKDOWN_LINK_RE.findall(text)
+
+
+def citation_issues_in(text):
+    """Return Markdown footnote-definition and timestamp problems."""
+    text_without_definitions = FOOTNOTE_LINE_RE.sub("", text)
+    used = set(FOOTNOTE_USE_RE.findall(text_without_definitions))
+    definition_refs = FOOTNOTE_DEF_RE.findall(text)
+    defined = set(definition_refs)
+    issues = [
+        {"type": "missing_definition", "ref": ref}
+        for ref in sorted(used - defined)
+    ]
+    issues.extend(
+        {"type": "unused_definition", "ref": ref}
+        for ref in sorted(defined - used)
+    )
+    for ref in sorted(defined):
+        count = definition_refs.count(ref)
+        if count > 1:
+            issues.append({"type": "duplicate_definition", "ref": ref, "count": count})
+    for ref, definition in FOOTNOTE_LINE_RE.findall(text):
+        valid = {}
+        for value in TIMESTAMP_RE.findall(definition):
+            hours, minutes, seconds = map(int, value.split(":"))
+            if minutes >= 60 or seconds >= 60:
+                issues.append({"type": "invalid_timestamp", "ref": ref, "value": value})
+            else:
+                valid[value] = hours * 3600 + minutes * 60 + seconds
+        for start, end in TIMESTAMP_RANGE_RE.findall(definition):
+            if start in valid and end in valid and valid[start] > valid[end]:
+                issues.append({
+                    "type": "reversed_timestamp_range",
+                    "ref": ref,
+                    "value": f"{start}-{end}",
+                })
+    return issues
+
+
+def timestamp_seconds(value):
+    hours, minutes, seconds = map(int, value.split(":"))
+    return hours * 3600 + minutes * 60 + seconds
+
+
+def coverage_warning_for(body):
+    """Warn when a 60+ minute transcript page appears materially under-covered."""
+    timestamps = [
+        value for value in TIMESTAMP_RE.findall(body)
+        if int(value[3:5]) < 60 and int(value[6:8]) < 60
+    ]
+    if not timestamps:
+        return None
+    duration_seconds = max(timestamp_seconds(value) for value in timestamps)
+    if duration_seconds < 3600:
+        return None
+    summary_match = re.search(
+        r"^## Summary\s*$\n(.*?)(?=^## )", body, re.MULTILINE | re.DOTALL
+    )
+    if not summary_match:
+        return None
+    summary_blocks = sum(
+        1 for block in re.split(r"\n\s*\n", summary_match.group(1)) if block.strip()
+    )
+    timestamp_ranges = len(TIMESTAMP_RANGE_RE.findall(body))
+    if summary_blocks >= 6 or timestamp_ranges >= 6:
+        return None
+    return {
+        "summary_blocks": summary_blocks,
+        "timestamp_ranges": timestamp_ranges,
+        "duration_seconds": duration_seconds,
+    }
+
+
 def is_page(path):
     return path.suffix == ".md" and not path.name.startswith("audit-")
 
@@ -124,6 +211,31 @@ def check_broken_links(pages):
         for target in page["links"]:
             if target not in known:
                 out.append({"page": slug, "link": target})
+    return out
+
+
+def check_malformed_links(pages):
+    out = []
+    for slug, page in pages.items():
+        for link in malformed_links_in(page["body"]):
+            out.append({"page": slug, "link": link})
+    return out
+
+
+def check_citations(pages):
+    out = []
+    for slug, page in pages.items():
+        for issue in citation_issues_in(page["body"]):
+            out.append({"page": slug, **issue})
+    return out
+
+
+def check_coverage(pages):
+    out = []
+    for slug, page in pages.items():
+        warning = coverage_warning_for(page["body"])
+        if warning:
+            out.append({"page": slug, **warning})
     return out
 
 
@@ -211,6 +323,9 @@ def run_full(today=None, cluster_cap=None):
     findings = {
         "missing_frontmatter": check_missing_frontmatter(pages),
         "broken_links": check_broken_links(pages),
+        "malformed_links": check_malformed_links(pages),
+        "citation_issues": check_citations(pages),
+        "coverage_warnings": check_coverage(pages),
         "orphans": check_orphans(pages),
         "slug_collisions": check_slug_collisions(pages),
         "stale_date": check_stale_date(pages, today),
@@ -273,6 +388,10 @@ def run_staged():
         for target in links_in(body):
             if target not in known:
                 problems.append((slug, f"broken link: [[{target}]]"))
+        for link in malformed_links_in(body):
+            problems.append((slug, f"malformed link: {link}"))
+        for issue in citation_issues_in(body):
+            problems.append((slug, f"citation {issue['type']}: [^{issue['ref']}]"))
         collision = collision_for(slug, known)
         if collision:
             problems.append((slug, f"slug collision: {', '.join(collision)}"))
