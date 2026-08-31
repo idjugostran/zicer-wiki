@@ -3,7 +3,7 @@ title: Возрастные кризисы как смена системы ко
 category: Concepts
 summary: Три ключевые возрастные границы (3 года, 7 лет, переходный возраст) — не сбои, а последовательная смена «системы координат» взаимодействия с миром
 tags: [concept, roditelstvo, kurs-12-urokov, podrostki]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-248]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-248, lnv-vypusk-220]
 created: 2026-08-29
 updated: 2026-08-30
 ---
@@ -28,6 +28,7 @@ updated: 2026-08-30
 - [[kurs-12-urokov-urok-11](pages/kurs-12-urokov-urok-11.md)] — явно называет тот же возрастной порог (7-8 лет), после которого влияние среды начинает перевешивать родительское
 - [[o-diskriminatsii-detey-vzroslymi](pages/o-diskriminatsii-detey-vzroslymi.md)] — тот же порог (~7 лет) как граница полного, не подвергаемого сомнению доверия ребёнка к родителям
 - [[lnv-vypusk-248](pages/lnv-vypusk-248.md)] — два живых проявления смены координат: шестнадцатилетняя девушка пересматривает прежде уверенный образовательный выбор; ребёнок около трёх лет сильнее проверяет эмоциональную связь с матерью, одновременно нуждаясь в спокойной границе безопасности
+- [[lnv-vypusk-220](pages/lnv-vypusk-220.md)] — два уточнения: трёхлетняя ревность к отцу не превращается в семейную борьбу за любовь, а одиннадцатилетняя дочь переоценивает не только себя, но и образ матери
 
 ## Related Concepts
 

@@ -36,12 +36,15 @@ updated: 2026-08-30
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)]
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)]
 - [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)]
+- [[problema-prinadlezhit-tomu-komu-ona-meshaet](pages/problema-prinadlezhit-tomu-komu-ona-meshaet.md)]
 
 ## Relation to Other Wiki Pages
 
 «Повернуть тумблер» продолжает технику «говорить о себе» из [[roditelskiy-strakh](pages/roditelskiy-strakh.md)], добавляя строгий порядок: любовь и значимость — обязательно первым шагом, ожидания и правила — только после. Прямо перекликается со сценарием примирения из [[kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey](pages/kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey.md)] («сначала отступление, потом разговор»).
 
 «Поведенческая ловушка» — конкретный диагностический инструмент для той же идеи, что уже звучала в [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] и [[kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey](pages/kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey.md)]: то, что выглядит как проблема поведения ребёнка, часто оказывается неозвученной потребностью самого родителя.
+
+[[problema-prinadlezhit-tomu-komu-ona-meshaet](pages/problema-prinadlezhit-tomu-komu-ona-meshaet.md)] продолжает эту диагностику: после того как взрослый заметил собственную потребность, ему нужно назвать её прямо и просить помощи с конкретным действием, а не закреплять за ребёнком не его проблему.
 
 ## Footnotes
 
