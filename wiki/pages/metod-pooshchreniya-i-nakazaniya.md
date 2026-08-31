@@ -3,9 +3,9 @@ title: Метод поощрения и наказания
 category: Concepts
 summary: Заимствованный из дрессуры животных метод — Зицер считает его неприменимым к людям и подменяющим настоящие отношения
 tags: [concept, roditelstvo, pedagogika]
-sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200]
+sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219]
 created: 2026-08-04
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Метод поощрения и наказания
@@ -25,6 +25,7 @@ updated: 2026-08-30
 - [[lnv-vypusk-162](pages/lnv-vypusk-162.md)] — сладости как награда/наказание превращаются в предмет одержимости; наказание за честное признание учит ребёнка врать
 - [[lnv-vypusk-251](pages/lnv-vypusk-251.md)] — наклейки за выполненные задачи учат ребёнка, что цель — «удовлетворить запросы мамы», а не собственный интерес; альтернатива — совместная игра и структурирование времени
 - [[lnv-vypusk-200](pages/lnv-vypusk-200.md)] — новый довод против физического наказания: люди, наказанные телесно, чаще не способны подняться над обстоятельствами своего детства и оправдывают воспроизведение того же цикла с собственными детьми
+- [[lnv-vypusk-219](pages/lnv-vypusk-219.md)] — два институциональных и семейных случая: красная карточка с изоляцией вместо разговора о конфликте и угроза лишить подростка денег из-за курения
 
 ## Related Concepts
 

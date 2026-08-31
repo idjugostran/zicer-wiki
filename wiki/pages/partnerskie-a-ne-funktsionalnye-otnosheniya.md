@@ -3,9 +3,9 @@ title: Партнёрские, а не функциональные отноше
 category: Concepts
 summary: Унижение возникает, когда родитель относится к ребёнку как к обязанности («функции»), а не как к человеку — в партнёрских отношениях любое отклонение переносимо, в функциональных — угрожает самоощущению взрослого
 tags: [concept, roditelstvo, unizhenie]
-sources: [pochemu-vzroslye-unizhayut-detey, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, nablyudatel-o-podrostkah, lnv-vypusk-214]
+sources: [pochemu-vzroslye-unizhayut-detey, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, nablyudatel-o-podrostkah, lnv-vypusk-214, lnv-vypusk-219]
 created: 2026-08-29
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Партнёрские, а не функциональные отношения
@@ -22,6 +22,7 @@ updated: 2026-08-30
 - [[kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey](pages/kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey.md)] — независимое повторение тезиса «мы орём, потому что можем»
 - [[nablyudatel-o-podrostkah](pages/nablyudatel-o-podrostkah.md)] — закрывающая формулировка: «я живой, значит могу злиться — и он получает то же право»
 - [[lnv-vypusk-214](pages/lnv-vypusk-214.md)] — «поведенческая ловушка»: проблема поведения ребёнка часто маскирует неозвученную потребность самого родителя
+- [[lnv-vypusk-219](pages/lnv-vypusk-219.md)] — новый взрослый в семье строит связь с пятилетним ребёнком как друг, а не присваивает роль дополнительного командующего и контролирующего родителя
 
 ## Related Concepts
 
