@@ -58,7 +58,7 @@ updated: 2026-08-31
 
 ## Relation to Other Wiki Pages
 
-Первый и школьный звонки расширяют [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] и [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md) с двух сторон: учитель не вымогает тишину, а создаёт интерес, а семья не превращает домашнее задание в проверку лояльности, а облегчает трудность и поддерживает любопытство.[^1][^7]
+Первый и школьный звонки расширяют [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] и [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)] с двух сторон: учитель не вымогает тишину, а создаёт интерес, а семья не превращает домашнее задание в проверку лояльности, а облегчает трудность и поддерживает любопытство.[^1][^7]
 
 Советы о дружбе и друзьях подростка конкретизируют [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] и [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)]: выбор среды происходит через пробу разделённых интересов, а близость возвращается взаимным интересом, не требованием отчёта.[^2][^6]
 
