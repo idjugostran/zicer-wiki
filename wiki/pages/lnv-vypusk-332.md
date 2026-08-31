@@ -44,7 +44,7 @@ updated: 2026-08-31
 
 Этот случай расширяет [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)]: не только прямое обращение к учителю, но и отказ оставлять ребёнка в опасной институции относятся к защите. Это конкретная реализация [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]: взрослый ищет способ защитить, а не перекладывает риск на ребёнка.[^1][^2]
 
-Выпуск уточняет [[davat-sdachi](pages/davat-sdachi.md)]: альтернатива физическому ответу — не пассивность, а действие взрослых и изменение условий. Описание пробных дней, разговоров и наблюдения в новой школе добавляет прикладной критерий к [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md).[^3][^4]
+Выпуск уточняет [[davat-sdachi](pages/davat-sdachi.md)]: альтернатива физическому ответу — не пассивность, а действие взрослых и изменение условий. Описание пробных дней, разговоров и наблюдения в новой школе добавляет прикладной критерий к [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)].[^3][^4]
 
 ## Footnotes
 
