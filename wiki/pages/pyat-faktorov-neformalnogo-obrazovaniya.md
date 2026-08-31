@@ -3,9 +3,9 @@ title: Пять факторов неформального образовани
 category: Concepts
 summary: Структурированный ответ Зицера на вопрос «можно ли обойтись без школы» — субъектность, выбор, личный интерес, субъектное взаимодействие, учение как исследование
 tags: [concept, obrazovanie, shkola-apelsin]
-sources: [lnv-v-gostyah-u-zicera-chast-1, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-223]
+sources: [lnv-v-gostyah-u-zicera-chast-1, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-223, lnv-vypusk-250]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Пять факторов неформального образования
@@ -23,6 +23,7 @@ updated: 2026-08-30
 - [[lnv-v-gostyah-u-zicera-chast-1](pages/lnv-v-gostyah-u-zicera-chast-1.md)] — вводит все пять факторов единым списком в ответ на вопрос зрителя о жизни без школы
 - [[o-shkole-i-ne-tolko-kidfrendli](pages/o-shkole-i-ne-tolko-kidfrendli.md)] — конкретный пример фактора «субъектное взаимодействие»: живой разговор со спором обучает лучше принудительного молчания
 - [[lnv-vypusk-223](pages/lnv-vypusk-223.md)] — бытовая проверка личного интереса: восьмилетняя девочка учится рисовать с удовольствием, хотя не понимает смысла части школьных заданий; взрослые ищут вместе с ней её основания для учёбы и школы
+- [[lnv-vypusk-250](pages/lnv-vypusk-250.md)] — два подтверждения личного интереса: учитель строит урок вокруг совместной игры, а семья облегчает домашнюю работу и создаёт среду живого любопытства вне заданий
 
 ## Related Concepts
 

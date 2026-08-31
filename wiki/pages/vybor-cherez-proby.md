@@ -3,9 +3,9 @@ title: Выбор через пробы
 category: Concepts
 summary: Смена детских увлечений — не каприз, а нормальный механизм выбора через пробу; принуждение «доводить до конца» учит подчинению, а не решительности
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-248]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-248, lnv-vypusk-250]
 created: 2026-08-29
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Выбор через пробы
@@ -24,6 +24,7 @@ updated: 2026-08-30
 - [[lnv-vypusk-171](pages/lnv-vypusk-171.md)] — совет не выбирать кружок на годы вперёд, а наблюдать за уже проявленным интересом ребёнка; «человек имеет право быть счастливым» — как обоснование права на смену решения
 - [[lnv-v-gostyah-u-zicera-chast-1](pages/lnv-v-gostyah-u-zicera-chast-1.md)] — институционализация выбора с 4 лет через индивидуальный учебный план и парламент (см. [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)])
 - [[lnv-vypusk-248](pages/lnv-vypusk-248.md)] — два новых масштаба: изменение образовательного пути подростка после потери социальной опоры и совместный поиск того, что восьмилетний ребёнок ищет в сменяющихся занятиях
+- [[lnv-vypusk-250](pages/lnv-vypusk-250.md)] — поиск друзей тринадцатилетней девочки через среду разделённого интереса: вместо требования социализироваться родители вместе с ней ищут подходящие пробы и занятия
 
 ## Related Concepts
 
