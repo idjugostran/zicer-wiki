@@ -3,9 +3,9 @@ title: «Что обслуживает» поведение
 category: Concepts
 summary: Вместо оценки самого поступка — искать эмоциональную «плату», которую он приносит: какое состояние или ощущение человек хочет получить, повторяя это поведение
 tags: [concept, samoregulyatsiya, podrostki]
-sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200]
+sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # «Что обслуживает» поведение
@@ -24,6 +24,7 @@ updated: 2026-08-30
 - [[mama-dorogaya-bulling](pages/mama-dorogaya-bulling.md)] — применение техники к инициатору травли (см. [[kollektivizm-kak-pochva-dlya-bullinga](pages/kollektivizm-kak-pochva-dlya-bullinga.md)])
 - [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — новый ракурс: поведение (ворчание) как единственный доступный ребёнку способ диалога, если взрослые обесценивают его переживания вместо того, чтобы выслушать
 - [[lnv-vypusk-200](pages/lnv-vypusk-200.md)] — тяжёлый случай: 14-летняя перфекционистка режет руки; вопрос «зачем ей нужна именно пятёрка» вскрывает представление «четвёрка равна недостойности»
+- [[lnv-vypusk-208](pages/lnv-vypusk-208.md)] — два диагностических применения: после резкой перемены поведения искать новое обстоятельство в жизни ребёнка, а в провокации младшей сестры — непрямой способ получить внимание матери
 
 ## Related Concepts
 

@@ -3,9 +3,9 @@ title: Значимость ребёнка в семье
 category: Concepts
 summary: Разрушительное поведение ребёнка часто вызвано не характером, а нехваткой ощущения собственной значимости в семье — решение не в наказании, а в реальном включении ребёнка в настоящие решения
 tags: [concept, roditelstvo]
-sources: [pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, lnv-vypusk-251]
+sources: [pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, lnv-vypusk-251, lnv-vypusk-208]
 created: 2026-08-29
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Значимость ребёнка в семье
@@ -20,6 +20,7 @@ updated: 2026-08-30
 
 - [[pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet](pages/pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet.md)] — вводит концепт целиком, на случае агрессии к младшей сестре
 - [[lnv-vypusk-251](pages/lnv-vypusk-251.md)] — лёгкий положительный случай того же принципа: 6-летнюю дочь превращают в «соучастницу» решения, посоветовавшись с ней, как помочь испуганному младшему брату
+- [[lnv-vypusk-208](pages/lnv-vypusk-208.md)] — одиннадцатилетний брат провоцирует сестру, чтобы вызвать внимание мамы; альтернатива — отдельная жизнь и интерес к нему, не зависящие от его отношения к сестре
 
 ## Related Concepts
 
