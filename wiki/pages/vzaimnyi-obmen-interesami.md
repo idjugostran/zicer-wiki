@@ -3,7 +3,7 @@ title: Взаимный обмен интересами
 category: Concepts
 summary: Отвлечь ребёнка от гаджетов запретом нельзя — работает встречное движение: попроситься в мир ребёнка, затем пригласить его в свой мир как в подарок, а не в обязанность
 tags: [concept, roditelstvo, kurs-12-urokov, gadzhety]
-sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-208]
+sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-208, lnv-vypusk-164]
 created: 2026-08-29
 updated: 2026-08-31
 ---
@@ -28,6 +28,7 @@ updated: 2026-08-31
 - [[lnv-vypusk-223](pages/lnv-vypusk-223.md)] — техника расширена на отношения матери и 16-летнего сына: просить объяснить непонятное увлечение и регулярно спрашивать, что важно другому, можно даже до того, как интерес станет естественным
 - [[lnv-vypusk-221](pages/lnv-vypusk-221.md)] — две новые формы: вместо тревожного контроля за гаджетами вернуть ребёнка в общую живую жизнь; мультфильмы смотреть вместе и сделать их частью семейной культуры, а не способом «занять» ребёнка
 - [[lnv-vypusk-208](pages/lnv-vypusk-208.md)] — мать пятнадцатилетней дочери начинает с просьбы вместе посмотреть сериал, а не с разговора о долге, телефоне и аттестации; интерес к её миру открывает возможность для помощи
+- [[lnv-vypusk-164](pages/lnv-vypusk-164.md)] — дом, где подростка принимают и где есть интересная общая жизнь, становится альтернативой контролю и изоляции от гаджетов
 
 ## Related Concepts
 

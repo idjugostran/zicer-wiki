@@ -3,9 +3,9 @@ title: Так называемые «сложные темы»
 category: Concepts
 summary: Секс, смерть, дурные привычки — не сложны сами по себе; сложность создаёт телесный блок родителя, который ребёнок считывает и начинает защитно избегать темы
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-8]
+sources: [kurs-12-urokov-urok-8, lnv-vypusk-164]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-08-31
 ---
 
 # Так называемые «сложные темы»
@@ -19,6 +19,7 @@ updated: 2026-08-29
 ## Appearances in Sources
 
 - [[kurs-12-urokov-urok-8](pages/kurs-12-urokov-urok-8.md)] — вводит концепт целиком, обобщая секс, смерть и дурные привычки в один класс
+- [[lnv-vypusk-164](pages/lnv-vypusk-164.md)] — смерть матери: отец не прячет правду от семилетней дочери, принимает непредсказуемую реакцию и даёт прожить горе в её темпе
 
 ## Related Concepts
 
