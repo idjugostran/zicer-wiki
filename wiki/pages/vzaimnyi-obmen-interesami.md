@@ -3,7 +3,7 @@ title: Взаимный обмен интересами
 category: Concepts
 summary: Отвлечь ребёнка от гаджетов запретом нельзя — работает встречное движение: попроситься в мир ребёнка, затем пригласить его в свой мир как в подарок, а не в обязанность
 tags: [concept, roditelstvo, kurs-12-urokov, gadzhety]
-sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-208, lnv-vypusk-164, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-250]
+sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-208, lnv-vypusk-164, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-250, lnv-vypusk-216]
 created: 2026-08-29
 updated: 2026-08-31
 ---
@@ -31,6 +31,7 @@ updated: 2026-08-31
 - [[lnv-vypusk-164](pages/lnv-vypusk-164.md)] — дом, где подростка принимают и где есть интересная общая жизнь, становится альтернативой контролю и изоляции от гаджетов
 - [[lnv-v-gostyah-u-zicera-chast-2](pages/lnv-v-gostyah-u-zicera-chast-2.md)] — подруге увлечённой ИИ девочки предлагается сначала узнать изнутри её мир и только потом проверять тревогу, не становясь противником
 - [[lnv-vypusk-250](pages/lnv-vypusk-250.md)] — мать подростка узнаёт о его друзьях не через тревожный допрос, а через взаимное раскрытие интересов и собственной жизни
+- [[lnv-vypusk-216](pages/lnv-vypusk-216.md)] — мать помогает семилетней дочери с телефоном, оставаясь рядом с самого начала совместного занятия и вместе замечая момент, когда хочется остановиться
 
 ## Related Concepts
 
