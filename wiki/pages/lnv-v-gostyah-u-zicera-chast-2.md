@@ -57,9 +57,9 @@ updated: 2026-08-31
 
 ## Relation to Other Wiki Pages
 
-Невозможность увидеть выход изнутри ситуации развивает [[modeli-povedeniya](pages/modeli-povedeniya.md)]: сильное чувство поднимает знакомую модель прежде анализа. На примере школы выпуск связывает это с [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md): прежде чем «возвращать» подростка, взрослые устанавливают, в чём его собственная трудность и чего он хочет.[^1][^3]
+Невозможность увидеть выход изнутри ситуации развивает [[modeli-povedeniya](pages/modeli-povedeniya.md)]: сильное чувство поднимает знакомую модель прежде анализа. На примере школы выпуск связывает это с [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)]: прежде чем «возвращать» подростка, взрослые устанавливают, в чём его собственная трудность и чего он хочет.[^1][^3]
 
-Совет подруге увлечённой ИИ девочки — частный случай [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md): вход в чужой, даже тревожащий мир создаёт разговор, который запрет закрывает. Разговор семьи и школы с ребёнком как с равной стороной конкретизирует [[subyektnost](pages/subyektnost.md) и [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md): защита не совершается «о ребёнке», а строится вместе с ним.[^5][^9]
+Совет подруге увлечённой ИИ девочки — частный случай [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)]: вход в чужой, даже тревожащий мир создаёт разговор, который запрет закрывает. Разговор семьи и школы с ребёнком как с равной стороной конкретизирует [[subyektnost](pages/subyektnost.md)] и [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]: защита не совершается «о ребёнке», а строится вместе с ним.[^5][^9]
 
 ## Footnotes
 
