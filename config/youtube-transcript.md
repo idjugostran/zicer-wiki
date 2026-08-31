@@ -76,3 +76,14 @@ episodes commonly run 1500+ lines. Then proceed with `wiki-ingest` as normal, ci
 this file's `[HH:MM:SS]` timestamps directly in footnotes. Once the source page is
 written, `raw/<ID>.*` remains the permanent, immutable archival copy; the deduped
 scratchpad file is disposable and does not need to survive past the ingest session.
+
+### Coverage rule for long multi-topic episodes
+
+Do not compress unrelated calls or messages into one generic conclusion. For a 60–80
+minute LNV episode, identify every substantive distinct case and preserve it as a
+separate Summary paragraph (normally 6–10 paragraphs). A short aside may be merged
+only when it adds no independent claim, decision, or technique. For each retained case,
+summarize the situation, the reasoning behind the response, and the proposed action;
+do not record only the final advice. Before committing, compare the number of Summary
+paragraphs and distinct timestamp ranges against the actual calls in the transcript. If
+the page is materially shorter than comparable episodes, recheck for omitted cases.
