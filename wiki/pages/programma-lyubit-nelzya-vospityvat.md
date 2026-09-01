@@ -3,7 +3,7 @@ title: Программа «Любить нельзя воспитывать»
 category: Entities
 summary: Авторская программа Димы Зицера, отвечающая на вопросы зрителей о взаимоотношениях между людьми разного возраста
 tags: [entity, programma, dima-zicer]
-sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, kak-spasti-15-letnego-syna, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, mama-narushaet-lichnye-granitsy, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, moy-syn-yabeda-ili-postupaet-pravilno, kak-rastit-samostoyatelnogo-rebenka, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy]
+sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, kak-spasti-15-letnego-syna, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, mama-narushaet-lichnye-granitsy, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, moy-syn-yabeda-ili-postupaet-pravilno, kak-rastit-samostoyatelnogo-rebenka, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, pochemu-ona-mne-vret]
 created: 2026-08-04
 updated: 2026-09-01
 ---
@@ -41,6 +41,7 @@ updated: 2026-09-01
 - [[kak-rastit-samostoyatelnogo-rebenka](pages/kak-rastit-samostoyatelnogo-rebenka.md)] — короткий выпуск: бытовые поручения отделяются от самостоятельных решений ребёнка
 - [[kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny](pages/kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny.md)] — короткий выпуск: родители согласуют разные позиции вместо ролей «хорошего» и «плохого полицейского»
 - [[chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy](pages/chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy.md)] — короткий выпуск: мать снимает ожидание совместного творчества, сохраняя собственное увлечение
+- [[pochemu-ona-mne-vret](pages/pochemu-ona-mne-vret.md)] — короткий выпуск: ложь об учёбе рассматривается в контексте переездов, родительского контроля и утраченной стабильности
 
 ## Related Concepts
 

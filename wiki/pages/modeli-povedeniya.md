@@ -3,7 +3,7 @@ title: Модели поведения
 category: Concepts
 summary: Модель поведения — рамка, закрепившаяся через повторение похожих ситуаций; безвредна, пока осознаётся, и опасна, когда становится незаметной «второй натурой», ощущаемой как характер
 tags: [concept, roditelstvo, samoregulyatsiya]
-sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-201, lnv-vypusk-200, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny]
+sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-201, lnv-vypusk-200, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, pochemu-ona-mne-vret]
 created: 2026-08-29
 updated: 2026-09-01
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-01
 - [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — учительская практическая техника формирования модели: работать одновременно с моделью поведения детей («как я хочу, чтобы ко мне относились, когда я ошибаюсь») и с пониманием родителей через собрание
 - [[lnv-vypusk-200](pages/lnv-vypusk-200.md)] — два новых случая: 2-летний ребёнок усваивает модель «тирания» как единственный доступный способ получить своё; 3,5-летняя внучка воспроизводит эмоциональную эскалацию бабушки вместо собственной реакции
 - [[kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny](pages/kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny.md)] — силовая настойчивость взрослого и детский крик показаны как одна усваиваемая модель; альтернативой служит наблюдаемое действие и спокойная договорённость
+- [[pochemu-ona-mne-vret](pages/pochemu-ona-mne-vret.md)] — унаследованная реакция матери и ежедневные претензии распознаются как модели; стоп-слово даёт дочери проверяемый способ прервать их воспроизведение
 
 ## Related Concepts
 
