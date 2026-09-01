@@ -3,7 +3,7 @@ title: Сравнение
 category: Concepts
 summary: Сравнение/оценка как психологический механизм, близкий к зависимости — подменяет внутренний интерес потребностью во внешнем одобрении
 tags: [concept, otsenka, roditelstvo, pedagogika]
-sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin, lnv-vypusk-164]
+sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin, lnv-vypusk-164, kak-byt-esli-rebenok-ne-uveren-v-sebe]
 created: 2026-08-04
 updated: 2026-08-31
 ---
@@ -21,6 +21,7 @@ updated: 2026-08-31
 - [[sravnenie-100-shagov-v-ad](pages/sravnenie-100-shagov-v-ad.md)] — вводит концепт целиком, с практическим ориентиром «лечения» и альтернативными инструментами
 - [[urok-matematiki-v-shkole-apelsin](pages/urok-matematiki-v-shkole-apelsin.md)] — конкретный практический эффект отсутствия сравнения: дети охотно помогают друг другу, потому что их не оценивают относительно друг друга
 - [[lnv-vypusk-164](pages/lnv-vypusk-164.md)] — практический случай близнецов: похвала одному слышится вторым как оценка его собственной меньшей значимости; родители прямо просят школу не сравнивать детей
+- [[kak-byt-esli-rebenok-ne-uveren-v-sebe](pages/kak-byt-esli-rebenok-ne-uveren-v-sebe.md)] — страх оказаться хуже и высмеивание того, кто справляется слабее, показаны как две стороны одной оценочной системы
 
 ## Related Concepts
 
