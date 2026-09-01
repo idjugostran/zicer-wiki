@@ -3,9 +3,9 @@ title: «Давать сдачи»
 category: Concepts
 summary: Критика совета учить детей отвечать на агрессию физической силой — приравнивается к обучению «языку зоны»
 tags: [concept, konflikty, nasilie]
-sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171]
+sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, moy-syn-yabeda-ili-postupaet-pravilno]
 created: 2026-08-04
-updated: 2026-08-30
+updated: 2026-09-01
 ---
 
 # «Давать сдачи»
@@ -25,6 +25,7 @@ updated: 2026-08-30
 - [[chto-delat-esli-ya-sryvayus-na-svoego-rebenka](pages/chto-delat-esli-ya-sryvayus-na-svoego-rebenka.md)] — обратная сторона того же механизма: мама признаёт, что бьёт сына именно потому, что он (пока) не может дать сдачи
 - [[lnv-vypusk-171](pages/lnv-vypusk-171.md)] — почти дословное повторение критики совета «давать сдачи» на новом звонке
 - [[kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey](pages/kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey.md)] — третье независимое подтверждение того же тезиса: «мы орём, потому что можем», а не потому, что не можем сдержаться
+- [[moy-syn-yabeda-ili-postupaet-pravilno](pages/moy-syn-yabeda-ili-postupaet-pravilno.md)] — уточняет границу: сообщение взрослому ради безопасности является защитой, но при отсутствии опасности нужно различать мотив помощи и поиск одобрения
 
 ## Related Concepts
 
