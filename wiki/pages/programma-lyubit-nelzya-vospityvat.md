@@ -3,7 +3,7 @@ title: Программа «Любить нельзя воспитывать»
 category: Entities
 summary: Авторская программа Димы Зицера, отвечающая на вопросы зрителей о взаимоотношениях между людьми разного возраста
 tags: [entity, programma, dima-zicer]
-sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, kak-spasti-15-letnego-syna, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, mama-narushaet-lichnye-granitsy, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, moy-syn-yabeda-ili-postupaet-pravilno]
+sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, kak-spasti-15-letnego-syna, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, mama-narushaet-lichnye-granitsy, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, moy-syn-yabeda-ili-postupaet-pravilno, kak-rastit-samostoyatelnogo-rebenka]
 created: 2026-08-04
 updated: 2026-09-01
 ---
@@ -38,6 +38,7 @@ updated: 2026-09-01
 - [[mama-narushaet-lichnye-granitsy](pages/mama-narushaet-lichnye-granitsy.md)] — короткий выпуск: 15-летний Саша и мама, личные границы и привязанность
 - [[kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii](pages/kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii.md)] — короткий выпуск: 15-летний сын уезжает учиться за границу, приёмы для сохранения близости с сестрой и младшим братом
 - [[moy-syn-yabeda-ili-postupaet-pravilno](pages/moy-syn-yabeda-ili-postupaet-pravilno.md)] — короткий выпуск: пятилетний ребёнок сообщает взрослым о поступках других, защита отделяется от поиска одобрения
+- [[kak-rastit-samostoyatelnogo-rebenka](pages/kak-rastit-samostoyatelnogo-rebenka.md)] — короткий выпуск: бытовые поручения отделяются от самостоятельных решений ребёнка
 
 ## Related Concepts
 

@@ -3,9 +3,9 @@ title: Выбор через пробы
 category: Concepts
 summary: Смена детских увлечений — не каприз, а нормальный механизм выбора через пробу; принуждение «доводить до конца» учит подчинению, а не решительности
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-248, lnv-vypusk-250, lnv-vypusk-216, lnv-vypusk-211]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-248, lnv-vypusk-250, lnv-vypusk-216, lnv-vypusk-211, kak-rastit-samostoyatelnogo-rebenka]
 created: 2026-08-29
-updated: 2026-08-31
+updated: 2026-09-01
 ---
 
 # Выбор через пробы
@@ -27,6 +27,7 @@ updated: 2026-08-31
 - [[lnv-vypusk-250](pages/lnv-vypusk-250.md)] — поиск друзей тринадцатилетней девочки через среду разделённого интереса: вместо требования социализироваться родители вместе с ней ищут подходящие пробы и занятия
 - [[lnv-vypusk-216](pages/lnv-vypusk-216.md)] — спортивная семейная культура не отменяет выбора ребёнка: взрослый поддерживает его собственную цель, а не подменяет её требованием результата или обязательством не бросать
 - [[lnv-vypusk-211](pages/lnv-vypusk-211.md)] — ранняя профориентация и тревога о «недостаточном усилии» получают общий критерий: трудность имеет смысл преодолевать ради задачи, которую ребёнок действительно поставил себе сам
+- [[kak-rastit-samostoyatelnogo-rebenka](pages/kak-rastit-samostoyatelnogo-rebenka.md)] — техника «чистого листа»: признать избыток решений взрослых и заново составить неделю из занятий, выбранных самим ребёнком
 
 ## Related Concepts
 
