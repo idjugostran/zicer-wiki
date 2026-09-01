@@ -3,9 +3,9 @@ title: Дима Зицер
 category: Entities
 summary: Педагог, автор канала о воспитании детей и школе «Апельсин»
 tags: [entity, pedagogue]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, u-nego-sdvg-ili-my-ego-razbalovali, kurs-12-urokov-urok-11, lnv-vypusk-252, kak-spasti-15-letnego-syna, o-shkole-i-ne-tolko-kidfrendli, o-diskriminatsii-detey-vzroslymi, mama-dorogaya-bulling, lnv-vypusk-201, o-malchikah-i-o-muzhikah, lnv-vypusk-251, kurs-12-urokov-urok-12, lnv-vypusk-200, mama-narushaet-lichnye-granitsy]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, u-nego-sdvg-ili-my-ego-razbalovali, kurs-12-urokov-urok-11, lnv-vypusk-252, kak-spasti-15-letnego-syna, o-shkole-i-ne-tolko-kidfrendli, o-diskriminatsii-detey-vzroslymi, mama-dorogaya-bulling, lnv-vypusk-201, o-malchikah-i-o-muzhikah, lnv-vypusk-251, kurs-12-urokov-urok-12, lnv-vypusk-200, mama-narushaet-lichnye-granitsy, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii]
 created: 2026-08-04
-updated: 2026-08-31
+updated: 2026-09-01
 ---
 
 # Дима Зицер
@@ -66,6 +66,7 @@ updated: 2026-08-31
 - [[kurs-12-urokov-urok-12](pages/kurs-12-urokov-urok-12.md)] — Урок 12, заключительный: рефлексия и синтез курса, закрывает Уроки 1–12 без пропусков
 - [[lnv-vypusk-200](pages/lnv-vypusk-200.md)] — юбилейный выпуск №200: техника «конкретного запроса» как условие помощи
 - [[mama-narushaet-lichnye-granitsy](pages/mama-narushaet-lichnye-granitsy.md)] — короткий выпуск: привязанность как личные границы, слегка сдвинутые для близкого человека
+- [[kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii](pages/kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii.md)] — короткий выпуск: 15-летний сын уезжает учиться за границу, рамки контакта и «золотое правило» советоваться
 
 ## Related Concepts
 
@@ -106,3 +107,4 @@ updated: 2026-08-31
 - [[my-vmesto-on-diagnostika-subyektnosti](pages/my-vmesto-on-diagnostika-subyektnosti.md)] — центральный концепт звонка про 15-летнего сына
 - [[kollektivizm-kak-pochva-dlya-bullinga](pages/kollektivizm-kak-pochva-dlya-bullinga.md)] — центральный концепт панели про буллинг
 - [[chtenie-perepiski-detey](pages/chtenie-perepiski-detey.md)] — центральный концепт выпуска №201
+- [[sovetovatsya-i-rasskazyvat-o-sebe](pages/sovetovatsya-i-rasskazyvat-o-sebe.md)] — центральный концепт выпуска про отъезд 15-летнего сына
