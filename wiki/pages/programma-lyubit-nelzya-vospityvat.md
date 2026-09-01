@@ -5,7 +5,7 @@ summary: Авторская программа Димы Зицера, отвеч
 tags: [entity, programma, dima-zicer]
 sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, kak-spasti-15-letnego-syna, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, mama-narushaet-lichnye-granitsy]
 created: 2026-08-04
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Программа «Любить нельзя воспитывать»
@@ -17,8 +17,8 @@ updated: 2026-08-30
 ## Appearances in Sources
 
 - [[nuzhno-li-uchit-detey-davat-sdachi](pages/nuzhno-li-uchit-detey-davat-sdachi.md)] — выпуск про звонок мамы о конфликте между детьми и совет «давать сдачи»
-- [[lnv-vypusk-253](pages/lnv-vypusk-253.md)] — выпуск №253: десять звонков на самые разные темы за один эфир
-- [[lnv-vypusk-215](pages/lnv-vypusk-215.md)] — выпуск №215: комментарий к резонансному школьному инциденту и восемь звонков
+- [[lnv-vypusk-253](pages/lnv-vypusk-253.md)] — выпуск №253: девять звонков и десять самостоятельных тем за один эфир
+- [[lnv-vypusk-215](pages/lnv-vypusk-215.md)] — выпуск №215: комментарий к резонансному школьному инциденту и семь звонков
 - [[mozhet-li-rebenok-bullit-mamu](pages/mozhet-li-rebenok-bullit-mamu.md)] — короткий выпуск: сын игнорирует маму, ориентируясь только на папу
 - [[kak-vyzhit-ryadom-s-podrostkom](pages/kak-vyzhit-ryadom-s-podrostkom.md)] — выпуск ЛНВ#334: резкая перемена в характере 14-летней дочери
 - [[pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet](pages/pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet.md)] — выпуск ЛНВ №331: агрессия пятилетнего мальчика к младшей сестре
@@ -30,9 +30,9 @@ updated: 2026-08-30
 - [[lnv-v-gostyah-u-zicera-chast-1](pages/lnv-v-gostyah-u-zicera-chast-1.md)] — домашний спецвыпуск №399: «пять факторов неформального образования»
 - [[lnv-vypusk-162](pages/lnv-vypusk-162.md)] — выпуск №162 на радио «Маяк»: критика ритуала «вставать, отвечая учителю»
 - [[u-nego-sdvg-ili-my-ego-razbalovali](pages/u-nego-sdvg-ili-my-ego-razbalovali.md)] — звонок про 8-летнего сына с СДВГ, бросающего кружки
-- [[lnv-vypusk-252](pages/lnv-vypusk-252.md)] — выпуск №252, четыре звонка: школа, бассейн, едкие замечания, интерес к сексу
+- [[lnv-vypusk-252](pages/lnv-vypusk-252.md)] — выпуск №252, семь обращений: школа, бассейн, едкие замечания, детская самостоятельность, интерес к сексу, смена целей подростка и сосание пальца
 - [[kak-spasti-15-letnego-syna](pages/kak-spasti-15-letnego-syna.md)] — тяжёлый звонок про 15-летнего сына, скатывающегося по «наклонной плоскости»
-- [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — выпуск №201, восемь звонков: чтение переписки подростка, «ворчун», конфликт второклассниц, детский сад
+- [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — выпуск №201, девять звонков: чтение переписки подростка, «ворчун», конфликт второклассниц, детский сад
 - [[lnv-vypusk-251](pages/lnv-vypusk-251.md)] — выпуск №251, семь звонков: наклейки-поощрения, личные границы, домашнее обучение, ночные страхи
 - [[lnv-vypusk-200](pages/lnv-vypusk-200.md)] — юбилейный выпуск №200: техника «конкретного запроса», сладости, безопасность подростка
 - [[mama-narushaet-lichnye-granitsy](pages/mama-narushaet-lichnye-granitsy.md)] — короткий выпуск: 15-летний Саша и мама, личные границы и привязанность

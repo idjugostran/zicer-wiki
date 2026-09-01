@@ -5,7 +5,7 @@ summary: Выпуск ЛНВ — «удовольствие» как самоо�
 tags: [source, video, lnv, sdvg]
 sources: [u-nego-sdvg-ili-my-ego-razbalovali]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-01
 ---
 
 # У него СДВГ или мы его РАЗБАЛОВАЛИ?
@@ -39,14 +39,14 @@ updated: 2026-08-30
 
 ## Relation to Other Wiki Pages
 
-Даёт [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] новую конкретную иллюстрацию за пределами школы «Апельсин»: театральный кружок, где рамка (спектакль идёт по плану) совмещается с гибкостью (роль осветителя вместо актёра).
+Даёт [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] новую конкретную иллюстрацию за пределами школы «Апельсин»: театральный кружок, где рамка (спектакль идёт по плану) совмещается с гибкостью (роль осветителя вместо актёра).[^1]
 
-Расширяет методологический приём [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] (абстракция → конкретное действие) на новую область: не только родительскую любовь, но и собственный самоотчёт ребёнка о мотивации нужно переводить из абстрактного «нравится» в конкретные детали.
+Расширяет методологический приём [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] (абстракция → конкретное действие) на новую область: не только родительскую любовь, но и собственный самоотчёт ребёнка о мотивации нужно переводить из абстрактного «нравится» в конкретные детали.[^2]
 
-Разговор «отдельно от ситуации» с прямым вопросом «чем я могла тебе помочь» повторяет ту же технику, что и в [[lnv-vypusk-171](pages/lnv-vypusk-171.md)] и [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)].
+Разговор «отдельно от ситуации» с прямым вопросом «чем я могла тебе помочь» повторяет ту же технику, что и в [[lnv-vypusk-171](pages/lnv-vypusk-171.md)] и [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)].[^3]
 
 ## Footnotes
 
 [^1]: [[u-nego-sdvg-ili-my-ego-razbalovali](pages/u-nego-sdvg-ili-my-ego-razbalovali.md)] [00:06:05]-[00:09:21] [synthesis] — рамки на примере театра: ребёнок стал осветителем вместо актёра
-[^2]: [[u-nego-sdvg-ili-my-ego-razbalovali](pages/u-nego-sdvg-ili-my-ego-razbalovali.md)] [00:11:47]-[00:13:20] [synthesis] — «удовольствие» как недостаточный ответ; необходимость конкретики
+[^2]: [[u-nego-sdvg-ili-my-ego-razbalovali](pages/u-nego-sdvg-ili-my-ego-razbalovali.md)] [00:11:02]-[00:13:20] [synthesis] — разговор «зачем» и причинно-следственная цепочка как практика; «удовольствие» как недостаточный ответ; необходимость конкретики
 [^3]: [[u-nego-sdvg-ili-my-ego-razbalovali](pages/u-nego-sdvg-ili-my-ego-razbalovali.md)] [00:14:00]-[00:15:33] [synthesis] — разговор отдельно от ситуации про истерику с игрушкой

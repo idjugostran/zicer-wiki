@@ -5,15 +5,15 @@ summary: Первый урок курса — что такое родитель
 tags: [source, transcript, kurs-12-urokov, roditelstvo, dima-zicer]
 sources: [kurs-12-urokov-urok-1]
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-09-01
 ---
 
 # Курс «Двенадцать уроков для продвинутых родителей» — Урок 1
 
 **Source:** https://www.youtube.com/watch?v=P7IbPzssC2Y
 **Date ingested:** 2026-08-04
-**Type:** transcript
-**Published:** 2021-08-27 · 18 мин · канал Dima Zicer
+**Type:** transcript + video description
+**Published:** 2021-08-27 · 17 мин 52 с · канал Dima Zicer
 
 ## Summary
 
@@ -49,12 +49,12 @@ updated: 2026-08-04
 
 ## Footnotes
 
-[^1]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [описание видео] — курс бесплатный, 12 уроков, еженедельно по пятницам, условие: не пропускать уроки и не игнорировать домашние задания
-[^2]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [00:00]-[02:06] [synthesis] — ловушка повторяющихся ошибок: видим чужие со стороны, но не свои изнутри ситуации
-[^3]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [02:06]-[03:00] [synthesis] — курс = практика быть «творцом ситуации» изнутри, а не теория
-[^4]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [03:23]-[04:18] [synthesis] — этимология слова «школа» и три уровня диалога
-[^5]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [07:09]-[08:03] [synthesis] — обязательное домашнее задание как отличие курса
-[^6]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [08:12]-[10:38] — критика клише «ответственность»/«любовь», несогласие с формулой Толстого о счастливых семьях
-[^7]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [11:20]-[13:48] [synthesis] — приём конкретизации: заменить ребёнка на равного по размеру взрослого
-[^8]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [15:23]-[16:41] [synthesis] — родительство как работа над отношениями, а не биологический факт
-[^9]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [04:39]-[07:09] [synthesis] и [13:48]-[15:10] [synthesis] — сценарий «вечерней ловушки» (анонс темы урока 2) и точная формулировка домашнего задания (≥10 пунктов)
+[^1]: raw/P7IbPzssC2Y.description §описание-видео L1-7 [synthesis] — курс бесплатный, включает 12 уроков; описание просит не пропускать уроки и домашние задания и сообщает о еженедельном выходе по пятницам
+[^2]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [00:00:00]-[00:02:06] [synthesis] — ловушка повторяющихся ошибок: видим чужие со стороны, но не свои изнутри ситуации
+[^3]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [00:02:06]-[00:03:00] [synthesis] — курс = практика быть «творцом ситуации» изнутри, а не теория
+[^4]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [00:03:23]-[00:04:18] [synthesis] — этимология слова «школа» и три уровня диалога
+[^5]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [00:07:09]-[00:08:03] [synthesis] — обязательное домашнее задание как отличие курса
+[^6]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [00:08:12]-[00:10:38] [synthesis] — критика клише «ответственность»/«любовь», несогласие с формулой Толстого о счастливых семьях
+[^7]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [00:11:20]-[00:13:48] [synthesis] — приём конкретизации: заменить ребёнка на равного по размеру взрослого
+[^8]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [00:15:23]-[00:16:41] [synthesis] — родительство как работа над отношениями, а не биологический факт
+[^9]: [[kurs-12-urokov-urok-1](pages/kurs-12-urokov-urok-1.md)] [00:04:39]-[00:07:09] и [00:13:48]-[00:15:10] [synthesis] — сценарий «вечерней ловушки» (анонс темы урока 2) и точная формулировка домашнего задания (≥10 пунктов)

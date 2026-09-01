@@ -5,7 +5,7 @@ summary: Более ранний (2016) источник того же тези�
 tags: [source, transcript, samoregulyatsiya, dima-zicer, dozhd]
 sources: [kak-ponimat-signaly-tela]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-08-31
 ---
 
 # Как понимать сигналы, которые посылает нам тело
@@ -49,6 +49,6 @@ updated: 2026-08-29
 [^2]: [[kak-ponimat-signaly-tela](pages/kak-ponimat-signaly-tela.md)] [00:03:13]-[00:04:08] [synthesis] — работа с телом вместо «головы»; обнаружение боли в пояснице как предвестника крика
 [^3]: [[kak-ponimat-signaly-tela](pages/kak-ponimat-signaly-tela.md)] [00:04:08]-[00:05:16] [synthesis] — снижение частоты конфликтов при внимании к телесному сигналу
 [^4]: [[kak-ponimat-signaly-tela](pages/kak-ponimat-signaly-tela.md)] [00:05:16]-[00:07:55] [synthesis] — детское воспоминание (дед, музей, усталые ноги) как источник взрослой телесной реакции; формула «тело — причина, а не следствие»
-[^5]: [[kak-ponimat-signaly-tela](pages/kak-ponimat-signaly-tela.md)] [00:07:55]-[00:08:59] [synthesis] — пример матери, ударившей трёхлетнюю дочь за пролитый сок; конкретные телесные сигналы и прямые физические ответы
+[^5]: [[kak-ponimat-signaly-tela](pages/kak-ponimat-signaly-tela.md)] [00:07:20]-[00:08:59] [synthesis] — пример матери, ударившей трёхлетнюю дочь за пролитый сок; конкретные телесные сигналы и прямые физические ответы
 [^6]: [[kak-ponimat-signaly-tela](pages/kak-ponimat-signaly-tela.md)] [00:08:59]-[00:09:54] [synthesis] — пример агрессивного мальчика в школе: разжатие кулаков делает удар физически невозможным
 [^7]: [[kak-ponimat-signaly-tela](pages/kak-ponimat-signaly-tela.md)] [00:09:54]-[00:12:29] [synthesis] — перенос на бытовую ситуацию с пролитым супом; итоговая формула про тело как главный педагогический инструмент

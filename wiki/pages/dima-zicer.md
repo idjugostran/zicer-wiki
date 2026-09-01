@@ -5,7 +5,7 @@ summary: Педагог, автор канала о воспитании дет�
 tags: [entity, pedagogue]
 sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kak-ponimat-signaly-tela, kurs-12-urokov-urok-6, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, u-nego-sdvg-ili-my-ego-razbalovali, kurs-12-urokov-urok-11, lnv-vypusk-252, kak-spasti-15-letnego-syna, o-shkole-i-ne-tolko-kidfrendli, o-diskriminatsii-detey-vzroslymi, mama-dorogaya-bulling, lnv-vypusk-201, o-malchikah-i-o-muzhikah, lnv-vypusk-251, kurs-12-urokov-urok-12, lnv-vypusk-200, mama-narushaet-lichnye-granitsy]
 created: 2026-08-04
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Дима Зицер
@@ -34,8 +34,8 @@ updated: 2026-08-30
 - [[urok-matematiki-v-shkole-apelsin](pages/urok-matematiki-v-shkole-apelsin.md)] — съёмка урока математики в «Апельсине» с разбором: рамки вместо дисциплины
 - [[kurs-12-urokov-urok-7](pages/kurs-12-urokov-urok-7.md)] — Урок 7 курса: выбор школы, родитель как заказчик образования
 - [[kurs-12-urokov-urok-9](pages/kurs-12-urokov-urok-9.md)] — Урок 9 курса: гендерные модели воспитания
-- [[lnv-vypusk-253](pages/lnv-vypusk-253.md)] — выпуск «Любить нельзя воспитывать» №253: десять звонков в эфир
-- [[lnv-vypusk-215](pages/lnv-vypusk-215.md)] — выпуск «Любить нельзя воспитывать» №215: комментарий к школьному инциденту и восемь звонков
+- [[lnv-vypusk-253](pages/lnv-vypusk-253.md)] — выпуск «Любить нельзя воспитывать» №253: девять звонков и десять самостоятельных тем
+- [[lnv-vypusk-215](pages/lnv-vypusk-215.md)] — выпуск «Любить нельзя воспитывать» №215: комментарий к школьному инциденту и семь звонков
 - [[mozhet-li-rebenok-bullit-mamu](pages/mozhet-li-rebenok-bullit-mamu.md)] — короткий выпуск про игнорирование мамы шестилетним сыном
 - [[kak-vyzhit-ryadom-s-podrostkom](pages/kak-vyzhit-ryadom-s-podrostkom.md)] — выпуск ЛНВ#334 про резкую перемену в характере 14-летней дочери
 - [[svoboda-ot-vospitaniya-tedx](pages/svoboda-ot-vospitaniya-tedx.md)] — TEDx-лекция «Свобода от воспитания»
@@ -60,7 +60,7 @@ updated: 2026-08-30
 - [[o-shkole-i-ne-tolko-kidfrendli](pages/o-shkole-i-ne-tolko-kidfrendli.md)] — интервью «Кидфрендли»: школа как «камера хранения», критика принудительного молчания
 - [[o-diskriminatsii-detey-vzroslymi](pages/o-diskriminatsii-detey-vzroslymi.md)] — ранний (2017) монолог: общее определение дискриминации, «дети — эксперты своего момента»
 - [[mama-dorogaya-bulling](pages/mama-dorogaya-bulling.md)] — панель ЮНЕСКО про буллинг: навязанный коллективизм как почва, техника «зачем, а не что» для инициатора
-- [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — выпуск №201: восемь звонков, центральный — развёрнутый разбор, почему нельзя читать переписку ребёнка
+- [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — выпуск №201: девять звонков, центральный — развёрнутый разбор, почему нельзя читать переписку ребёнка
 - [[o-malchikah-i-o-muzhikah](pages/o-malchikah-i-o-muzhikah.md)] — дебаты на канале «Культура»: маскулинность существует только через сравнение с более слабым
 - [[lnv-vypusk-251](pages/lnv-vypusk-251.md)] — выпуск №251: семь звонков, без нового концепта
 - [[kurs-12-urokov-urok-12](pages/kurs-12-urokov-urok-12.md)] — Урок 12, заключительный: рефлексия и синтез курса, закрывает Уроки 1–12 без пропусков
