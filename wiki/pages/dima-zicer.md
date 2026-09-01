@@ -41,7 +41,7 @@ updated: 2026-08-31
 - [[svoboda-ot-vospitaniya-tedx](pages/svoboda-ot-vospitaniya-tedx.md)] — TEDx-лекция «Свобода от воспитания»
 - [[kurs-12-urokov-urok-8](pages/kurs-12-urokov-urok-8.md)] — Урок 8 курса: так называемые «сложные темы»
 - [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] — выпуск «Психологии на Дожде»: откуда берутся модели поведения
-- [[pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet](pages/pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet.md)] — выпуск ЛНВ №331: агрессия пятилетнего мальчика к младшей сестре
+- [[pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet](pages/pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet.md)] — выпуск ЛНВ №331: провокации пятилетнего мальчика в адрес младшей сестры и удары взрослых
 - [[kurs-12-urokov-urok-10](pages/kurs-12-urokov-urok-10.md)] — Урок 10 курса: личность и поведение
 - [[pochemu-vzroslye-unizhayut-detey](pages/pochemu-vzroslye-unizhayut-detey.md)] — программа «Правила жизни» (канал «Культура»): механизм унижения детей
 - [[chto-delat-esli-ya-sryvayus-na-svoego-rebenka](pages/chto-delat-esli-ya-sryvayus-na-svoego-rebenka.md)] — звонок мамы, дерущейся с сыном: конкретные телесные техники прерывания агрессии

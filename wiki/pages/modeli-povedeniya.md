@@ -19,7 +19,7 @@ updated: 2026-08-30
 ## Appearances in Sources
 
 - [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] — вводит концепт целиком
-- [[pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet](pages/pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet.md)] — конкретный случай: ребёнок усваивает модель давления от родителей и применяет её к младшей сестре
+- [[pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet](pages/pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet.md)] — конкретный случай: ребёнок усваивает модель давления от родителей и пытается воспроизводить её в отношениях с младшей сестрой
 - [[dima-zicer-v-programme-nam-nado-pogovorit-rtvi](pages/dima-zicer-v-programme-nam-nado-pogovorit-rtvi.md)] — новая предметная область: чтение усваивается тем же механизмом подражания, а не декларацией «надо читать»
 - [[nablyudatel-o-podrostkah](pages/nablyudatel-o-podrostkah.md)] — трудный возраст как катализатор накопленных моделей, а не причина; решающую роль играют модели, а не гены или абстрактное воспитание
 - [[lnv-vypusk-252](pages/lnv-vypusk-252.md)] — дополняющий вопрос «зачем»: не откуда взялась модель, а что она продолжает обслуживать

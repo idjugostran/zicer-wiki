@@ -21,7 +21,7 @@ updated: 2026-08-31
 - [[lnv-vypusk-215](pages/lnv-vypusk-215.md)] — выпуск №215: комментарий к резонансному школьному инциденту и семь звонков
 - [[mozhet-li-rebenok-bullit-mamu](pages/mozhet-li-rebenok-bullit-mamu.md)] — короткий выпуск: сын игнорирует маму, ориентируясь только на папу
 - [[kak-vyzhit-ryadom-s-podrostkom](pages/kak-vyzhit-ryadom-s-podrostkom.md)] — выпуск ЛНВ#334: резкая перемена в характере 14-летней дочери
-- [[pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet](pages/pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet.md)] — выпуск ЛНВ №331: агрессия пятилетнего мальчика к младшей сестре
+- [[pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet](pages/pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet.md)] — выпуск ЛНВ №331: провокации пятилетнего мальчика в адрес младшей сестры и удары взрослых
 - [[chto-delat-esli-ya-sryvayus-na-svoego-rebenka](pages/chto-delat-esli-ya-sryvayus-na-svoego-rebenka.md)] — звонок мамы, дерущейся с 9-летним сыном: конкретные телесные техники прерывания агрессии
 - [[mama-prochla-dnevnik-docheri-i-uzhasnulas](pages/mama-prochla-dnevnik-docheri-i-uzhasnulas.md)] — звонок мамы про дневник 12-летней дочери: экзистенциальный вопрос переходного возраста
 - [[kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey](pages/kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey.md)] — развёрнутый выпуск про маму 13-летнего сына: техника «список десяти удовольствий»

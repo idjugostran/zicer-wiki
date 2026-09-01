@@ -5,7 +5,7 @@ summary: Седьмой урок курса — выбор школы через
 tags: [source, transcript, kurs-12-urokov, roditelstvo, dima-zicer, shkola]
 sources: [kurs-12-urokov-urok-7]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-09-01
 ---
 
 # Курс «Двенадцать уроков для продвинутых родителей» — Урок 7
@@ -13,7 +13,7 @@ updated: 2026-08-29
 **Source:** https://www.youtube.com/watch?v=Va0O5S_CmJI
 **Date ingested:** 2026-08-29
 **Type:** transcript
-**Published:** 2021-10-08 · 25 мин · канал Dima Zicer
+**Published:** 2021-10-08 · 25 мин 23 с · канал Dima Zicer
 
 ## Summary
 
