@@ -3,7 +3,7 @@ title: Сохранить ребёнка в целости
 category: Concepts
 summary: После травмы приоритет смещается с успеваемости и требований на сохранность самого ребёнка — школьная нагрузка может быть снята вплоть до того, что родитель делает домашнее задание за него
 tags: [concept, travma, bezhentsy, shkola, roditelstvo]
-sources: [kak-oblegchit-shkolnuyu-zhizn-docheri, kak-podderzhat-rebenka-vo-vremya-voyny]
+sources: [kak-oblegchit-shkolnuyu-zhizn-docheri, kak-podderzhat-rebenka-vo-vremya-voyny, doch-schitaet-sebya-kvadroberom]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 
 - [[kak-oblegchit-shkolnuyu-zhizn-docheri](pages/kak-oblegchit-shkolnuyu-zhizn-docheri.md)] — вводит концепт целиком: 9-летняя девочка из Украины в немецкой школе, домашние задания, перевод в другую школу и второй год в третьем классе
 - [[kak-podderzhat-rebenka-vo-vremya-voyny](pages/kak-podderzhat-rebenka-vo-vremya-voyny.md)] — предельная формулировка того же принципа: «пусть играет в футбол, а хрен с ней с учёбой»
+- [[doch-schitaet-sebya-kvadroberom](pages/doch-schitaet-sebya-kvadroberom.md)] — «охранять по периметру», не требуя от ребёнка отказаться от того, что он любит
 
 ## Related Concepts
 

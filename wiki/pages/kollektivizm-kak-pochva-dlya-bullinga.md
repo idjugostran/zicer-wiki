@@ -3,7 +3,7 @@ title: Навязанный коллективизм как почва для б
 category: Concepts
 summary: Буллинг — примитивное упрощение личных отношений в групповую агрессию; навязанный взрослыми коллективизм («мы единая команда») порождает вожака и травлю, тогда как личностные отношения в классе защищают от неё; работать нужно с чувствами инициатора, а не с коллективом
 tags: [concept, bulling, samoregulyatsiya, subyektnost]
-sources: [mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-223, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, nam-popalas-plohaya-uchilka]
+sources: [mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-223, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, nam-popalas-plohaya-uchilka, doch-schitaet-sebya-kvadroberom]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-223](pages/lnv-vypusk-223.md)] — два школьных случая добавляют практический порядок действий: сначала взрослые прекращают небезопасную ситуацию, затем класс может говорить об отношениях через «мы вместе и мы разные», а не через принудительную общность
 - [[chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek](pages/chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek.md)] — та же логика произвольного деления на «своих и чужих» на более раннем примере (детская игра по гендерному признаку), явно названная Зицером первым шагом в цепочке к дискриминации по цвету кожи, национальности, возрасту
 - [[nam-popalas-plohaya-uchilka](pages/nam-popalas-plohaya-uchilka.md)] — класс, настраивающий себя против других параллелей; пассивно-агрессивный треугольник подружек
+- [[doch-schitaet-sebya-kvadroberom](pages/doch-schitaet-sebya-kvadroberom.md)] — «довели до состояния, когда достаточно сказать ату»: те же взрослые умилялись год назад
 
 ## Related Concepts
 

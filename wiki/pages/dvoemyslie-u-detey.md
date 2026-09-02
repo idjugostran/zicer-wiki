@@ -3,7 +3,7 @@ title: Двоемыслие у детей
 category: Concepts
 summary: Когда взрослые декларируют позицию, а поступками её опровергают — «мы не хотим иметь к этому отношения» и одновременно «можно приехать потусить», — ребёнок получает прямой путь к двоемыслию
 tags: [concept, chestnost, voyna, emigratsiya, roditelstvo]
-sources: [kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy]
+sources: [kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, doch-schitaet-sebya-kvadroberom]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy](pages/kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy.md)] — вводит концепт: случай с бабушками и дедушками, «прямой путь к двоемыслию», цена удобного объяснения отъезда
+- [[doch-schitaet-sebya-kvadroberom](pages/doch-schitaet-sebya-kvadroberom.md)] — «политические взгляды мы в садике не обсуждаем» и маска котика, которую нельзя носить снаружи
 
 ## Related Concepts
 

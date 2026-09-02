@@ -3,7 +3,7 @@ title: Отвечать только на заданные вопросы
 category: Concepts
 summary: На все вопросы ребёнка отвечают честно и полностью — но ни один ответ не даётся авансом; особенно в ситуации войны, болезни и других страшных обстоятельств
 tags: [concept, chestnost, voyna, trevoga, razgovor]
-sources: [kak-vo-vremya-voyny-uspokaivat-sebya-i-detey]
+sources: [kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, doch-schitaet-sebya-kvadroberom]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -33,3 +33,4 @@ updated: 2026-09-03
 - [[ne-obyasnyat-chto-chuvstvovat](pages/ne-obyasnyat-chto-chuvstvovat.md)] — соседний запрет на опережающее объяснение
 - [[tak-nazyvaemye-slozhnye-temy](pages/tak-nazyvaemye-slozhnye-temy.md)] — общий подход к разговорам о страшном
 - [[kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy](pages/kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy.md)] — честность, которая не равна выкладыванию всего
+- [[pravda-ob-opasnoy-srede](pages/pravda-ob-opasnoy-srede.md)] — обратный случай: вопрос задан самим событием, и молчать нельзя
