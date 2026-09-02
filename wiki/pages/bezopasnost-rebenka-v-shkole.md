@@ -3,7 +3,7 @@ title: Безопасность ребёнка в школе как обязан
 category: Concepts
 summary: При систематической травле школа обязана обеспечить ребёнку безопасность и прекратить ситуацию без стигматизации того, кто обратился за помощью
 tags: [concept, shkola, bulling, roditelstvo]
-sources: [lnv-vypusk-215, lnv-vypusk-162, lnv-vypusk-252, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-164, lnv-vypusk-332, kak-razreshit-konflikt-v-shkole, chego-boitsya-syn-i-chto-s-etim-delat]
+sources: [lnv-vypusk-215, lnv-vypusk-162, lnv-vypusk-252, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-164, lnv-vypusk-332, kak-razreshit-konflikt-v-shkole, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-332](pages/lnv-vypusk-332.md)] — систематическая травля семиклассника: безопасность предшествует педагогике; если школа не исправляет ситуацию, родитель ищет другой безопасный маршрут
 - [[kak-razreshit-konflikt-v-shkole](pages/kak-razreshit-konflikt-v-shkole.md)] — насилие между пятилетними детьми: взрослые останавливают вред, моделируют способы разрешения конфликта и спокойно проверяют другую школу, если нынешняя не обеспечивает безопасность
 - [[chego-boitsya-syn-i-chto-s-etim-delat](pages/chego-boitsya-syn-i-chto-s-etim-delat.md)] — безопасность в поездке измеряется наличием у ребёнка работающей связи со своими
+- [[nam-popalas-plohaya-uchilka](pages/nam-popalas-plohaya-uchilka.md)] — крик на девочку наедине, отказ учительницы говорить с ней после травли, переадресация проблемы на продлёнку
 
 ## Related Concepts
 

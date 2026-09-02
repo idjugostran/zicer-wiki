@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — следствие правила: помощь предлагается только после того, как ребёнок назвал проблему своей
 - [[problema-prinadlezhit-tomu-komu-ona-meshaet](pages/problema-prinadlezhit-tomu-komu-ona-meshaet.md)] — сам вопрос «тебе это мешает или нет?» как приложение этого критерия к ребёнку
 - [[manipulyatsiya](pages/manipulyatsiya.md)] — то, чем разговор становится, когда ответ выбран заранее
+- [[kakuyu-bitvu-vy-vedete](pages/kakuyu-bitvu-vy-vedete.md)] — цель разговора определяется до входа в него, в отличие от ответа собеседника
 
 ## Footnotes
 

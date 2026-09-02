@@ -3,9 +3,9 @@ title: Родитель как заказчик образования
 category: Concepts
 summary: Клиент образования — ребёнок и родители, а не государство; без сформулированного конкретного «заказа» к школе система неизбежно деградирует, как ресторан без заказов посетителей
 tags: [concept, roditelstvo, kurs-12-urokov, shkola]
-sources: [kurs-12-urokov-urok-7, lnv-vypusk-221, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, kak-provodit-klassnye-ekskursii-dlya-detey]
+sources: [kurs-12-urokov-urok-7, lnv-vypusk-221, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, kak-provodit-klassnye-ekskursii-dlya-detey, nam-popalas-plohaya-uchilka]
 created: 2026-08-29
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Родитель как заказчик образования
@@ -24,9 +24,11 @@ updated: 2026-09-02
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «О школе, честности и рок-н-ролле» даёт наиболее развёрнутую версию концепта, включая прямую поддержку ЕГЭ как независимого от школы механизма обратной связи государству, а не инструмента натаскивания
 - [[kak-oblegchit-shkolnuyu-zhizn-docheri](pages/kak-oblegchit-shkolnuyu-zhizn-docheri.md)] — пример из немецкой школы: вместо принятия жалобы родитель запрашивает у учителя профессиональный совет, «как найти подход», и это названо правильным перебрасыванием ответственности
 - [[kak-provodit-klassnye-ekskursii-dlya-detey](pages/kak-provodit-klassnye-ekskursii-dlya-detey.md)] — та же метафора внутри одного занятия: заказчиком делается каждый присутствующий, включая подростка, которого никто не спрашивал
+- [[nam-popalas-plohaya-uchilka](pages/nam-popalas-plohaya-uchilka.md)] — заказчик в переговорном режиме: искать пересечение интересов, а не доказывать правоту
 
 ## Related Concepts
 
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — тот же методологический ход: абстрактное желание раскладывается на конкретный список, здесь применённый к выбору школы
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — вопрос «зачем домашнее задание» из разбора урока математики почти дословно повторяется в этом уроке — независимое подтверждение позиции с двух источников
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — критика внешней мотивации («вырастешь — поймёшь») в пользу понимания, как знание меняет жизнь здесь и сейчас
+- [[shkola-kak-soyuznik](pages/shkola-kak-soyuznik.md)] — та же позиция на переговорах: заказчик ищет пересечение интересов, а не воюет с исполнителем

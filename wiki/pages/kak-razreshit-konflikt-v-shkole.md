@@ -5,7 +5,7 @@ summary: Разбор школьного насилия между пятиле�
 tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, shkola, konflikty, bezopasnost]
 sources: [kak-razreshit-konflikt-v-shkole]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Как разрешить конфликт в школе
@@ -42,7 +42,7 @@ updated: 2026-09-02
 
 ## Relation to Other Wiki Pages
 
-Источник расширяет [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)]: безопасность включает не только прекращение побоев, но и обучение всех участников и спокойную проверку другой среды, если школа не справляется. Для [[davat-sdachi](pages/davat-sdachi.md)] появляется подробная альтернатива удару в ответ — взрослый моделирует просьбу о внимании, отказ и принятие отказа.
+Источник расширяет [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)]: безопасность включает не только прекращение побоев, но и обучение всех участников и спокойную проверку другой среды, если школа не справляется. Для [[davat-sdachi](pages/davat-sdachi.md)] появляется подробная альтернатива удару в ответ — взрослый моделирует просьбу о внимании, отказ и принятие отказа. Продолжение той же темы на уровне переговоров с администрацией — [[nam-popalas-plohaya-uchilka](pages/nam-popalas-plohaya-uchilka.md)]: когда разговор с конкретным учителем уже исчерпан, работает [[shkola-kak-soyuznik](pages/shkola-kak-soyuznik.md)] — поиск общего интереса вместо доказательства правоты.
 
 ## Footnotes
 
