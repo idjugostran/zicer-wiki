@@ -3,7 +3,7 @@ title: «Либо дурочка, либо умная»
 category: Concepts
 summary: Прежде чем разбирать поведение ребёнка, проверяется допущение родителя о нём: если ребёнок неглуп, значит, он понял с первого раза и не вредит себе намеренно — и тогда объяснять надо не его поступок, а родительское повторение
 tags: [concept, roditelstvo, podrostki, kommunikatsiya]
-sources: [proklyataya-chelka-ili-kak-perestat-delat-zamechaniya]
+sources: [proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, chto-takoe-dogovor-s-rebenkom]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[proklyataya-chelka-ili-kak-perestat-delat-zamechaniya](pages/proklyataya-chelka-ili-kak-perestat-delat-zamechaniya.md)] — вводит концепт целиком: дилемма про чёлку, оба вывода и признание матери авторства ситуации
+- [[chto-takoe-dogovor-s-rebenkom](pages/chto-takoe-dogovor-s-rebenkom.md)] — та же проверка, применённая к вкусам ребёнка: «Микела дурочка?»
 
 ## Related Concepts
 

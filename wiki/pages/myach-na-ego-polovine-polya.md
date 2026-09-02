@@ -3,7 +3,7 @@ title: Мяч на его половине поля
 category: Concepts
 summary: Формулировки, после которых формулировки ищет ребёнок, а не родитель: «правда же я не должна тебе нудить?», «я как все мамы трусиха — мне бояться или нет?», «успокой меня» — вместо требования и нотации
 tags: [concept, roditelstvo, kommunikatsiya, podrostki]
-sources: [syn-rasskazal-mame-chto-on-biseksual]
+sources: [syn-rasskazal-mame-chto-on-biseksual, chto-takoe-dogovor-s-rebenkom]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[syn-rasskazal-mame-chto-on-biseksual](pages/syn-rasskazal-mame-chto-on-biseksual.md)] — вводит концепт целиком: «правда же я не должна нудить», «я трусиха», «успокой меня», объяснение про возможность отступить
+- [[chto-takoe-dogovor-s-rebenkom](pages/chto-takoe-dogovor-s-rebenkom.md)] — «я очень боюсь, успокой меня» с прямо названным правом ребёнка отказаться
 
 ## Related Concepts
 

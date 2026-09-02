@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — та же работа с расплывчатой формулировкой («отдохнуть», «получить впечатления»), но в диалоге со взрослым, а не в группе
 - [[uchastniki-kak-zakazchiki](pages/uchastniki-kak-zakazchiki.md)] — тот же принцип в масштабе одного занятия: заказ вместо готовой программы
 - [[shkola-kak-soyuznik](pages/shkola-kak-soyuznik.md)] — договорённость строится на названных интересах сторон, а не на признании чьей-то правоты
+- [[psevdodogovor-kak-prikaz](pages/psevdodogovor-kak-prikaz.md)] — от противного: что не является согласованием, даже если названо договором
 
 ## Footnotes
 

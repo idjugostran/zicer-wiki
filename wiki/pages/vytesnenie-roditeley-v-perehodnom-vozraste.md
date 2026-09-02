@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — что делать вместо поиска правильных вопросов: войти в предложенную ребёнком тему
 - [[sovetovatsya-i-rasskazyvat-o-sebe](pages/sovetovatsya-i-rasskazyvat-o-sebe.md)] — второй ход: обязательный блок о себе и просьба о совете
 - [[svoy-chuzhoy-kak-lozhnaya-opora](pages/svoy-chuzhoy-kak-lozhnaya-opora.md)] — смежная работа с чувством одиночества подростка
+- [[pomoch-pereklyuchitsya](pages/pomoch-pereklyuchitsya.md)] — почему окно для совместного переключения закрывается через пару лет
 
 ## Footnotes
 

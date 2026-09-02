@@ -3,9 +3,9 @@ title: Субъективное время ребёнка и взрослого
 category: Concepts
 summary: Три года для взрослого — миг, для шестилетнего ребёнка — большая часть сознательной жизни; парадигма «подготовки к жизни» (детский сад готовит к школе, школа — к вузу) игнорирует эту разницу и подменяет текущую жизнь ребёнка ожиданием будущей
 tags: [concept, roditelstvo, kniga]
-sources: [kniga-lyubit-nelzya-vospityvat]
+sources: [kniga-lyubit-nelzya-vospityvat, chto-takoe-dogovor-s-rebenkom]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Субъективное время ребёнка и взрослого
@@ -17,6 +17,7 @@ updated: 2026-09-02
 ## Appearances in Sources
 
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «Практика относительности» вводит аргумент целиком
+- [[chto-takoe-dogovor-s-rebenkom](pages/chto-takoe-dogovor-s-rebenkom.md)] — ребёнок в 11 лет учится взаимодействовать с собственным временем, а родитель провожает его по этому пути
 
 ## Related Concepts
 

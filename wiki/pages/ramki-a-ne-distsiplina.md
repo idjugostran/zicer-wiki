@@ -3,7 +3,7 @@ title: Рамки, а не дисциплина
 category: Concepts
 summary: Урок не нуждается в едином поведенческом стандарте (дисциплине) — ему нужны чёткие рамки (место, правила, канва); шум и движение внутри рамок — признак вовлечённости, а не потери контроля
 tags: [concept, shkola-apelsin, pedagogika]
-sources: [urok-matematiki-v-shkole-apelsin, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-223, lnv-vypusk-250, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, mama-ne-dolzhna-stradat, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kak-organizovat-poezdku-dlya-detey, kak-provodit-klassnye-ekskursii-dlya-detey]
+sources: [urok-matematiki-v-shkole-apelsin, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-223, lnv-vypusk-250, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, mama-ne-dolzhna-stradat, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kak-organizovat-poezdku-dlya-detey, kak-provodit-klassnye-ekskursii-dlya-detey, chto-takoe-dogovor-s-rebenkom]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-3-letniy-syn-komanduet-mamoy](pages/chto-delat-esli-3-letniy-syn-komanduet-mamoy.md)] — граница держится не как наказание и не как конкретное правило поведения, а как заявление о собственной отдельности родителя («я живая, я Лиля») — новая техника [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)]
 - [[kak-organizovat-poezdku-dlya-detey](pages/kak-organizovat-poezdku-dlya-detey.md)] — то же различение, перенесённое с урока на двенадцатидневную поездку: взрослый держит рамки процесса, а содержательный «мяч» остаётся на половине поля детей
 - [[kak-provodit-klassnye-ekskursii-dlya-detey](pages/kak-provodit-klassnye-ekskursii-dlya-detey.md)] — рамки как альтернатива невыполнимому требованию «заинтересовать ребёнка»: взрослый создаёт условия, в которых человек сам называет свой интерес
+- [[chto-takoe-dogovor-s-rebenkom](pages/chto-takoe-dogovor-s-rebenkom.md)] — граница между договорённостью и приказом, названным словом «договор»
 
 ## Related Concepts
 

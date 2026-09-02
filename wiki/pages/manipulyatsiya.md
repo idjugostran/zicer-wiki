@@ -3,7 +3,7 @@ title: Манипуляция
 category: Concepts
 summary: «Мягкая» форма насилия («фокус»), лишающая человека воли без прямого принуждения — дети перенимают её у взрослых
 tags: [concept, nasilie, roditelstvo]
-sources: [o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-5, otkuda-berutsya-modeli-povedeniya, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-164, uchitsya-budu-tolko-v-kieve, kniga-lyubit-nelzya-vospityvat, kak-ubedit-syna-chto-emu-neobhodimo-uehat, kak-naladit-otnosheniya-s-docheryu-13-let, syn-darit-tsennye-veshchi-drugim-detyam]
+sources: [o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-5, otkuda-berutsya-modeli-povedeniya, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-164, uchitsya-budu-tolko-v-kieve, kniga-lyubit-nelzya-vospityvat, kak-ubedit-syna-chto-emu-neobhodimo-uehat, kak-naladit-otnosheniya-s-docheryu-13-let, syn-darit-tsennye-veshchi-drugim-detyam, chto-takoe-dogovor-s-rebenkom]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[kak-ubedit-syna-chto-emu-neobhodimo-uehat](pages/kak-ubedit-syna-chto-emu-neobhodimo-uehat.md)] — на прямую просьбу «сманипулировать» почти взрослым (17-летним) пасынком Зицер отвечает полным отказом от манипуляции в пользу открытого разговора, обосновывая это именно возрастом собеседника
 - [[kak-naladit-otnosheniya-s-docheryu-13-let](pages/kak-naladit-otnosheniya-s-docheryu-13-let.md)] — конкретизирует, каким должен быть настоящий (не псевдо-) договор: несколько вечеров переговоров, письменно оговорённые границы и результаты их нарушения, подписанные всеми сторонами, включая ребёнка
 - [[syn-darit-tsennye-veshchi-drugim-detyam](pages/syn-darit-tsennye-veshchi-drugim-detyam.md)] — граница понятия от противного: прямая просьба «у тебя есть, у меня нет» манипуляцией не является
+- [[chto-takoe-dogovor-s-rebenkom](pages/chto-takoe-dogovor-s-rebenkom.md)] — псевдодоговор разобран отдельно: «монополия на другого человека» вместо сопоставления позиций
 
 ## Related Concepts
 
