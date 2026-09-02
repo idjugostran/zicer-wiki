@@ -3,7 +3,7 @@ title: Родительский страх
 category: Concepts
 summary: Страх за ребёнка как источник контролирующего поведения — снимается не подавлением, а признанием страха перед собой и ребёнком
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kurs-12-urokov-urok-11, lnv-vypusk-252, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, mama-narushaet-lichnye-granitsy, lnv-vypusk-208, pochemu-ona-mne-vret, mama-ne-dolzhna-stradat, chto-meshaet-docheri-izbavitsya-ot-nostalgii]
+sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kurs-12-urokov-urok-11, lnv-vypusk-252, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, mama-narushaet-lichnye-granitsy, lnv-vypusk-208, pochemu-ona-mne-vret, mama-ne-dolzhna-stradat, chto-meshaet-docheri-izbavitsya-ot-nostalgii, uchitsya-budu-tolko-v-kieve]
 created: 2026-08-29
 updated: 2026-09-02
 ---
@@ -46,6 +46,7 @@ updated: 2026-09-02
 - [[pochemu-ona-mne-vret](pages/pochemu-ona-mne-vret.md)] — страх «не научится учиться» превращает правду о домашнем задании в повод для контроля; снять давление предлагается раньше, чем требовать честности
 - [[mama-ne-dolzhna-stradat](pages/mama-ne-dolzhna-stradat.md)] — та же формула «говорить о себе от первого лица» применена не к страху, а к физической усталости: «я прошу тебя о помощи» вместо приказа забрать детей
 - [[chto-meshaet-docheri-izbavitsya-ot-nostalgii](pages/chto-meshaet-docheri-izbavitsya-ot-nostalgii.md)] — катастрофическая интерпретация тоски дочери («непереносимая дыра») названа преувеличением; страх снимается не подавлением, а тем же вопросом о доме, обращённым сначала к себе
+- [[uchitsya-budu-tolko-v-kieve](pages/uchitsya-budu-tolko-v-kieve.md)] — новая, более острая грань: страх матери опирается не на преувеличение, а на реальную военную опасность, но формула та же — взять страх на себя, а не требовать от дочери отказаться от мечты, чтобы его снять
 
 ## Related Concepts
 
