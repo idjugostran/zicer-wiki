@@ -5,7 +5,7 @@ summary: Модели поведения формируются повторен
 tags: [source, transcript, dima-zicer, dozhd, modeli]
 sources: [otkuda-berutsya-modeli-povedeniya]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-09-02
 ---
 
 # Откуда берутся модели поведения
@@ -38,7 +38,7 @@ updated: 2026-08-29
 
 ## Relation to Other Wiki Pages
 
-Даёт общую рамку, которую другие источники подборки уже применяли к частным случаям, не называя явно: [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] (Урок 9) разбирает гендерные модели, [[manipulyatsiya](pages/manipulyatsiya.md)] — модели манипуляции, усвоенные от взрослых, [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — транзакционные модели отношений. Пример укладывания спать и «истерики» прямо перекликается с [[isterika](pages/isterika.md)]. Практика «это я, или не я» — более раннее, менее формализованное описание техники, впоследствии оформленной как «сканирование тела» в [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)].
+Даёт общую рамку, которую другие источники подборки уже применяли к частным случаям, не называя явно: [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] (Урок 9) разбирает гендерные модели, [[manipulyatsiya](pages/manipulyatsiya.md)] — модели манипуляции, усвоенные от взрослых, [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — транзакционные модели отношений. Пример укладывания спать и «истерики» прямо перекликается с [[isterika](pages/isterika.md)]. Практика «это я, или не я» — более раннее, менее формализованное описание техники, впоследствии оформленной как «сканирование тела» в [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)]. Глава «Что посеешь — то и пожнёшь» аудиокниги [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — независимый более ранний (по публикации книги) пример того же механизма: мама, жёстко требующая убирать обувь, передаёт сыну не аккуратность, а собственную нетерпимость, а учитель, кричащий на ученика во время урока о смирении, учит насилию, а не теме урока.
 
 ## Footnotes
 

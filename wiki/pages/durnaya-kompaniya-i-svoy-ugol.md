@@ -26,3 +26,4 @@ updated: 2026-08-30
 - [[kak-vyzhit-ryadom-s-podrostkom](pages/kak-vyzhit-ryadom-s-podrostkom.md)] — та же формула «дом как тыл», применённая к резкой перемене характера подростка
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — тот же возрастной порог (7-8 лет), после которого родительское влияние слабеет, а влияние среды нарастает
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — запрет как реакция родительского страха, не снижающая, а повышающая реальный риск
+- [[tyl-dlya-rebenka](pages/tyl-dlya-rebenka.md)] — та же формула «тыла», в книге Зицера прямо названная главным правилом для родителей подростков

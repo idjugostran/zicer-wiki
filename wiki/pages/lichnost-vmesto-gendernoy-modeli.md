@@ -3,9 +3,9 @@ title: Личность вместо гендерной модели
 category: Concepts
 summary: Жёсткие гендерные сценарии («мальчик = твёрдая рука», «девочка = покорность») вредят обоим полам одинаково; личность и интересы ребёнка важнее культивирования «мальчиковости»/«девочковости»
 tags: [concept, roditelstvo, kurs-12-urokov, gender]
-sources: [kurs-12-urokov-urok-9, kak-spasti-15-letnego-syna, mama-dorogaya-bulling, o-malchikah-i-o-muzhikah, lnv-vypusk-220]
+sources: [kurs-12-urokov-urok-9, kak-spasti-15-letnego-syna, mama-dorogaya-bulling, o-malchikah-i-o-muzhikah, lnv-vypusk-220, kniga-lyubit-nelzya-vospityvat]
 created: 2026-08-29
-updated: 2026-08-30
+updated: 2026-09-02
 ---
 
 # Личность вместо гендерной модели
@@ -25,6 +25,7 @@ updated: 2026-08-30
 - [[mama-dorogaya-bulling](pages/mama-dorogaya-bulling.md)] — тот же механизм («все должны быть X») как источник буллинга того, кто не соответствует
 - [[o-malchikah-i-o-muzhikah](pages/o-malchikah-i-o-muzhikah.md)] — дебаты на канале «Культура»: структурный довод «мужик существует только относительно слабого» и связка «признание своей боли → понимание чужой боли»
 - [[lnv-vypusk-220](pages/lnv-vypusk-220.md)] — четырёхлетний мальчик месяц играет «девочкой-котёнком»; тревожная реакция взрослых, а не сама ролевая игра, может сделать тему эмоциональной ловушкой
+- [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «Мальчиковые слёзы» связывает список требований к «настоящему мужику» напрямую с профилем насильника, на реальном кейсе матери, требующей от сына «мужественности» при собственном участии в антинасильственном флешмобе
 
 ## Related Concepts
 

@@ -31,3 +31,5 @@ updated: 2026-08-31
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — искренний вход в непонятный мир ребёнка вместо его оценки извне
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — смежный диагностический ход: искать переживание и функцию за повторяющимся поступком, не ограничиваясь оценкой самого действия
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — подростковый пересмотр отношений и прежней системы координат как контекст, но не исчерпывающее объяснение риска
+- [[detskie-samoubiystva-kak-simptom-sistemy](pages/detskie-samoubiystva-kak-simptom-sistemy.md)] — смежная, более тяжёлая тема: системная историческая рамка конфликта, а не сигнал конкретного случая
+- [[tyl-dlya-rebenka](pages/tyl-dlya-rebenka.md)] — практическая рекомендация того же типа: безопасное пространство вместо контроля или диагноза
