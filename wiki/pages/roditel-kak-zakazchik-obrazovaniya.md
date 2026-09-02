@@ -3,7 +3,7 @@ title: Родитель как заказчик образования
 category: Concepts
 summary: Клиент образования — ребёнок и родители, а не государство; без сформулированного конкретного «заказа» к школе система неизбежно деградирует, как ресторан без заказов посетителей
 tags: [concept, roditelstvo, kurs-12-urokov, shkola]
-sources: [kurs-12-urokov-urok-7, lnv-vypusk-221, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri]
+sources: [kurs-12-urokov-urok-7, lnv-vypusk-221, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, kak-provodit-klassnye-ekskursii-dlya-detey]
 created: 2026-08-29
 updated: 2026-09-02
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-02
 - [[lnv-vypusk-332](pages/lnv-vypusk-332.md)] — практическая проверка школы: пробный день, разговоры с учителями и родителями, наблюдение ребёнка и готовность исключить школу, которая отказывается разговаривать с семьёй
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «О школе, честности и рок-н-ролле» даёт наиболее развёрнутую версию концепта, включая прямую поддержку ЕГЭ как независимого от школы механизма обратной связи государству, а не инструмента натаскивания
 - [[kak-oblegchit-shkolnuyu-zhizn-docheri](pages/kak-oblegchit-shkolnuyu-zhizn-docheri.md)] — пример из немецкой школы: вместо принятия жалобы родитель запрашивает у учителя профессиональный совет, «как найти подход», и это названо правильным перебрасыванием ответственности
+- [[kak-provodit-klassnye-ekskursii-dlya-detey](pages/kak-provodit-klassnye-ekskursii-dlya-detey.md)] — та же метафора внутри одного занятия: заказчиком делается каждый присутствующий, включая подростка, которого никто не спрашивал
 
 ## Related Concepts
 

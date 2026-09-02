@@ -33,6 +33,7 @@ updated: 2026-09-02
 - [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)] — общая структура, для которой школа служит институциональным примером
 - [[gibkie-navyki](pages/gibkie-navyki.md)] — подтверждено результатами эвакуации 2022 года
 - [[shkola-v-talline](pages/shkola-v-talline.md)] — сестринская школа с другой стартовой точкой (сразу со старших)
+- [[zavali-urok](pages/zavali-urok.md)] — управленческий приём, который Зицер как директор применяет к своим коллегам
 
 ## Footnotes
 

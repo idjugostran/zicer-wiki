@@ -3,7 +3,7 @@ title: Пять факторов неформального образовани
 category: Concepts
 summary: Структурированный ответ Зицера на вопрос «можно ли обойтись без школы» — субъектность, выбор, личный интерес, субъектное взаимодействие, учение как исследование
 tags: [concept, obrazovanie, shkola-apelsin]
-sources: [lnv-v-gostyah-u-zicera-chast-1, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-223, lnv-vypusk-250, ii-v-shkole-zlo-ili-blagoslovenie, kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine, kak-organizovat-poezdku-dlya-detey]
+sources: [lnv-v-gostyah-u-zicera-chast-1, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-223, lnv-vypusk-250, ii-v-shkole-zlo-ili-blagoslovenie, kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine, kak-organizovat-poezdku-dlya-detey, kak-provodit-klassnye-ekskursii-dlya-detey]
 created: 2026-08-30
 updated: 2026-09-02
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-02
 - [[ii-v-shkole-zlo-ili-blagoslovenie](pages/ii-v-shkole-zlo-ili-blagoslovenie.md)] — новый пример фактора «личный интерес»: упражнение с личным топ-10 новостей, спроектированное так, чтобы ИИ не мог выполнить его за ученика
 - [[kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine](pages/kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine.md)] — папа звонка напрямую цитирует более ранний тезис «школа не только про учёбу», который Зицер доводит здесь до предела через новый концепт [[sotsializatsiya-ne-ravna-shkole](pages/sotsializatsiya-ne-ravna-shkole.md)]
 - [[kak-organizovat-poezdku-dlya-detey](pages/kak-organizovat-poezdku-dlya-detey.md)] — цели поездки прямо воспроизводят фактор «субъектное взаимодействие» (связи собой-другим и собой-миром), а техника «пяти удивлений» — фактор «личный интерес»
+- [[kak-provodit-klassnye-ekskursii-dlya-detey](pages/kak-provodit-klassnye-ekskursii-dlya-detey.md)] — Зицер прямо ссылается на пять факторов и разворачивает фактор «личный интерес» в процедуру: не угадывать интерес, а создать рамки, в которых человек сам о нём расскажет
 
 ## Related Concepts
 

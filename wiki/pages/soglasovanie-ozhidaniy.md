@@ -30,6 +30,7 @@ updated: 2026-09-02
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — что именно удерживает взрослый после согласования: рамки процесса, а не поведенческий стандарт
 - [[subyektnost](pages/subyektnost.md)] — основание приёма: участники — субъекты, формулирующие собственные цели, а не адресаты чужой программы
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — та же работа с расплывчатой формулировкой («отдохнуть», «получить впечатления»), но в диалоге со взрослым, а не в группе
+- [[uchastniki-kak-zakazchiki](pages/uchastniki-kak-zakazchiki.md)] — тот же принцип в масштабе одного занятия: заказ вместо готовой программы
 
 ## Footnotes
 
