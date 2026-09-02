@@ -3,9 +3,9 @@ title: Возрастные кризисы как смена системы ко
 category: Concepts
 summary: Три ключевые возрастные границы (3 года, 7 лет, переходный возраст) — не сбои, а последовательная смена «системы координат» взаимодействия с миром
 tags: [concept, roditelstvo, kurs-12-urokov, podrostki]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-248, lnv-vypusk-220]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-248, lnv-vypusk-220, kak-nayti-druzey-na-novom-meste]
 created: 2026-08-29
-updated: 2026-08-30
+updated: 2026-09-02
 ---
 
 # Возрастные кризисы как смена системы координат
@@ -29,6 +29,7 @@ updated: 2026-08-30
 - [[o-diskriminatsii-detey-vzroslymi](pages/o-diskriminatsii-detey-vzroslymi.md)] — тот же порог (~7 лет) как граница полного, не подвергаемого сомнению доверия ребёнка к родителям
 - [[lnv-vypusk-248](pages/lnv-vypusk-248.md)] — два живых проявления смены координат: шестнадцатилетняя девушка пересматривает прежде уверенный образовательный выбор; ребёнок около трёх лет сильнее проверяет эмоциональную связь с матерью, одновременно нуждаясь в спокойной границе безопасности
 - [[lnv-vypusk-220](pages/lnv-vypusk-220.md)] — два уточнения: трёхлетняя ревность к отцу не превращается в семейную борьбу за любовь, а одиннадцатилетняя дочь переоценивает не только себя, но и образ матери
+- [[kak-nayti-druzey-na-novom-meste](pages/kak-nayti-druzey-na-novom-meste.md)] — расширяет метафору «системы координат» на смену внешней среды (переезд, смена школы), а не только на возрастную границу, и даёт конкретную возрастную модель дружбы: в 5 лет «давай дружить» работает мгновенно, в 10 — почти так же, в 13 — «друг» становится сложным понятием
 
 ## Related Concepts
 
