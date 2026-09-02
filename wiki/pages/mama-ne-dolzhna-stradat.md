@@ -40,6 +40,7 @@ updated: 2026-09-02
 - [[problema-prinadlezhit-tomu-komu-ona-meshaet](pages/problema-prinadlezhit-tomu-komu-ona-meshaet.md)] — физический контакт не мешает детям, усталость принадлежит маме
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — техника «говорить о себе» применена не к признанию страха, а к прямой просьбе о помощи
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — твёрдая, необсуждаемая граница, при которой плач ребёнка допустим, но не меняет решения
+- [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)] — тот же вывод («мама не обязана терпеть»), но выведенный там через сценарную демонстрацию ребёнку, а не через просьбу о помощи к партнёру
 
 ## Relation to Other Wiki Pages
 

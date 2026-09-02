@@ -3,7 +3,7 @@ title: Программа «Любить нельзя воспитывать»
 category: Entities
 summary: Авторская программа Димы Зицера, отвечающая на вопросы зрителей о взаимоотношениях между людьми разного возраста
 tags: [entity, programma, dima-zicer]
-sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, kak-spasti-15-letnego-syna, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, mama-narushaet-lichnye-granitsy, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, moy-syn-yabeda-ili-postupaet-pravilno, kak-rastit-samostoyatelnogo-rebenka, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, pochemu-ona-mne-vret, chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame, kak-byt-esli-rebenok-ne-uveren-v-sebe, kak-razreshit-konflikt-v-shkole, mama-ne-dolzhna-stradat, chto-meshaet-docheri-izbavitsya-ot-nostalgii, uchitsya-budu-tolko-v-kieve, kak-nayti-druzey-na-novom-meste]
+sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, lnv-vypusk-215, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, kak-spasti-15-letnego-syna, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, mama-narushaet-lichnye-granitsy, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, moy-syn-yabeda-ili-postupaet-pravilno, kak-rastit-samostoyatelnogo-rebenka, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, pochemu-ona-mne-vret, chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame, kak-byt-esli-rebenok-ne-uveren-v-sebe, kak-razreshit-konflikt-v-shkole, mama-ne-dolzhna-stradat, chto-meshaet-docheri-izbavitsya-ot-nostalgii, uchitsya-budu-tolko-v-kieve, kak-nayti-druzey-na-novom-meste, chto-delat-esli-3-letniy-syn-komanduet-mamoy]
 created: 2026-08-04
 updated: 2026-09-02
 ---
@@ -49,6 +49,7 @@ updated: 2026-09-02
 - [[chto-meshaet-docheri-izbavitsya-ot-nostalgii](pages/chto-meshaet-docheri-izbavitsya-ot-nostalgii.md)] — короткий выпуск о тоске 6-летней дочери по родине после переездов, вопросе «что для тебя ощущение дома» и зеркальном отражении материнской тревоги
 - [[uchitsya-budu-tolko-v-kieve](pages/uchitsya-budu-tolko-v-kieve.md)] — короткий выпуск о маме из Западной Украины, чья дочь во время войны хочет поступать только в Киев, и отдельный вопрос о ненависти младшей дочери к целому народу
 - [[kak-nayti-druzey-na-novom-meste](pages/kak-nayti-druzey-na-novom-meste.md)] — звонок 13-летней беженки из Киева о поиске друзей в третьей по счёту школе: техника «безопасного вопроса» и тренировка дружбы
+- [[chto-delat-esli-3-letniy-syn-komanduet-mamoy](pages/chto-delat-esli-3-letniy-syn-komanduet-mamoy.md)] — звонок мамы трёхлетнего сына с СДВГ, два месяца отказывающегося выходить из дома: демонстрация собственных границ и раздельное проживание как ответ на кризис трёх лет
 
 ## Related Concepts
 
@@ -56,3 +57,4 @@ updated: 2026-09-02
 - [[sovetovatsya-i-rasskazyvat-o-sebe](pages/sovetovatsya-i-rasskazyvat-o-sebe.md)] — центральный концепт выпуска про отъезд 15-летнего сына
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — поиск функции повторяющихся сообщений о поведении других
 - [[bezopasnyi-vopros-kak-nachalo-obshcheniya](pages/bezopasnyi-vopros-kak-nachalo-obshcheniya.md)] — центральный концепт звонка про поиск друзей на новом месте
+- [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)] — центральный концепт звонка про трёхлетнего сына, отказывающегося выходить из дома

@@ -45,6 +45,8 @@ updated: 2026-09-01
 
 Разговор «отдельно от ситуации» с прямым вопросом «чем я могла тебе помочь» повторяет ту же технику, что и в [[lnv-vypusk-171](pages/lnv-vypusk-171.md)] и [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)].[^3]
 
+Другой случай СДВГ, [[chto-delat-esli-3-letniy-syn-komanduet-mamoy](pages/chto-delat-esli-3-letniy-syn-komanduet-mamoy.md)], разбирает не мотивацию ребёнка, а поведение родителя, когда врачи называют диагноз, но не план действий — тот же скепсис Зицера к диагнозу-без-инструкции, применённый к трёхлетнему, а не восьмилетнему случаю.
+
 ## Footnotes
 
 [^1]: [[u-nego-sdvg-ili-my-ego-razbalovali](pages/u-nego-sdvg-ili-my-ego-razbalovali.md)] [00:06:05]-[00:09:21] [synthesis] — рамки на примере театра: ребёнок стал осветителем вместо актёра

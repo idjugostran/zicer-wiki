@@ -33,3 +33,4 @@ updated: 2026-08-30
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — техника отвечает на ситуацию, где инструмент контроля (работающий примерно до 7–10 лет) уже перестал действовать
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — то же наблюдение «мы орём, потому что можем», независимо подтверждённое здесь
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — сценарий примирения продолжает ту же технику «говорить о себе», начиная с признания собственной трудности, а не с претензии к ребёнку
+- [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)] — похожий принцип «родитель занимается собой», но превентивный и ежедневный, а не реактивный ответ на конкретный триггер, и для другого возраста (кризис трёх лет, а не подростковое самоповреждение)

@@ -3,7 +3,7 @@ title: Рамки, а не дисциплина
 category: Concepts
 summary: Урок не нуждается в едином поведенческом стандарте (дисциплине) — ему нужны чёткие рамки (место, правила, канва); шум и движение внутри рамок — признак вовлечённости, а не потери контроля
 tags: [concept, shkola-apelsin, pedagogika]
-sources: [urok-matematiki-v-shkole-apelsin, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-223, lnv-vypusk-250, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, mama-ne-dolzhna-stradat]
+sources: [urok-matematiki-v-shkole-apelsin, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-223, lnv-vypusk-250, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, mama-ne-dolzhna-stradat, chto-delat-esli-3-letniy-syn-komanduet-mamoy]
 created: 2026-08-29
 updated: 2026-09-02
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-02
 - [[lnv-vypusk-250](pages/lnv-vypusk-250.md)] — учитель физкультуры в первом классе получает прямое уточнение: тишина не показатель хорошего урока, а интерес и человеческий разговор не требуют жёсткости
 - [[kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii](pages/kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii.md)] — рамка переносится с урока и семейного кризиса на поддержание отношений между детьми на расстоянии: заранее оговорённая, соблюдаемая регулярность контакта
 - [[mama-ne-dolzhna-stradat](pages/mama-ne-dolzhna-stradat.md)] — спокойная, заранее объявленная граница вне кризиса и вне школы: полтора часа личного времени мамы не подлежат обсуждению, детский плач по этому поводу допустим, но не меняет решения
+- [[chto-delat-esli-3-letniy-syn-komanduet-mamoy](pages/chto-delat-esli-3-letniy-syn-komanduet-mamoy.md)] — граница держится не как наказание и не как конкретное правило поведения, а как заявление о собственной отдельности родителя («я живая, я Лиля») — новая техника [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)]
 
 ## Related Concepts
 
