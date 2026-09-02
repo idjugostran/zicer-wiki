@@ -3,9 +3,9 @@ title: Родительская функция
 category: Concepts
 summary: Формулировка Зицера — защита, помощь, присутствие, поддержка
 tags: [concept, parenting]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kto-ya-svoey-padcheritse]
 created: 2026-08-04
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Родительская функция
@@ -54,3 +54,4 @@ updated: 2026-09-02
 - [[samopovrezhdenie-kak-signal](pages/samopovrezhdenie-kak-signal.md)] — применение присутствия и поддержки к ситуации, где подростку не хватает безопасного способа выразить переживание
 - [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)] — защита ребёнка, когда источником угрозы становится школа или детская группа
 - [[tyl-dlya-rebenka](pages/tyl-dlya-rebenka.md)] — та же формула «тыла», выделенная в отдельную страницу как явно названное «главное правило» книги и условие профилактики подросткового суицида
+- [[zhizn-na-dva-doma](pages/zhizn-na-dva-doma.md)] — случай, где взрослые распорядились жизнью ребёнка, не сделав его участником решения

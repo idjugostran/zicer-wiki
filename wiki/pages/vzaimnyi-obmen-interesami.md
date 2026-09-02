@@ -3,7 +3,7 @@ title: Взаимный обмен интересами
 category: Concepts
 summary: Отвлечь ребёнка от гаджетов запретом нельзя — работает встречное движение: попроситься в мир ребёнка, затем пригласить его в свой мир как в подарок, а не в обязанность
 tags: [concept, roditelstvo, kurs-12-urokov, gadzhety]
-sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-208, lnv-vypusk-164, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-250, lnv-vypusk-216, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, chto-takoe-dogovor-s-rebenkom, kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu]
+sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-208, lnv-vypusk-164, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-250, lnv-vypusk-216, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, chto-takoe-dogovor-s-rebenkom, kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kto-ya-svoey-padcheritse]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -47,3 +47,4 @@ updated: 2026-09-03
 - [[korol-pomoshchi](pages/korol-pomoshchi.md)] — та же логика приглашения вместо обязанности, применённая к просьбе о помощи
 - [[literatura-kak-povod-dlya-razgovora](pages/literatura-kak-povod-dlya-razgovora.md)] — совместное занятие как форма контакта, а не повод для нравоучения
 - [[muzyka-kak-instrument-atmosfery](pages/muzyka-kak-instrument-atmosfery.md)] — обмен любимой музыкой как форма контакта внутри группы
+- [[sozdat-prichinu-byt](pages/sozdat-prichinu-byt.md)] — конкретные общие занятия как то, ради чего ребёнку хочется приходить

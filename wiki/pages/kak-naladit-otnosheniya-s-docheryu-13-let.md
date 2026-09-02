@@ -5,7 +5,7 @@ summary: Мама из Берлина о конфликтах с импульс�
 tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, sdvg, otchim, dogovor]
 sources: [kak-naladit-otnosheniya-s-docheryu-13-let]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # КАК НАЛАДИТЬ ОТНОШЕНИЯ С ДОЧЕРЬЮ 13 лет
@@ -43,7 +43,7 @@ updated: 2026-09-02
 
 ## Relation to Other Wiki Pages
 
-Источник даёт новую грань теме СДВГ, уже встречавшейся в подборке под разными углами: [[u-nego-sdvg-ili-my-ego-razbalovali](pages/u-nego-sdvg-ili-my-ego-razbalovali.md)] разбирает недостаточность самоотчёта «мне нравится», [[chto-delat-esli-3-letniy-syn-komanduet-mamoy](pages/chto-delat-esli-3-letniy-syn-komanduet-mamoy.md)] — диагноз без плана действий у трёхлетнего, а [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] (глава «Ода синдрому») — СДВГ как личностную особенность, а не диагноз. Этот источник добавляет механизм превращения особенности в преимущество через контроль и новый концепт [[sdvg-kak-osobennost-a-ne-diagnoz](pages/sdvg-kak-osobennost-a-ne-diagnoz.md)], объединяющий все четыре источника. Настоящий семейный договор, предложенный здесь, конкретизирует уже описанную в [[manipulyatsiya](pages/manipulyatsiya.md)] мысль, что «настоящий договор требует компромисса и позиции обеих сторон» — в отличие от псевдо-«договора»-манипуляции. Новый концепт [[prava-novogo-partnera-roditelya](pages/prava-novogo-partnera-roditelya.md)] расширяет тему смешанной семьи из [[lnv-vypusk-219](pages/lnv-vypusk-219.md)] (там — пятилетний ребёнок и совет не командовать, а дружить) на подростковый возраст и более развёрнутые, уже сложившиеся отношения, где вопрос не «дружить или командовать», а «какие права вообще согласованы».
+Источник даёт новую грань теме СДВГ, уже встречавшейся в подборке под разными углами: [[u-nego-sdvg-ili-my-ego-razbalovali](pages/u-nego-sdvg-ili-my-ego-razbalovali.md)] разбирает недостаточность самоотчёта «мне нравится», [[chto-delat-esli-3-letniy-syn-komanduet-mamoy](pages/chto-delat-esli-3-letniy-syn-komanduet-mamoy.md)] — диагноз без плана действий у трёхлетнего, а [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] (глава «Ода синдрому») — СДВГ как личностную особенность, а не диагноз. Этот источник добавляет механизм превращения особенности в преимущество через контроль и новый концепт [[sdvg-kak-osobennost-a-ne-diagnoz](pages/sdvg-kak-osobennost-a-ne-diagnoz.md)], объединяющий все четыре источника. Настоящий семейный договор, предложенный здесь, конкретизирует уже описанную в [[manipulyatsiya](pages/manipulyatsiya.md)] мысль, что «настоящий договор требует компромисса и позиции обеих сторон» — в отличие от псевдо-«договора»-манипуляции. Новый концепт [[prava-novogo-partnera-roditelya](pages/prava-novogo-partnera-roditelya.md)] расширяет тему смешанной семьи из [[lnv-vypusk-219](pages/lnv-vypusk-219.md)] (там — пятилетний ребёнок и совет не командовать, а дружить) на подростковый возраст и более развёрнутые, уже сложившиеся отношения, где вопрос не «дружить или командовать», а «какие права вообще согласованы». Второй разбор смешанной семьи — [[kto-ya-svoey-padcheritse](pages/kto-ya-svoey-padcheritse.md)], где тот же вопрос «а вы ей кто» задан мачехе и где к нему добавляются [[zhizn-na-dva-doma](pages/zhizn-na-dva-doma.md)] и [[sozdat-prichinu-byt](pages/sozdat-prichinu-byt.md)].
 
 ## Footnotes
 
