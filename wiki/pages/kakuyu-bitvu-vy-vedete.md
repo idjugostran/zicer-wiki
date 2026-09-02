@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[problema-prinadlezhit-tomu-komu-ona-meshaet](pages/problema-prinadlezhit-tomu-komu-ona-meshaet.md)] — смежный критерий отделения собственной задачи от чужой
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — смежное процедурное правило: цель разговора определяется до входа в него, ответ — нет
 - [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)] — позиция, из которой родитель вообще ставит задачу школе
+- [[dvoemyslie-u-detey](pages/dvoemyslie-u-detey.md)] — тот же ход ведущего: назвать цену каждого варианта, оставив выбор собеседнику
 
 ## Footnotes
 

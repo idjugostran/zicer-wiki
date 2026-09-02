@@ -3,9 +3,9 @@ title: Как уберечь детей от ненависти
 category: Concepts
 summary: Ненависть, возникшая на фоне войны, не запрещается и не подавляется — вместо этого ребёнку помогают различить разрушительную и созидательную цель своего чувства
 tags: [concept, voyna, nenavist, roditelstvo]
-sources: [uchitsya-budu-tolko-v-kieve]
+sources: [uchitsya-budu-tolko-v-kieve, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Как уберечь детей от ненависти
@@ -19,6 +19,7 @@ updated: 2026-09-02
 ## Appearances in Sources
 
 - [[uchitsya-budu-tolko-v-kieve](pages/uchitsya-budu-tolko-v-kieve.md)] — вводит концепт: младшая дочь Наталки говорит «пусть страдают, пусть умирают» о русских; Зицер отвечает различением разрушительной и созидательной ненависти и личным примером своей семьи
+- [[kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy](pages/kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy.md)] — расхождение между антивоенной позицией родителей и их поступками как прямой путь к [[dvoemyslie-u-detey](pages/dvoemyslie-u-detey.md)]
 
 ## Related Concepts
 

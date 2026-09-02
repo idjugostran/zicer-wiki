@@ -3,7 +3,7 @@ title: «Любовь в условиях турбулентности»
 category: Entities
 summary: Книга Димы Зицера о том, что происходит с нами и с нашими детьми во время войны и вынужденных переездов; вводит понятия хорошей и плохой рутины, «поплавков» и места в душе для языка
 tags: [entity, kniga, dima-zicer, emigratsiya, voyna]
-sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, kak-podderzhat-rebenka-vo-vremya-voyny]
+sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, kak-podderzhat-rebenka-vo-vremya-voyny, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 
 - [[rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane](pages/rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane.md)] — Зицер несколько раз ссылается на книгу, разбирая случай 13-летней девочки, не адаптирующейся в Сербии
 - [[kak-podderzhat-rebenka-vo-vremya-voyny](pages/kak-podderzhat-rebenka-vo-vremya-voyny.md)] — ссылка на книгу как источник тезиса о травме у всех украинских детей
+- [[kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy](pages/kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy.md)] — вопросы, пришедшие в «Медузу» после выхода книги и не вошедшие в неё
 
 ## Related Concepts
 

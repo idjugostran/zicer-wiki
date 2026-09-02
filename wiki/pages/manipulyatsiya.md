@@ -41,3 +41,4 @@ updated: 2026-09-03
 - [[modeli-povedeniya](pages/modeli-povedeniya.md)] — общая рамка: манипуляция как частный случай неосознанной модели, усвоенной через повторение
 - [[myach-na-ego-polovine-polya](pages/myach-na-ego-polovine-polya.md)] — граница между приглашением и манипуляцией: ребёнку оставлена реальная возможность ответить «нет»
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — граница: разговор с заранее выбранным ответом превращается в убеждение
+- [[dvoemyslie-u-detey](pages/dvoemyslie-u-detey.md)] — что происходит, когда объяснение подгоняется под удобство говорящего
