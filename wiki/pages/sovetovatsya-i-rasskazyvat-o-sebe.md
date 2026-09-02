@@ -3,7 +3,7 @@ title: Рассказывать о себе и советоваться
 category: Concepts
 summary: «Золотое правило» Зицера для поддержания отношений — регулярно рассказывать о себе и спрашивать совета, а не только сообщать/требовать; работает и между родителем и ребёнком, и между сиблингами
 tags: [concept, lnv, roditelstvo, siblings]
-sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, kak-pomoch-nayti-otvet-na-vopros-kto-ya, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, moya-doch-ne-delitsya-chuvstvami, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy]
+sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, kak-pomoch-nayti-otvet-na-vopros-kto-ya, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, moya-doch-ne-delitsya-chuvstvami, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, v-poslednee-vremya-syn-ochen-grustit]
 created: 2026-09-01
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[moya-doch-ne-delitsya-chuvstvami](pages/moya-doch-ne-delitsya-chuvstvami.md)] — единственный выданный инструмент: советоваться с дочерью о собственных трудностях, не выдумывая их
 - [[kazhetsya-k-moemu-rebenku-pristaet-vzroslyi](pages/kazhetsya-k-moemu-rebenku-pristaet-vzroslyi.md)] — самое высокое приложение практики: рассказ взрослого о собственных сомнительных контактах как профилактика
 - [[kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy](pages/kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy.md)] — честность о настоящей причине отъезда как условие того, чтобы объяснение вообще работало
+- [[v-poslednee-vremya-syn-ochen-grustit](pages/v-poslednee-vremya-syn-ochen-grustit.md)] — тот же принцип, превращённый в регулярную семейную игру, где взрослые рассказывают первыми
 
 ## Related Concepts
 

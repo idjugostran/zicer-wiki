@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — родственный механизм: интерес не транслируется, а предъявляется и подхватывается
 - [[subyektnost](pages/subyektnost.md)] — отказ от отчёта перед группой: запись принадлежит автору, а не проверяющему
 - [[muzyka-kak-instrument-atmosfery](pages/muzyka-kak-instrument-atmosfery.md)] — смежная конкретная технология подключения участников к происходящему
+- [[igra-kto-samyi-neschastnyi](pages/igra-kto-samyi-neschastnyi.md)] — смежная регулярная технология с простыми правилами
 
 ## Footnotes
 

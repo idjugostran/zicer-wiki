@@ -3,7 +3,7 @@ title: Проверка масштаба тревоги
 category: Concepts
 summary: Прежде чем действовать, тревогу сверяют с фактами: сосчитать реальные цифры, сравнить их с собственными и спросить, есть ли хоть один явный признак проблемы у самого ребёнка
 tags: [concept, roditelskiy-strakh, diagnostika, roditelstvo]
-sources: [moy-rebenok-sovsem-nichego-ne-est]
+sources: [moy-rebenok-sovsem-nichego-ne-est, v-poslednee-vremya-syn-ochen-grustit]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[moy-rebenok-sovsem-nichego-ne-est](pages/moy-rebenok-sovsem-nichego-ne-est.md)] — вводит концепт: вопрос об основании тревоги, подсчёт фактов, контрольный вопрос о признаках, сравнительный список про взрослого
+- [[v-poslednee-vremya-syn-ochen-grustit](pages/v-poslednee-vremya-syn-ochen-grustit.md)] — уточнение срока: две-четыре недели перед Новым годом, а не месяцы и не год
 
 ## Related Concepts
 

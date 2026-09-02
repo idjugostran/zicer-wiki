@@ -83,3 +83,4 @@ updated: 2026-09-03
 - [[oshchushchenie-doma](pages/oshchushchenie-doma.md)] — катастрофизация тоски ребёнка по родине как конкретный случай преувеличенного родительского страха
 - [[detskost-i-detoboyazn](pages/detskost-i-detoboyazn.md)] — тот же источник (страх взрослого), примененный к подавлению детской спонтанности, а не к конкретному риску
 - [[tyl-dlya-rebenka](pages/tyl-dlya-rebenka.md)] — альтернатива запрету из страха: постоянное безопасное пространство вместо контроля
+- [[otstante-na-vremya](pages/otstante-na-vremya.md)] — что родителю приходится выдержать, пока он не вмешивается
