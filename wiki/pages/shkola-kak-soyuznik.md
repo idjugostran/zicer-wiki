@@ -3,7 +3,7 @@ title: Школа как союзник
 category: Concepts
 summary: На переговорах со школой ищут не правоту, а пересечение интересов: школа заинтересована погасить напряжение, сохранить ученика и не создавать волну — на этом и строится разговор, без перехода на личности
 tags: [concept, shkola, peregovory, roditelstvo]
-sources: [nam-popalas-plohaya-uchilka, moya-doch-zabila-na-vse]
+sources: [nam-popalas-plohaya-uchilka, moya-doch-zabila-na-vse, rebenok-v-shkole-ne-razgovarivaet]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -22,6 +22,7 @@ updated: 2026-09-03
 
 - [[nam-popalas-plohaya-uchilka](pages/nam-popalas-plohaya-uchilka.md)] — вводит концепт целиком: схема встречи, «контрольная» про интерес школы, фраза «мы вам верим», запрет на ругань в переговорах
 - [[moya-doch-zabila-na-vse](pages/moya-doch-zabila-na-vse.md)] — обратный пример: школа говорит «надо уговаривать, мы пытаемся контролировать, будем надеяться»
+- [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] — школа придумала молчащему ребёнку роль в проекте и перевела в другой класс по его просьбе
 
 ## Related Concepts
 

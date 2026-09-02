@@ -3,7 +3,7 @@ title: Родительская галлюцинация
 category: Concepts
 summary: Услышав от ребёнка одну фразу, взрослый мгновенно достраивает целое будущее и реагирует уже на него: ребёнок сказал «влюбился» — его уже женили; опоздал на полчаса — уже видят под самосвалом. Это происходит у всех, и это глюк родителя, а не ребёнка
 tags: [concept, roditelskiy-strakh, modeli-povedeniya, roditelstvo]
-sources: [kak-byt-esli-syn-vlyubilsya-v-druga]
+sources: [kak-byt-esli-syn-vlyubilsya-v-druga, rebenok-v-shkole-ne-razgovarivaet]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-byt-esli-syn-vlyubilsya-v-druga](pages/kak-byt-esli-syn-vlyubilsya-v-druga.md)] — вводит концепт: «натуральная галлюцинация», примеры с женитьбой, самосвалом и невесткой, «это наш глюк, а не его», вдох и выдох
+- [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] — «а кто вам сказал, что он себя сдерживает?»
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Привязка через чувство вины
 category: Concepts
 summary: Терзания родителя дают ребёнку простую, почти примитивную форму эмоциональной связи и подтверждение, что он ценен; кнопка «комплекс вины» известна и нажимается, хотя лучше от этого не становится никому
 tags: [concept, roditelstvo, podrostki, vina, otnosheniya]
-sources: [doch-revnuet-i-ustraivaet-skandaly, v-poslednee-vremya-syn-ochen-grustit, moya-doch-deretsya-i-plyuetsya]
+sources: [doch-revnuet-i-ustraivaet-skandaly, v-poslednee-vremya-syn-ochen-grustit, moya-doch-deretsya-i-plyuetsya, rebenok-v-shkole-ne-razgovarivaet]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 
 - [[doch-revnuet-i-ustraivaet-skandaly](pages/doch-revnuet-i-ustraivaet-skandaly.md)] — вводит концепт: «она поймала вас эмоционально», логика ребёнка, проверка «кому от этого хорошо», эксперимент с матерью
 - [[v-poslednee-vremya-syn-ochen-grustit](pages/v-poslednee-vremya-syn-ochen-grustit.md)] — расспросы в момент усталости создают эмоциональное поле: «причины нет, а потом появится»
+- [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] — материнский намёк читается шестилетним как оценка от бога, и нервничать он начинает от неё
 
 ## Related Concepts
 

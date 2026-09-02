@@ -3,7 +3,7 @@ title: Ощущение дома
 category: Concepts
 summary: Ощущение дома складывается из конкретных мелочей и знакомых деталей, а не из гражданства, языка или «привычности» страны; ребёнок формирует его быстро, если взрослый сам определился со своим ответом
 tags: [concept, roditelstvo, pereezd]
-sources: [chto-meshaet-docheri-izbavitsya-ot-nostalgii, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane]
+sources: [chto-meshaet-docheri-izbavitsya-ot-nostalgii, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, rebenok-v-shkole-ne-razgovarivaet]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -20,6 +20,7 @@ updated: 2026-09-03
 
 - [[chto-meshaet-docheri-izbavitsya-ot-nostalgii](pages/chto-meshaet-docheri-izbavitsya-ot-nostalgii.md)] — вводит концепт целиком: разбор тоски по родине у 6-летней Зои после шести переездов за три года
 - [[rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane](pages/rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane.md)] — важное уточнение: дом собирается из найденного заново, а не из перенесённого из прошлой жизни
+- [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] — «в четыре года у него уже была своя жизнь, которую он представлял себе определённым образом»
 
 ## Related Concepts
 

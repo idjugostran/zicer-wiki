@@ -44,7 +44,7 @@ updated: 2026-09-03
 
 ## Relation to Other Wiki Pages
 
-Источник переносит [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] в разговор с ребёнком: запрос извлекают не только из взрослого обращения за советом, но и из оценочной фразы «я хуже всех». Для [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] случай показывает две стороны одного механизма — страх проиграть сравнение и высмеивание того, кого можно поставить ниже себя. Тот же признак с другой стороны — в [[kak-podderzhat-rebenka-vo-vremya-voyny](pages/kak-podderzhat-rebenka-vo-vremya-voyny.md)]: фразу «мамочка, где же ты была, почему не помогала» говорит человек, который в себя не верит, а верящий в себя говорит «я и сейчас могу это сделать».
+Источник переносит [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] в разговор с ребёнком: запрос извлекают не только из взрослого обращения за советом, но и из оценочной фразы «я хуже всех». Для [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] случай показывает две стороны одного механизма — страх проиграть сравнение и высмеивание того, кого можно поставить ниже себя. Тот же признак с другой стороны — в [[kak-podderzhat-rebenka-vo-vremya-voyny](pages/kak-podderzhat-rebenka-vo-vremya-voyny.md)]: фразу «мамочка, где же ты была, почему не помогала» говорит человек, который в себя не верит, а верящий в себя говорит «я и сейчас могу это сделать». Тот же контраст между домашним и внешним поведением разобран как норма в [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] — см. [[dve-sfery-povedeniya](pages/dve-sfery-povedeniya.md)].
 
 ## Footnotes
 
