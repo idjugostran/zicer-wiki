@@ -3,7 +3,7 @@ title: «Тыл» для ребёнка
 category: Concepts
 summary: Главное правило Зицера для родителей подростков — создать дома «тыл», пространство, где можно побыть слабым и отдохнуть от внешнего давления, а не продолжение воспитательного контроля
 tags: [concept, roditelstvo, podrostki]
-sources: [kniga-lyubit-nelzya-vospityvat]
+sources: [kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri]
 created: 2026-09-02
 updated: 2026-09-02
 ---
@@ -19,6 +19,7 @@ updated: 2026-09-02
 ## Appearances in Sources
 
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — вводит концепт дважды: как главное правило для родителей подростков (с личной историей о ТЮЗе) и как условие профилактики в главе о подростковых самоубийствах
+- [[kak-oblegchit-shkolnuyu-zhizn-docheri](pages/kak-oblegchit-shkolnuyu-zhizn-docheri.md)] — предельная форма тыла: родитель не просто не добавляет давления, а берёт на себя внешнее требование (делает домашнее задание за ребёнка), чтобы дать ему восстановиться после травмы
 
 ## Related Concepts
 
