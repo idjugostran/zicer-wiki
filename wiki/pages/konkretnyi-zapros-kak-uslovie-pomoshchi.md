@@ -3,7 +3,7 @@ title: Конкретный запрос как условие помощи
 category: Concepts
 summary: Помочь человеку против его воли или без сформулированной цели невозможно; прежде чем советовать, нужно добиться от просящего конкретного запроса, а не позволять ему просто изливать эмоции
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-219, kak-byt-esli-rebenok-ne-uveren-v-sebe, kak-pomoch-nayti-otvet-na-vopros-kto-ya]
+sources: [lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-219, kak-byt-esli-rebenok-ne-uveren-v-sebe, kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-organizovat-poezdku-dlya-detey]
 created: 2026-08-30
 updated: 2026-09-02
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-02
 - [[lnv-vypusk-219](pages/lnv-vypusk-219.md)] — мать хочет разрешить конфликт отца и подростка, но сначала выясняет, чего хочет сам отец и просил ли он помощи, а не становится посредником по собственной тревоге
 - [[kak-byt-esli-rebenok-ne-uveren-v-sebe](pages/kak-byt-esli-rebenok-ne-uveren-v-sebe.md)] — принцип применяется к детской жалобе: за фразой «я хуже всех» сначала выясняют потребность в похвале, помощи, сочувствии или подтверждении отношения
 - [[kak-pomoch-nayti-otvet-na-vopros-kto-ya](pages/kak-pomoch-nayti-otvet-na-vopros-kto-ya.md)] — предельно краткая форма приёма: «ты формулируешь опасение. Сформулируй вопрос» — после чего запрос матери распадается на два разных
+- [[kak-organizovat-poezdku-dlya-detey](pages/kak-organizovat-poezdku-dlya-detey.md)] — тот же приём применён к профессиональному запросу взрослого: расплывчатое «отдохнуть, перезагрузиться» доводится встречными вопросами до «а делать-то что»
 
 ## Related Concepts
 

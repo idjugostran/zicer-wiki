@@ -5,7 +5,7 @@ summary: Отвлечь ребёнка от гаджетов запретом н
 tags: [concept, roditelstvo, kurs-12-urokov, gadzhety]
 sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-208, lnv-vypusk-164, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-250, lnv-vypusk-216, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy]
 created: 2026-08-29
-updated: 2026-09-01
+updated: 2026-09-02
 ---
 
 # Взаимный обмен интересами
@@ -39,3 +39,4 @@ updated: 2026-09-01
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — противоположный, неработающий инструмент (запрет из страха), от которого техника взаимного обмена отталкивается
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — тот же методологический ход: абстрактное «интересоваться ребёнком» раскладывается в конкретное действие (спросить, попробовать, пригласить)
 - [[znachimost-rebenka-v-seme](pages/znachimost-rebenka-v-seme.md)] — тот же принцип реального включения ребёнка, применённый к решениям семьи, а не к миру интересов взрослого
+- [[aktualizatsiya-lyubopytstva](pages/aktualizatsiya-lyubopytstva.md)] — техника, поддерживающая тот же обмен в поездке: замеченное и сформулированное каждым становится общим материалом

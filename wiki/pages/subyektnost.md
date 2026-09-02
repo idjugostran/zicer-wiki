@@ -5,7 +5,7 @@ summary: Равенство всех участников образовател
 tags: [concept, apelsin, pedagogika]
 sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-10, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kak-spasti-15-letnego-syna, o-shkole-i-ne-tolko-kidfrendli, mama-dorogaya-bulling, lnv-vypusk-201, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-219, kak-rastit-samostoyatelnogo-rebenka, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame]
 created: 2026-08-04
-updated: 2026-09-01
+updated: 2026-09-02
 ---
 
 # Субъектность
@@ -45,3 +45,4 @@ updated: 2026-09-01
 - [[lichnost-a-ne-povedenie](pages/lichnost-a-ne-povedenie.md)] — тот же аргумент («статус/возраст/способности не отменяют равенства»), применённый к самому понятию личности
 - [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)] — субъектность как первый из пяти факторов общей рамки неформального образования
 - [[my-vmesto-on-diagnostika-subyektnosti](pages/my-vmesto-on-diagnostika-subyektnosti.md)] — конкретный диагностический инструмент для тяжёлых случаев отнятой субъектности
+- [[soglasovanie-ozhidaniy](pages/soglasovanie-ozhidaniy.md)] — практическая проверка субъектности в группе: цели и правила общего дела формулируют сами участники
