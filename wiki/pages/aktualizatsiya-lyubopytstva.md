@@ -3,7 +3,7 @@ title: Актуализация: пять удивлений в день
 category: Concepts
 summary: Техника, подключающая ребёнка к реальности — каждый вечер записывать в личный блокнот минимум пять вещей, которые приятно поразили; ценность в самой формулировке, а не в отчёте перед группой
 tags: [concept, pedagogika, poezdki, lyubopytstvo]
-sources: [kak-organizovat-poezdku-dlya-detey]
+sources: [kak-organizovat-poezdku-dlya-detey, kak-ne-perehvalit-rebenka]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-organizovat-poezdku-dlya-detey](pages/kak-organizovat-poezdku-dlya-detey.md)] — вводит концепт целиком, как третий из четырёх инструментов подготовки школьной поездки в Болгарию
+- [[kak-ne-perehvalit-rebenka](pages/kak-ne-perehvalit-rebenka.md)] — «ох, как интересно, давай вместе попробуем» вместо готовой оценки «офигенно»
 
 ## Related Concepts
 

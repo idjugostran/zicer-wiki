@@ -3,9 +3,9 @@ title: Сравнение
 category: Concepts
 summary: Сравнение/оценка как психологический механизм, близкий к зависимости — подменяет внутренний интерес потребностью во внешнем одобрении
 tags: [concept, otsenka, roditelstvo, pedagogika]
-sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin, lnv-vypusk-164, kak-byt-esli-rebenok-ne-uveren-v-sebe, kniga-lyubit-nelzya-vospityvat]
+sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin, lnv-vypusk-164, kak-byt-esli-rebenok-ne-uveren-v-sebe, kniga-lyubit-nelzya-vospityvat, kak-ne-perehvalit-rebenka]
 created: 2026-08-04
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Сравнение
@@ -23,6 +23,7 @@ updated: 2026-09-02
 - [[lnv-vypusk-164](pages/lnv-vypusk-164.md)] — практический случай близнецов: похвала одному слышится вторым как оценка его собственной меньшей значимости; родители прямо просят школу не сравнивать детей
 - [[kak-byt-esli-rebenok-ne-uveren-v-sebe](pages/kak-byt-esli-rebenok-ne-uveren-v-sebe.md)] — страх оказаться хуже и высмеивание того, кто справляется слабее, показаны как две стороны одной оценочной системы
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «Сравнение — мать насилия» даёт самую жёсткую формулировку тезиса («сравнение разъедает душу покруче, чем насилие») и глава «Изнасилование на пятёрку» — развёрнутую критику школьных оценок как того же механизма
+- [[kak-ne-perehvalit-rebenka](pages/kak-ne-perehvalit-rebenka.md)] — годовалый ребёнок требует аплодисментов; аналогия с учёбой ради пятёрки с плюсом
 
 ## Related Concepts
 

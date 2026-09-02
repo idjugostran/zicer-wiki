@@ -3,7 +3,7 @@ title: Родительская любовь как действие
 category: Concepts
 summary: Любовь и забота — не эмоция-клише, а список конкретных действий, поддающихся описанию
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, kniga-lyubit-nelzya-vospityvat, kak-pomoch-docheri-vybrat-professiyu]
+sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, kniga-lyubit-nelzya-vospityvat, kak-pomoch-docheri-vybrat-professiyu, kak-ne-perehvalit-rebenka]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[o-shkole-i-ne-tolko-kidfrendli](pages/o-shkole-i-ne-tolko-kidfrendli.md)] — тот же приём применён ко взрослому: написать самой себе, зачем ходить в школу, вместо клише
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «О любви бессмысленной и беспощадной» проверяет тот же тезис от противного: абстрактная декларация «я люблю детей» (без разбора, всех) обесценена так же, как расистское обобщение — настоящая любовь конкретна и определяется через действие, а не декларацию
 - [[kak-pomoch-docheri-vybrat-professiyu](pages/kak-pomoch-docheri-vybrat-professiyu.md)] — конкретная словесная формула безусловной поддержки выбора («иди, я рядом, это твой выбор, и он офигенный»), не зависящая от результата
+- [[kak-ne-perehvalit-rebenka](pages/kak-ne-perehvalit-rebenka.md)] — «я тебя люблю» в самых неожиданных ситуациях, чтобы не быть наградой за заслугу
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Эмоциональное подкрепление поведения
 category: Concepts
 summary: Реакция взрослого — топливо привычки: ребёнок нажимает кнопку, чтобы получить эмоцию, и чем ярче реакция, тем прочнее закрепляется поступок
 tags: [concept, rannii-vozrast, privychki, reaktsiya-vzroslogo]
-sources: [moya-doch-deretsya-i-plyuetsya]
+sources: [moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -31,3 +31,4 @@ updated: 2026-09-03
 - [[otstante-na-vremya](pages/otstante-na-vremya.md)] — практический вывод: убрать внимание с темы
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — вопрос, что поступок обслуживает, вместо вопроса, как его прекратить
 - [[manipulyatsiya](pages/manipulyatsiya.md)] — соседняя тема: где ребёнок увидел силовую модель как успешную
+- [[aplodismenty-kak-radost-a-ne-otsenka](pages/aplodismenty-kak-radost-a-ne-otsenka.md)] — зеркальный случай: реакцию не убирают, а отвязывают от заслуги
