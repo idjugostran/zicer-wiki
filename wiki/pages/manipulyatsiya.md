@@ -3,7 +3,7 @@ title: Манипуляция
 category: Concepts
 summary: «Мягкая» форма насилия («фокус»), лишающая человека воли без прямого принуждения — дети перенимают её у взрослых
 tags: [concept, nasilie, roditelstvo]
-sources: [o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-5, otkuda-berutsya-modeli-povedeniya, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-164, uchitsya-budu-tolko-v-kieve, kniga-lyubit-nelzya-vospityvat, kak-ubedit-syna-chto-emu-neobhodimo-uehat, kak-naladit-otnosheniya-s-docheryu-13-let, syn-darit-tsennye-veshchi-drugim-detyam, chto-takoe-dogovor-s-rebenkom, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, doch-revnuet-i-ustraivaet-skandaly, moya-doch-deretsya-i-plyuetsya]
+sources: [o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-5, otkuda-berutsya-modeli-povedeniya, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-164, uchitsya-budu-tolko-v-kieve, kniga-lyubit-nelzya-vospityvat, kak-ubedit-syna-chto-emu-neobhodimo-uehat, kak-naladit-otnosheniya-s-docheryu-13-let, syn-darit-tsennye-veshchi-drugim-detyam, chto-takoe-dogovor-s-rebenkom, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, doch-revnuet-i-ustraivaet-skandaly, moya-doch-deretsya-i-plyuetsya, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[kazhetsya-k-moemu-rebenku-pristaet-vzroslyi](pages/kazhetsya-k-moemu-rebenku-pristaet-vzroslyi.md)] — тот же механизм лишения воли, описанный изнутри пережившим его человеком
 - [[doch-revnuet-i-ustraivaet-skandaly](pages/doch-revnuet-i-ustraivaet-skandaly.md)] — граница понятия: подросток не манипулирует расчётливо, а получает доступную форму подтверждения связи
 - [[moya-doch-deretsya-i-plyuetsya](pages/moya-doch-deretsya-i-plyuetsya.md)] — ярлык «дети манипуляторы» разворачивается в вопрос: кто показал ребёнку, что сила работает
+- [[kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu](pages/kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu.md)] — «ты же сам хотел эту кашу»: право родителя, но бесперспективный ход
 
 ## Related Concepts
 

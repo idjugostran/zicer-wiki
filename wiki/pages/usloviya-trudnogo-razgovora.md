@@ -3,7 +3,7 @@ title: Условия трудного разговора
 category: Concepts
 summary: Канал, место и момент разговора решают его судьбу раньше содержания: серьёзную тему нельзя вести по телефону (нет возможности взять паузу), на территории собеседника и с порога встречи
 tags: [concept, kommunikatsiya, podrostki, roditelstvo]
-sources: [kak-pomoch-nayti-otvet-na-vopros-kto-ya]
+sources: [kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — смежное условие, но со стороны предмета: разговор возможен, когда опасение переведено в вопрос
 - [[legitimizatsiya-temy](pages/legitimizatsiya-temy.md)] — внутренний порядок того же разговора: сначала сделать тему обычной, потом углублять
 - [[prosto-poprosit](pages/prosto-poprosit.md)] — то же требование: говорить в спокойной обстановке, не связанной с самим конфликтом
+- [[ya-na-tvoey-storone-no-ne-mogu-pozvolit](pages/ya-na-tvoey-storone-no-ne-mogu-pozvolit.md)] — запрет, после которого разговор продолжается, а не прекращается
 
 ## Footnotes
 

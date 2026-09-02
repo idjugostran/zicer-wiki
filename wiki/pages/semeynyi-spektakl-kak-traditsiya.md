@@ -3,7 +3,7 @@ title: Семейный спектакль как традиция
 category: Concepts
 summary: Повторяющаяся домашняя сцена с расспросами при уже известном ответе превращается в семейную традицию, которая эмоционально заряжает поступок и закрепляет его; выйти из этого круга сам ребёнок не может
 tags: [concept, roditelstvo, doshkolniki, modeli-povedeniya]
-sources: [syn-beret-chuzhie-veshchi]
+sources: [syn-beret-chuzhie-veshchi, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[syn-beret-chuzhie-veshchi](pages/syn-beret-chuzhie-veshchi.md)] — вводит концепт: описание спектакля, образ центрифуги, требование сначала разрядить ситуацию
+- [[kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu](pages/kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu.md)] — бабушка Зицера и стол как культурный код, который не отменяют, а помогают выдержать
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Говорить неприятное и быть услышанным
 category: Concepts
 summary: Главный секрет жизни без конфликтов, по Зицеру — говорить вслух то, что трудно, неприятно, что хочется поменять, и одинаково важно быть услышанным в ответ; без взаимного «я слышу» замечание просто повторяется всё громче
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [chto-delat-esli-mama-ochen-pristaet, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, doch-revnuet-i-ustraivaet-skandaly]
+sources: [chto-delat-esli-mama-ochen-pristaet, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, doch-revnuet-i-ustraivaet-skandaly, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -30,3 +30,4 @@ updated: 2026-09-03
 - [[usloviya-trudnogo-razgovora](pages/usloviya-trudnogo-razgovora.md)] — условия, при которых такой разговор вообще возможен: лично, на нейтральной территории и не с порога
 - [[myach-na-ego-polovine-polya](pages/myach-na-ego-polovine-polya.md)] — та же ставка на сказанное вслух, но с формулировкой, возвращающей инициативу ребёнку
 - [[pomoshch-bez-upreka](pages/pomoshch-bez-upreka.md)] — почему упрёк, вшитый в предложение помощи, блокирует ответ
+- [[ya-na-tvoey-storone-no-ne-mogu-pozvolit](pages/ya-na-tvoey-storone-no-ne-mogu-pozvolit.md)] — готовая формула для случая, когда неприятное — это отказ
