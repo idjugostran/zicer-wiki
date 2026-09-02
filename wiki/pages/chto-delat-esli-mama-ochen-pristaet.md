@@ -5,7 +5,7 @@ summary: 10-летняя Мая спрашивает, как разговари�
 tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, modeli-povedeniya]
 sources: [chto-delat-esli-mama-ochen-pristaet]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Что делать, если "МАМА ОЧЕНЬ ПРИСТАЕТ"?
@@ -47,7 +47,7 @@ updated: 2026-09-02
 
 ## Relation to Other Wiki Pages
 
-Первая часть двухсерийного разговора, продолженного в [[kak-pomenyatsya-mame-chtoby-dochke-bylo-legche](pages/kak-pomenyatsya-mame-chtoby-dochke-bylo-legche.md)] неделей позже — там мама Наташа получает свою версию тех же техник (письменное сообщение вместо произнесённой команды, запрограммированные заранее напоминания), а этот источник даёт зеркальную версию с точки зрения ребёнка: не чек-лист, а замена родительского напоминания чем-то работающим без слов. Источник вводит новый концепт [[govorit-nepriyatnoe-i-byt-uslyshannym](pages/govorit-nepriyatnoe-i-byt-uslyshannym.md)], которого раньше не было в подборке в этой явной формулировке — «главный секрет» как двусторонний, а не односторонний процесс.
+Первая часть двухсерийного разговора, продолженного в [[kak-pomenyatsya-mame-chtoby-dochke-bylo-legche](pages/kak-pomenyatsya-mame-chtoby-dochke-bylo-legche.md)] неделей позже — там мама Наташа получает свою версию тех же техник (письменное сообщение вместо произнесённой команды, запрограммированные заранее напоминания), а этот источник даёт зеркальную версию с точки зрения ребёнка: не чек-лист, а замена родительского напоминания чем-то работающим без слов. Источник вводит новый концепт [[govorit-nepriyatnoe-i-byt-uslyshannym](pages/govorit-nepriyatnoe-i-byt-uslyshannym.md)], которого раньше не было в подборке в этой явной формулировке — «главный секрет» как двусторонний, а не односторонний процесс. Зеркальный разбор того же цикла замечаний со стороны родителя — [[proklyataya-chelka-ili-kak-perestat-delat-zamechaniya](pages/proklyataya-chelka-ili-kak-perestat-delat-zamechaniya.md)]: там девочка своё «мне неприятно» уже сказала, и Зицер работает с мамой, выдавая ей физические способы промолчать и общее [[stop-slovo](pages/stop-slovo.md)].
 
 ## Footnotes
 

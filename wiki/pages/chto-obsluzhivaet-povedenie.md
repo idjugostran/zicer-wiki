@@ -5,7 +5,7 @@ summary: Вместо оценки самого поступка — искат�
 tags: [concept, samoregulyatsiya, podrostki]
 sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208, lnv-vypusk-250, lnv-vypusk-207, moy-syn-yabeda-ili-postupaet-pravilno]
 created: 2026-08-30
-updated: 2026-09-01
+updated: 2026-09-03
 ---
 
 # «Что обслуживает» поведение
@@ -34,3 +34,4 @@ updated: 2026-09-01
 - [[modeli-povedeniya](pages/modeli-povedeniya.md)] — смежный, но отдельный вопрос: там — откуда взялась модель поведения, здесь — зачем она продолжает воспроизводиться
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — тот же методологический ход (абстракция → конкретика), применённый здесь к эмоциональной, а не декларируемой мотивации
 - [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — то же внимание к тому, какое конкретно ощущение стоит за действием
+- [[libo-durochka-libo-umnaya](pages/libo-durochka-libo-umnaya.md)] — предшествующий шаг: если ребёнок неглуп, у поведения точно есть функция

@@ -5,7 +5,7 @@ summary: Урок не нуждается в едином поведенческ
 tags: [concept, shkola-apelsin, pedagogika]
 sources: [urok-matematiki-v-shkole-apelsin, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-223, lnv-vypusk-250, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, mama-ne-dolzhna-stradat, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kak-organizovat-poezdku-dlya-detey, kak-provodit-klassnye-ekskursii-dlya-detey]
 created: 2026-08-29
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Рамки, а не дисциплина
@@ -36,3 +36,4 @@ updated: 2026-09-02
 - [[subyektnost](pages/subyektnost.md)] — та же формула границы свободы («моя заканчивается там, где начинается твоя»), которая делает рамки без дисциплины работоспособными
 - [[shkola-apelsin](pages/shkola-apelsin.md)] — институциональная среда, в которой этот принцип применяется на практике
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — рамка в кризисный момент дополняет телесные техники: сначала остановить действие, разговор — только после успокоения
+- [[stop-slovo](pages/stop-slovo.md)] — договорённость, работающая по согласию обеих сторон, а не по подчинению

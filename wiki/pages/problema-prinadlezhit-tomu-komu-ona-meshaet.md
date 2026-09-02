@@ -3,9 +3,9 @@ title: Проблема принадлежит тому, кому она меш�
 category: Concepts
 summary: Прежде чем исправлять поведение ребёнка, нужно различить его собственную трудность и неудобство взрослого; последнему следует назвать свою конкретную потребность и просить помощи, а не объявлять ребёнка проблемой
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [lnv-vypusk-214, lnv-vypusk-220, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, mama-ne-dolzhna-stradat, kak-oblegchit-shkolnuyu-zhizn-docheri]
+sources: [lnv-vypusk-214, lnv-vypusk-220, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, mama-ne-dolzhna-stradat, kak-oblegchit-shkolnuyu-zhizn-docheri, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya]
 created: 2026-08-30
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Проблема принадлежит тому, кому она мешает
@@ -23,6 +23,7 @@ updated: 2026-09-02
 - [[chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy](pages/chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy.md)] — ребёнок сохраняет творчество и близость, а изменить конкретное совместное занятие хочет мать из-за собственной обиды; решение начинается со снятия её ожидания
 - [[mama-ne-dolzhna-stradat](pages/mama-ne-dolzhna-stradat.md)] — постоянные объятия не мешают детям и не создают им проблемы; усталость принадлежит маме, и решение начинается с прямой просьбы о помощи к мужу и старшему сыну
 - [[kak-oblegchit-shkolnuyu-zhizn-docheri](pages/kak-oblegchit-shkolnuyu-zhizn-docheri.md)] — прямая формулировка критерия: «если некомфортно только тебе, то тебе надо найти способы, при помощи которых ты потерпишь»
+- [[proklyataya-chelka-ili-kak-perestat-delat-zamechaniya](pages/proklyataya-chelka-ili-kak-perestat-delat-zamechaniya.md)] — чёлка мешает маме, а не дочери; автор ситуации — тот, кому неудобно
 
 ## Related Concepts
 

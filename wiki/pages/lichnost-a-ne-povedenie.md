@@ -5,7 +5,7 @@ summary: Личность присутствует с рождения неза�
 tags: [concept, roditelstvo, kurs-12-urokov]
 sources: [kurs-12-urokov-urok-10]
 created: 2026-08-29
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Личность, а не поведение
@@ -26,3 +26,4 @@ updated: 2026-09-02
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — конкретная техника изучения чужого интереса, обобщённая здесь с гаджетов на любую личностную склонность
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — страх «он мне на шею сядет» как источник желания контролировать содержание чужого желания, а не только форму его выражения
 - [[svoy-chuzhoy-kak-lozhnaya-opora](pages/svoy-chuzhoy-kak-lozhnaya-opora.md)] — тот же ход против групповой рамки, применённый к национальной принадлежности вместо диагноза
+- [[libo-durochka-libo-umnaya](pages/libo-durochka-libo-umnaya.md)] — операционализация принципа: сначала проверяется, кем родитель считает ребёнка

@@ -5,7 +5,7 @@ summary: Модель поведения — рамка, закрепившая�
 tags: [concept, roditelstvo, samoregulyatsiya]
 sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-201, lnv-vypusk-200, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, pochemu-ona-mne-vret, chto-meshaet-docheri-izbavitsya-ot-nostalgii, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet]
 created: 2026-08-29
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Модели поведения
@@ -44,3 +44,4 @@ updated: 2026-09-02
 - [[znachimost-rebenka-v-seme](pages/znachimost-rebenka-v-seme.md)] — практическое следствие: реальное включение ребёнка в решения разрывает цепочку усвоения деструктивной модели
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — смежный, но отдельный вопрос: зачем модель продолжает воспроизводиться, а не откуда она взялась
 - [[oshchushchenie-doma](pages/oshchushchenie-doma.md)] — конкретный случай: невыясненное отношение родителя к дому усваивается ребёнком как собственная тревога
+- [[stop-slovo](pages/stop-slovo.md)] — внешний сигнал, прерывающий модель до того, как она развернётся
