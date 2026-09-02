@@ -34,3 +34,4 @@ updated: 2026-09-03
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — общий метод перевода абстрактных чувств и требований в конкретное действие
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — та же техника «говорить о себе»: назвать собственную трудность и просить о конкретной помощи вместо требования к ребёнку
 - [[kakuyu-bitvu-vy-vedete](pages/kakuyu-bitvu-vy-vedete.md)] — смежный критерий: отделить собственную задачу от желания восстановить справедливость
+- [[rebenok-kak-orientir](pages/rebenok-kak-orientir.md)] — проверка «не преувеличиваешь ли ты» как способ определить, чья это проблема

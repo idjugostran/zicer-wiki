@@ -3,7 +3,7 @@ title: Рассказывать о себе и советоваться
 category: Concepts
 summary: «Золотое правило» Зицера для поддержания отношений — регулярно рассказывать о себе и спрашивать совета, а не только сообщать/требовать; работает и между родителем и ребёнком, и между сиблингами
 tags: [concept, lnv, roditelstvo, siblings]
-sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, kak-pomoch-nayti-otvet-na-vopros-kto-ya, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu]
+sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, kak-pomoch-nayti-otvet-na-vopros-kto-ya, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, moya-doch-ne-delitsya-chuvstvami]
 created: 2026-09-01
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-mama-ochen-pristaet](pages/chto-delat-esli-mama-ochen-pristaet.md)] — смежная формула из первой части того же разговора: говорить неприятное вслух и быть услышанным как условие для содержательного обмена, а не только регулярности
 - [[kak-pomoch-nayti-otvet-na-vopros-kto-ya](pages/kak-pomoch-nayti-otvet-na-vopros-kto-ya.md)] — внешнее подтверждение работы правила: мать начала рассказывать сыну о себе и на третьем созвоне он тоже стал рассказывать о себе вместо «нормально всё»
 - [[papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu](pages/papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu.md)] — обязательный блок «я хотел тебе такое рассказать» и следующая ступень «ты бы что сделала?»
+- [[moya-doch-ne-delitsya-chuvstvami](pages/moya-doch-ne-delitsya-chuvstvami.md)] — единственный выданный инструмент: советоваться с дочерью о собственных трудностях, не выдумывая их
 
 ## Related Concepts
 

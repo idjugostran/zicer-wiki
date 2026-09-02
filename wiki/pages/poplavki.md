@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — тот же запрет отвечать за ребёнка
 - [[svoy-chuzhoy-kak-lozhnaya-opora](pages/svoy-chuzhoy-kak-lozhnaya-opora.md)] — смежный отказ от готовой опоры «стать своим» в пользу собственной
 - [[travma-u-vseh-ukrainskih-detey](pages/travma-u-vseh-ukrainskih-detey.md)] — состояние, в котором поплавки становятся вопросом выживания, а не комфорта
+- [[rebenok-kak-orientir](pages/rebenok-kak-orientir.md)] — та же логика: личный ответ находится у ребёнка и не может быть назначен взрослым
 
 ## Footnotes
 

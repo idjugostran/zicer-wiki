@@ -36,3 +36,4 @@ updated: 2026-09-03
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — тот же методологический ход (абстракция → конкретика), применённый здесь к эмоциональной, а не декларируемой мотивации
 - [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — то же внимание к тому, какое конкретно ощущение стоит за действием
 - [[libo-durochka-libo-umnaya](pages/libo-durochka-libo-umnaya.md)] — предшествующий шаг: если ребёнок неглуп, у поведения точно есть функция
+- [[pritcha-o-dvuh-monahah](pages/pritcha-o-dvuh-monahah.md)] — обратный ход разбора: за поведением ребёнка ищут не нужду, а здоровое качество
