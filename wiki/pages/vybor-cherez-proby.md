@@ -3,7 +3,7 @@ title: Выбор через пробы
 category: Concepts
 summary: Смена детских увлечений — не каприз, а нормальный механизм выбора через пробу; принуждение «доводить до конца» учит подчинению, а не решительности
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-248, lnv-vypusk-250, lnv-vypusk-216, lnv-vypusk-211, kak-rastit-samostoyatelnogo-rebenka, kak-pomoch-docheri-vybrat-professiyu, devochka-otkazyvaetsya-hodit-v-shkolu, nam-popalas-plohaya-uchilka]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-248, lnv-vypusk-250, lnv-vypusk-216, lnv-vypusk-211, kak-rastit-samostoyatelnogo-rebenka, kak-pomoch-docheri-vybrat-professiyu, devochka-otkazyvaetsya-hodit-v-shkolu, nam-popalas-plohaya-uchilka, kak-uchitelyu-stroit-atmosferu-uroka]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[kak-pomoch-docheri-vybrat-professiyu](pages/kak-pomoch-docheri-vybrat-professiyu.md)] — новый масштаб пробы: выбор вуза и специальности в 17 лет, а не смена кружка в детстве; тот же принцип «есть вход и есть выход»
 - [[devochka-otkazyvaetsya-hodit-v-shkolu](pages/devochka-otkazyvaetsya-hodit-v-shkolu.md)] — право ошибиться внутри картбланша: через год перейти в другой лицей или «вообще где-то профилонить»; быстро гаснущие профессиональные идеи не повод торопить выбор
 - [[nam-popalas-plohaya-uchilka](pages/nam-popalas-plohaya-uchilka.md)] — «сегодня да, завтра нет» признано нормальным состоянием ребёнка перед решением
+- [[kak-uchitelyu-stroit-atmosferu-uroka](pages/kak-uchitelyu-stroit-atmosferu-uroka.md)] — переименование ошибки в находку: «как интересно получилось, давай повторим»
 
 ## Related Concepts
 

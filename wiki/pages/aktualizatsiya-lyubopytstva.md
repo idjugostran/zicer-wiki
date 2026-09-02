@@ -5,7 +5,7 @@ summary: Техника, подключающая ребёнка к реальн
 tags: [concept, pedagogika, poezdki, lyubopytstvo]
 sources: [kak-organizovat-poezdku-dlya-detey]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Актуализация: пять удивлений в день
@@ -30,6 +30,7 @@ updated: 2026-09-02
 - [[soglasovanie-ozhidaniy](pages/soglasovanie-ozhidaniy.md)] — соседний инструмент того же разбора: цели формулируются до поездки, удивления — в ходе неё
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — родственный механизм: интерес не транслируется, а предъявляется и подхватывается
 - [[subyektnost](pages/subyektnost.md)] — отказ от отчёта перед группой: запись принадлежит автору, а не проверяющему
+- [[muzyka-kak-instrument-atmosfery](pages/muzyka-kak-instrument-atmosfery.md)] — смежная конкретная технология подключения участников к происходящему
 
 ## Footnotes
 

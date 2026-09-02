@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — та же техника «говорить о себе» вместо расспроса, применённая в семейном разговоре
 - [[myach-na-ego-polovine-polya](pages/myach-na-ego-polovine-polya.md)] — смежный приём: вопрос возвращается тому, кто может на него ответить
 - [[shkola-kak-soyuznik](pages/shkola-kak-soyuznik.md)] — тот же приём, применённый ко взрослым: спрашивать не «кто прав», а «что нам обоим нужно»
+- [[gruppa-kak-zhivoy-organizm](pages/gruppa-kak-zhivoy-organizm.md)] — тот же перенос инициативы: говорят участники, а не ведущий
 
 ## Footnotes
 

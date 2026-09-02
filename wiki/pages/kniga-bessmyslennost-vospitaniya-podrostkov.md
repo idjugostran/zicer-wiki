@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[vytesnenie-roditeley-v-perehodnom-vozraste](pages/vytesnenie-roditeley-v-perehodnom-vozraste.md)] — смежное описание того же возраста в эфирах
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — общая рамка возрастных изменений
 - [[nablyudatel-o-podrostkah](pages/nablyudatel-o-podrostkah.md)] — публичное выступление Зицера о подростках
+- [[kniga-sovremennoe-pedagogicheskoe-iskusstvo-azbuka](pages/kniga-sovremennoe-pedagogicheskoe-iskusstvo-azbuka.md)] — профессиональная книга того же автора, адресованная педагогам
 
 ## Footnotes
 

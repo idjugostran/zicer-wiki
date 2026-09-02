@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[poplavki](pages/poplavki.md)], [[horoshaya-i-plohaya-rutina](pages/horoshaya-i-plohaya-rutina.md)], [[mesto-v-dushe-dlya-yazyka](pages/mesto-v-dushe-dlya-yazyka.md)] — понятия, введённые в книге
 - [[oshchushchenie-doma](pages/oshchushchenie-doma.md)] — та же проблематика в разборах эфиров
 - [[dima-zicer](pages/dima-zicer.md)] — автор
+- [[kniga-sovremennoe-pedagogicheskoe-iskusstvo-azbuka](pages/kniga-sovremennoe-pedagogicheskoe-iskusstvo-azbuka.md)] — профессиональная книга того же автора, устроенная как словарь понятий
 
 ## Footnotes
 
