@@ -32,3 +32,4 @@ updated: 2026-09-02
 - [[kollektivizm-kak-pochva-dlya-bullinga](pages/kollektivizm-kak-pochva-dlya-bullinga.md)] — объясняет групповую структуру буллинга и работу с отношениями в классе после обеспечения безопасности
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — защита ребёнка становится конкретным действием родителя по отношению к школе
 - [[davat-sdachi](pages/davat-sdachi.md)] — обращение к взрослому за помощью является способом защитить себя, а не «стукачеством»
+- [[obrechennost-kak-istochnik-otkaza](pages/obrechennost-kak-istochnik-otkaza.md)] — альтернативное объяснение школьного отказа, когда травли нет: предопределённая траектория без участия ребёнка

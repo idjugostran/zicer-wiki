@@ -46,3 +46,4 @@ updated: 2026-09-02
 - [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)] — субъектность как первый из пяти факторов общей рамки неформального образования
 - [[my-vmesto-on-diagnostika-subyektnosti](pages/my-vmesto-on-diagnostika-subyektnosti.md)] — конкретный диагностический инструмент для тяжёлых случаев отнятой субъектности
 - [[soglasovanie-ozhidaniy](pages/soglasovanie-ozhidaniy.md)] — практическая проверка субъектности в группе: цели и правила общего дела формулируют сами участники
+- [[obrechennost-kak-istochnik-otkaza](pages/obrechennost-kak-istochnik-otkaza.md)] — что происходит при её отсутствии: траектория, выстроенная без участия ребёнка, читается им как обречённость

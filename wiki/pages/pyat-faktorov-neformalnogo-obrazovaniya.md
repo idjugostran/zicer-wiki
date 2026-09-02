@@ -36,3 +36,4 @@ updated: 2026-09-02
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — та же школа «Апельсин», другой ракурс: как устроен конкретный урок, а не общая структура образования
 - [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)] — предварительное условие любого учебного интереса: ребёнок физически и социально защищён в школе
 - [[sotsializatsiya-ne-ravna-shkole](pages/sotsializatsiya-ne-ravna-shkole.md)] — доводит фактор «субъектное взаимодействие» до предела: раз связи не складываются именно в школе, их можно строить вне неё
+- [[pravo-zhit-dlya-kayfov](pages/pravo-zhit-dlya-kayfov.md)] — та же возрастная оговорка («потерпи, потом пригодится» — обман), распространённая на подростковый возраст

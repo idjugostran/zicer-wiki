@@ -5,7 +5,7 @@ summary: Когда контроль над ребёнком перестал р
 tags: [concept, samoregulyatsiya, podrostki]
 sources: [kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-214, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, kak-spasti-15-letnego-syna, lnv-vypusk-251]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-02
 ---
 
 # Отступление к собственному удовольствию
@@ -34,3 +34,4 @@ updated: 2026-08-30
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — то же наблюдение «мы орём, потому что можем», независимо подтверждённое здесь
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — сценарий примирения продолжает ту же технику «говорить о себе», начиная с признания собственной трудности, а не с претензии к ребёнку
 - [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)] — похожий принцип «родитель занимается собой», но превентивный и ежедневный, а не реактивный ответ на конкретный триггер, и для другого возраста (кризис трёх лет, а не подростковое самоповреждение)
+- [[pravo-zhit-dlya-kayfov](pages/pravo-zhit-dlya-kayfov.md)] — тот же язык конкретных удовольствий, адресованный подростку, а не родителю

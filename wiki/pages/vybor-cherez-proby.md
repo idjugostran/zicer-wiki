@@ -3,9 +3,9 @@ title: Выбор через пробы
 category: Concepts
 summary: Смена детских увлечений — не каприз, а нормальный механизм выбора через пробу; принуждение «доводить до конца» учит подчинению, а не решительности
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-248, lnv-vypusk-250, lnv-vypusk-216, lnv-vypusk-211, kak-rastit-samostoyatelnogo-rebenka, kak-pomoch-docheri-vybrat-professiyu]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-248, lnv-vypusk-250, lnv-vypusk-216, lnv-vypusk-211, kak-rastit-samostoyatelnogo-rebenka, kak-pomoch-docheri-vybrat-professiyu, devochka-otkazyvaetsya-hodit-v-shkolu]
 created: 2026-08-29
-updated: 2026-09-01
+updated: 2026-09-02
 ---
 
 # Выбор через пробы
@@ -29,6 +29,7 @@ updated: 2026-09-01
 - [[lnv-vypusk-211](pages/lnv-vypusk-211.md)] — ранняя профориентация и тревога о «недостаточном усилии» получают общий критерий: трудность имеет смысл преодолевать ради задачи, которую ребёнок действительно поставил себе сам
 - [[kak-rastit-samostoyatelnogo-rebenka](pages/kak-rastit-samostoyatelnogo-rebenka.md)] — техника «чистого листа»: признать избыток решений взрослых и заново составить неделю из занятий, выбранных самим ребёнком
 - [[kak-pomoch-docheri-vybrat-professiyu](pages/kak-pomoch-docheri-vybrat-professiyu.md)] — новый масштаб пробы: выбор вуза и специальности в 17 лет, а не смена кружка в детстве; тот же принцип «есть вход и есть выход»
+- [[devochka-otkazyvaetsya-hodit-v-shkolu](pages/devochka-otkazyvaetsya-hodit-v-shkolu.md)] — право ошибиться внутри картбланша: через год перейти в другой лицей или «вообще где-то профилонить»; быстро гаснущие профессиональные идеи не повод торопить выбор
 
 ## Related Concepts
 
