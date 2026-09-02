@@ -3,7 +3,7 @@ title: Рассказывать о себе и советоваться
 category: Concepts
 summary: «Золотое правило» Зицера для поддержания отношений — регулярно рассказывать о себе и спрашивать совета, а не только сообщать/требовать; работает и между родителем и ребёнком, и между сиблингами
 tags: [concept, lnv, roditelstvo, siblings]
-sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche]
+sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet]
 created: 2026-09-01
 updated: 2026-09-01
 ---
@@ -20,6 +20,7 @@ updated: 2026-09-01
 
 - [[kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii](pages/kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii.md)] — вводит правило для 15-летнего сына, уезжающего учиться за границу, и его 11-летней сестры; предупреждение о риске навязанных советов вместо советов по запросу
 - [[kak-pomenyatsya-mame-chtoby-dochke-bylo-legche](pages/kak-pomenyatsya-mame-chtoby-dochke-bylo-legche.md)] — смежный аргумент про свободу подростка: ребёнок так или иначе возьмёт автономию — вопрос в том, придёт ли он при этом за советом или будет действовать в обход родителя
+- [[chto-delat-esli-mama-ochen-pristaet](pages/chto-delat-esli-mama-ochen-pristaet.md)] — смежная формула из первой части того же разговора: говорить неприятное вслух и быть услышанным как условие для содержательного обмена, а не только регулярности
 
 ## Related Concepts
 
