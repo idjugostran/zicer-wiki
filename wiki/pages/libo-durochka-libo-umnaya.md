@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[subyektnost](pages/subyektnost.md)] — признание ребёнка разумным субъектом как условие любого дальнейшего разговора
 - [[stop-slovo](pages/stop-slovo.md)] — практический инструмент, который выдаётся после того, как проверка пройдена
 - [[zachem-ty-eto-sdelal](pages/zachem-ty-eto-sdelal.md)] — та же логика: ребёнок уже понял, повторение и допрос адресованы не пониманию
+- [[plavayushchie-granitsy](pages/plavayushchie-granitsy.md)] — тот же ход: признать поведение ребёнка рациональным и менять поведение взрослого
 
 ## Footnotes
 

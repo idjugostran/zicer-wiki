@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — различение договорённости и подчинения
 - [[soglasovanie-ozhidaniy](pages/soglasovanie-ozhidaniy.md)] — как выглядит настоящее согласование, если делать его заранее
 - [[subyektnost](pages/subyektnost.md)] — согласие без возможности отказаться согласием не является
+- [[plavayushchie-granitsy](pages/plavayushchie-granitsy.md)] — зеркальный случай: что не является решением со стороны родителя
 
 ## Footnotes
 

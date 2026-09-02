@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[psihoterapiya-kak-instrument](pages/psihoterapiya-kak-instrument.md)] — обращение к специалисту как рабочий шаг, а не как приговор
 - [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)] — где в разобранном случае нашлась причина
 - [[lichnost-a-ne-povedenie](pages/lichnost-a-ne-povedenie.md)] — «у вас отличный мальчик, который не может справиться сам»
+- [[plavayushchie-granitsy](pages/plavayushchie-granitsy.md)] — частный случай той же обязанности: когда ребёнок бьёт, взрослый обязан вмешаться
 
 ## Footnotes
 
