@@ -3,7 +3,7 @@ title: Пять факторов неформального образовани
 category: Concepts
 summary: Структурированный ответ Зицера на вопрос «можно ли обойтись без школы» — субъектность, выбор, личный интерес, субъектное взаимодействие, учение как исследование
 tags: [concept, obrazovanie, shkola-apelsin]
-sources: [lnv-v-gostyah-u-zicera-chast-1, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-223, lnv-vypusk-250, ii-v-shkole-zlo-ili-blagoslovenie]
+sources: [lnv-v-gostyah-u-zicera-chast-1, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-223, lnv-vypusk-250, ii-v-shkole-zlo-ili-blagoslovenie, kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine]
 created: 2026-08-30
 updated: 2026-09-02
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-02
 - [[lnv-vypusk-223](pages/lnv-vypusk-223.md)] — бытовая проверка личного интереса: восьмилетняя девочка учится рисовать с удовольствием, хотя не понимает смысла части школьных заданий; взрослые ищут вместе с ней её основания для учёбы и школы
 - [[lnv-vypusk-250](pages/lnv-vypusk-250.md)] — два подтверждения личного интереса: учитель строит урок вокруг совместной игры, а семья облегчает домашнюю работу и создаёт среду живого любопытства вне заданий
 - [[ii-v-shkole-zlo-ili-blagoslovenie](pages/ii-v-shkole-zlo-ili-blagoslovenie.md)] — новый пример фактора «личный интерес»: упражнение с личным топ-10 новостей, спроектированное так, чтобы ИИ не мог выполнить его за ученика
+- [[kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine](pages/kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine.md)] — папа звонка напрямую цитирует более ранний тезис «школа не только про учёбу», который Зицер доводит здесь до предела через новый концепт [[sotsializatsiya-ne-ravna-shkole](pages/sotsializatsiya-ne-ravna-shkole.md)]
 
 ## Related Concepts
 
@@ -33,3 +34,4 @@ updated: 2026-09-02
 - [[shkola-apelsin](pages/shkola-apelsin.md)] — институциональное воплощение всех пяти факторов
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — та же школа «Апельсин», другой ракурс: как устроен конкретный урок, а не общая структура образования
 - [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)] — предварительное условие любого учебного интереса: ребёнок физически и социально защищён в школе
+- [[sotsializatsiya-ne-ravna-shkole](pages/sotsializatsiya-ne-ravna-shkole.md)] — доводит фактор «субъектное взаимодействие» до предела: раз связи не складываются именно в школе, их можно строить вне неё
