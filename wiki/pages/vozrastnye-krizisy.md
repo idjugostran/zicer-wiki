@@ -3,7 +3,7 @@ title: Возрастные кризисы как смена системы ко
 category: Concepts
 summary: Три ключевые возрастные границы (3 года, 7 лет, переходный возраст) — не сбои, а последовательная смена «системы координат» взаимодействия с миром
 tags: [concept, roditelstvo, kurs-12-urokov, podrostki]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-248, lnv-vypusk-220, kak-nayti-druzey-na-novom-meste, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-3-letniy-syn-komanduet-mamoy, syn-darit-tsennye-veshchi-drugim-detyam, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-248, lnv-vypusk-220, kak-nayti-druzey-na-novom-meste, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-3-letniy-syn-komanduet-mamoy, syn-darit-tsennye-veshchi-drugim-detyam, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, syn-beret-chuzhie-veshchi]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-3-letniy-syn-komanduet-mamoy](pages/chto-delat-esli-3-letniy-syn-komanduet-mamoy.md)] — почти дословное подтверждение кризиса трёх лет («я выясняю, что мы разные люди») на примере мальчика, отказывающегося выходить из дома, и практическая техника [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)], помогающая ребёнку различить себя и мать
 - [[syn-darit-tsennye-veshchi-drugim-detyam](pages/syn-darit-tsennye-veshchi-drugim-detyam.md)] — кризис семилетия как основание говорить с ребёнком о его собственных решениях
 - [[papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu](pages/papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu.md)] — «штопор в переходный возраст» после 10 лет как объяснение эмоционального охлаждения
+- [[syn-beret-chuzhie-veshchi](pages/syn-beret-chuzhie-veshchi.md)] — произвольное внимание как критерий готовности к школе: в 6 лет можно ожидать, в 7 норма, в 5 нет
 
 ## Related Concepts
 

@@ -46,3 +46,4 @@ updated: 2026-09-03
 - [[isterika](pages/isterika.md)] — тот же механизм реактивного состояния, здесь применённый к взрослому/родителю, а не к ребёнку
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — источник телесной реакции в Уроке 4: страх, а не реакция вообще
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — возрастная рамка (до 7 лет), в которой ребёнок систематически теряет телесные ориентиры под давлением родительского авторитета
+- [[izobretenie-instrumentov-v-igre](pages/izobretenie-instrumentov-v-igre.md)] — почему изобретённые инструменты телесные: занять руки, убежать, позвать взрослого

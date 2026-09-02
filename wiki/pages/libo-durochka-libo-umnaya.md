@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[problema-prinadlezhit-tomu-komu-ona-meshaet](pages/problema-prinadlezhit-tomu-komu-ona-meshaet.md)] — вывод, к которому приводит проверка: проблема оказывается родительской
 - [[subyektnost](pages/subyektnost.md)] — признание ребёнка разумным субъектом как условие любого дальнейшего разговора
 - [[stop-slovo](pages/stop-slovo.md)] — практический инструмент, который выдаётся после того, как проверка пройдена
+- [[zachem-ty-eto-sdelal](pages/zachem-ty-eto-sdelal.md)] — та же логика: ребёнок уже понял, повторение и допрос адресованы не пониманию
 
 ## Footnotes
 

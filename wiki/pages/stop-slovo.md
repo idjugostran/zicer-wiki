@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — договорённость, работающая по согласию обеих сторон, а не по подчинению
 - [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)] — смежный способ обозначить границу вслух, но со стороны родителя
 - [[shchedrost-a-ne-slabohakternost](pages/shchedrost-a-ne-slabohakternost.md)] — тот же способ освоения навыка через разыгранную сценку, здесь — тренировка отказа
+- [[izobretenie-instrumentov-v-igre](pages/izobretenie-instrumentov-v-igre.md)] — тот же метод освоения приёма через игру, применённый к дошкольнику
 
 ## Footnotes
 

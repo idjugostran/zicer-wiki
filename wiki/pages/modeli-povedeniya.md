@@ -3,7 +3,7 @@ title: Модели поведения
 category: Concepts
 summary: Модель поведения — рамка, закрепившаяся через повторение похожих ситуаций; безвредна, пока осознаётся, и опасна, когда становится незаметной «второй натурой», ощущаемой как характер
 tags: [concept, roditelstvo, samoregulyatsiya]
-sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-201, lnv-vypusk-200, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, pochemu-ona-mne-vret, chto-meshaet-docheri-izbavitsya-ot-nostalgii, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet]
+sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-201, lnv-vypusk-200, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, pochemu-ona-mne-vret, chto-meshaet-docheri-izbavitsya-ot-nostalgii, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, syn-beret-chuzhie-veshchi]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek](pages/chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek.md)] — деление детей на группы по произвольному признаку (пол) показано как усвоенная от взрослых модель, а не самостоятельное детское изобретение
 - [[kak-pomenyatsya-mame-chtoby-dochke-bylo-legche](pages/kak-pomenyatsya-mame-chtoby-dochke-bylo-legche.md)] — две новые техники прерывания унаследованного командного паттерна: письменное/шутливое сообщение вместо произнесённой в моменте команды, и заранее запрограммированные напоминания до момента триггера
 - [[chto-delat-esli-mama-ochen-pristaet](pages/chto-delat-esli-mama-ochen-pristaet.md)] — зеркальный случай с точки зрения ребёнка: неработающий чек-лист-напоминалка против работающей замены родительскому напоминанию (экран блокировки телефона)
+- [[syn-beret-chuzhie-veshchi](pages/syn-beret-chuzhie-veshchi.md)] — в пять лет привычка формируется за дни; повторяющаяся домашняя сцена закрепляет её
 
 ## Related Concepts
 

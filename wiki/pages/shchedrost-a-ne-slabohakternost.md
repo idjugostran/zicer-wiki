@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)] — родитель называет своё ограничение отдельно и заранее
 - [[stop-slovo](pages/stop-slovo.md)] — тот же способ освоения нового навыка через игру «как в театре»
 - [[manipulyatsiya](pages/manipulyatsiya.md)] — граница, которую Зицер здесь проводит: прямая просьба манипуляцией не является
+- [[izobretenie-instrumentov-v-igre](pages/izobretenie-instrumentov-v-igre.md)] — тот же приём обучения моделированием, развёрнутый в полный цикл с разбором сбоев
 
 ## Footnotes
 
