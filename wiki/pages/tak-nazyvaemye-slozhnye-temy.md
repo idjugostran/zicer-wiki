@@ -5,7 +5,7 @@ summary: Секс, смерть, дурные привычки — не слож
 tags: [concept, roditelstvo, kurs-12-urokov]
 sources: [kurs-12-urokov-urok-8, lnv-vypusk-164, lnv-vypusk-250]
 created: 2026-08-29
-updated: 2026-08-31
+updated: 2026-09-02
 ---
 
 # Так называемые «сложные темы»
@@ -28,3 +28,4 @@ updated: 2026-08-31
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — источник «сложности» — неудобство взрослого, а не риск или содержание темы
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — тот же телесный механизм (вдох, сканирование тела), применённый к разговору, а не к реактивному поступку
 - [[chelovek-v-belom-palto](pages/chelovek-v-belom-palto.md)] — техника из другого «сложного разговора» (об отъезде во время войны), потенциально применимая к любой теме этого класса
+- [[usloviya-trudnogo-razgovora](pages/usloviya-trudnogo-razgovora.md)] — вторая половина той же подготовки: не телесный блок родителя, а канал, место и момент разговора

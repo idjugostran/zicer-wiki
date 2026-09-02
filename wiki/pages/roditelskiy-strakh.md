@@ -3,7 +3,7 @@ title: Родительский страх
 category: Concepts
 summary: Страх за ребёнка как источник контролирующего поведения — снимается не подавлением, а признанием страха перед собой и ребёнком
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kurs-12-urokov-urok-11, lnv-vypusk-252, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, mama-narushaet-lichnye-granitsy, lnv-vypusk-208, pochemu-ona-mne-vret, mama-ne-dolzhna-stradat, chto-meshaet-docheri-izbavitsya-ot-nostalgii, uchitsya-budu-tolko-v-kieve, kniga-lyubit-nelzya-vospityvat, kak-ubedit-syna-chto-emu-neobhodimo-uehat, kak-pomoch-docheri-vybrat-professiyu, chto-delat-esli-mama-ochen-pristaet]
+sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kurs-12-urokov-urok-11, lnv-vypusk-252, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, mama-narushaet-lichnye-granitsy, lnv-vypusk-208, pochemu-ona-mne-vret, mama-ne-dolzhna-stradat, chto-meshaet-docheri-izbavitsya-ot-nostalgii, uchitsya-budu-tolko-v-kieve, kniga-lyubit-nelzya-vospityvat, kak-ubedit-syna-chto-emu-neobhodimo-uehat, kak-pomoch-docheri-vybrat-professiyu, chto-delat-esli-mama-ochen-pristaet, kak-pomoch-nayti-otvet-na-vopros-kto-ya]
 created: 2026-08-29
 updated: 2026-09-02
 ---
@@ -51,6 +51,7 @@ updated: 2026-09-02
 - [[kak-ubedit-syna-chto-emu-neobhodimo-uehat](pages/kak-ubedit-syna-chto-emu-neobhodimo-uehat.md)] — совет называть страх напрямую в разговоре с почти взрослым пасынком, а не маскировать его перечислением рисков — та же формула, адресованная не ребёнку, а подростку 17-18 лет
 - [[kak-pomoch-docheri-vybrat-professiyu](pages/kak-pomoch-docheri-vybrat-professiyu.md)] — новый конкретный пример: страх «потерять год» на неудачном выборе вуза переформулирован в «приобрести год»
 - [[chto-delat-esli-mama-ochen-pristaet](pages/chto-delat-esli-mama-ochen-pristaet.md)] — тот же принцип «сказать вслух вместо требования», примененный не к страху, а к детскому раздражению на придирки (см. новый концепт [[govorit-nepriyatnoe-i-byt-uslyshannym](pages/govorit-nepriyatnoe-i-byt-uslyshannym.md)])
+- [[kak-pomoch-nayti-otvet-na-vopros-kto-ya](pages/kak-pomoch-nayti-otvet-na-vopros-kto-ya.md)] — второй, невысказанный запрос матери («хочу, чтобы он даже не думал возвращаться») отделён от запроса сына; говорить надо не про волнение родителя, а по обращению ребёнка
 
 ## Related Concepts
 

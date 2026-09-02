@@ -3,9 +3,9 @@ title: Экзистенциальный вопрос переходного во
 category: Concepts
 summary: «Зачем я живу» — часто возникающий в переходном возрасте экзистенциальный вопрос; в разобранном случае Зицер не увидел критической ситуации, но не предлагал универсального исключения опасности
 tags: [concept, podrostki, kurs-12-urokov]
-sources: [mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-spasti-15-letnego-syna]
+sources: [mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-spasti-15-letnego-syna, kak-pomoch-nayti-otvet-na-vopros-kto-ya]
 created: 2026-08-29
-updated: 2026-09-01
+updated: 2026-09-02
 ---
 
 # Экзистенциальный вопрос переходного возраста
@@ -20,6 +20,7 @@ updated: 2026-09-01
 
 - [[mama-prochla-dnevnik-docheri-i-uzhasnulas](pages/mama-prochla-dnevnik-docheri-i-uzhasnulas.md)] — вводит концепт целиком, на примере записи 12-летней дочери в дневнике
 - [[kak-spasti-15-letnego-syna](pages/kak-spasti-15-letnego-syna.md)] — обратная сторона того же вопроса: «зачем ему жить», заданный не подростком себе, а Зицером — родителю, как диагностика тяжёлого случая
+- [[kak-pomoch-nayti-otvet-na-vopros-kto-ya](pages/kak-pomoch-nayti-otvet-na-vopros-kto-ya.md)] — та же тема в форме вопроса о принадлежности: 17-летний подросток говорит «я не понимаю, кто я», и Зицер читает это как запрос, а не как жалобу
 
 ## Related Concepts
 
