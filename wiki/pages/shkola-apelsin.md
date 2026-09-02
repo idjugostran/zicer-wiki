@@ -3,9 +3,9 @@ title: Школа «Апельсин»
 category: Entities
 summary: Школа неформального образования в Санкт-Петербурге, основана Димой и Наташей Зицер в 2008 году
 tags: [entity, shkola, apelsin]
-sources: [apelsinovye-budni, urok-matematiki-v-shkole-apelsin, lnv-v-gostyah-u-zicera-chast-1, ii-v-shkole-zlo-ili-blagoslovenie]
+sources: [apelsinovye-budni, urok-matematiki-v-shkole-apelsin, lnv-v-gostyah-u-zicera-chast-1, ii-v-shkole-zlo-ili-blagoslovenie, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane]
 created: 2026-08-04
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Школа «Апельсин»
@@ -22,6 +22,7 @@ updated: 2026-09-02
 - [[urok-matematiki-v-shkole-apelsin](pages/urok-matematiki-v-shkole-apelsin.md)] — прямая съёмка урока математики: субъектность, отсутствие оценок и домашних заданий в действии, а не в описании
 - [[lnv-v-gostyah-u-zicera-chast-1](pages/lnv-v-gostyah-u-zicera-chast-1.md)] — институциональное воплощение «пяти факторов неформального образования»
 - [[ii-v-shkole-zlo-ili-blagoslovenie](pages/ii-v-shkole-zlo-ili-blagoslovenie.md)] — данные о поступлении уехавших в 2022 году учеников как подтверждение ставки на гибкие навыки
+- [[rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane](pages/rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane.md)] — позиция Зицера о цене частного образования: 10% и 200% стоимости обучения, против элитарности
 
 ## Related Concepts
 

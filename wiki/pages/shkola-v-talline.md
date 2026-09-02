@@ -3,9 +3,9 @@ title: Школа в Таллине
 category: Entities
 summary: Сестринская школа «Апельсина», открытая Зицером 1 сентября 2026 года в Таллине — принципиально новый для него тип школы, начинающийся сразу со старших классов
 tags: [entity, shkola, tallin]
-sources: [ii-v-shkole-zlo-ili-blagoslovenie, kak-provodit-klassnye-ekskursii-dlya-detey]
+sources: [ii-v-shkole-zlo-ili-blagoslovenie, kak-provodit-klassnye-ekskursii-dlya-detey, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Школа в Таллине
@@ -20,6 +20,7 @@ updated: 2026-09-02
 
 - [[ii-v-shkole-zlo-ili-blagoslovenie](pages/ii-v-shkole-zlo-ili-blagoslovenie.md)] — единственный пока источник, впервые упоминающий эту школу
 - [[kak-provodit-klassnye-ekskursii-dlya-detey](pages/kak-provodit-klassnye-ekskursii-dlya-detey.md)] — упомянута как место, где Зицер применит тот же приём на первом занятии 1 сентября
+- [[rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane](pages/rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane.md)] — упомянута как открывающаяся новая частная школа при разговоре о стоимости обучения
 
 ## Related Concepts
 

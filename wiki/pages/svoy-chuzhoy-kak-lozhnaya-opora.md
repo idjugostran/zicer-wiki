@@ -5,7 +5,7 @@ summary: Зицер не утешает подростка, боящегося �
 tags: [concept, podrostki, identichnost, emigratsiya]
 sources: [kak-pomoch-nayti-otvet-na-vopros-kto-ya]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # «Свой — чужой» как ложная опора
@@ -30,6 +30,7 @@ updated: 2026-09-02
 - [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] — ближайший аналог: другая внешняя категория («мальчик должен»), снимаемая тем же ходом
 - [[oshchushchenie-doma](pages/oshchushchenie-doma.md)] — противоположный подход к той же боли: там дом собирается из конкретных мелочей нового места, здесь ставится под вопрос сама нужда быть своим
 - [[ekzistentsialnyi-vopros-perehodnogo-vozrasta](pages/ekzistentsialnyi-vopros-perehodnogo-vozrasta.md)] — «кто я» как возрастная форма того же экзистенциального вопроса
+- [[poplavki](pages/poplavki.md)] — вместо готовой опоры «стать своим» ребёнок ищет собственные зацепки
 
 ## Footnotes
 

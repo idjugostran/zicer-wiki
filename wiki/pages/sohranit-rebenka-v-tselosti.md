@@ -5,7 +5,7 @@ summary: После травмы приоритет смещается с усп
 tags: [concept, travma, bezhentsy, shkola, roditelstvo]
 sources: [kak-oblegchit-shkolnuyu-zhizn-docheri]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Сохранить ребёнка в целости
@@ -31,6 +31,7 @@ updated: 2026-09-02
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — источник давления: тревога родителя за будущее, а не реальная угроза от несделанной домашней работы
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — отвергаемая альтернатива: отобранный телефон как рычаг, на который ребёнок отвечает равнодушием
 - [[subyektivnoe-vremya-rebenka](pages/subyektivnoe-vremya-rebenka.md)] — обоснование неспешного темпа: три-пять лет вхождения выглядят по-разному для взрослого и для ребёнка
+- [[mesto-v-dushe-dlya-yazyka](pages/mesto-v-dushe-dlya-yazyka.md)] — та же очерёдность в эмигрантском контексте: сначала покой, потом язык и требования
 
 ## Footnotes
 

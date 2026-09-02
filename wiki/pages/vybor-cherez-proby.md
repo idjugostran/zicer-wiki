@@ -38,3 +38,4 @@ updated: 2026-09-03
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — тот же методологический ход: за декларируемым принципом («ответственность», «доведение до конца») нужно увидеть конкретное действие и его реальные последствия для ребёнка
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — принуждение продолжать нелюбимое занятие «потому что сам решил» структурно близко к транзакционным моделям, которые критикует этот источник
 - [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)] — выбор как один из пяти факторов, институционализированный через индивидуальный учебный план
+- [[horoshaya-i-plohaya-rutina](pages/horoshaya-i-plohaya-rutina.md)] — новую рутину на новом месте находят пробами, а не воспроизведением прежней
