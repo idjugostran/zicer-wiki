@@ -107,9 +107,14 @@ similar-looking page.
    - Where a footnote in a cited page has a timestamp (`[HH:MM:SS]` or
      `[MM:SS]`) and the underlying Source page's `**Source:**` line has a
      YouTube URL, prefer a clickable timestamp link: convert the timestamp to
-     seconds and link as `[HH:MM:SS](https://youtu.be/VIDEO_ID?t=SECONDS)`.
-     That's a real absolute URL, so it's safe to emit. Only after actually
-     opening the Source page and confirming the video ID — never guess it.
+     seconds and append it to the URL exactly as the Source page already
+     spells it — `[HH:MM:SS](https://www.youtube.com/watch?v=VIDEO_ID&t=SECONDS)`.
+     The separator is `&`, not `?`: that URL already carries a query string
+     (`?v=`), so a second `?` folds the timestamp into the video id and
+     YouTube answers "Video unavailable". Keep the host as written too —
+     don't rewrite it to the `youtu.be/ID?t=` short form. That's a real
+     absolute URL, so it's safe to emit. Only after actually opening the
+     Source page and confirming the video ID — never guess it.
    - Explicitly surface soft tensions between sources rather than picking one
      silently — several pages note related-but-distinct angles on the same
      theme (reward/punishment vs. pseudo-«договор» vs. manipulation are three

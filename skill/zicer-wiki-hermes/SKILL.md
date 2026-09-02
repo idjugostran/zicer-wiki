@@ -99,8 +99,13 @@ are relevant, then `read_file` those specific pages.
    - Where a footnote in the cited page has a timestamp (`[HH:MM:SS]`) and
      the underlying Source page's `**Source:**` line has a YouTube URL,
      prefer rendering that as a clickable timestamp link instead of a bare
-     citation: convert the timestamp to seconds and link as
-     `[HH:MM:SS](https://youtu.be/VIDEO_ID?t=SECONDS)`. This *is* a real,
+     citation: convert the timestamp to seconds and append it to the URL
+     exactly as the Source page already spells it —
+     `[HH:MM:SS](https://www.youtube.com/watch?v=VIDEO_ID&t=SECONDS)`.
+     The separator is `&`, not `?`: that URL already carries a query string
+     (`?v=`), so a second `?` folds the timestamp into the video id and
+     YouTube answers "Video unavailable". Keep the host as written too —
+     don't rewrite it to the `youtu.be/ID?t=` short form. This *is* a real,
      absolute, valid link (unlike the internal wiki syntax above), so it's
      safe to emit. Only do this after actually opening the Source page and
      confirming the video ID — never guess it.
