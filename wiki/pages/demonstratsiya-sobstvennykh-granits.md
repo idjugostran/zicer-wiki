@@ -3,7 +3,7 @@ title: Демонстрация собственных границ
 category: Concepts
 summary: Родитель признаёт чувство ребёнка, но всё равно называет и осуществляет своё намерение — способ показать ребёнку, что родитель тоже отдельный, живой человек со своими нуждами
 tags: [concept, granitsy, vozrastnye-krizisy, roditelstvo]
-sources: [chto-delat-esli-3-letniy-syn-komanduet-mamoy]
+sources: [chto-delat-esli-3-letniy-syn-komanduet-mamoy, doch-revnuet-i-ustraivaet-skandaly]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -19,6 +19,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[chto-delat-esli-3-letniy-syn-komanduet-mamoy](pages/chto-delat-esli-3-letniy-syn-komanduet-mamoy.md)] — вводит концепт целиком на примере трёхлетнего мальчика, отказывающегося покидать квартиру: сценка про разогрев обеда, аналогия с туалетом, формула «рамки ваши — лучшие из рамок»
+- [[doch-revnuet-i-ustraivaet-skandaly](pages/doch-revnuet-i-ustraivaet-skandaly.md)] — граница проводится по предмету разговора, а не по поведению ребёнка
 
 ## Related Concepts
 

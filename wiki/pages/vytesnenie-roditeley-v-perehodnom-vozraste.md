@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[sovetovatsya-i-rasskazyvat-o-sebe](pages/sovetovatsya-i-rasskazyvat-o-sebe.md)] — второй ход: обязательный блок о себе и просьба о совете
 - [[svoy-chuzhoy-kak-lozhnaya-opora](pages/svoy-chuzhoy-kak-lozhnaya-opora.md)] — смежная работа с чувством одиночества подростка
 - [[pomoch-pereklyuchitsya](pages/pomoch-pereklyuchitsya.md)] — почему окно для совместного переключения закрывается через пару лет
+- [[kniga-bessmyslennost-vospitaniya-podrostkov](pages/kniga-bessmyslennost-vospitaniya-podrostkov.md)] — книга Зицера о том же возрасте
 
 ## Footnotes
 

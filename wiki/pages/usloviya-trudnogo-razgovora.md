@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[govorit-nepriyatnoe-i-byt-uslyshannym](pages/govorit-nepriyatnoe-i-byt-uslyshannym.md)] — содержательное правило того же разговора: сказать трудное и получить подтверждение, что услышан
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — смежное условие, но со стороны предмета: разговор возможен, когда опасение переведено в вопрос
 - [[legitimizatsiya-temy](pages/legitimizatsiya-temy.md)] — внутренний порядок того же разговора: сначала сделать тему обычной, потом углублять
+- [[prosto-poprosit](pages/prosto-poprosit.md)] — то же требование: говорить в спокойной обстановке, не связанной с самим конфликтом
 
 ## Footnotes
 

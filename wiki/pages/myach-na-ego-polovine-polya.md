@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[smena-vektora-voprosa](pages/smena-vektora-voprosa.md)] — смежный приём переадресации вопроса тому, к кому он на самом деле относится
 - [[manipulyatsiya](pages/manipulyatsiya.md)] — граница, которую приём не переходит: ребёнку оставляют реальную возможность ответить «нет», а не имитацию выбора
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — общее основание приёма: ответ должен быть произнесён ребёнком, а не предположен родителем
+- [[prosto-poprosit](pages/prosto-poprosit.md)] — соседний ход: не вопрос, возвращающий инициативу, а прямая просьба о себе
 
 ## Footnotes
 

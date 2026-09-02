@@ -5,7 +5,7 @@ summary: Панельная дискуссия на канале «Культу�
 tags: [source, video, panel, podrostki]
 sources: [nablyudatel-o-podrostkah]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-03
 ---
 
 # «Наблюдатель»: о подростках и не только
@@ -46,7 +46,7 @@ updated: 2026-08-30
 
 Отказ от формального дозирования экранного времени в пользу «живого примера» расширяет [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] на новую предметную область — гаджеты как один из многих возможных увлечений, а не отдельная угроза.
 
-Закрывающая формулировка про право на злость перекликается с [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)]: партнёрские отношения выдерживают полный спектр чувств взрослого — и это же право распространяется на ребёнка.
+Закрывающая формулировка про право на злость перекликается с [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)]: партнёрские отношения выдерживают полный спектр чувств взрослого — и это же право распространяется на ребёнка. Тезисы Зицера о том же возрасте изложены в его книге [[kniga-bessmyslennost-vospitaniya-podrostkov](pages/kniga-bessmyslennost-vospitaniya-podrostkov.md)].
 
 ## Footnotes
 

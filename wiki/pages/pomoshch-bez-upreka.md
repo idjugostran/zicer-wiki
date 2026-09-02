@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — смежное процедурное правило того же разговора
 - [[govorit-nepriyatnoe-i-byt-uslyshannym](pages/govorit-nepriyatnoe-i-byt-uslyshannym.md)] — почему упрёк, вшитый в предложение помощи, блокирует ответ
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — признание собственного несовершенства как рабочая форма разговора
+- [[prosto-poprosit](pages/prosto-poprosit.md)] — ещё одно правило прямой речи: просьба без обвинения ребёнка
 
 ## Footnotes
 
