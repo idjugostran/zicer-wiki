@@ -3,7 +3,7 @@ title: «Безопасный вопрос» как техника начала 
 category: Concepts
 summary: Начинать контакт со сверстником стоит не с прямого сближения, а с вопроса, встроенного в правдоподобный повод, чей худший ответ не задевает личность спрашивающего, — а отказ рассматривать как тест, а не поражение
 tags: [concept, podrostki, obshchenie, druzhba]
-sources: [kak-nayti-druzey-na-novom-meste, kak-razgovorit-cheloveka-4-h-let, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, kto-ya-svoey-padcheritse]
+sources: [kak-nayti-druzey-na-novom-meste, kak-razgovorit-cheloveka-4-h-let, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -30,3 +30,4 @@ updated: 2026-09-03
 - [[literatura-kak-povod-dlya-razgovora](pages/literatura-kak-povod-dlya-razgovora.md)] — тот же ход: начинать с того, что не требует от собеседника защищаться
 - [[vytesnenie-roditeley-v-perehodnom-vozraste](pages/vytesnenie-roditeley-v-perehodnom-vozraste.md)] — случай, когда вопросы отменяются вовсе в пользу совместного действия
 - [[otvechat-tolko-na-zadannye-voprosy](pages/otvechat-tolko-na-zadannye-voprosy.md)] — обратная сторона: чего взрослый не поднимает первым
+- [[otdelnye-otnosheniya-s-kazhdym](pages/otdelnye-otnosheniya-s-kazhdym.md)] — почему расспросы о конфликте разрушают отношения с обеими сторонами
