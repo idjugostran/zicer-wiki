@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[kakuyu-bitvu-vy-vedete](pages/kakuyu-bitvu-vy-vedete.md)] — цель разговора определяется до входа в него, в отличие от ответа собеседника
 - [[poplavki](pages/poplavki.md)] — тот же запрет отвечать за ребёнка, применённый к вопросу «почему я здесь»
 - [[zachem-ty-eto-sdelal](pages/zachem-ty-eto-sdelal.md)] — обратный случай: вопрос задаётся при уже известном ответе и потому превращается в спектакль
+- [[priznanie-roditelskoy-oshibki](pages/priznanie-roditelskoy-oshibki.md)] — первый обязательный шаг, если решение было принято без ребёнка
 
 ## Footnotes
 

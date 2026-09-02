@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — общая рамка возрастных изменений
 - [[nablyudatel-o-podrostkah](pages/nablyudatel-o-podrostkah.md)] — публичное выступление Зицера о подростках
 - [[kniga-sovremennoe-pedagogicheskoe-iskusstvo-azbuka](pages/kniga-sovremennoe-pedagogicheskoe-iskusstvo-azbuka.md)] — профессиональная книга того же автора, адресованная педагогам
+- [[priznanie-roditelskoy-oshibki](pages/priznanie-roditelskoy-oshibki.md)] — почему реакция подростка на такой разговор может быть любой
 
 ## Footnotes
 

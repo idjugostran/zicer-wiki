@@ -3,7 +3,7 @@ title: Просто попросить
 category: Concepts
 summary: Самое пропускаемое решение: сказать ребёнку «мне от этого больно, я прошу тебя этого не делать»; изнутри ситуации простые ходы не видны, а ребёнок этой просьбы часто попросту не слышал
 tags: [concept, roditelstvo, kommunikatsiya, podrostki]
-sources: [doch-revnuet-i-ustraivaet-skandaly]
+sources: [doch-revnuet-i-ustraivaet-skandaly, kak-pomoch-rebenku-prinyat-novuyu-realnost]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[doch-revnuet-i-ustraivaet-skandaly](pages/doch-revnuet-i-ustraivaet-skandaly.md)] — вводит концепт: «попросите её этого не делать», тезис о пропускаемых простых решениях, форма «я-сообщений» и открытая дверь после просьбы
+- [[kak-pomoch-rebenku-prinyat-novuyu-realnost](pages/kak-pomoch-rebenku-prinyat-novuyu-realnost.md)] — «пойдём со мной, мне это важно, подари мне это» вместо вытаскивания ребёнка на развлечение
 
 ## Related Concepts
 

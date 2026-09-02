@@ -3,7 +3,7 @@ title: Взаимный обмен интересами
 category: Concepts
 summary: Отвлечь ребёнка от гаджетов запретом нельзя — работает встречное движение: попроситься в мир ребёнка, затем пригласить его в свой мир как в подарок, а не в обязанность
 tags: [concept, roditelstvo, kurs-12-urokov, gadzhety]
-sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-208, lnv-vypusk-164, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-250, lnv-vypusk-216, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, chto-takoe-dogovor-s-rebenkom]
+sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-208, lnv-vypusk-164, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-250, lnv-vypusk-216, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, chto-takoe-dogovor-s-rebenkom, kak-pomoch-rebenku-prinyat-novuyu-realnost]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -35,6 +35,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy](pages/chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy.md)] — задаёт предел технике: приглашение в важный взрослому мир перестаёт быть подарком, если ребёнок чувствует ожидание совместного результата и не может свободно отказаться
 - [[papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu](pages/papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu.md)] — «пусть научит вас»: вход в предложенную ребёнком тему вместо подбора правильных вопросов
 - [[chto-takoe-dogovor-s-rebenkom](pages/chto-takoe-dogovor-s-rebenkom.md)] — «можно я с тобой немножко потусуюсь?» и переключение изнутри общего увлечения
+- [[kak-pomoch-rebenku-prinyat-novuyu-realnost](pages/kak-pomoch-rebenku-prinyat-novuyu-realnost.md)] — программа составляется для себя, и ребёнка приглашают в свой мир, а не отвлекают от его
 
 ## Related Concepts
 

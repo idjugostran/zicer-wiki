@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[subyektivnoe-vremya-rebenka](pages/subyektivnoe-vremya-rebenka.md)] — ребёнок в этом возрасте учится взаимодействовать с собственным временем
 - [[libo-durochka-libo-umnaya](pages/libo-durochka-libo-umnaya.md)] — та же проверка допущения, применённая к вкусам ребёнка
 - [[vytesnenie-roditeley-v-perehodnom-vozraste](pages/vytesnenie-roditeley-v-perehodnom-vozraste.md)] — почему окно закрывается через пару лет
+- [[priznanie-roditelskoy-oshibki](pages/priznanie-roditelskoy-oshibki.md)] — случай, когда возрастное окно уже закрылось и вводить ограничения поздно
 
 ## Footnotes
 

@@ -3,7 +3,7 @@ title: «Поплавки»
 category: Concepts
 summary: Личные зацепки, за которые человек держится на новом месте; родитель не может найти их за ребёнка — он может только помочь сформулировать, и ответ «моя семья здесь» не годится
 tags: [concept, emigratsiya, adaptatsiya, podrostki]
-sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane]
+sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, kak-pomoch-rebenku-prinyat-novuyu-realnost]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane](pages/rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane.md)] — вводит концепт: «поплавки», требование личного ответа на вопрос «почему я здесь», отмотка разговора назад
+- [[kak-pomoch-rebenku-prinyat-novuyu-realnost](pages/kak-pomoch-rebenku-prinyat-novuyu-realnost.md)] — поплавков нет не потому, что их не нашли, а потому что ребёнку сказано, что искать их незачем
 
 ## Related Concepts
 

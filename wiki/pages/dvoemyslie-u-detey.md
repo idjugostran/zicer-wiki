@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] — ребёнок усваивает поступок взрослого, а не его объяснение
 - [[manipulyatsiya](pages/manipulyatsiya.md)] — что происходит, когда объяснение подгоняется под удобство говорящего
 - [[podpole-sovesti](pages/podpole-sovesti.md)] — зеркальный сюжет: здесь скрывать себя вынужден ребёнок, а не взрослый
+- [[priznanie-roditelskoy-oshibki](pages/priznanie-roditelskoy-oshibki.md)] — что делать, когда расхождение между словами и происходящим уже возникло
 
 ## Footnotes
 
