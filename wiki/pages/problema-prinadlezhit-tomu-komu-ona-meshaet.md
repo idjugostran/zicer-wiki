@@ -3,9 +3,9 @@ title: Проблема принадлежит тому, кому она меш�
 category: Concepts
 summary: Прежде чем исправлять поведение ребёнка, нужно различить его собственную трудность и неудобство взрослого; последнему следует назвать свою конкретную потребность и просить помощи, а не объявлять ребёнка проблемой
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [lnv-vypusk-214, lnv-vypusk-220, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy]
+sources: [lnv-vypusk-214, lnv-vypusk-220, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, mama-ne-dolzhna-stradat]
 created: 2026-08-30
-updated: 2026-09-01
+updated: 2026-09-02
 ---
 
 # Проблема принадлежит тому, кому она мешает
@@ -21,9 +21,11 @@ updated: 2026-09-01
 - [[lnv-vypusk-214](pages/lnv-vypusk-214.md)] — «поведенческая ловушка»: вопрос о переселении близнецов в отдельную комнату сначала оказывается невыясненным желанием самой матери
 - [[lnv-vypusk-220](pages/lnv-vypusk-220.md)] — длинный разбор девятилетнего мальчика, который медленно собирается: ведущий отделяет его отсутствие запроса от конкретной организационной потребности матери и переводит разговор из эмоционального давления в прямую просьбу о помощи
 - [[chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy](pages/chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy.md)] — ребёнок сохраняет творчество и близость, а изменить конкретное совместное занятие хочет мать из-за собственной обиды; решение начинается со снятия её ожидания
+- [[mama-ne-dolzhna-stradat](pages/mama-ne-dolzhna-stradat.md)] — постоянные объятия не мешают детям и не создают им проблемы; усталость принадлежит маме, и решение начинается с прямой просьбы о помощи к мужу и старшему сыну
 
 ## Related Concepts
 
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — помощь возможна, когда сам человек формулирует, что хочет изменить; этот концепт уточняет, как не подменить его запрос родительским
 - [[subyektnost](pages/subyektnost.md)] — ребёнок остаётся отдельным участником отношений, а не объектом исправления взрослым
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — общий метод перевода абстрактных чувств и требований в конкретное действие
+- [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — та же техника «говорить о себе»: назвать собственную трудность и просить о конкретной помощи вместо требования к ребёнку

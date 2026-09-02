@@ -3,9 +3,9 @@ title: Рамки, а не дисциплина
 category: Concepts
 summary: Урок не нуждается в едином поведенческом стандарте (дисциплине) — ему нужны чёткие рамки (место, правила, канва); шум и движение внутри рамок — признак вовлечённости, а не потери контроля
 tags: [concept, shkola-apelsin, pedagogika]
-sources: [urok-matematiki-v-shkole-apelsin, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-223, lnv-vypusk-250, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii]
+sources: [urok-matematiki-v-shkole-apelsin, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-223, lnv-vypusk-250, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, mama-ne-dolzhna-stradat]
 created: 2026-08-29
-updated: 2026-09-01
+updated: 2026-09-02
 ---
 
 # Рамки, а не дисциплина
@@ -26,6 +26,7 @@ updated: 2026-09-01
 - [[lnv-vypusk-223](pages/lnv-vypusk-223.md)] — трёхлетнего ребёнка, который замахивается на мать, останавливают сразу и спокойно: физическая граница не равна наказанию или ответной агрессии
 - [[lnv-vypusk-250](pages/lnv-vypusk-250.md)] — учитель физкультуры в первом классе получает прямое уточнение: тишина не показатель хорошего урока, а интерес и человеческий разговор не требуют жёсткости
 - [[kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii](pages/kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii.md)] — рамка переносится с урока и семейного кризиса на поддержание отношений между детьми на расстоянии: заранее оговорённая, соблюдаемая регулярность контакта
+- [[mama-ne-dolzhna-stradat](pages/mama-ne-dolzhna-stradat.md)] — спокойная, заранее объявленная граница вне кризиса и вне школы: полтора часа личного времени мамы не подлежат обсуждению, детский плач по этому поводу допустим, но не меняет решения
 
 ## Related Concepts
 
