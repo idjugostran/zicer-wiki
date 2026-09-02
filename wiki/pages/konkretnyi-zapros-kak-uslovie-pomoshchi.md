@@ -3,7 +3,7 @@ title: Конкретный запрос как условие помощи
 category: Concepts
 summary: Помочь человеку против его воли или без сформулированной цели невозможно; прежде чем советовать, нужно добиться от просящего конкретного запроса, а не позволять ему просто изливать эмоции
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-219, kak-byt-esli-rebenok-ne-uveren-v-sebe, kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-organizovat-poezdku-dlya-detey, devochka-otkazyvaetsya-hodit-v-shkolu, chego-boitsya-syn-i-chto-s-etim-delat, kak-podderzhat-rebenka-vo-vremya-voyny]
+sources: [lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-219, kak-byt-esli-rebenok-ne-uveren-v-sebe, kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-organizovat-poezdku-dlya-detey, devochka-otkazyvaetsya-hodit-v-shkolu, chego-boitsya-syn-i-chto-s-etim-delat, kak-podderzhat-rebenka-vo-vremya-voyny, kak-ponyat-14-letnyuyu-doch]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[devochka-otkazyvaetsya-hodit-v-shkolu](pages/devochka-otkazyvaetsya-hodit-v-shkolu.md)] — двойное применение: несколько склеенных родительских желаний сводятся к одной задаче, а фраза дочери «у меня нет друзей» разбирается как необязательно просьба о помощи
 - [[chego-boitsya-syn-i-chto-s-etim-delat](pages/chego-boitsya-syn-i-chto-s-etim-delat.md)] — инструмент предлагается только после того, как ребёнок сам сказал, что ему мешает
 - [[kak-podderzhat-rebenka-vo-vremya-voyny](pages/kak-podderzhat-rebenka-vo-vremya-voyny.md)] — «где тебе нужна моя помощь?» вместо непрошеного контроля учёбы
+- [[kak-ponyat-14-letnyuyu-doch](pages/kak-ponyat-14-letnyuyu-doch.md)] — смена вопроса с «что не так» на «какой вариант ты предлагаешь»
 
 ## Related Concepts
 

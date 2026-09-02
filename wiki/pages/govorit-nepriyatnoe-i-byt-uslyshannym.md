@@ -28,3 +28,4 @@ updated: 2026-09-03
 - [[sovetovatsya-i-rasskazyvat-o-sebe](pages/sovetovatsya-i-rasskazyvat-o-sebe.md)] — смежная формула поддержания отношений через регулярный обмен, но не через прямое называние конкретного неприятного момента
 - [[usloviya-trudnogo-razgovora](pages/usloviya-trudnogo-razgovora.md)] — условия, при которых такой разговор вообще возможен: лично, на нейтральной территории и не с порога
 - [[myach-na-ego-polovine-polya](pages/myach-na-ego-polovine-polya.md)] — та же ставка на сказанное вслух, но с формулировкой, возвращающей инициативу ребёнку
+- [[pomoshch-bez-upreka](pages/pomoshch-bez-upreka.md)] — почему упрёк, вшитый в предложение помощи, блокирует ответ

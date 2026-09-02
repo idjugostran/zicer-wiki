@@ -3,7 +3,7 @@ title: Разговор без заранее известного ответа
 category: Concepts
 summary: Нельзя входить в разговор, зная ответ ребёнка, даже если вы его действительно знаете, и нельзя отвечать за него: от произнесённого им ответа зависит, какой ход делает родитель дальше
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [chego-boitsya-syn-i-chto-s-etim-delat]
+sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-ponyat-14-letnyuyu-doch]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[chego-boitsya-syn-i-chto-s-etim-delat](pages/chego-boitsya-syn-i-chto-s-etim-delat.md)] — вводит концепт целиком: запрет отвечать за ребёнка, две несовместимые ветки ответа, отказ «пилить» при отрицательном ответе
+- [[kak-ponyat-14-letnyuyu-doch](pages/kak-ponyat-14-letnyuyu-doch.md)] — жёсткая форма правила: родитель не перечисляет доводы за и против школы, это реплики ребёнка
 
 ## Related Concepts
 

@@ -5,7 +5,7 @@ summary: Мама из Франции спрашивает, как помочь 
 tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, podrostki, shkola, frantsiya, emigratsiya]
 sources: [devochka-otkazyvaetsya-hodit-v-shkolu]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Прекрасная 15-летняя девочка ОТКАЗЫВАЕТСЯ ХОДИТЬ В ШКОЛУ
@@ -62,7 +62,7 @@ updated: 2026-09-02
 
 Источник вводит два новых концепта. [[obrechennost-kak-istochnik-otkaza](pages/obrechennost-kak-istochnik-otkaza.md)] даёт корпусу объяснительную рамку для школьного отказа, отличную от уже описанных ([[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)] — травля, [[sohranit-rebenka-v-tselosti](pages/sohranit-rebenka-v-tselosti.md)] — травма): здесь ни того, ни другого нет, а есть отсутствие собственного решения на всей траектории. [[pravo-zhit-dlya-kayfov](pages/pravo-zhit-dlya-kayfov.md)] противопоставлено давлению профориентации и прямо продолжает возрастную оговорку из [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)] («потерпи, потом пригодится» — обман), распространяя её со младшего школьного возраста на подростковый.
 
-Ближайший сосед — [[kak-pomoch-docheri-vybrat-professiyu](pages/kak-pomoch-docheri-vybrat-professiyu.md)]: там «потерянный год» переформулирован в «приобретённый», здесь груз выбора снимается ещё до того, как он привёл к потере. С [[kak-oblegchit-shkolnuyu-zhizn-docheri](pages/kak-oblegchit-shkolnuyu-zhizn-docheri.md)] источник образует пару: обе матери — эмигрантки, обе дочери школу не тянут, и в обоих разборах решение о школе требуется сделать решением самого ребёнка; но там причина в травме и требование снимается совсем, а здесь причина в предопределённости и требование заменяется выбором. Разбор фразы «у меня нет друзей» дополняет [[kak-byt-esli-rebenok-ne-uveren-v-sebe](pages/kak-byt-esli-rebenok-ne-uveren-v-sebe.md)] и [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)], а разложение «хочу друзей» на конкретные условия (театр, спорт, хор, район) повторяет ход [[kak-nayti-druzey-na-novom-meste](pages/kak-nayti-druzey-na-novom-meste.md)].
+Ближайший сосед — [[kak-pomoch-docheri-vybrat-professiyu](pages/kak-pomoch-docheri-vybrat-professiyu.md)]: там «потерянный год» переформулирован в «приобретённый», здесь груз выбора снимается ещё до того, как он привёл к потере. С [[kak-oblegchit-shkolnuyu-zhizn-docheri](pages/kak-oblegchit-shkolnuyu-zhizn-docheri.md)] источник образует пару: обе матери — эмигрантки, обе дочери школу не тянут, и в обоих разборах решение о школе требуется сделать решением самого ребёнка; но там причина в травме и требование снимается совсем, а здесь причина в предопределённости и требование заменяется выбором. Разбор фразы «у меня нет друзей» дополняет [[kak-byt-esli-rebenok-ne-uveren-v-sebe](pages/kak-byt-esli-rebenok-ne-uveren-v-sebe.md)] и [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)], а разложение «хочу друзей» на конкретные условия (театр, спорт, хор, район) повторяет ход [[kak-nayti-druzey-na-novom-meste](pages/kak-nayti-druzey-na-novom-meste.md)]. Смежный разбор — [[kak-ponyat-14-letnyuyu-doch](pages/kak-ponyat-14-letnyuyu-doch.md)]: там отказ ходить в школу принимается буквально («точка, мы не пойдём») как тактический ход, открывающий разговор о том, какой вариант предлагает сама девочка.
 
 ## Footnotes
 

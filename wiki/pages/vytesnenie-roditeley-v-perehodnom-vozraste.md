@@ -3,7 +3,7 @@ title: Вытеснение родителей в переходном возр�
 category: Concepts
 summary: После 10 лет родители на время вытесняются более важными людьми — одноклассниками, друзьями, иногда другими взрослыми; это возрастная норма, а не утрата контакта, и маркер настоящей проблемы другой — «пап, отстань, у меня дела»
 tags: [concept, podrostki, perehodnyi-vozrast, otnosheniya]
-sources: [papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu]
+sources: [papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, kak-ponyat-14-letnyuyu-doch]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu](pages/papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu.md)] — вводит концепт: охлаждение как функция возраста и расстояния, три черты периода, маркер «пап, отстань»
+- [[kak-ponyat-14-letnyuyu-doch](pages/kak-ponyat-14-letnyuyu-doch.md)] — «мои друзья меня понимают, ты меня не понимаешь»; скорость изменений, из-за которой подросток запутывает сам себя
 
 ## Related Concepts
 

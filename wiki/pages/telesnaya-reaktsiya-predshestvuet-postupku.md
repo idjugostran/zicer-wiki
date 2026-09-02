@@ -3,7 +3,7 @@ title: Телесная реакция предшествует поступку
 category: Concepts
 summary: Реактивные действия (крик, удар) вызываются телесным сигналом (сжатые кулаки, сухость во рту), возникающим за секунды до поступка, а не осознанным решением
 tags: [concept, samoregulyatsiya, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-ponimat-signaly-tela, lnv-vypusk-253, lnv-vypusk-215, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kniga-lyubit-nelzya-vospityvat, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya]
+sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-ponimat-signaly-tela, lnv-vypusk-253, lnv-vypusk-215, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kniga-lyubit-nelzya-vospityvat, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, kak-ponyat-14-letnyuyu-doch]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -39,6 +39,7 @@ updated: 2026-09-03
 - [[dima-zicer-v-programme-nam-nado-pogovorit-rtvi](pages/dima-zicer-v-programme-nam-nado-pogovorit-rtvi.md)] — независимое повторение примеров (агрессивный второклассник, зеркало) и третья версия истории про сок на документах
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «Тело как педагогический инструмент» даёт два новых канонических примера (папа резко выдёргивает поющую дочь на автобусной остановке; мама портит прогулку вопросом об архитекторе Эрмитажа, вспомнив боль в пояснице от детских походов по музеям с дедом) — независимые от уже отмеченного случая с соком
 - [[proklyataya-chelka-ili-kak-perestat-delat-zamechaniya](pages/proklyataya-chelka-ili-kak-perestat-delat-zamechaniya.md)] — «подышать» как пауза в десять секунд между автоматическим позывом и фразой
+- [[kak-ponyat-14-letnyuyu-doch](pages/kak-ponyat-14-letnyuyu-doch.md)] — глубокое дыхание и выбор спокойного момента как условие такого разговора
 
 ## Related Concepts
 
