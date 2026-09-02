@@ -3,9 +3,9 @@ title: Манипуляция
 category: Concepts
 summary: «Мягкая» форма насилия («фокус»), лишающая человека воли без прямого принуждения — дети перенимают её у взрослых
 tags: [concept, nasilie, roditelstvo]
-sources: [o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-5, otkuda-berutsya-modeli-povedeniya, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-164]
+sources: [o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-5, otkuda-berutsya-modeli-povedeniya, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-164, uchitsya-budu-tolko-v-kieve]
 created: 2026-08-04
-updated: 2026-08-31
+updated: 2026-09-02
 ---
 
 # Манипуляция
@@ -24,6 +24,7 @@ updated: 2026-08-31
 - [[kurs-12-urokov-urok-5](pages/kurs-12-urokov-urok-5.md)] — тот же пример каши («доешь») независимо использован как иллюстрация усвоения ребёнком манипулятивных моделей до 7 лет
 - [[dima-zicer-v-programme-nam-nado-pogovorit-rtvi](pages/dima-zicer-v-programme-nam-nado-pogovorit-rtvi.md)] — структурно идентичный пример («дядя милиционер») независимо подтверждает механизм полной детской веры в правоту родителя
 - [[lnv-vypusk-164](pages/lnv-vypusk-164.md)] — отец шестнадцатилетнего сына описывает угрозы и шантаж матери; разговор с ней возможен только без ярлыка «плохая мать» и через разбор самой модели
+- [[uchitsya-budu-tolko-v-kieve](pages/uchitsya-budu-tolko-v-kieve.md)] — запрет 17-18-летней дочери впервые в подборке прямо назван частным случаем манипуляции («я могу только начать манипулировать»), а не просто соседствующей темой
 
 ## Related Concepts
 
