@@ -3,7 +3,7 @@ title: Рассказывать о себе и советоваться
 category: Concepts
 summary: «Золотое правило» Зицера для поддержания отношений — регулярно рассказывать о себе и спрашивать совета, а не только сообщать/требовать; работает и между родителем и ребёнком, и между сиблингами
 tags: [concept, lnv, roditelstvo, siblings]
-sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii]
+sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche]
 created: 2026-09-01
 updated: 2026-09-01
 ---
@@ -19,6 +19,7 @@ updated: 2026-09-01
 ## Appearances in Sources
 
 - [[kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii](pages/kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii.md)] — вводит правило для 15-летнего сына, уезжающего учиться за границу, и его 11-летней сестры; предупреждение о риске навязанных советов вместо советов по запросу
+- [[kak-pomenyatsya-mame-chtoby-dochke-bylo-legche](pages/kak-pomenyatsya-mame-chtoby-dochke-bylo-legche.md)] — смежный аргумент про свободу подростка: ребёнок так или иначе возьмёт автономию — вопрос в том, придёт ли он при этом за советом или будет действовать в обход родителя
 
 ## Related Concepts
 
