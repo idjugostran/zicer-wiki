@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — обратный ход разбора: там за поведением ищут нужду, здесь — здоровое качество
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — тревога, которую притча адресует родителю, а не ребёнку
 - [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — смежное право ребёнка выйти из тяжёлой темы
+- [[proverka-masshtaba-trevogi](pages/proverka-masshtaba-trevogi.md)] — смежный ход при разборе родительской тревоги об отсутствующей проблеме
 
 ## Footnotes
 

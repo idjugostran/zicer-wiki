@@ -3,7 +3,7 @@ title: Личность, а не поведение
 category: Concepts
 summary: Личность присутствует с рождения независимо от возраста и способностей; мы часто путаем конкретное поведение (проявление) с личностным содержанием (желанием) за ним, и «чиним» не ту причину
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-10, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, syn-beret-chuzhie-veshchi]
+sources: [kurs-12-urokov-urok-10, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, syn-beret-chuzhie-veshchi, moy-rebenok-sovsem-nichego-ne-est]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -22,6 +22,7 @@ updated: 2026-09-03
 - [[chego-boitsya-syn-i-chto-s-etim-delat](pages/chego-boitsya-syn-i-chto-s-etim-delat.md)] — «эти реакции не делают его менее достойным»; вместо слова «травма» — человеческое качество
 - [[syn-darit-tsennye-veshchi-drugim-detyam](pages/syn-darit-tsennye-veshchi-drugim-detyam.md)] — отказ от ярлыка «слабохарактерный»: то же поведение описано как собственное решение ребёнка
 - [[syn-beret-chuzhie-veshchi](pages/syn-beret-chuzhie-veshchi.md)] — «он не юный преступник, не бандит, не карманник»: поступок отделён от личности
+- [[moy-rebenok-sovsem-nichego-ne-est](pages/moy-rebenok-sovsem-nichego-ne-est.md)] — главный риск не в рационе, а в том, что у ребёнка создастся впечатление, будто с ним что-то не так
 
 ## Related Concepts
 

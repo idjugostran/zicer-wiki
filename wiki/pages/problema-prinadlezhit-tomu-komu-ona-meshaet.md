@@ -3,7 +3,7 @@ title: Проблема принадлежит тому, кому она меш�
 category: Concepts
 summary: Прежде чем исправлять поведение ребёнка, нужно различить его собственную трудность и неудобство взрослого; последнему следует назвать свою конкретную потребность и просить помощи, а не объявлять ребёнка проблемой
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [lnv-vypusk-214, lnv-vypusk-220, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, mama-ne-dolzhna-stradat, kak-oblegchit-shkolnuyu-zhizn-docheri, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam]
+sources: [lnv-vypusk-214, lnv-vypusk-220, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, mama-ne-dolzhna-stradat, kak-oblegchit-shkolnuyu-zhizn-docheri, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, moy-rebenok-sovsem-nichego-ne-est]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[proklyataya-chelka-ili-kak-perestat-delat-zamechaniya](pages/proklyataya-chelka-ili-kak-perestat-delat-zamechaniya.md)] — чёлка мешает маме, а не дочери; автор ситуации — тот, кому неудобно
 - [[chego-boitsya-syn-i-chto-s-etim-delat](pages/chego-boitsya-syn-i-chto-s-etim-delat.md)] — критерий применён к самому ребёнку: «тебе это качество мешает или нет?»
 - [[syn-darit-tsennye-veshchi-drugim-detyam](pages/syn-darit-tsennye-veshchi-drugim-detyam.md)] — проверка «а если бы он не огорчался, у вас была бы проблема?»
+- [[moy-rebenok-sovsem-nichego-ne-est](pages/moy-rebenok-sovsem-nichego-ne-est.md)] — у ребёнка нет ни одного явного признака проблемы: он здоров и развит
 
 ## Related Concepts
 

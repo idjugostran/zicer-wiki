@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[lichnost-a-ne-povedenie](pages/lichnost-a-ne-povedenie.md)] — «у вас отличный мальчик, который не может справиться сам»
 - [[plavayushchie-granitsy](pages/plavayushchie-granitsy.md)] — частный случай той же обязанности: когда ребёнок бьёт, взрослый обязан вмешаться
 - [[pravo-vmeshatsya-v-druzhbu](pages/pravo-vmeshatsya-v-druzhbu.md)] — смежный критерий вмешательства, сформулированный через прямую опасность
+- [[proverka-masshtaba-trevogi](pages/proverka-masshtaba-trevogi.md)] — обратный случай: сначала проверяется, есть ли предмет
 
 ## Footnotes
 

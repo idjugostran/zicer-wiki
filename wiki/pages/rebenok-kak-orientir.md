@@ -3,7 +3,7 @@ title: Ребёнок как ориентир
 category: Concepts
 summary: Придумать, что чувствует другой человек, невозможно — значит, ориентиром становится сам ребёнок: то, как он обходится со своим переживанием, и есть правильно, а взрослому остаётся проверить, не преувеличивает ли он
 tags: [concept, roditelstvo, emotsii, subyektnost]
-sources: [moya-doch-ne-delitsya-chuvstvami]
+sources: [moya-doch-ne-delitsya-chuvstvami, moy-rebenok-sovsem-nichego-ne-est]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[moya-doch-ne-delitsya-chuvstvami](pages/moya-doch-ne-delitsya-chuvstvami.md)] — вводит концепт: «делаем ориентиром её», проверка «не преувеличиваешь ли ты», разведение случая и сюжета сериала
+- [[moy-rebenok-sovsem-nichego-ne-est](pages/moy-rebenok-sovsem-nichego-ne-est.md)] — ставка на естественное расширение рациона через гостей и приятелей вместо уговоров дома
 
 ## Related Concepts
 

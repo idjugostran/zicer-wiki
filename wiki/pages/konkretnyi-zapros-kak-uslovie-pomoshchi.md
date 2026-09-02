@@ -38,3 +38,4 @@ updated: 2026-09-03
 - [[bezopasnyi-vopros-kak-nachalo-obshcheniya](pages/bezopasnyi-vopros-kak-nachalo-obshcheniya.md)] — родственная логика конкретизации, применённая к детскому социальному навыку: расплывчатое «хочу дружить со всеми» переводится в проверяемый безопасный вопрос и ситуацию
 - [[kakuyu-bitvu-vy-vedete](pages/kakuyu-bitvu-vy-vedete.md)] — та же требовательность к формулировке задачи, обращённая к тому, кто идёт добиваться своего
 - [[korol-pomoshchi](pages/korol-pomoshchi.md)] — зеркальное требование конкретности, обращённое к тому, кто просит помощи у ребёнка
+- [[proverka-masshtaba-trevogi](pages/proverka-masshtaba-trevogi.md)] — «докажите мне, что помощь нужна» как частный случай той же проверки
