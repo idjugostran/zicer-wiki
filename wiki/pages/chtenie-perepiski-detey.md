@@ -3,9 +3,9 @@ title: Чтение переписки ребёнка
 category: Concepts
 summary: Тайное чтение переписки/сообщений ребёнка не защищает от опасности, а разрушает доверие; путь к тому, чтобы реально быть «в курсе», лежит через взаимную открытость с раннего возраста, а не через слежку
 tags: [concept, roditelstvo, doverie]
-sources: [lnv-vypusk-201]
+sources: [lnv-vypusk-201, syn-rasskazal-mame-chto-on-biseksual]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-03
 ---
 
 # Чтение переписки ребёнка
@@ -19,6 +19,7 @@ updated: 2026-08-30
 ## Appearances in Sources
 
 - [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — вводит концепт целиком, на звонке про вейп и чтение переписки 13-летнего сына
+- [[syn-rasskazal-mame-chto-on-biseksual](pages/syn-rasskazal-mame-chto-on-biseksual.md)] — та же развилка на практике: не читать переписку, а расспрашивать про онлайн-друга как про любого другого
 
 ## Related Concepts
 

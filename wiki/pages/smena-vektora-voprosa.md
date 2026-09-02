@@ -5,7 +5,7 @@ summary: Вместо «что тебе интересно?» — «о чём б
 tags: [concept, kommunikatsiya, pedagogika, podrostki]
 sources: [kak-provodit-klassnye-ekskursii-dlya-detey]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Смена вектора вопроса
@@ -28,6 +28,7 @@ updated: 2026-09-02
 - [[bezopasnyi-vopros-kak-nachalo-obshcheniya](pages/bezopasnyi-vopros-kak-nachalo-obshcheniya.md)] — родственная конструкция вопроса без давления, но задаваемого ребёнком сверстнику
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — то, чем взрослый заменяет угадывание интереса: рамки и условия
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — та же техника «говорить о себе» вместо расспроса, применённая в семейном разговоре
+- [[myach-na-ego-polovine-polya](pages/myach-na-ego-polovine-polya.md)] — смежный приём: вопрос возвращается тому, кто может на него ответить
 
 ## Footnotes
 

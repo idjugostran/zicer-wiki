@@ -5,7 +5,7 @@ summary: Большинство родительских запретов не �
 tags: [concept, roditelstvo, granitsy]
 sources: [svoboda-ot-vospitaniya-tedx, lnv-vypusk-248, kniga-lyubit-nelzya-vospityvat]
 created: 2026-08-29
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Отказ от произвольного «нельзя»
@@ -26,3 +26,4 @@ updated: 2026-09-02
 
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — смежный механизм: запрет чаще защищает спокойствие взрослого, чем реально снижает риск для ребёнка
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — тот же методологический ход: абстрактное правило нужно проверить прямым вопросом, а не принимать на веру
+- [[legitimizatsiya-temy](pages/legitimizatsiya-temy.md)] — практический довод против «нельзя»: запрет лишь выносит происходящее из зоны разговора

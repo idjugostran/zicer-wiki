@@ -3,3 +3,4 @@
 wiki/pages/audit-*.md
 .DS_Store
 __pycache__/
+.claude/

@@ -5,7 +5,7 @@ summary: Канал, место и момент разговора решают 
 tags: [concept, kommunikatsiya, podrostki, roditelstvo]
 sources: [kak-pomoch-nayti-otvet-na-vopros-kto-ya]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Условия трудного разговора
@@ -30,6 +30,7 @@ updated: 2026-09-02
 - [[chelovek-v-belom-palto](pages/chelovek-v-belom-palto.md)] — техника внутри трудного разговора (не занимать позицию морального превосходства), тогда как здесь речь о том, что происходит до его начала
 - [[govorit-nepriyatnoe-i-byt-uslyshannym](pages/govorit-nepriyatnoe-i-byt-uslyshannym.md)] — содержательное правило того же разговора: сказать трудное и получить подтверждение, что услышан
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — смежное условие, но со стороны предмета: разговор возможен, когда опасение переведено в вопрос
+- [[legitimizatsiya-temy](pages/legitimizatsiya-temy.md)] — внутренний порядок того же разговора: сначала сделать тему обычной, потом углублять
 
 ## Footnotes
 

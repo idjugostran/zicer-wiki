@@ -5,7 +5,7 @@ summary: Главный секрет жизни без конфликтов, п�
 tags: [concept, roditelstvo, kommunikatsiya]
 sources: [chto-delat-esli-mama-ochen-pristaet]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Говорить неприятное и быть услышанным
@@ -26,3 +26,4 @@ updated: 2026-09-02
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — тот же принцип «сказать вслух вместо того, чтобы требовать», применённый там к родительскому страху, а здесь — к детскому раздражению
 - [[sovetovatsya-i-rasskazyvat-o-sebe](pages/sovetovatsya-i-rasskazyvat-o-sebe.md)] — смежная формула поддержания отношений через регулярный обмен, но не через прямое называние конкретного неприятного момента
 - [[usloviya-trudnogo-razgovora](pages/usloviya-trudnogo-razgovora.md)] — условия, при которых такой разговор вообще возможен: лично, на нейтральной территории и не с порога
+- [[myach-na-ego-polovine-polya](pages/myach-na-ego-polovine-polya.md)] — та же ставка на сказанное вслух, но с формулировкой, возвращающей инициативу ребёнку

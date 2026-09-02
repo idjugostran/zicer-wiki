@@ -5,7 +5,7 @@ summary: «Мягкая» форма насилия («фокус»), лишаю
 tags: [concept, nasilie, roditelstvo]
 sources: [o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-5, otkuda-berutsya-modeli-povedeniya, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-164, uchitsya-budu-tolko-v-kieve, kniga-lyubit-nelzya-vospityvat, kak-ubedit-syna-chto-emu-neobhodimo-uehat, kak-naladit-otnosheniya-s-docheryu-13-let]
 created: 2026-08-04
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Манипуляция
@@ -36,3 +36,4 @@ updated: 2026-09-02
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — та же телесная техника (вдох, вода) рекомендована как первый шаг против манипулятивного позыва
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — возрастная рамка (до 7 лет), объясняющая, почему ребёнок в принципе не может усомниться в правоте манипулирующего взрослого
 - [[modeli-povedeniya](pages/modeli-povedeniya.md)] — общая рамка: манипуляция как частный случай неосознанной модели, усвоенной через повторение
+- [[myach-na-ego-polovine-polya](pages/myach-na-ego-polovine-polya.md)] — граница между приглашением и манипуляцией: ребёнку оставлена реальная возможность ответить «нет»

@@ -3,9 +3,9 @@ title: Личность вместо гендерной модели
 category: Concepts
 summary: Жёсткие гендерные сценарии («мальчик = твёрдая рука», «девочка = покорность») вредят обоим полам одинаково; личность и интересы ребёнка важнее культивирования «мальчиковости»/«девочковости»
 tags: [concept, roditelstvo, kurs-12-urokov, gender]
-sources: [kurs-12-urokov-urok-9, kak-spasti-15-letnego-syna, mama-dorogaya-bulling, o-malchikah-i-o-muzhikah, lnv-vypusk-220, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek]
+sources: [kurs-12-urokov-urok-9, kak-spasti-15-letnego-syna, mama-dorogaya-bulling, o-malchikah-i-o-muzhikah, lnv-vypusk-220, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, syn-rasskazal-mame-chto-on-biseksual]
 created: 2026-08-29
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Личность вместо гендерной модели
@@ -27,6 +27,7 @@ updated: 2026-09-02
 - [[lnv-vypusk-220](pages/lnv-vypusk-220.md)] — четырёхлетний мальчик месяц играет «девочкой-котёнком»; тревожная реакция взрослых, а не сама ролевая игра, может сделать тему эмоциональной ловушкой
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «Мальчиковые слёзы» связывает список требований к «настоящему мужику» напрямую с профилем насильника, на реальном кейсе матери, требующей от сына «мужественности» при собственном участии в антинасильственном флешмобе
 - [[chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek](pages/chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek.md)] — новый практический вопрос для раннего (8 лет) возраста: что первично в выборе, с кем дружить, — гендер или человеческие качества
+- [[syn-rasskazal-mame-chto-on-biseksual](pages/syn-rasskazal-mame-chto-on-biseksual.md)] — родители отказываются «менять» сына после его слов о бисексуальности
 
 ## Related Concepts
 
