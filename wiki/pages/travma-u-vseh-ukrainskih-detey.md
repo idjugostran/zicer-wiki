@@ -3,7 +3,7 @@ title: Травма у всех украинских детей
 category: Concepts
 summary: У ста процентов украинских детей — вне зависимости от того, в Украине они или уехали — произошёл слом личности, детства и системы координат; они заняты самовыживанием, и относиться к ним как к нетравмированным нельзя
 tags: [concept, voyna, ukraina, travma, obuchenie]
-sources: [kak-podderzhat-rebenka-vo-vremya-voyny]
+sources: [kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-zabila-na-vse]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-podderzhat-rebenka-vo-vremya-voyny](pages/kak-podderzhat-rebenka-vo-vremya-voyny.md)] — вводит концепт целиком: 100% охват, содержание слома, запрет относиться как к нетравмированным, смена ответа про английский
+- [[moya-doch-zabila-na-vse](pages/moya-doch-zabila-na-vse.md)] — «у 100% украинских детей травма, и у вашей дочери тоже»: попытка быстро продолжить в Германии занятия, начатые в Одессе, разбирается как отказ признать переезд
 
 ## Related Concepts
 

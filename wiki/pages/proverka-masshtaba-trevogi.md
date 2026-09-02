@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — «докажите мне, что помощь нужна»
 - [[nichego-ne-byvaet-prosto-tak](pages/nichego-ne-byvaet-prosto-tak.md)] — обратный случай: когда предмет действительно есть и вмешаться обязательно
 - [[roditelskaya-gallyutsinatsiya](pages/roditelskaya-gallyutsinatsiya.md)] — то, что проверка масштаба и опровергает: достроенную родителем картинку
+- [[priobretaet-vremya-a-ne-teryaet](pages/priobretaet-vremya-a-ne-teryaet.md)] — следующий ход после проверки масштаба: переописать саму паузу
 
 ## Footnotes
 

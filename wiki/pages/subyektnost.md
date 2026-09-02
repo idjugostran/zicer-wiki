@@ -56,3 +56,4 @@ updated: 2026-09-03
 - [[psevdodogovor-kak-prikaz](pages/psevdodogovor-kak-prikaz.md)] — согласие без возможности отказаться согласием не является
 - [[granitsa-intimnosti](pages/granitsa-intimnosti.md)] — право человека решать, что он оставляет только себе
 - [[pravo-vmeshatsya-v-druzhbu](pages/pravo-vmeshatsya-v-druzhbu.md)] — дружба как область собственных решений ребёнка
+- [[zarabotannyi-taymaut](pages/zarabotannyi-taymaut.md)] — решение о паузе принадлежит тому, кто принимал решение о работе

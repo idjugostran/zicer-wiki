@@ -3,7 +3,7 @@ title: Помощь без упрёка
 category: Concepts
 summary: Из фразы «чем тебе помочь, если ты мне ничего не говоришь» убирается вторая половина: она совмещает предложение помощи с обвинением ребёнка в том, что помощь не получается
 tags: [concept, roditelstvo, kommunikatsiya, podrostki]
-sources: [kak-ponyat-14-letnyuyu-doch]
+sources: [kak-ponyat-14-letnyuyu-doch, moya-doch-zabila-na-vse]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-ponyat-14-letnyuyu-doch](pages/kak-ponyat-14-letnyuyu-doch.md)] — вводит концепт: разбор фразы «чем тебе помочь, если ты не говоришь» и её рабочая версия
+- [[moya-doch-zabila-na-vse](pages/moya-doch-zabila-na-vse.md)] — «чем я могу тебе помочь?», заданный один на один, и обязанность выполнить полученный ответ
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Право жить для кайфов
 category: Concepts
 summary: В 14–15 лет человек имеет право жить ради сиюминутных удовольствий, а не ради определения судьбы; родитель может прямо снять с подростка груз профориентации и помогать искать эти удовольствия
 tags: [concept, podrostki, udovolstvie, professiya]
-sources: [devochka-otkazyvaetsya-hodit-v-shkolu]
+sources: [devochka-otkazyvaetsya-hodit-v-shkolu, moya-doch-zabila-na-vse]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[devochka-otkazyvaetsya-hodit-v-shkolu](pages/devochka-otkazyvaetsya-hodit-v-shkolu.md)] — вводит концепт целиком, как первый ход в разборе отказа 15-летней Сони ходить в школу
+- [[moya-doch-zabila-na-vse](pages/moya-doch-zabila-na-vse.md)] — гуляние, макияж и компания сверстников как способ выплывать: «эти ребята её вытаскивают»
 
 ## Related Concepts
 

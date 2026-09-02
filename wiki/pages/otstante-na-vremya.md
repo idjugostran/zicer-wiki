@@ -3,7 +3,7 @@ title: «Отстаньте на время»
 category: Concepts
 summary: Совет, который Зицер сам называет самым популярным в программе: на неделю-десять дней полностью выключить расспросы и давление — потому что иначе родитель сам создаёт ребёнку причину там, где её не было
 tags: [concept, roditelstvo, roditelskiy-strakh, nablyudenie]
-sources: [v-poslednee-vremya-syn-ochen-grustit]
+sources: [v-poslednee-vremya-syn-ochen-grustit, moya-doch-zabila-na-vse]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[v-poslednee-vremya-syn-ochen-grustit](pages/v-poslednee-vremya-syn-ochen-grustit.md)] — вводит концепт: «самый популярный совет программы», условия применимости, механика эмоционального подсаживания, срок проверки
+- [[moya-doch-zabila-na-vse](pages/moya-doch-zabila-na-vse.md)] — два месяца полного отпускания, после которых появляется право на вопрос «как ты видишь ситуацию»
 
 ## Related Concepts
 

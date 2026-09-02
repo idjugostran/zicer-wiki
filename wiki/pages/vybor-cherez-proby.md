@@ -42,3 +42,4 @@ updated: 2026-09-03
 - [[horoshaya-i-plohaya-rutina](pages/horoshaya-i-plohaya-rutina.md)] — новую рутину на новом месте находят пробами, а не воспроизведением прежней
 - [[nikogda-ne-pozdno-nauchitsya](pages/nikogda-ne-pozdno-nauchitsya.md)] — собственное желание как единственный двигатель, наверстывающий любое отставание
 - [[shkala-zhelaniya](pages/shkala-zhelaniya.md)] — измеримый инструмент проверки собственного желания
+- [[zarabotannyi-taymaut](pages/zarabotannyi-taymaut.md)] — право бросить и остановиться как часть того же выбора

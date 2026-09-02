@@ -26,3 +26,4 @@ updated: 2026-09-03
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — то же уважение к текущему, а не будущему интересу ребёнка: пробовать и выбирать сейчас, а не готовиться к гипотетическому выбору позже
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — оба концепта опираются на то, что возрастной опыт времени и значимости качественно иной, чем у взрослого
 - [[sohranit-rebenka-v-tselosti](pages/sohranit-rebenka-v-tselosti.md)] — три-пять лет вхождения в новую жизнь как допустимый темп после травмы
+- [[priobretaet-vremya-a-ne-teryaet](pages/priobretaet-vremya-a-ne-teryaet.md)] — год «простоя» в родительском календаре и восстановление себя в детском
