@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[chtenie-perepiski-detey](pages/chtenie-perepiski-detey.md)] — тот же выбор в пользу разговора вместо контроля, сформулированный от противного
 - [[otkaz-ot-nelzya](pages/otkaz-ot-nelzya.md)] — общий принцип, частным случаем которого служит довод «этого варианта у нас просто нет»
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — третье процедурное правило того же разговора: не входить в него с готовым ответом
+- [[literatura-kak-povod-dlya-razgovora](pages/literatura-kak-povod-dlya-razgovora.md)] — совместное чтение как один из способов сделать тему обычной
 
 ## Footnotes
 

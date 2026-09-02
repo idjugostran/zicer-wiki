@@ -3,7 +3,7 @@ title: Субъектность
 category: Concepts
 summary: Равенство всех участников образовательного процесса как субъектов отношений вне зависимости от возраста и статуса
 tags: [concept, apelsin, pedagogika]
-sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-10, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kak-spasti-15-letnego-syna, o-shkole-i-ne-tolko-kidfrendli, mama-dorogaya-bulling, lnv-vypusk-201, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-219, kak-rastit-samostoyatelnogo-rebenka, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, syn-ne-uchityvaet-interesy-semi]
+sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-10, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kak-spasti-15-letnego-syna, o-shkole-i-ne-tolko-kidfrendli, mama-dorogaya-bulling, lnv-vypusk-201, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-219, kak-rastit-samostoyatelnogo-rebenka, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, syn-ne-uchityvaet-interesy-semi, syn-darit-tsennye-veshchi-drugim-detyam]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame](pages/chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame.md)] — семейные правила становятся общими, когда 15-летний сын участвует в определении совместной жизни, а не только получает право сопротивляться или предлагать список на утверждение матери
 - [[proklyataya-chelka-ili-kak-perestat-delat-zamechaniya](pages/proklyataya-chelka-ili-kak-perestat-delat-zamechaniya.md)] — тело подростка принадлежит подростку; давление на эту тему закрепляет именно то, против чего направлено
 - [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)] — обязанность не возникает там, где не было участия в решении; право отказаться сохраняется
+- [[syn-darit-tsennye-veshchi-drugim-detyam](pages/syn-darit-tsennye-veshchi-drugim-detyam.md)] — решение ребёнка о своей вещи признаётся его решением, включая право отдать её
 
 ## Related Concepts
 

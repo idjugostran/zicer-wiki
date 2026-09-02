@@ -30,3 +30,4 @@ updated: 2026-09-03
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — тот же телесный механизм (вдох, сканирование тела), применённый к разговору, а не к реактивному поступку
 - [[chelovek-v-belom-palto](pages/chelovek-v-belom-palto.md)] — техника из другого «сложного разговора» (об отъезде во время войны), потенциально применимая к любой теме этого класса
 - [[usloviya-trudnogo-razgovora](pages/usloviya-trudnogo-razgovora.md)] — вторая половина той же подготовки: не телесный блок родителя, а канал, место и момент разговора
+- [[literatura-kak-povod-dlya-razgovora](pages/literatura-kak-povod-dlya-razgovora.md)] — «мостик» из книг и фильмов, показанный в действии

@@ -41,3 +41,4 @@ updated: 2026-09-03
 - [[znachimost-rebenka-v-seme](pages/znachimost-rebenka-v-seme.md)] — тот же принцип реального включения ребёнка, применённый к решениям семьи, а не к миру интересов взрослого
 - [[aktualizatsiya-lyubopytstva](pages/aktualizatsiya-lyubopytstva.md)] — техника, поддерживающая тот же обмен в поездке: замеченное и сформулированное каждым становится общим материалом
 - [[korol-pomoshchi](pages/korol-pomoshchi.md)] — та же логика приглашения вместо обязанности, применённая к просьбе о помощи
+- [[literatura-kak-povod-dlya-razgovora](pages/literatura-kak-povod-dlya-razgovora.md)] — совместное занятие как форма контакта, а не повод для нравоучения

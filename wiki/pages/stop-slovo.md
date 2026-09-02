@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[libo-durochka-libo-umnaya](pages/libo-durochka-libo-umnaya.md)] — проверка, без которой инструмент выдавать рано
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — договорённость, работающая по согласию обеих сторон, а не по подчинению
 - [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)] — смежный способ обозначить границу вслух, но со стороны родителя
+- [[shchedrost-a-ne-slabohakternost](pages/shchedrost-a-ne-slabohakternost.md)] — тот же способ освоения навыка через разыгранную сценку, здесь — тренировка отказа
 
 ## Footnotes
 

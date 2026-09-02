@@ -5,7 +5,7 @@ summary: Начинать контакт со сверстником стоит 
 tags: [concept, podrostki, obshchenie, druzhba]
 sources: [kak-nayti-druzey-na-novom-meste]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # «Безопасный вопрос» как техника начала общения
@@ -25,3 +25,4 @@ updated: 2026-09-02
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — источник концепта параллельно описывает, как сама модель дружбы («давай дружить» → сложное понятие «друг») усложняется с возрастом (5 → 10 → 13 лет), тем же языком «системы координат», что и возрастные границы
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — родственная методология: как и там, расплывчатое желание («хочу дружить со всеми») переводится в конкретное, проверяемое действие, прежде чем с ним можно работать
 - [[smena-vektora-voprosa](pages/smena-vektora-voprosa.md)] — родственная конструкция вопроса без давления, но задаваемого взрослым незнакомому подростку
+- [[literatura-kak-povod-dlya-razgovora](pages/literatura-kak-povod-dlya-razgovora.md)] — тот же ход: начинать с того, что не требует от собеседника защищаться
