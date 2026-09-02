@@ -26,3 +26,4 @@ updated: 2026-09-03
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — родственная методология: как и там, расплывчатое желание («хочу дружить со всеми») переводится в конкретное, проверяемое действие, прежде чем с ним можно работать
 - [[smena-vektora-voprosa](pages/smena-vektora-voprosa.md)] — родственная конструкция вопроса без давления, но задаваемого взрослым незнакомому подростку
 - [[literatura-kak-povod-dlya-razgovora](pages/literatura-kak-povod-dlya-razgovora.md)] — тот же ход: начинать с того, что не требует от собеседника защищаться
+- [[vytesnenie-roditeley-v-perehodnom-vozraste](pages/vytesnenie-roditeley-v-perehodnom-vozraste.md)] — случай, когда вопросы отменяются вовсе в пользу совместного действия

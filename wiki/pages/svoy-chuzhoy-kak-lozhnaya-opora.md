@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[oshchushchenie-doma](pages/oshchushchenie-doma.md)] — противоположный подход к той же боли: там дом собирается из конкретных мелочей нового места, здесь ставится под вопрос сама нужда быть своим
 - [[ekzistentsialnyi-vopros-perehodnogo-vozrasta](pages/ekzistentsialnyi-vopros-perehodnogo-vozrasta.md)] — «кто я» как возрастная форма того же экзистенциального вопроса
 - [[poplavki](pages/poplavki.md)] — вместо готовой опоры «стать своим» ребёнок ищет собственные зацепки
+- [[vytesnenie-roditeley-v-perehodnom-vozraste](pages/vytesnenie-roditeley-v-perehodnom-vozraste.md)] — возрастной фон подросткового одиночества
 
 ## Footnotes
 

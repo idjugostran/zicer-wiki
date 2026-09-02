@@ -5,7 +5,7 @@ summary: «Зачем я живу» — часто возникающий в п�
 tags: [concept, podrostki, kurs-12-urokov]
 sources: [mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-spasti-15-letnego-syna, kak-pomoch-nayti-otvet-na-vopros-kto-ya]
 created: 2026-08-29
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Экзистенциальный вопрос переходного возраста
@@ -27,3 +27,4 @@ updated: 2026-09-02
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — общая рамка переходного возраста как пересмотра усвоенного; здесь называется ядро этого пересмотра — сам вопрос смысла жизни
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — та же техника разговора от первого лица вместо допроса, применённая здесь к просьбе о близости, а не к признанию страха
 - [[my-vmesto-on-diagnostika-subyektnosti](pages/my-vmesto-on-diagnostika-subyektnosti.md)] — «зачем ему жить» как часть той же диагностики тяжёлого семейного кризиса
+- [[vytesnenie-roditeley-v-perehodnom-vozraste](pages/vytesnenie-roditeley-v-perehodnom-vozraste.md)] — смежное содержание того же возраста: одиночество и перераспределение значимых людей

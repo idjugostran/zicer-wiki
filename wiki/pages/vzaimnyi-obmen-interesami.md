@@ -3,7 +3,7 @@ title: Взаимный обмен интересами
 category: Concepts
 summary: Отвлечь ребёнка от гаджетов запретом нельзя — работает встречное движение: попроситься в мир ребёнка, затем пригласить его в свой мир как в подарок, а не в обязанность
 tags: [concept, roditelstvo, kurs-12-urokov, gadzhety]
-sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-208, lnv-vypusk-164, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-250, lnv-vypusk-216, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy]
+sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-208, lnv-vypusk-164, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-250, lnv-vypusk-216, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-250](pages/lnv-vypusk-250.md)] — мать подростка узнаёт о его друзьях не через тревожный допрос, а через взаимное раскрытие интересов и собственной жизни
 - [[lnv-vypusk-216](pages/lnv-vypusk-216.md)] — мать помогает семилетней дочери с телефоном, оставаясь рядом с самого начала совместного занятия и вместе замечая момент, когда хочется остановиться
 - [[chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy](pages/chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy.md)] — задаёт предел технике: приглашение в важный взрослому мир перестаёт быть подарком, если ребёнок чувствует ожидание совместного результата и не может свободно отказаться
+- [[papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu](pages/papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu.md)] — «пусть научит вас»: вход в предложенную ребёнком тему вместо подбора правильных вопросов
 
 ## Related Concepts
 

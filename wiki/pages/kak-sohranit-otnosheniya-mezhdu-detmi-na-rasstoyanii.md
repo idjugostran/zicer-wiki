@@ -5,7 +5,7 @@ summary: Выпуск ЛНВ — 15-летний сын уезжает учит�
 tags: [source, video, lnv, siblings, roditelstvo]
 sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii]
 created: 2026-09-01
-updated: 2026-09-01
+updated: 2026-09-03
 ---
 
 # КАК СОХРАНИТЬ ОТНОШЕНИЯ МЕЖДУ ДЕТЬМИ... На расстоянии
@@ -43,7 +43,7 @@ updated: 2026-09-01
 
 Расширяет [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] на новую область: рамка (заранее оговорённое, соблюдаемое правило регулярности) применена не к уроку и не к моменту кризиса, а к поддержанию отношений между детьми на расстоянии — тот же приём «не полагаться на судьбу», работающий не через запрет, а через явную договорённость.[^2]
 
-Вводит новый концепт [[sovetovatsya-i-rasskazyvat-o-sebe](pages/sovetovatsya-i-rasskazyvat-o-sebe.md)] — «золотое правило» отношений, которое Зицер формулирует здесь впервые как самостоятельную технику, отдельную от общего приёма «конкретизации» абстрактных слов ([[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)]).[^3]
+Вводит новый концепт [[sovetovatsya-i-rasskazyvat-o-sebe](pages/sovetovatsya-i-rasskazyvat-o-sebe.md)] — «золотое правило» отношений, которое Зицер формулирует здесь впервые как самостоятельную технику, отдельную от общего приёма «конкретизации» абстрактных слов ([[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)]).[^3] Тот же набор приёмов для отношений «родитель — ребёнок» на расстоянии разобран в [[papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu](pages/papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu.md)], где к ним добавлена возрастная поправка [[vytesnenie-roditeley-v-perehodnom-vozraste](pages/vytesnenie-roditeley-v-perehodnom-vozraste.md)].
 
 ## Footnotes
 
