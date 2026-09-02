@@ -3,7 +3,7 @@ title: Привязка через чувство вины
 category: Concepts
 summary: Терзания родителя дают ребёнку простую, почти примитивную форму эмоциональной связи и подтверждение, что он ценен; кнопка «комплекс вины» известна и нажимается, хотя лучше от этого не становится никому
 tags: [concept, roditelstvo, podrostki, vina, otnosheniya]
-sources: [doch-revnuet-i-ustraivaet-skandaly, v-poslednee-vremya-syn-ochen-grustit]
+sources: [doch-revnuet-i-ustraivaet-skandaly, v-poslednee-vremya-syn-ochen-grustit, moya-doch-deretsya-i-plyuetsya]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[fakt-biografii-ne-obsuzhdaetsya](pages/fakt-biografii-ne-obsuzhdaetsya.md)] — красная черта, которая разрывает эту связь
 - [[prosto-poprosit](pages/prosto-poprosit.md)] — второй ход после проведённой черты
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — то, на чём держится вся конструкция со стороны взрослого
+- [[emotsionalnoe-podkreplenie-povedeniya](pages/emotsionalnoe-podkreplenie-povedeniya.md)] — тот же механизм в раннем возрасте: реакция взрослого как награда
 
 ## Footnotes
 

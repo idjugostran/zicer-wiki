@@ -3,7 +3,7 @@ title: «Отстаньте на время»
 category: Concepts
 summary: Совет, который Зицер сам называет самым популярным в программе: на неделю-десять дней полностью выключить расспросы и давление — потому что иначе родитель сам создаёт ребёнку причину там, где её не было
 tags: [concept, roditelstvo, roditelskiy-strakh, nablyudenie]
-sources: [v-poslednee-vremya-syn-ochen-grustit, moya-doch-zabila-na-vse]
+sources: [v-poslednee-vremya-syn-ochen-grustit, moya-doch-zabila-na-vse, moya-doch-deretsya-i-plyuetsya]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[igra-kto-samyi-neschastnyi](pages/igra-kto-samyi-neschastnyi.md)] — чем заполняют паузу
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — то, с чем родителю приходится справляться в эти десять дней
 - [[nichego-ne-byvaet-prosto-tak](pages/nichego-ne-byvaet-prosto-tak.md)] — противоположный случай: когда отступать нельзя и вмешаться обязательно
+- [[emotsionalnoe-podkreplenie-povedeniya](pages/emotsionalnoe-podkreplenie-povedeniya.md)] — почему снятие внимания работает: без эмоции поступку незачем повторяться
 
 ## Footnotes
 

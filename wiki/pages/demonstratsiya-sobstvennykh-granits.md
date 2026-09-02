@@ -3,7 +3,7 @@ title: Демонстрация собственных границ
 category: Concepts
 summary: Родитель признаёт чувство ребёнка, но всё равно называет и осуществляет своё намерение — способ показать ребёнку, что родитель тоже отдельный, живой человек со своими нуждами
 tags: [concept, granitsy, vozrastnye-krizisy, roditelstvo]
-sources: [chto-delat-esli-3-letniy-syn-komanduet-mamoy, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy]
+sources: [chto-delat-esli-3-letniy-syn-komanduet-mamoy, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-3-letniy-syn-komanduet-mamoy](pages/chto-delat-esli-3-letniy-syn-komanduet-mamoy.md)] — вводит концепт целиком на примере трёхлетнего мальчика, отказывающегося покидать квартиру: сценка про разогрев обеда, аналогия с туалетом, формула «рамки ваши — лучшие из рамок»
 - [[doch-revnuet-i-ustraivaet-skandaly](pages/doch-revnuet-i-ustraivaet-skandaly.md)] — граница проводится по предмету разговора, а не по поведению ребёнка
 - [[kak-nauchit-rebenka-uvazhat-chuzhie-granitsy](pages/kak-nauchit-rebenka-uvazhat-chuzhie-granitsy.md)] — «нет означает нет»: решение не меняется от усталости взрослого, а жалость не связана с предметом спора
+- [[moya-doch-deretsya-i-plyuetsya](pages/moya-doch-deretsya-i-plyuetsya.md)] — «мне неприятно», сказанное шёпотом и без эмоции, за плечо
 
 ## Related Concepts
 
