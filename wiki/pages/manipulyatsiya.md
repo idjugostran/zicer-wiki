@@ -3,7 +3,7 @@ title: Манипуляция
 category: Concepts
 summary: «Мягкая» форма насилия («фокус»), лишающая человека воли без прямого принуждения — дети перенимают её у взрослых
 tags: [concept, nasilie, roditelstvo]
-sources: [o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-5, otkuda-berutsya-modeli-povedeniya, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-164, uchitsya-budu-tolko-v-kieve, kniga-lyubit-nelzya-vospityvat]
+sources: [o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-5, otkuda-berutsya-modeli-povedeniya, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-164, uchitsya-budu-tolko-v-kieve, kniga-lyubit-nelzya-vospityvat, kak-ubedit-syna-chto-emu-neobhodimo-uehat]
 created: 2026-08-04
 updated: 2026-09-02
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-02
 - [[lnv-vypusk-164](pages/lnv-vypusk-164.md)] — отец шестнадцатилетнего сына описывает угрозы и шантаж матери; разговор с ней возможен только без ярлыка «плохая мать» и через разбор самой модели
 - [[uchitsya-budu-tolko-v-kieve](pages/uchitsya-budu-tolko-v-kieve.md)] — запрет 17-18-летней дочери впервые в подборке прямо назван частным случаем манипуляции («я могу только начать манипулировать»), а не просто соседствующей темой
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «Фокус-покус» добавляет новый пример: тренинг, рекламирующий манипуляцию как навык «добиваться своего» и умалчивающий о разрушении воли того, кем манипулируют
+- [[kak-ubedit-syna-chto-emu-neobhodimo-uehat](pages/kak-ubedit-syna-chto-emu-neobhodimo-uehat.md)] — на прямую просьбу «сманипулировать» почти взрослым (17-летним) пасынком Зицер отвечает полным отказом от манипуляции в пользу открытого разговора, обосновывая это именно возрастом собеседника
 
 ## Related Concepts
 

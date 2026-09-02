@@ -27,3 +27,4 @@ updated: 2026-08-31
 - [[otkrytyi-razgovor-o-sekse](pages/otkrytyi-razgovor-o-sekse.md)] — частный случай того же механизма на теме секса; тот же довод про анатомическую лексику и та же цитата Руссо
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — источник «сложности» — неудобство взрослого, а не риск или содержание темы
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — тот же телесный механизм (вдох, сканирование тела), применённый к разговору, а не к реактивному поступку
+- [[chelovek-v-belom-palto](pages/chelovek-v-belom-palto.md)] — техника из другого «сложного разговора» (об отъезде во время войны), потенциально применимая к любой теме этого класса
