@@ -3,7 +3,7 @@ title: Родительский страх
 category: Concepts
 summary: Страх за ребёнка как источник контролирующего поведения — снимается не подавлением, а признанием страха перед собой и ребёнком
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kurs-12-urokov-urok-11, lnv-vypusk-252, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, mama-narushaet-lichnye-granitsy, lnv-vypusk-208, pochemu-ona-mne-vret, mama-ne-dolzhna-stradat]
+sources: [kurs-12-urokov-urok-4, apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-6, kurs-12-urokov-urok-9, kurs-12-urokov-urok-8, kurs-12-urokov-urok-10, pochemu-vzroslye-unizhayut-detey, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-171, lnv-vypusk-214, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kurs-12-urokov-urok-11, lnv-vypusk-252, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, mama-narushaet-lichnye-granitsy, lnv-vypusk-208, pochemu-ona-mne-vret, mama-ne-dolzhna-stradat, chto-meshaet-docheri-izbavitsya-ot-nostalgii]
 created: 2026-08-29
 updated: 2026-09-02
 ---
@@ -45,6 +45,7 @@ updated: 2026-09-02
 - [[lnv-vypusk-208](pages/lnv-vypusk-208.md)] — страх перед небезопасным контентом не оправдывает проверку телефона; его следует назвать ребёнку и заранее говорить о рисках, сохраняя доверие
 - [[pochemu-ona-mne-vret](pages/pochemu-ona-mne-vret.md)] — страх «не научится учиться» превращает правду о домашнем задании в повод для контроля; снять давление предлагается раньше, чем требовать честности
 - [[mama-ne-dolzhna-stradat](pages/mama-ne-dolzhna-stradat.md)] — та же формула «говорить о себе от первого лица» применена не к страху, а к физической усталости: «я прошу тебя о помощи» вместо приказа забрать детей
+- [[chto-meshaet-docheri-izbavitsya-ot-nostalgii](pages/chto-meshaet-docheri-izbavitsya-ot-nostalgii.md)] — катастрофическая интерпретация тоски дочери («непереносимая дыра») названа преувеличением; страх снимается не подавлением, а тем же вопросом о доме, обращённым сначала к себе
 
 ## Related Concepts
 
@@ -65,3 +66,4 @@ updated: 2026-09-02
 - [[durnaya-kompaniya-i-svoy-ugol](pages/durnaya-kompaniya-i-svoy-ugol.md)] — запрет дружбы из страха — конкретный случай общего механизма родительского страха
 - [[chtenie-perepiski-detey](pages/chtenie-perepiski-detey.md)] — конкретный случай общего механизма: слежка за перепиской как проявление родительского страха, замаскированного под заботу о безопасности
 - [[problema-prinadlezhit-tomu-komu-ona-meshaet](pages/problema-prinadlezhit-tomu-komu-ona-meshaet.md)] — та же техника применена к усталости, а не страху: назвать свою потребность и просить о конкретной помощи
+- [[oshchushchenie-doma](pages/oshchushchenie-doma.md)] — катастрофизация тоски ребёнка по родине как конкретный случай преувеличенного родительского страха

@@ -5,7 +5,7 @@ summary: Разбор лжи вокруг учёбы после вынужден
 tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, pereezd, shkola, roditelskiy-strakh]
 sources: [pochemu-ona-mne-vret]
 created: 2026-09-01
-updated: 2026-09-01
+updated: 2026-09-02
 ---
 
 # Почему ОНА МНЕ ВРЕТ?
@@ -46,7 +46,7 @@ updated: 2026-09-01
 
 ## Relation to Other Wiki Pages
 
-Источник конкретизирует [[roditelskiy-strakh](pages/roditelskiy-strakh.md)]: тревога «не научится учиться» поддерживает контроль, который делает честный ответ невыгодным. Для [[modeli-povedeniya](pages/modeli-povedeniya.md)] это двойной пример — взрослая реакция воспроизводит опыт родительской семьи, а ежедневные претензии закрепляются уже как новая семейная рутина. Предложенное стоп-слово превращает осознавание модели в проверяемое действие.
+Источник конкретизирует [[roditelskiy-strakh](pages/roditelskiy-strakh.md)]: тревога «не научится учиться» поддерживает контроль, который делает честный ответ невыгодным. Для [[modeli-povedeniya](pages/modeli-povedeniya.md)] это двойной пример — взрослая реакция воспроизводит опыт родительской семьи, а ежедневные претензии закрепляются уже как новая семейная рутина. Предложенное стоп-слово превращает осознавание модели в проверяемое действие. [[chto-meshaet-docheri-izbavitsya-ot-nostalgii](pages/chto-meshaet-docheri-izbavitsya-ot-nostalgii.md)] разбирает тот же контекст вынужденного переезда с другой стороны: там задача — восстановить опоры и стабильность, здесь — определить сам смысл «дома» ([[oshchushchenie-doma](pages/oshchushchenie-doma.md)]).
 
 ## Footnotes
 
