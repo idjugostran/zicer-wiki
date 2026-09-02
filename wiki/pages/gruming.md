@@ -3,7 +3,7 @@ title: Груминг
 category: Concepts
 summary: Сближение взрослого с подростком через валидацию, а не через страх; воля жертвы парализуется, приятное в моменте не меняет общего фона, а типовая профилактика промахивается, потому что предупреждает о «странном чужаке»
 tags: [concept, bezopasnost, podrostki, nasilie, profilaktika]
-sources: [kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent]
+sources: [kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-razgovorit-cheloveka-4-h-let]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 
 - [[kazhetsya-k-moemu-rebenku-pristaet-vzroslyi](pages/kazhetsya-k-moemu-rebenku-pristaet-vzroslyi.md)] — вводит концепт целиком: схема сближения, паралич воли, тезис о приятном в моменте, отложенное осознание, промах типовой профилактики
 - [[rebenok-v-8-let-smotrit-zapreshchennyi-kontent](pages/rebenok-v-8-let-smotrit-zapreshchennyi-kontent.md)] — страх матери, что источником взрослых формулировок мог быть взрослый; ответ про старших знакомых
+- [[kak-razgovorit-cheloveka-4-h-let](pages/kak-razgovorit-cheloveka-4-h-let.md)] — отец проверяет «правило трусиков» наедине и в спокойной обстановке
 
 ## Related Concepts
 
