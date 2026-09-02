@@ -3,9 +3,9 @@ title: Родительская функция
 category: Concepts
 summary: Формулировка Зицера — защита, помощь, присутствие, поддержка
 tags: [concept, parenting]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-332]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat]
 created: 2026-08-04
-updated: 2026-08-30
+updated: 2026-09-02
 ---
 
 # Родительская функция
@@ -38,6 +38,7 @@ updated: 2026-08-30
 - [[lnv-vypusk-248](pages/lnv-vypusk-248.md)] — две грани функции: безопасная близость как возможность подростку выразить боль иначе, чем самоповреждением; и спокойная физическая остановка маленького ребёнка, который бьёт мать, без эмоциональной эскалации
 - [[lnv-vypusk-223](pages/lnv-vypusk-223.md)] — защита получает институциональную форму: родитель требует от школы прекратить травлю безопасно для ребёнка; помощь с учёбой означает быть рядом и укреплять, а не угрожать
 - [[lnv-vypusk-332](pages/lnv-vypusk-332.md)] — при неустранимой школьной травле функция включает поиск другого образовательного маршрута, а не совет ребёнку отвечать насилием
+- [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «Правила для родителей и подростков» формулирует «тыл» как главное из восьми правил, с личной историей автора (делегатское собрание ТЮЗа как убежище); глава «Детский клуб самоубийц» повторяет ту же формулу уже как условие психологического выживания в тяжёлом конфликте (см. [[tyl-dlya-rebenka](pages/tyl-dlya-rebenka.md)])
 
 ## Related Concepts
 
@@ -52,3 +53,4 @@ updated: 2026-08-30
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — то же слово «функция» в противоположном, критикуемом смысле: там — конкретные действия родителя (защита, помощь), здесь — сама форма отношений с ребёнком (обязанность вместо человека). Терминологическая, не фактическая развилка
 - [[samopovrezhdenie-kak-signal](pages/samopovrezhdenie-kak-signal.md)] — применение присутствия и поддержки к ситуации, где подростку не хватает безопасного способа выразить переживание
 - [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)] — защита ребёнка, когда источником угрозы становится школа или детская группа
+- [[tyl-dlya-rebenka](pages/tyl-dlya-rebenka.md)] — та же формула «тыла», выделенная в отдельную страницу как явно названное «главное правило» книги и условие профилактики подросткового суицида

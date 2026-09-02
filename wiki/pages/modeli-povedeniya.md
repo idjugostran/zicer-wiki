@@ -3,7 +3,7 @@ title: Модели поведения
 category: Concepts
 summary: Модель поведения — рамка, закрепившаяся через повторение похожих ситуаций; безвредна, пока осознаётся, и опасна, когда становится незаметной «второй натурой», ощущаемой как характер
 tags: [concept, roditelstvo, samoregulyatsiya]
-sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-201, lnv-vypusk-200, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, pochemu-ona-mne-vret, chto-meshaet-docheri-izbavitsya-ot-nostalgii]
+sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-201, lnv-vypusk-200, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, pochemu-ona-mne-vret, chto-meshaet-docheri-izbavitsya-ot-nostalgii, kniga-lyubit-nelzya-vospityvat]
 created: 2026-08-29
 updated: 2026-09-02
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-02
 - [[kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny](pages/kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny.md)] — силовая настойчивость взрослого и детский крик показаны как одна усваиваемая модель; альтернативой служит наблюдаемое действие и спокойная договорённость
 - [[pochemu-ona-mne-vret](pages/pochemu-ona-mne-vret.md)] — унаследованная реакция матери и ежедневные претензии распознаются как модели; стоп-слово даёт дочери проверяемый способ прервать их воспроизведение
 - [[chto-meshaet-docheri-izbavitsya-ot-nostalgii](pages/chto-meshaet-docheri-izbavitsya-ot-nostalgii.md)] — явный случай зеркального усвоения: дочь дословно отражает невыясненную материнскую тревогу об «ощущении дома», а не действует по собственной логике
+- [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «Что посеешь — то и пожнёшь» даёт два канонических литературных примера: мама, требующая аккуратности с обувью, передаёт сыну нетерпимость вместо аккуратности; учитель, кричащий на ученика во время урока о смирении, учит насилию, а не теме урока
 
 ## Related Concepts
 

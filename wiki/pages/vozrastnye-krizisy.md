@@ -3,7 +3,7 @@ title: Возрастные кризисы как смена системы ко
 category: Concepts
 summary: Три ключевые возрастные границы (3 года, 7 лет, переходный возраст) — не сбои, а последовательная смена «системы координат» взаимодействия с миром
 tags: [concept, roditelstvo, kurs-12-urokov, podrostki]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-248, lnv-vypusk-220, kak-nayti-druzey-na-novom-meste]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-248, lnv-vypusk-220, kak-nayti-druzey-na-novom-meste, kniga-lyubit-nelzya-vospityvat]
 created: 2026-08-29
 updated: 2026-09-02
 ---
@@ -30,6 +30,7 @@ updated: 2026-09-02
 - [[lnv-vypusk-248](pages/lnv-vypusk-248.md)] — два живых проявления смены координат: шестнадцатилетняя девушка пересматривает прежде уверенный образовательный выбор; ребёнок около трёх лет сильнее проверяет эмоциональную связь с матерью, одновременно нуждаясь в спокойной границе безопасности
 - [[lnv-vypusk-220](pages/lnv-vypusk-220.md)] — два уточнения: трёхлетняя ревность к отцу не превращается в семейную борьбу за любовь, а одиннадцатилетняя дочь переоценивает не только себя, но и образ матери
 - [[kak-nayti-druzey-na-novom-meste](pages/kak-nayti-druzey-na-novom-meste.md)] — расширяет метафору «системы координат» на смену внешней среды (переезд, смена школы), а не только на возрастную границу, и даёт конкретную возрастную модель дружбы: в 5 лет «давай дружить» работает мгновенно, в 10 — почти так же, в 13 — «друг» становится сложным понятием
+- [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — подглава «О кризисах» — независимая, более ранняя литературная версия той же трёхступенчатой рамки (3 года, 7 лет, переходный возраст), плюс подглава «О человечности» с личной историей автора о ТЮЗе как убежище
 
 ## Related Concepts
 
@@ -40,3 +41,5 @@ updated: 2026-09-02
 - [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — практический ответ на ситуацию, когда прежний инструмент контроля уже не работает в силу возраста ребёнка
 - [[durnaya-kompaniya-i-svoy-ugol](pages/durnaya-kompaniya-i-svoy-ugol.md)] — следствие того же возрастного сдвига: после 7-8 лет влияние среды и друзей нарастает
 - [[samopovrezhdenie-kak-signal](pages/samopovrezhdenie-kak-signal.md)] — подростковый пересмотр отношений составляет контекст тяжёлого переживания, но не является универсальным объяснением самоповреждения
+- [[tyl-dlya-rebenka](pages/tyl-dlya-rebenka.md)] — практическая рекомендация для переходного возраста: дом как убежище от внешней «передовой»
+- [[detskie-samoubiystva-kak-simptom-sistemy](pages/detskie-samoubiystva-kak-simptom-sistemy.md)] — переходный возраст как контекст, в котором разворачивается описанный там системный конфликт
