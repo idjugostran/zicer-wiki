@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[rebenok-kak-orientir](pages/rebenok-kak-orientir.md)] — «не преувеличиваешь ли ты» как та же проверка
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — «докажите мне, что помощь нужна»
 - [[nichego-ne-byvaet-prosto-tak](pages/nichego-ne-byvaet-prosto-tak.md)] — обратный случай: когда предмет действительно есть и вмешаться обязательно
+- [[roditelskaya-gallyutsinatsiya](pages/roditelskaya-gallyutsinatsiya.md)] — то, что проверка масштаба и опровергает: достроенную родителем картинку
 
 ## Footnotes
 

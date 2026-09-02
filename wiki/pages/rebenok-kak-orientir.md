@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[poplavki](pages/poplavki.md)] — та же логика в эмигрантском контексте: личный ответ нельзя назначить
 - [[subyektnost](pages/subyektnost.md)] — не навязывать ребёнку, что он должен чувствовать
 - [[problema-prinadlezhit-tomu-komu-ona-meshaet](pages/problema-prinadlezhit-tomu-komu-ona-meshaet.md)] — смежный критерий: чья это на самом деле проблема
+- [[ne-obyasnyat-chto-chuvstvovat](pages/ne-obyasnyat-chto-chuvstvovat.md)] — чувство ребёнка принимается, а не корректируется
 
 ## Footnotes
 
