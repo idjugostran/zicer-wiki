@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[dvoemyslie-u-detey](pages/dvoemyslie-u-detey.md)] — цена расхождения между сказанным и происходящим
 - [[subyektnost](pages/subyektnost.md)] — ребёнок как часть решения, а не его объект
 - [[kniga-bessmyslennost-vospitaniya-podrostkov](pages/kniga-bessmyslennost-vospitaniya-podrostkov.md)] — почему реакция подростка может быть любой
+- [[pravo-vmeshatsya-v-druzhbu](pages/pravo-vmeshatsya-v-druzhbu.md)] — счёт, который подросток предъявляет за решения, принятые без него
 
 ## Footnotes
 

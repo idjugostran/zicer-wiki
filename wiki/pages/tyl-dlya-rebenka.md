@@ -31,3 +31,4 @@ updated: 2026-09-03
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — формула «стать адресом» из другого источника — близкий, но не тождественный концепт (адрес для конкретной проблемы, тыл — постоянное пространство отдыха)
 - [[detskie-samoubiystva-kak-simptom-sistemy](pages/detskie-samoubiystva-kak-simptom-sistemy.md)] — тыл как одно из немногих практических условий профилактики в этой рамке
 - [[samopovrezhdenie-kak-signal](pages/samopovrezhdenie-kak-signal.md)] — смежная тема нехватки безопасного пространства и близости
+- [[mama-direktor-kluba](pages/mama-direktor-kluba.md)] — дом как последнее место перед улицей для компании, которую больше нигде не принимают

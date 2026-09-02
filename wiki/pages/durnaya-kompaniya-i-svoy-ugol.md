@@ -3,7 +3,7 @@ title: «Дурная компания» и отсутствие «своего 
 category: Concepts
 summary: Ребёнок бросается в проблемную компанию не из-за её притяжения, а потому что дома нет пространства быть собой — принятие становится важнее цены за него; техника — пригласить друга домой, а не запретить дружбу
 tags: [concept, roditelstvo, kurs-12-urokov, podrostki]
-sources: [kurs-12-urokov-urok-11, syn-rasskazal-mame-chto-on-biseksual]
+sources: [kurs-12-urokov-urok-11, syn-rasskazal-mame-chto-on-biseksual, kak-byt-esli-ne-nravyatsya-druzya-rebenka]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -20,6 +20,7 @@ updated: 2026-09-03
 
 - [[kurs-12-urokov-urok-11](pages/kurs-12-urokov-urok-11.md)] — вводит концепт целиком, с техникой «пригласить друга домой»
 - [[syn-rasskazal-mame-chto-on-biseksual](pages/syn-rasskazal-mame-chto-on-biseksual.md)] — «подозрительная» связь как возможный ресурс, а не угроза; запрет лишь вынесет её из зоны разговора
+- [[kak-byt-esli-ne-nravyatsya-druzya-rebenka](pages/kak-byt-esli-ne-nravyatsya-druzya-rebenka.md)] — механизм развёрнут в стратегию: принять не одного друга, а всю компанию
 
 ## Related Concepts
 

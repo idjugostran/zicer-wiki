@@ -3,7 +3,7 @@ title: Щедрость, а не слабохарактерность
 category: Concepts
 summary: Одно и то же поведение — ребёнок отдаёт свои вещи — описывается либо как слабость характера, либо как его собственное решение; критерий один: чьё это решение, а ограничение родителя называется отдельно и заранее
 tags: [concept, roditelstvo, shchedrost, granitsy, mladshie-shkolniki]
-sources: [syn-darit-tsennye-veshchi-drugim-detyam]
+sources: [syn-darit-tsennye-veshchi-drugim-detyam, kak-byt-esli-ne-nravyatsya-druzya-rebenka]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[syn-darit-tsennye-veshchi-drugim-detyam](pages/syn-darit-tsennye-veshchi-drugim-detyam.md)] — вводит концепт целиком: переопределение щедрости, критерий авторства решения, отдельное ограничение родителя, обучение отказу через игру
+- [[kak-byt-esli-ne-nravyatsya-druzya-rebenka](pages/kak-byt-esli-ne-nravyatsya-druzya-rebenka.md)] — научить сына отказывать настойчивому другу самому, а не отшивать за него
 
 ## Related Concepts
 

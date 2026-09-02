@@ -55,3 +55,4 @@ updated: 2026-09-03
 - [[pravo-na-svyaz-s-blizkimi](pages/pravo-na-svyaz-s-blizkimi.md)] — лишение ребёнка возможности сообщить о своём состоянии как отказ в субъектности
 - [[psevdodogovor-kak-prikaz](pages/psevdodogovor-kak-prikaz.md)] — согласие без возможности отказаться согласием не является
 - [[granitsa-intimnosti](pages/granitsa-intimnosti.md)] — право человека решать, что он оставляет только себе
+- [[pravo-vmeshatsya-v-druzhbu](pages/pravo-vmeshatsya-v-druzhbu.md)] — дружба как область собственных решений ребёнка
