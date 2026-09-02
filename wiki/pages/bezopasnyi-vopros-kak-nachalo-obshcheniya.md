@@ -3,7 +3,7 @@ title: «Безопасный вопрос» как техника начала 
 category: Concepts
 summary: Начинать контакт со сверстником стоит не с прямого сближения, а с вопроса, встроенного в правдоподобный повод, чей худший ответ не задевает личность спрашивающего, — а отказ рассматривать как тест, а не поражение
 tags: [concept, podrostki, obshchenie, druzhba]
-sources: [kak-nayti-druzey-na-novom-meste, kak-razgovorit-cheloveka-4-h-let]
+sources: [kak-nayti-druzey-na-novom-meste, kak-razgovorit-cheloveka-4-h-let, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -28,3 +28,4 @@ updated: 2026-09-03
 - [[smena-vektora-voprosa](pages/smena-vektora-voprosa.md)] — родственная конструкция вопроса без давления, но задаваемого взрослым незнакомому подростку
 - [[literatura-kak-povod-dlya-razgovora](pages/literatura-kak-povod-dlya-razgovora.md)] — тот же ход: начинать с того, что не требует от собеседника защищаться
 - [[vytesnenie-roditeley-v-perehodnom-vozraste](pages/vytesnenie-roditeley-v-perehodnom-vozraste.md)] — случай, когда вопросы отменяются вовсе в пользу совместного действия
+- [[otvechat-tolko-na-zadannye-voprosy](pages/otvechat-tolko-na-zadannye-voprosy.md)] — обратная сторона: чего взрослый не поднимает первым

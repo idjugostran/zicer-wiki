@@ -3,7 +3,7 @@ title: Хорошая и плохая рутина
 category: Concepts
 summary: Плохая рутина механически переносит прежние занятия ребёнка на новое место, хорошая находится заново; аналогия Зицера — хороший и плохой холестерин
 tags: [concept, emigratsiya, adaptatsiya, rutina]
-sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane]
+sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane](pages/rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane.md)] — вводит концепт: метафора холестерина, пример с волейболом и «другими запахами в Нови-Саде»
+- [[kak-vo-vremya-voyny-uspokaivat-sebya-i-detey](pages/kak-vo-vremya-voyny-uspokaivat-sebya-i-detey.md)] — обстрелы как часть детской рутины; Зицер отказывается это смягчать
 
 ## Related Concepts
 

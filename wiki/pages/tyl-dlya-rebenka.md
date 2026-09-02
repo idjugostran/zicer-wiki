@@ -3,7 +3,7 @@ title: «Тыл» для ребёнка
 category: Concepts
 summary: Главное правило Зицера для родителей подростков — создать дома «тыл», пространство, где можно побыть слабым и отдохнуть от внешнего давления, а не продолжение воспитательного контроля
 tags: [concept, roditelstvo, podrostki]
-sources: [kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka]
+sources: [kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -22,6 +22,7 @@ updated: 2026-09-03
 - [[kak-oblegchit-shkolnuyu-zhizn-docheri](pages/kak-oblegchit-shkolnuyu-zhizn-docheri.md)] — предельная форма тыла: родитель не просто не добавляет давления, а берёт на себя внешнее требование (делает домашнее задание за ребёнка), чтобы дать ему восстановиться после травмы
 - [[chego-boitsya-syn-i-chto-s-etim-delat](pages/chego-boitsya-syn-i-chto-s-etim-delat.md)] — испуг закрепился именно потому, что канал к маме был перекрыт
 - [[nam-popalas-plohaya-uchilka](pages/nam-popalas-plohaya-uchilka.md)] — «мы тебя в обиду не дадим» как обещание действия («ни одного дня больше»), а не терпения
+- [[kak-vo-vremya-voyny-uspokaivat-sebya-i-detey](pages/kak-vo-vremya-voyny-uspokaivat-sebya-i-detey.md)] — тыл здесь строится не утешением, а точным описанием: куда идём, где стоит сумка
 
 ## Related Concepts
 

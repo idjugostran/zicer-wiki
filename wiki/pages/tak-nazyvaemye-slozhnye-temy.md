@@ -3,7 +3,7 @@ title: Так называемые «сложные темы»
 category: Concepts
 summary: Секс, смерть, дурные привычки — не сложны сами по себе; сложность создаёт телесный блок родителя, который ребёнок считывает и начинает защитно избегать темы
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-8, lnv-vypusk-164, lnv-vypusk-250, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent]
+sources: [kurs-12-urokov-urok-8, lnv-vypusk-164, lnv-vypusk-250, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -33,3 +33,4 @@ updated: 2026-09-03
 - [[chelovek-v-belom-palto](pages/chelovek-v-belom-palto.md)] — техника из другого «сложного разговора» (об отъезде во время войны), потенциально применимая к любой теме этого класса
 - [[usloviya-trudnogo-razgovora](pages/usloviya-trudnogo-razgovora.md)] — вторая половина той же подготовки: не телесный блок родителя, а канал, место и момент разговора
 - [[literatura-kak-povod-dlya-razgovora](pages/literatura-kak-povod-dlya-razgovora.md)] — «мостик» из книг и фильмов, показанный в действии
+- [[otvechat-tolko-na-zadannye-voprosy](pages/otvechat-tolko-na-zadannye-voprosy.md)] — правило, ограничивающее инициативу взрослого в разговоре о страшном
