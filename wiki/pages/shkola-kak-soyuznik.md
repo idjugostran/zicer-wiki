@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[smena-vektora-voprosa](pages/smena-vektora-voprosa.md)] — тот же приём, применённый к взрослым: спрашивать не «кто прав», а «что нам обоим нужно»
 - [[soglasovanie-ozhidaniy](pages/soglasovanie-ozhidaniy.md)] — общая логика: договорённость строится на названных интересах сторон
 - [[kak-razreshit-konflikt-v-shkole](pages/kak-razreshit-konflikt-v-shkole.md)] — смежный разбор конфликта со школьным взрослым
+- [[kak-podderzhat-rebenka-vo-vremya-voyny](pages/kak-podderzhat-rebenka-vo-vremya-voyny.md)] — мягкая версия той же тактики в переписке с учителями: признать важность их работы и не вступать в спор
 
 ## Footnotes
 

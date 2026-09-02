@@ -39,3 +39,4 @@ updated: 2026-09-03
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — принуждение продолжать нелюбимое занятие «потому что сам решил» структурно близко к транзакционным моделям, которые критикует этот источник
 - [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)] — выбор как один из пяти факторов, институционализированный через индивидуальный учебный план
 - [[horoshaya-i-plohaya-rutina](pages/horoshaya-i-plohaya-rutina.md)] — новую рутину на новом месте находят пробами, а не воспроизведением прежней
+- [[nikogda-ne-pozdno-nauchitsya](pages/nikogda-ne-pozdno-nauchitsya.md)] — собственное желание как единственный двигатель, наверстывающий любое отставание

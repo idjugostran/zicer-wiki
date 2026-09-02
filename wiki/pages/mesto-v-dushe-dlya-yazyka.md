@@ -3,7 +3,7 @@ title: Место в душе для языка
 category: Concepts
 summary: Язык нового места осваивается после того, как человеку стало спокойно и он понял, что здесь делает, а не до того; форсированная ассимиляция откладывает результат, а не приближает его
 tags: [concept, emigratsiya, adaptatsiya, yazyk, shkola]
-sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane]
+sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, kak-podderzhat-rebenka-vo-vremya-voyny]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane](pages/rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane.md)] — вводит концепт: место в душе для языка, обещание «не опоздает», разбор родительского «мы за ассимиляцию», гибкие навыки вместо «пропущенного» времени
+- [[kak-podderzhat-rebenka-vo-vremya-voyny](pages/kak-podderzhat-rebenka-vo-vremya-voyny.md)] — тот же тезис про английский: выучит, когда в душе освободится частичка для этого
 
 ## Related Concepts
 

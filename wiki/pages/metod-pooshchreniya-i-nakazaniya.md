@@ -3,7 +3,7 @@ title: Метод поощрения и наказания
 category: Concepts
 summary: Заимствованный из дрессуры животных метод — Зицер считает его неприменимым к людям и подменяющим настоящие отношения
 tags: [concept, roditelstvo, pedagogika]
-sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219, lnv-vypusk-211, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi]
+sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219, lnv-vypusk-211, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, kak-podderzhat-rebenka-vo-vremya-voyny]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-211](pages/lnv-vypusk-211.md)] — печати и другие «мягкие» знаки в первом классе сохраняют структуру оценки; требование подростку убирать и ухаживать за собой через постоянные напоминания превращается в ту же борьбу за внешнее поведение
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «Искусство воспитания раба» добавляет литературные иллюстрации того же механизма («чему учишь, тому и научишь») — цитаты Лермонтова и Высоцкого — и родительские форумы, дословно советующие порку
 - [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)] — «все остальные способы силовые»; базисная забота не конвертируется в рычаг благодарности
+- [[kak-podderzhat-rebenka-vo-vremya-voyny](pages/kak-podderzhat-rebenka-vo-vremya-voyny.md)] — ультиматум «не будет футбола, пока не будет оценок» отвергнут и Зицером, и матерью
 
 ## Related Concepts
 

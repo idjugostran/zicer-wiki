@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[mesto-v-dushe-dlya-yazyka](pages/mesto-v-dushe-dlya-yazyka.md)] — что становится возможным, когда поплавки найдены
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — тот же запрет отвечать за ребёнка
 - [[svoy-chuzhoy-kak-lozhnaya-opora](pages/svoy-chuzhoy-kak-lozhnaya-opora.md)] — смежный отказ от готовой опоры «стать своим» в пользу собственной
+- [[travma-u-vseh-ukrainskih-detey](pages/travma-u-vseh-ukrainskih-detey.md)] — состояние, в котором поплавки становятся вопросом выживания, а не комфорта
 
 ## Footnotes
 
