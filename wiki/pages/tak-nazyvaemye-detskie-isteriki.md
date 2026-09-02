@@ -3,9 +3,9 @@ title: Дима Зицер о так называемых детских ист�
 category: Sources
 summary: Зицер отрицает саму категорию «детской истерики» как отдельную от взрослой, и даёт практический алгоритм поведения родителя во время и после неё
 tags: [source, transcript, isterika, roditelskaya-funktsiya, dima-zicer]
-sources: [tak-nazyvaemye-detskie-isteriki]
+sources: [tak-nazyvaemye-detskie-isteriki, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya]
 created: 2026-08-04
-updated: 2026-08-31
+updated: 2026-09-03
 ---
 
 # Дима Зицер о так называемых детских истериках
@@ -46,7 +46,7 @@ updated: 2026-08-31
 
 ## Relation to Other Wiki Pages
 
-Первый источник в вики — задаёт три базовые страницы (сам автор и два концепта), на которые будут ссылаться дальнейшие ингесты.
+Первый источник в вики — задаёт три базовые страницы (сам автор и два концепта), на которые будут ссылаться дальнейшие ингесты. В [[lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya](pages/lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya.md)] Зицер прямо отсылает звонящую к этому источнику вместо развёрнутого ответа, добавляя к нему красную границу («нельзя позволять себя бить»), совет советоваться с самим ребёнком о том, что делать во время истерики, и требование сначала найти, что улучшилось в жизни старшего от рождения младшего.
 
 ## Footnotes
 

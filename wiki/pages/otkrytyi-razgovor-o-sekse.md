@@ -3,9 +3,9 @@ title: Открытый разговор с детьми о сексе
 category: Concepts
 summary: Секс — обычная интересная тема для ребёнка, а не опасная; неловкость при разговоре о ней — унаследованная взрослыми модель, а не реакция на реальный риск
 tags: [concept, seks, roditelstvo]
-sources: [kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-8, lnv-vypusk-252, lnv-vypusk-201, lnv-vypusk-250, kniga-lyubit-nelzya-vospityvat]
+sources: [kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-8, lnv-vypusk-252, lnv-vypusk-201, lnv-vypusk-250, kniga-lyubit-nelzya-vospityvat, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya]
 created: 2026-08-29
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Открытый разговор с детьми о сексе
@@ -24,6 +24,7 @@ updated: 2026-09-02
 - [[lnv-vypusk-201](pages/lnv-vypusk-201.md)] — та же логика взаимной открытости с раннего возраста, применённая не к сексу, а к чтению переписки: привычка делиться закладывается заранее, а не выбивается угрозами (см. [[chtenie-perepiski-detey](pages/chtenie-perepiski-detey.md)])
 - [[lnv-vypusk-250](pages/lnv-vypusk-250.md)] — родители восьмилетней девочки сначала стыдят её за порно и проверяют телефон; ответ требует извинения, признания интереса законным и совместного безопасного разговора
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «Крекс, пекс, секс» добавляет личное воспоминание автора о травле мальчика на теме родительского секса, в которую он в 13 лет не вмешался, — иллюстрация цены замалчивания на уровне сверстников, а не только семьи
+- [[lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya](pages/lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya.md)] — «что вы хотите ему сказать»: чужое тело как граница, отношения, «разговаривают не гениталии»
 
 ## Related Concepts
 

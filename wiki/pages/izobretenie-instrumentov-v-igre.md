@@ -3,7 +3,7 @@ title: Изобретение инструментов в игре
 category: Concepts
 summary: Ребёнок знает, что так делать нельзя, но не знает, что делать вместо; инструменты придумываются вместе в разыгранной сценке — убежать, рассмотреть и положить, позвать маму, — а после срыва вместе разбирают, какой из них не сработал
 tags: [concept, roditelstvo, doshkolniki, igra, samoregulyatsiya]
-sources: [syn-beret-chuzhie-veshchi]
+sources: [syn-beret-chuzhie-veshchi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[syn-beret-chuzhie-veshchi](pages/syn-beret-chuzhie-veshchi.md)] — вводит концепт: игра в магазин, перечень изобретённых инструментов, разбор сбоев, месседж «вместе мы справимся»
+- [[lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya](pages/lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya.md)] — ролевые игры («он играет маму, папа играет его») как сработавший ранее инструмент
 
 ## Related Concepts
 

@@ -38,3 +38,4 @@ updated: 2026-09-03
 - [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — то же внимание к тому, какое конкретно ощущение стоит за действием
 - [[libo-durochka-libo-umnaya](pages/libo-durochka-libo-umnaya.md)] — предшествующий шаг: если ребёнок неглуп, у поведения точно есть функция
 - [[pritcha-o-dvuh-monahah](pages/pritcha-o-dvuh-monahah.md)] — обратный ход разбора: за поведением ребёнка ищут не нужду, а здоровое качество
+- [[nichego-ne-byvaet-prosto-tak](pages/nichego-ne-byvaet-prosto-tak.md)] — тот же поиск функции поступка, сформулированный как родительская обязанность

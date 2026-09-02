@@ -5,7 +5,7 @@ summary: В 14–15 лет человек имеет право жить рад�
 tags: [concept, podrostki, udovolstvie, professiya]
 sources: [devochka-otkazyvaetsya-hodit-v-shkolu]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Право жить для кайфов
@@ -29,6 +29,7 @@ updated: 2026-09-02
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — почему быстро гаснущие профессиональные идеи не повод торопить выбор
 - [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — тот же язык конкретных удовольствий, но применённый к родителю, а не к подростку
 - [[tyl-dlya-rebenka](pages/tyl-dlya-rebenka.md)] — обещание «я за твоей спиной стою» как условие, при котором снятие груза не читается как безразличие
+- [[shkala-zhelaniya](pages/shkala-zhelaniya.md)] — как проверить, что из желаний настоящее, не превращая это в выбор судьбы
 
 ## Footnotes
 

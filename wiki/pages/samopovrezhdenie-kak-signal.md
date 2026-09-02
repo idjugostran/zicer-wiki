@@ -3,9 +3,9 @@ title: Самоповреждение как сигнал нехватки сп�
 category: Concepts
 summary: В конкретных подростковых случаях самоповреждение рассматривается как сигнал невыраженного переживания и дефицита безопасной близости; работать предлагается не только с поступком, но и со способом говорить о боли
 tags: [concept, roditelstvo, podrostki, samopovrezhdenie]
-sources: [kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-248, lnv-vypusk-219]
+sources: [kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-248, lnv-vypusk-219, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya]
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-09-03
 ---
 
 # Самоповреждение как сигнал нехватки способов выражения
@@ -23,6 +23,7 @@ updated: 2026-08-31
 - [[kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey](pages/kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey.md)] — самоповреждающее расчёсывание кожи находится внутри цикла материнского контроля; первый шаг — выйти из реактивного вмешательства и восстановить собственную регуляцию
 - [[lnv-vypusk-248](pages/lnv-vypusk-248.md)] — порезы после конфликтов с онлайн-подругами описаны как нехватка других способов выразить боль и сигнал дефицита безопасной близости
 - [[lnv-vypusk-219](pages/lnv-vypusk-219.md)] — шестнадцатилетняя дочь после прежнего физического насилия дома: мать начинает с письменного признания вины и просьбы о прощении, выбирая восстановление связи вместо контроля оценок и поведения
+- [[lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya](pages/lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya.md)] — грызение одежды и волос до болячек: выяснить, кто давит, и идти к неврологу; запрет на «перестань грызть»
 
 ## Related Concepts
 

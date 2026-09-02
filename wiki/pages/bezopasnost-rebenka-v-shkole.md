@@ -3,7 +3,7 @@ title: Безопасность ребёнка в школе как обязан
 category: Concepts
 summary: При систематической травле школа обязана обеспечить ребёнку безопасность и прекратить ситуацию без стигматизации того, кто обратился за помощью
 tags: [concept, shkola, bulling, roditelstvo]
-sources: [lnv-vypusk-215, lnv-vypusk-162, lnv-vypusk-252, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-164, lnv-vypusk-332, kak-razreshit-konflikt-v-shkole, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi]
+sources: [lnv-vypusk-215, lnv-vypusk-162, lnv-vypusk-252, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-164, lnv-vypusk-332, kak-razreshit-konflikt-v-shkole, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[chego-boitsya-syn-i-chto-s-etim-delat](pages/chego-boitsya-syn-i-chto-s-etim-delat.md)] — безопасность в поездке измеряется наличием у ребёнка работающей связи со своими
 - [[nam-popalas-plohaya-uchilka](pages/nam-popalas-plohaya-uchilka.md)] — крик на девочку наедине, отказ учительницы говорить с ней после травли, переадресация проблемы на продлёнку
 - [[kazhetsya-k-moemu-rebenku-pristaet-vzroslyi](pages/kazhetsya-k-moemu-rebenku-pristaet-vzroslyi.md)] — школьный контекст груминга и ответственность взрослого за дистанцию
+- [[lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya](pages/lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya.md)] — учитель физкультуры выгнал ребёнка из зала руками класса и остался на своём месте
 
 ## Related Concepts
 

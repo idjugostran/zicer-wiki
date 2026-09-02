@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[kak-byt-esli-rebenok-ne-uveren-v-sebe](pages/kak-byt-esli-rebenok-ne-uveren-v-sebe.md)] — снятие рамки «со мной что-то не так» как самостоятельная задача разговора
 - [[lichnost-a-ne-povedenie](pages/lichnost-a-ne-povedenie.md)] — реакция ребёнка не описывает его личность и не делает его менее достойным
 - [[pravo-na-svyaz-s-blizkimi](pages/pravo-na-svyaz-s-blizkimi.md)] — причина, по которой инструмент понадобился
+- [[nichego-ne-byvaet-prosto-tak](pages/nichego-ne-byvaet-prosto-tak.md)] — «к неврологу ходят не для того, чтобы услышать, что всё нормально»
 
 ## Footnotes
 
