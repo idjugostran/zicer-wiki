@@ -48,3 +48,4 @@ updated: 2026-09-03
 - [[my-vmesto-on-diagnostika-subyektnosti](pages/my-vmesto-on-diagnostika-subyektnosti.md)] — конкретный диагностический инструмент для тяжёлых случаев отнятой субъектности
 - [[soglasovanie-ozhidaniy](pages/soglasovanie-ozhidaniy.md)] — практическая проверка субъектности в группе: цели и правила общего дела формулируют сами участники
 - [[obrechennost-kak-istochnik-otkaza](pages/obrechennost-kak-istochnik-otkaza.md)] — что происходит при её отсутствии: траектория, выстроенная без участия ребёнка, читается им как обречённость
+- [[pravo-na-svyaz-s-blizkimi](pages/pravo-na-svyaz-s-blizkimi.md)] — лишение ребёнка возможности сообщить о своём состоянии как отказ в субъектности

@@ -5,7 +5,7 @@ summary: Каждый присутствующий — включая подро
 tags: [concept, pedagogika, neformalnoe-obrazovanie, subyektnost]
 sources: [kak-provodit-klassnye-ekskursii-dlya-detey]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Участники как заказчики
@@ -31,6 +31,7 @@ updated: 2026-09-02
 - [[soglasovanie-ozhidaniy](pages/soglasovanie-ozhidaniy.md)] — тот же принцип на многодневной поездке, растянутый на несколько подготовительных встреч
 - [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)] — фактор «личный интерес», который приём и добывает
 - [[subyektnost](pages/subyektnost.md)] — основание: участник любого возраста — сторона отношений, а не получатель готового продукта
+- [[pravo-na-svyaz-s-blizkimi](pages/pravo-na-svyaz-s-blizkimi.md)] — минимальное право участника поездки, нарушение которого делает всё остальное неважным
 
 ## Footnotes
 

@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[usloviya-trudnogo-razgovora](pages/usloviya-trudnogo-razgovora.md)] — внешние условия трудного разговора (лично, на нейтральной территории, не с порога); здесь — его внутренний порядок
 - [[chtenie-perepiski-detey](pages/chtenie-perepiski-detey.md)] — тот же выбор в пользу разговора вместо контроля, сформулированный от противного
 - [[otkaz-ot-nelzya](pages/otkaz-ot-nelzya.md)] — общий принцип, частным случаем которого служит довод «этого варианта у нас просто нет»
+- [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — третье процедурное правило того же разговора: не входить в него с готовым ответом
 
 ## Footnotes
 

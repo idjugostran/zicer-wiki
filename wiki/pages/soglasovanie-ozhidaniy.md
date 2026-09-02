@@ -3,9 +3,9 @@ title: Согласование ожиданий
 category: Concepts
 summary: Цели и правила общего дела формулируются участниками заранее, а не объявляются взрослым по ходу: обязательное отдельно от желательного, иначе законный ответ — «а мы про это не договаривались»
 tags: [concept, pedagogika, gruppa, poezdki]
-sources: [kak-organizovat-poezdku-dlya-detey]
+sources: [kak-organizovat-poezdku-dlya-detey, chego-boitsya-syn-i-chto-s-etim-delat]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Согласование ожиданий
@@ -23,6 +23,7 @@ updated: 2026-09-02
 ## Appearances in Sources
 
 - [[kak-organizovat-poezdku-dlya-detey](pages/kak-organizovat-poezdku-dlya-detey.md)] — вводит концепт целиком: подготовка школьной поездки 13 детей 8–14 лет в Болгарию
+- [[chego-boitsya-syn-i-chto-s-etim-delat](pages/chego-boitsya-syn-i-chto-s-etim-delat.md)] — от противного: лагерь не оговорил правила связи с семьями и решил их за ребёнка
 
 ## Related Concepts
 

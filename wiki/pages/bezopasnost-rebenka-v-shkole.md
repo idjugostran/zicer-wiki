@@ -3,9 +3,9 @@ title: Безопасность ребёнка в школе как обязан
 category: Concepts
 summary: При систематической травле школа обязана обеспечить ребёнку безопасность и прекратить ситуацию без стигматизации того, кто обратился за помощью
 tags: [concept, shkola, bulling, roditelstvo]
-sources: [lnv-vypusk-215, lnv-vypusk-162, lnv-vypusk-252, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-164, lnv-vypusk-332, kak-razreshit-konflikt-v-shkole]
+sources: [lnv-vypusk-215, lnv-vypusk-162, lnv-vypusk-252, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-164, lnv-vypusk-332, kak-razreshit-konflikt-v-shkole, chego-boitsya-syn-i-chto-s-etim-delat]
 created: 2026-08-30
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Безопасность ребёнка в школе как обязанность взрослых
@@ -26,6 +26,7 @@ updated: 2026-09-02
 - [[lnv-vypusk-164](pages/lnv-vypusk-164.md)] — два случая институциональной защиты: не допустить публичного унижения девятиклассницы учительницей и остановить изоляцию восьмилетнего мальчика на физкультуре, не превращая его в «проблемного» для родителей класса
 - [[lnv-vypusk-332](pages/lnv-vypusk-332.md)] — систематическая травля семиклассника: безопасность предшествует педагогике; если школа не исправляет ситуацию, родитель ищет другой безопасный маршрут
 - [[kak-razreshit-konflikt-v-shkole](pages/kak-razreshit-konflikt-v-shkole.md)] — насилие между пятилетними детьми: взрослые останавливают вред, моделируют способы разрешения конфликта и спокойно проверяют другую школу, если нынешняя не обеспечивает безопасность
+- [[chego-boitsya-syn-i-chto-s-etim-delat](pages/chego-boitsya-syn-i-chto-s-etim-delat.md)] — безопасность в поездке измеряется наличием у ребёнка работающей связи со своими
 
 ## Related Concepts
 
