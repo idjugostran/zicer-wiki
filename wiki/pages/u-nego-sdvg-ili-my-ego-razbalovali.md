@@ -36,6 +36,7 @@ updated: 2026-09-01
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)]
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)]
 - [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)]
+- [[sdvg-kak-osobennost-a-ne-diagnoz](pages/sdvg-kak-osobennost-a-ne-diagnoz.md)] — новый концепт, объединяющий эту и другие источники подборки на тему СДВГ
 
 ## Relation to Other Wiki Pages
 

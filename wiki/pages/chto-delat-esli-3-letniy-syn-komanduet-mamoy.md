@@ -52,6 +52,7 @@ updated: 2026-09-02
 - [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)] — новый концепт: центральная техника разбора
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — теория кризиса трёх лет как объяснение поведения Давида
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — новый бытовой пример границы вне школы и вне острого конфликта
+- [[sdvg-kak-osobennost-a-ne-diagnoz](pages/sdvg-kak-osobennost-a-ne-diagnoz.md)] — новый концепт: диагноз без плана и решение «заглушить» отвергаются как маскировка, а не помощь
 
 ## Relation to Other Wiki Pages
 

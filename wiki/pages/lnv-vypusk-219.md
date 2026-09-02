@@ -53,6 +53,7 @@ updated: 2026-08-31
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)]
 - [[samopovrezhdenie-kak-signal](pages/samopovrezhdenie-kak-signal.md)]
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)]
+- [[prava-novogo-partnera-roditelya](pages/prava-novogo-partnera-roditelya.md)] — более поздний, развёрнутый случай (13-летняя падчерица) на ту же тему прав нового партнёра родителя
 
 ## Relation to Other Wiki Pages
 

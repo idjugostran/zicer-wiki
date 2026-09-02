@@ -100,6 +100,7 @@ updated: 2026-09-02
 - [[vospityvat-ili-rastit](pages/vospityvat-ili-rastit.md)] — новый концепт: языковое различие «воспитывать» / «растить», которое сама книга называет своей центральной рамкой
 - [[chetyre-tipa-adaptatsii-k-podavleniyu](pages/chetyre-tipa-adaptatsii-k-podavleniyu.md)] — новый концепт из главы «Первое сентября как похороны»
 - [[subyektivnoe-vremya-rebenka](pages/subyektivnoe-vremya-rebenka.md)] — новый концепт из главы «Практика относительности»
+- [[sdvg-kak-osobennost-a-ne-diagnoz](pages/sdvg-kak-osobennost-a-ne-diagnoz.md)] — глава «Ода синдрому» даёт независимую литературную версию тезиса о СДВГ как особенности, а не диагнозе
 
 ## Relation to Other Wiki Pages
 
