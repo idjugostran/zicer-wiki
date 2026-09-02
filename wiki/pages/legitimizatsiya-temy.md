@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — третье процедурное правило того же разговора: не входить в него с готовым ответом
 - [[literatura-kak-povod-dlya-razgovora](pages/literatura-kak-povod-dlya-razgovora.md)] — совместное чтение как один из способов сделать тему обычной
 - [[pomoshch-bez-upreka](pages/pomoshch-bez-upreka.md)] — ещё одно процедурное правило: убрать из предложения помощи придаточное с обвинением
+- [[zapret-povyshaet-stoimost](pages/zapret-povyshaet-stoimost.md)] — почему запрет исключён технически, а не только этически
 
 ## Footnotes
 

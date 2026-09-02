@@ -54,3 +54,4 @@ updated: 2026-09-03
 - [[obrechennost-kak-istochnik-otkaza](pages/obrechennost-kak-istochnik-otkaza.md)] — что происходит при её отсутствии: траектория, выстроенная без участия ребёнка, читается им как обречённость
 - [[pravo-na-svyaz-s-blizkimi](pages/pravo-na-svyaz-s-blizkimi.md)] — лишение ребёнка возможности сообщить о своём состоянии как отказ в субъектности
 - [[psevdodogovor-kak-prikaz](pages/psevdodogovor-kak-prikaz.md)] — согласие без возможности отказаться согласием не является
+- [[granitsa-intimnosti](pages/granitsa-intimnosti.md)] — право человека решать, что он оставляет только себе

@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[libo-durochka-libo-umnaya](pages/libo-durochka-libo-umnaya.md)] — та же проверка допущения, применённая к вкусам ребёнка
 - [[vytesnenie-roditeley-v-perehodnom-vozraste](pages/vytesnenie-roditeley-v-perehodnom-vozraste.md)] — почему окно закрывается через пару лет
 - [[priznanie-roditelskoy-oshibki](pages/priznanie-roditelskoy-oshibki.md)] — случай, когда возрастное окно уже закрылось и вводить ограничения поздно
+- [[zapret-povyshaet-stoimost](pages/zapret-povyshaet-stoimost.md)] — то же правило в общем виде: блокировка не убирает интерес, а удорожает его
 
 ## Footnotes
 

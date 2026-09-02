@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)] — та же тема со стороны ребёнка и родителя
 - [[subyektnost](pages/subyektnost.md)] — почему намерение взрослого не отменяет прочтения ребёнком
 - [[pochemu-vzroslye-unizhayut-detey](pages/pochemu-vzroslye-unizhayut-detey.md)] — смежный разбор злоупотребления позицией взрослого
+- [[granitsa-intimnosti](pages/granitsa-intimnosti.md)] — та же граница, описанная со стороны ребёнка и его сверстников
 
 ## Footnotes
 

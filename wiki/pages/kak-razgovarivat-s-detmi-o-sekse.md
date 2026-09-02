@@ -5,7 +5,7 @@ summary: Тема секса для ребёнка — обычная интер
 tags: [source, transcript, seks, dima-zicer, dozhd]
 sources: [kak-razgovarivat-s-detmi-o-sekse]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-09-03
 ---
 
 # Как разговаривать с детьми о сексе
@@ -43,7 +43,7 @@ updated: 2026-08-29
 
 ## Relation to Other Wiki Pages
 
-Структурно почти дословно повторяет механизм [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] (Урок 4 курса): и там, и здесь источник «опасности» — не реальный риск для ребёнка, а неудобство самого взрослого, и в обоих случаях замалчивание/запрет не снижает риск, а лишь исключает родителя из разговора и повышает шанс, что ребёнок получит информацию из худшего источника (там — интернет-контент без подготовки, здесь — «в подворотне»). Также перекликается со [[konflikty-mezhdu-detmi-i-roditelyami](pages/konflikty-mezhdu-detmi-i-roditelyami.md)], где «страх перед новым» назван инстинктивной причиной запрета.
+Структурно почти дословно повторяет механизм [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] (Урок 4 курса): и там, и здесь источник «опасности» — не реальный риск для ребёнка, а неудобство самого взрослого, и в обоих случаях замалчивание/запрет не снижает риск, а лишь исключает родителя из разговора и повышает шанс, что ребёнок получит информацию из худшего источника (там — интернет-контент без подготовки, здесь — «в подворотне»). Также перекликается со [[konflikty-mezhdu-detmi-i-roditelyami](pages/konflikty-mezhdu-detmi-i-roditelyami.md)], где «страх перед новым» назван инстинктивной причиной запрета. Практическое продолжение — [[rebenok-v-8-let-smotrit-zapreshchennyi-kontent](pages/rebenok-v-8-let-smotrit-zapreshchennyi-kontent.md)]: там та же книга применяется повторно год спустя, а к разговору добавляются [[granitsa-intimnosti](pages/granitsa-intimnosti.md)] и правило [[zapret-povyshaet-stoimost](pages/zapret-povyshaet-stoimost.md)].
 
 ## Footnotes
 
