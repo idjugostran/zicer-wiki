@@ -5,7 +5,7 @@ summary: Прямое разрешение руководителя на неу�
 tags: [concept, pedagogika, professiya, upravlenie]
 sources: [kak-provodit-klassnye-ekskursii-dlya-detey]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # «Завали урок»
@@ -25,6 +25,7 @@ updated: 2026-09-02
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — то же право на ошибку, но адресованное ребёнку, а не профессионалу
 - [[uchastniki-kak-zakazchiki](pages/uchastniki-kak-zakazchiki.md)] — приём, ради проверки которого разрешение и даётся
 - [[shkola-apelsin](pages/shkola-apelsin.md)] — школа, в управлении которой Зицер применяет это поручение
+- [[distantsiya-pedagoga](pages/distantsiya-pedagoga.md)] — второй концепт вики, адресованный профессионалу: ответственность за дистанцию с учеником
 
 ## Footnotes
 

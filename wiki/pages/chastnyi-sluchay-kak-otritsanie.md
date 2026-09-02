@@ -3,9 +3,9 @@ title: «Частный случай» как отрицание
 category: Concepts
 summary: Готовность назвать системную детскую трагедию (насилие учителя, убийство ребёнка, самоубийство) «частным случаем» или «стечением обстоятельств» — риторический механизм, снимающий необходимость системных изменений
 tags: [concept, obshchestvo, roditelstvo]
-sources: [kniga-lyubit-nelzya-vospityvat]
+sources: [kniga-lyubit-nelzya-vospityvat, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # «Частный случай» как отрицание
@@ -19,6 +19,7 @@ updated: 2026-09-02
 ## Appearances in Sources
 
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — вводит концепт в главе «Смерть как повод не писать» (список примеров, формула «оплачьте её настоящими слезами»); развивает в главе «Мы их теряем» на примере фразы «подростки — это диагноз»
+- [[kazhetsya-k-moemu-rebenku-pristaet-vzroslyi](pages/kazhetsya-k-moemu-rebenku-pristaet-vzroslyi.md)] — осуждение пострадавшего («сама хотела», «это враньё») как способ убежать от тяжёлой темы
 
 ## Related Concepts
 

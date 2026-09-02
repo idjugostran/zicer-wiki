@@ -3,7 +3,7 @@ title: Так называемые «сложные темы»
 category: Concepts
 summary: Секс, смерть, дурные привычки — не сложны сами по себе; сложность создаёт телесный блок родителя, который ребёнок считывает и начинает защитно избегать темы
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-8, lnv-vypusk-164, lnv-vypusk-250, syn-rasskazal-mame-chto-on-biseksual]
+sources: [kurs-12-urokov-urok-8, lnv-vypusk-164, lnv-vypusk-250, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -22,6 +22,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-164](pages/lnv-vypusk-164.md)] — смерть матери: отец не прячет правду от семилетней дочери, принимает непредсказуемую реакцию и даёт прожить горе в её темпе
 - [[lnv-vypusk-250](pages/lnv-vypusk-250.md)] — три практических ракурса: честный разговор о биологическом отце, книга как мостик к теме смерти и извинение родителей перед восьмилетней дочерью за стыдящую реакцию на сексуальное любопытство
 - [[syn-rasskazal-mame-chto-on-biseksual](pages/syn-rasskazal-mame-chto-on-biseksual.md)] — тема открыта самим ребёнком; источник добавляет процедуру разговора, когда «сложная тема» уже названа
+- [[kazhetsya-k-moemu-rebenku-pristaet-vzroslyi](pages/kazhetsya-k-moemu-rebenku-pristaet-vzroslyi.md)] — «поздно» как ответ: в чувственной сфере разговор нужен за годы до ситуации
 
 ## Related Concepts
 
