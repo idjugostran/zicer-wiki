@@ -5,7 +5,7 @@ summary: Разбор отделения 15-летнего сына и дома�
 tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, podrostki, semya, domashnie-dela]
 sources: [chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame]
 created: 2026-09-01
-updated: 2026-09-01
+updated: 2026-09-03
 ---
 
 # Что делать, если ребенок совсем не хочет помогать маме
@@ -46,7 +46,7 @@ updated: 2026-09-01
 
 ## Relation to Other Wiki Pages
 
-Источник даёт [[subyektnost](pages/subyektnost.md)] бытовой механизм: участие подростка означает не право протестовать против готового правила и не право подать взрослому свой вариант на утверждение, а совместное определение самой семейной задачи. Для [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] случай показывает предел функционального подхода особенно ясно: выполненная уборка не равна принадлежности к семье, а семейная связь не может быть оплатой за обязанности.
+Источник даёт [[subyektnost](pages/subyektnost.md)] бытовой механизм: участие подростка означает не право протестовать против готового правила и не право подать взрослому свой вариант на утверждение, а совместное определение самой семейной задачи. Для [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] случай показывает предел функционального подхода особенно ясно: выполненная уборка не равна принадлежности к семье, а семейная связь не может быть оплатой за обязанности. Ту же тему с другой стороны разбирает [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)]: там объясняется, почему само требование помощи несимметрично ([[obshchestvennyi-interes-ne-dolg-rebenka](pages/obshchestvennyi-interes-ne-dolg-rebenka.md)]), и даётся форма просьбы, которая работает — [[korol-pomoshchi](pages/korol-pomoshchi.md)].
 
 ## Footnotes
 

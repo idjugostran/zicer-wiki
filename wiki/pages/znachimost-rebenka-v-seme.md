@@ -3,9 +3,9 @@ title: Значимость ребёнка в семье
 category: Concepts
 summary: Разрушительное поведение ребёнка часто вызвано не характером, а нехваткой ощущения собственной значимости в семье — решение не в наказании, а в реальном включении ребёнка в настоящие решения
 tags: [concept, roditelstvo]
-sources: [pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, lnv-vypusk-251, lnv-vypusk-208, lnv-vypusk-216, lnv-vypusk-211]
+sources: [pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, lnv-vypusk-251, lnv-vypusk-208, lnv-vypusk-216, lnv-vypusk-211, syn-ne-uchityvaet-interesy-semi]
 created: 2026-08-29
-updated: 2026-08-31
+updated: 2026-09-03
 ---
 
 # Значимость ребёнка в семье
@@ -23,6 +23,7 @@ updated: 2026-08-31
 - [[lnv-vypusk-208](pages/lnv-vypusk-208.md)] — одиннадцатилетний брат провоцирует сестру, чтобы вызвать внимание мамы; альтернатива — отдельная жизнь и интерес к нему, не зависящие от его отношения к сестре
 - [[lnv-vypusk-216](pages/lnv-vypusk-216.md)] — четырёхлетнему старшему брату предлагают не формально «помогать», а влиять на жизнь младенца через собственные решения, заботу и игру
 - [[lnv-vypusk-211](pages/lnv-vypusk-211.md)] — девятилетняя девочка берёт деньги у матери не из расчёта на выгоду, а, предположительно, как сложным и неосознаваемым способом привлечь внимание; ответом становится отдельное тёплое время вместе
+- [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)] — реальная незаменимость ребёнка («без тебя ничего не произойдёт») вместо назначенной обязанности
 
 ## Related Concepts
 

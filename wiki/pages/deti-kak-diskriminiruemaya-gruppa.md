@@ -3,9 +3,9 @@ title: Дети как «последняя дискриминируемая г�
 category: Concepts
 summary: Историческая рамка Зицера — неравенство детей и взрослых сопоставимо с историческим бесправием женщин и расовой дискриминацией
 tags: [concept, subyektnost, roditelstvo]
-sources: [konflikty-mezhdu-detmi-i-roditelyami, pochemu-vzroslye-unizhayut-detey, nablyudatel-o-podrostkah, lnv-v-gostyah-u-zicera-chast-1, o-diskriminatsii-detey-vzroslymi, mama-dorogaya-bulling, kniga-lyubit-nelzya-vospityvat]
+sources: [konflikty-mezhdu-detmi-i-roditelyami, pochemu-vzroslye-unizhayut-detey, nablyudatel-o-podrostkah, lnv-v-gostyah-u-zicera-chast-1, o-diskriminatsii-detey-vzroslymi, mama-dorogaya-bulling, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi]
 created: 2026-08-04
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Дети как «последняя дискриминируемая группа»
@@ -31,6 +31,7 @@ updated: 2026-09-02
 - [[o-diskriminatsii-detey-vzroslymi](pages/o-diskriminatsii-detey-vzroslymi.md)] — ранний (2017) источник: общее определение дискриминации, формула отличия от любви, «дети — эксперты своего момента»
 - [[mama-dorogaya-bulling](pages/mama-dorogaya-bulling.md)] — тот же механизм дискриминации (сила без рефлексии) внутри детского коллектива, а не между взрослыми и детьми
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — главы «Дети как игрушки» (незнакомые взрослые трогают и комментируют ребёнка без спроса) и «Почему мы не знаем о его несчастьях» (структура доверия «взрослый прав по умолчанию» блокирует детскую жалобу на школьное насилие) расширяют рамку двумя новыми механизмами
+- [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)] — ключевое решение о составе семьи принимается без ребёнка, а долг вменяется ему
 
 ## Related Concepts
 
