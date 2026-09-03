@@ -3,7 +3,7 @@ title: Метод поощрения и наказания
 category: Concepts
 summary: Заимствованный из дрессуры животных метод — Зицер считает его неприменимым к людям и подменяющим настоящие отношения
 tags: [concept, roditelstvo, pedagogika]
-sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219, lnv-vypusk-211, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, kak-sdelat-chtoby-ona-slushalas-roditeley, devochka-hochet-brosit-zanyatiya-peniem, kak-roditeli-perenosyat-na-detey-modeli, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-241, lnv-vypusk-234]
+sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219, lnv-vypusk-211, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, kak-sdelat-chtoby-ona-slushalas-roditeley, devochka-hochet-brosit-zanyatiya-peniem, kak-roditeli-perenosyat-na-detey-modeli, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-241, lnv-vypusk-234, lnv-vypusk-230]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -41,6 +41,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — граница правила: балльная подготовка к ОГЭ не является оценкой, Зицер оговаривает, что здесь себе не противоречит
 - [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — материальный мотиватор за освоенный навык разбирается как поощрение, привязанное к результату; подарки предлагается отвязать от достижений
 - [[lnv-vypusk-234](pages/lnv-vypusk-234.md)] — конфеты учительнице отклонены как косвенный подкуп, встраиваемый в мировоззрение семилетнего
+- [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — сделка «принеси четвёрку — поиграешь в PlayStation» в звонке Алексея
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Откат при появлении младшего
 category: Concepts
 summary: После рождения второго ребёнка старший как будто теряет уже освоенные умения — говорить, есть, одеваться; Зицер называет это известным синдромом, обязательным в той или иной мере у всех детей, и предлагает искать его прежде, чем объяснять поведение характером
 tags: [concept, siblingi, doshkolniki, razvitie, diagnostika]
-sources: [kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-231]
+sources: [kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-231, lnv-vypusk-230]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -29,8 +29,10 @@ updated: 2026-09-03
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — соседний случай, когда поведение объясняется этапом, а не характером
 - [[znachimost-rebenka-v-seme](pages/znachimost-rebenka-v-seme.md)] — что именно перераспределяется с появлением младшего
 - [[ozhidat-chut-menshe](pages/ozhidat-chut-menshe.md)] — снижение требований как рабочий ответ на откат
+- [[vremya-prosto-tak](pages/vremya-prosto-tak.md)] — чем на самом деле снимается ревность старшего
 
 ## Appearances in Sources
 
 - [[kak-zhe-on-dolgo-sobiraetsya](pages/kak-zhe-on-dolgo-sobiraetsya.md)] — сформулировано впервые: четырёхлетний перестал одеваться сам после рождения брата
 - [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — крик трёхлетнего усилился после рождения сестры пять месяцев назад
+- [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — ревность девятилетнего к младшему брату и бросание на пол у четырёхлетнего при годовалом младшем

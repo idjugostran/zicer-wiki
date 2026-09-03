@@ -37,6 +37,7 @@ updated: 2026-09-03
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — общее основание приёма: ответ должен быть произнесён ребёнком, а не предположен родителем
 - [[prosto-poprosit](pages/prosto-poprosit.md)] — соседний ход: не вопрос, возвращающий инициативу, а прямая просьба о себе
 - [[zachem-emu-eti-otnosheniya](pages/zachem-emu-eti-otnosheniya.md)] — обратное направление: мяч на половине того, кто хочет наладить отношения
+- [[govorit-o-tom-chego-hochesh](pages/govorit-o-tom-chego-hochesh.md)] — обратное направление: тот же ход, но со стороны подростка
 
 ## Footnotes
 

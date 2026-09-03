@@ -3,7 +3,7 @@ title: Поменяться ролями в игре
 category: Concepts
 summary: Вместо повторной просьбы — сценка днём, сыгранная дважды: сначала ребёнок ищет слова, чтобы попросить взрослого, потом взрослый просит его теми же словами, которые ребёнок нашёл сам
 tags: [concept, igra, doshkolniki, prosba, granitsy]
-sources: [chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
+sources: [chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-230]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — сценка с ночником, сыгранная днём и дважды
+- [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — домашняя театрализация, где сын играет мальчика из сада, а мама — сына
 
 ## Related Concepts
 

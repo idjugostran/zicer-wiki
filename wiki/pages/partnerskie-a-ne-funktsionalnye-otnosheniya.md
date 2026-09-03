@@ -3,7 +3,7 @@ title: Партнёрские, а не функциональные отноше
 category: Concepts
 summary: Унижение возникает, когда родитель относится к ребёнку как к обязанности («функции»), а не как к человеку — в партнёрских отношениях любое отклонение переносимо, в функциональных — угрожает самоощущению взрослого
 tags: [concept, roditelstvo, unizhenie]
-sources: [pochemu-vzroslye-unizhayut-detey, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, nablyudatel-o-podrostkah, lnv-vypusk-214, lnv-vypusk-219, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame, kak-aktivnoy-mame-zhit-s-synom-introvertom]
+sources: [pochemu-vzroslye-unizhayut-detey, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, nablyudatel-o-podrostkah, lnv-vypusk-214, lnv-vypusk-219, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame, kak-aktivnoy-mame-zhit-s-synom-introvertom, lnv-vypusk-230]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny](pages/kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny.md)] — расширяет рамку на семейную систему: отказ от ролей «хорошего» и «плохого полицейского», договорённость взрослых и общий результат вместо борьбы за формальную правоту
 - [[chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame](pages/chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame.md)] — отделяет принадлежность к семье от бытовой функции: совместная жизнь и близость обсуждаются раньше уборки, а забота не выдаётся в обмен на исполнение обязанностей
 - [[kak-aktivnoy-mame-zhit-s-synom-introvertom](pages/kak-aktivnoy-mame-zhit-s-synom-introvertom.md)] — «до его рождения у меня были несколько другие представления о людях»
+- [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — разбор глагола «отправить» — «не он пойдёт в детский сад, а мы отправим его, знаете, как багаж»
 
 ## Related Concepts
 
@@ -35,3 +36,4 @@ updated: 2026-09-03
 - [[subyektnost](pages/subyektnost.md)] — партнёрская рамка требует признания за ребёнком равной субъектности, а не только объекта функции
 - [[davat-sdachi](pages/davat-sdachi.md)] — тот же принцип «можно, потому что не ответит» с обратной стороны: взрослый позволяет себе агрессию именно потому, что ребёнок не может дать сдачи
 - [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — практический ответ на тот же механизм «орём, потому что можем»: заменить разрешённую агрессию на заранее подготовленное действие для себя
+- [[vremya-prosto-tak](pages/vremya-prosto-tak.md)] — время, в котором ребёнок не является задачей

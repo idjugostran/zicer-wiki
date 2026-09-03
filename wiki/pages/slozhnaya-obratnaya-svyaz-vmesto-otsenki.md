@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — зависимость от внешней оценки, которую шкала экзамена не производит
 - [[uchastniki-kak-zakazchiki](pages/uchastniki-kak-zakazchiki.md)] — запрос самих учеников как отправная точка
 - [[otsenka-shtamp-vmesto-obratnoy-svyazi](pages/otsenka-shtamp-vmesto-obratnoy-svyazi.md)] — тезис, границу которому ставит эта страница
+- [[sdat-ekzamen-eto-otdelnyi-navyk](pages/sdat-ekzamen-eto-otdelnyi-navyk.md)] — вторая сторона экзамена: умение его сдавать
 
 ## Appearances in Sources
 

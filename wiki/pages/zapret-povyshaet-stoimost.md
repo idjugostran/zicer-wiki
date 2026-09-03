@@ -3,7 +3,7 @@ title: Запрет повышает стоимость
 category: Concepts
 summary: Железное правило: при блокировке дети всегда находят дырочку, а сам запрет резко повышает «стоимость продукта» — раз запрещено, значит дорого, значит нужно хотеть и искать
 tags: [concept, roditelstvo, zaprety, internet, gadzhety]
-sources: [rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, kak-aktivnoy-mame-zhit-s-synom-introvertom, lnv-vypusk-249, lnv-vypusk-237]
+sources: [rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, kak-aktivnoy-mame-zhit-s-synom-introvertom, lnv-vypusk-249, lnv-vypusk-237, lnv-vypusk-230]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[kak-aktivnoy-mame-zhit-s-synom-introvertom](pages/kak-aktivnoy-mame-zhit-s-synom-introvertom.md)] — обратная форма: каждым «выйди из дома» родитель удорожает выход из дома
 - [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — вылавливание курящего подростка превращается в игру в кошки-мышки, увлекательнее самого курения
 - [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — отдельный монолог о родительском контроле: блокировка сайтов не работает, источник найдётся
+- [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — мальчик, которому родители из принципа не покупали гаджет, хватал трясущимися руками телефон дочери хозяев
 
 ## Related Concepts
 
