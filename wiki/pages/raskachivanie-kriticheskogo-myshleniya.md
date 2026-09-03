@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[tak-nazyvaemye-slozhnye-temy](pages/tak-nazyvaemye-slozhnye-temy.md)] — требование начинать разговор заранее, не дожидаясь вопроса
 - [[chtenie-perepiski-detey](pages/chtenie-perepiski-detey.md)] — почему контроль не заменяет этот механизм
 - [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] — «создавать модель и закреплять её всеми силами»
+- [[deystvie-vmesto-nevnimaniya](pages/deystvie-vmesto-nevnimaniya.md)] — тактическая защита на конкретном уроке, а не установка на будущее
 
 ## Footnotes
 

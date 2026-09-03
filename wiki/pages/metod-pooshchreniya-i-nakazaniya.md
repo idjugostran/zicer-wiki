@@ -3,7 +3,7 @@ title: Метод поощрения и наказания
 category: Concepts
 summary: Заимствованный из дрессуры животных метод — Зицер считает его неприменимым к людям и подменяющим настоящие отношения
 tags: [concept, roditelstvo, pedagogika]
-sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219, lnv-vypusk-211, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, kak-sdelat-chtoby-ona-slushalas-roditeley, devochka-hochet-brosit-zanyatiya-peniem, kak-roditeli-perenosyat-na-detey-modeli, kak-i-za-chto-ne-hvalit-rebenka]
+sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219, lnv-vypusk-211, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, kak-sdelat-chtoby-ona-slushalas-roditeley, devochka-hochet-brosit-zanyatiya-peniem, kak-roditeli-perenosyat-na-detey-modeli, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-314]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -36,6 +36,7 @@ updated: 2026-09-03
 - [[devochka-hochet-brosit-zanyatiya-peniem](pages/devochka-hochet-brosit-zanyatiya-peniem.md)] — маршмеллоу за каждую правильную ноту: приём, работавший в шесть лет и не работающий в двенадцать
 - [[kak-roditeli-perenosyat-na-detey-modeli](pages/kak-roditeli-perenosyat-na-detey-modeli.md)] — «ремешок ходил в гости»: эвфемизм, который Зицер сразу переводит как насилие
 - [[kak-i-za-chto-ne-hvalit-rebenka](pages/kak-i-za-chto-ne-hvalit-rebenka.md)] — «убирать игрушки он будет в расчёте на похвалу»: перенос цели с дела на реакцию взрослого
+- [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — конфета за съеденный обед: «если человек начинает есть за что-то, вот это становится дефицитом»
 
 ## Related Concepts
 

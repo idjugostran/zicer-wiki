@@ -3,7 +3,7 @@ title: Человечность
 category: Concepts
 summary: Человечность по Зицеру — забота о том, чтобы совет или серьёзные слова не ранили адресата, а были восприняты как шанс, а не как обвинение
 tags: [concept, chelovechnost, ii]
-sources: [ii-v-shkole-zlo-ili-blagoslovenie, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, mozhno-li-uberech-rebenka-ot-nenavisti, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima]
+sources: [ii-v-shkole-zlo-ili-blagoslovenie, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, mozhno-li-uberech-rebenka-ot-nenavisti, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, lnv-vypusk-314]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 - [[lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya](pages/lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya.md)] — покаяние «снизу» и разбор позиции «я в политике не разбираюсь» как передачи ответственности манипуляторам
 - [[mozhno-li-uberech-rebenka-ot-nenavisti](pages/mozhno-li-uberech-rebenka-ot-nenavisti.md)] — «не обижай слабых» остаётся в силе именно потому, что за него сражаются
 - [[dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima](pages/dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima.md)] — «человечность заключается в рефлексии и в действии»; «даже опустившийся человек — это человек»
+- [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — «сам этот вопрос, заданный самому себе, есть самое главное лекарство от бесчеловечности»
 
 ## Related Concepts
 

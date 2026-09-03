@@ -3,7 +3,7 @@ title: «Как тебе это удалось?»
 category: Concepts
 summary: Вопрос-техника, задаваемый после удавшегося отказа: не похвалить результат, а вытащить и закрепить механизм — что именно ребёнок сделал, чтобы у него получилось
 tags: [concept, samoregulyatsiya, mladshie-shkolniki, tehnika, zakreplenie]
-sources: [9-letniy-malchik-beret-chuzhie-veshchi, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, kak-i-za-chto-ne-hvalit-rebenka]
+sources: [9-letniy-malchik-beret-chuzhie-veshchi, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-314]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[9-letniy-malchik-beret-chuzhie-veshchi](pages/9-letniy-malchik-beret-chuzhie-veshchi.md)] — «вот это вопрос-техника»; показ и разыгрывание удавшегося отказа с ручкой
 - [[kak-borotsya-s-dvoemysliem-kogda-docheri-9-let](pages/kak-borotsya-s-dvoemysliem-kogda-docheri-9-let.md)] — собеседница ссылается на приём из предыдущего разговора, и Зицер отвечает, что здесь он не поможет
 - [[kak-i-za-chto-ne-hvalit-rebenka](pages/kak-i-za-chto-ne-hvalit-rebenka.md)] — «а что ты имел в виду? А если я переверну?» вместо похвалы за рисунок, в четыре года
+- [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — «давай поймём, как тебе это удалось» как главный принцип работы с девочкой с СДВГ
 
 ## Related Concepts
 

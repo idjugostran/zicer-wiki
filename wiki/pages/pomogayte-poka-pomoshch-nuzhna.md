@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[subyektivnoe-vremya-rebenka](pages/subyektivnoe-vremya-rebenka.md)] — почему «пять минут» не работает как рамка
 - [[prosit-o-pomoshchi-eto-sila](pages/prosit-o-pomoshchi-eto-sila.md)] — обратная сторона: просьба о помощи не признак слабости
 - [[vytesnenie-roditeley-v-perehodnom-vozraste](pages/vytesnenie-roditeley-v-perehodnom-vozraste.md)] — то, чем закрывается окно родительской помощи
+- [[voyti-vnutr-chtoby-vyvesti](pages/voyti-vnutr-chtoby-vyvesti.md)] — конкретная форма помощи там, где ребёнок сам не справляется
 
 ## Appearances in Sources
 

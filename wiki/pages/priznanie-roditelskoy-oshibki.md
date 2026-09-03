@@ -3,7 +3,7 @@ title: Признание родительской ошибки
 category: Concepts
 summary: Когда решение было принято без ребёнка и объяснено ему неправдой, первым обязательным шагом становится извинение — без самоуничижения, но и без смягчения сути; без этой части ничего остальное не работает
 tags: [concept, roditelstvo, chestnost, podrostki, emigratsiya]
-sources: [kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi]
+sources: [kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, lnv-vypusk-314]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[kak-pomoch-rebenku-prinyat-novuyu-realnost](pages/kak-pomoch-rebenku-prinyat-novuyu-realnost.md)] — вводит концепт: две названные ошибки, условие разговора один на один, форма признания, «без этого всё остальное не сработает», реалистичные сроки
 - [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] — просьба к отцу самому сказать сыну, что он поменял точку зрения, и что менять её — круто
 - [[9-letniy-malchik-beret-chuzhie-veshchi](pages/9-letniy-malchik-beret-chuzhie-veshchi.md)] — «надо это отмотать обратно», чтобы не осталось и процента на «предательство»
+- [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — «мы это сделали уже без тебя, сожалеем, мы сделали, наверное, неправильно»
 
 ## Related Concepts
 

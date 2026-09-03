@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[dvoemyslie-u-detey](pages/dvoemyslie-u-detey.md)] — соседний сюжет: расхождение между сказанным и сделанным, но со стороны взрослых
 - [[subyektnost](pages/subyektnost.md)] — «вы режиссёр, вы артист, вы сценарист»
 - [[chetyre-tipa-adaptatsii-k-podavleniyu](pages/chetyre-tipa-adaptatsii-k-podavleniyu.md)] — смежное описание способов выжить в подавляющей среде
+- [[deystvie-vmesto-nevnimaniya](pages/deystvie-vmesto-nevnimaniya.md)] — чем занять себя, пока давление длится и уйти нельзя
 
 ## Footnotes
 

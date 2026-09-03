@@ -3,7 +3,7 @@ title: «Что обслуживает» поведение
 category: Concepts
 summary: Вместо оценки самого поступка — искать эмоциональную «плату», которую он приносит: какое состояние или ощущение человек хочет получить, повторяя это поведение
 tags: [concept, samoregulyatsiya, podrostki]
-sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208, lnv-vypusk-250, lnv-vypusk-207, moy-syn-yabeda-ili-postupaet-pravilno, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-byt-esli-vashego-rebenka-schitayut-huliganom, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let]
+sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208, lnv-vypusk-250, lnv-vypusk-207, moy-syn-yabeda-ili-postupaet-pravilno, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-byt-esli-vashego-rebenka-schitayut-huliganom, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-314]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -36,6 +36,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh](pages/chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh.md)] — роль злодея обслуживает страх: «охотника никто не убьёт»
 - [[kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru](pages/kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru.md)] — перебор того, что может обслуживать нытьё, и вывод, что почти каждый вариант решаем
 - [[chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let](pages/chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let.md)] — «странное выражение себя, поиск себя», борьба с невниманием взрослых как то, что обслуживает детское воровство
+- [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — разговоры семилетнего о смерти как кнопка, нажимающая на материнский страх
 
 ## Related Concepts
 

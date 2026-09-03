@@ -51,3 +51,4 @@ updated: 2026-09-03
 - [[literatura-kak-povod-dlya-razgovora](pages/literatura-kak-povod-dlya-razgovora.md)] — совместное занятие как форма контакта, а не повод для нравоучения
 - [[muzyka-kak-instrument-atmosfery](pages/muzyka-kak-instrument-atmosfery.md)] — обмен любимой музыкой как форма контакта внутри группы
 - [[sozdat-prichinu-byt](pages/sozdat-prichinu-byt.md)] — конкретные общие занятия как то, ради чего ребёнку хочется приходить
+- [[voyti-vnutr-chtoby-vyvesti](pages/voyti-vnutr-chtoby-vyvesti.md)] — тот же вход в занятие ребёнка, но ради помощи из него выйти
