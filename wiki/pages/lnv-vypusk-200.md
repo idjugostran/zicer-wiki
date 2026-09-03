@@ -13,6 +13,7 @@ updated: 2026-08-31
 **Source:** https://www.youtube.com/watch?v=elZ7RA9bheo
 **Date ingested:** 2026-08-30
 **Type:** transcript (юбилейный выпуск программы, звонки и сообщения)
+**Published:** 2021-03-17 · 80 мин 58 с
 
 ## Summary
 

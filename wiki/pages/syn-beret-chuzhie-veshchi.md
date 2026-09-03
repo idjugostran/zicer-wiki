@@ -13,7 +13,7 @@ updated: 2026-09-03
 **Source:** https://www.youtube.com/watch?v=jw_xMu6GeNo
 **Date ingested:** 2026-09-03
 **Type:** transcript
-**Published:** 2025-05-15 · 24 мин 15 с · программа «Любить нельзя воспитывать»
+**Published:** 2025-04-24 · 24 мин 15 с · программа «Любить нельзя воспитывать»
 
 ## Note
 

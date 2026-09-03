@@ -13,6 +13,7 @@ updated: 2026-08-31
 **Source:** https://www.youtube.com/watch?v=gKgiAzrERHk (программа «Любить нельзя воспитывать», выпуск №171 от 25.11.2020)
 **Date ingested:** 2026-08-30
 **Type:** transcript
+**Published:** 2020-11-27 · 73 мин 35 с
 
 ## Summary
 

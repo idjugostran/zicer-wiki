@@ -13,6 +13,7 @@ updated: 2026-09-03
 **Source:** https://www.youtube.com/watch?v=0ANXUAGSFQc
 **Date ingested:** 2026-09-03
 **Type:** transcript
+**Published:** 2024-08-10 · 14 мин 37 с
 
 ## Summary
 

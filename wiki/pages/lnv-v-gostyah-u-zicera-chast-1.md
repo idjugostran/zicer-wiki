@@ -13,6 +13,7 @@ updated: 2026-08-31
 **Source:** https://www.youtube.com/watch?v=F_300LPd0NE (программа «Любить нельзя воспитывать», спецвыпуск №399, ведущая Екатерина Мереминская, в гостях у Зицера дома)
 **Date ingested:** 2026-08-30
 **Type:** transcript
+**Published:** 2025-07-22 · 43 мин 59 с
 
 ## Summary
 

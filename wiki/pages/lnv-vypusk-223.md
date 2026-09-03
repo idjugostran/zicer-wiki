@@ -13,7 +13,7 @@ updated: 2026-08-31
 **Source:** https://www.youtube.com/watch?v=fkeb26t39jU
 **Date ingested:** 2026-08-30
 **Type:** transcript (программа со звонками в эфир)
-**Published:** 2021-09-29 · 1ч12м · программа «[[programma-lyubit-nelzya-vospityvat](pages/programma-lyubit-nelzya-vospityvat.md)]»
+**Published:** 2021-09-30 · 1ч12м · программа «[[programma-lyubit-nelzya-vospityvat](pages/programma-lyubit-nelzya-vospityvat.md)]»
 
 ## Summary
 

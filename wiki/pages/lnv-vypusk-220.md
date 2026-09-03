@@ -13,6 +13,7 @@ updated: 2026-08-31
 **Source:** https://www.youtube.com/watch?v=0URsOyHfyyg
 **Date ingested:** 2026-08-30
 **Type:** transcript (программа со звонками в эфир)
+**Published:** 2021-09-22 · 80 мин 16 с
 
 ## Summary
 

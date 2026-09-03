@@ -13,6 +13,7 @@ updated: 2026-08-30
 **Source:** https://www.youtube.com/watch?v=QWz3AD2q0_s (RTVI, ведущая Марианна Минскер, эфир от 17.04.2019)
 **Date ingested:** 2026-08-30
 **Type:** transcript
+**Published:** 2019-04-17 · 55 мин 5 с
 
 ## Summary
 

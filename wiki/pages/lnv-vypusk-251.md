@@ -13,6 +13,7 @@ updated: 2026-08-31
 **Source:** https://www.youtube.com/watch?v=IqPK6SH_sX4
 **Date ingested:** 2026-08-30
 **Type:** transcript (программа с звонками в эфир, радио «Маяк» / Смотрим.ру)
+**Published:** 2022-01-20 · 80 мин 13 с
 
 ## Summary
 

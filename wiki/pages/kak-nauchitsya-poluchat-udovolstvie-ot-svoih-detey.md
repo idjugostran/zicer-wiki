@@ -13,6 +13,7 @@ updated: 2026-08-30
 **Source:** https://www.youtube.com/watch?v=JYZiT5HzBKA (программа «Любить нельзя воспитывать», нетипично длинный выпуск)
 **Date ingested:** 2026-08-30
 **Type:** transcript
+**Published:** 2026-01-29 · 32 мин 38 с
 
 ## Summary
 

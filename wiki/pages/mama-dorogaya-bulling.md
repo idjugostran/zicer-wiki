@@ -13,6 +13,7 @@ updated: 2026-09-03
 **Source:** https://www.youtube.com/watch?v=UtD0kF5E5q4 (проект ЮНЕСКО и журнала Psychologies «Мама дорогая! Быть родителем подростка», ведущая Лика Длугач; участники — Тутта Ларсен, Алексей Кортнев, Дима Зицер)
 **Date ingested:** 2026-08-30
 **Type:** transcript
+**Published:** 2016-12-08 · 66 мин 37 с
 
 ## Summary
 

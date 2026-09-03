@@ -12,6 +12,7 @@ updated: 2026-08-31
 
 **Source:** https://www.youtube.com/watch?v=HbIAS4o6heA (программа «Любить нельзя воспитывать», выпуск №214 от 25.05.2021)
 **Type:** transcript
+**Published:** 2021-05-26 · 77 мин 59 с
 **Date ingested:** 2026-08-30
 
 ## Summary

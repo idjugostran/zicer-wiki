@@ -13,6 +13,7 @@ updated: 2026-09-03
 **Source:** https://www.youtube.com/watch?v=i5Gmci4R4Gc (программа «Правила жизни», канал «Культура», ведущий Алексей Бегак, эфир от 5.02.2020)
 **Date ingested:** 2026-08-29
 **Type:** transcript
+**Published:** 2020-02-06 · 8 мин 34 с
 
 ## Summary
 

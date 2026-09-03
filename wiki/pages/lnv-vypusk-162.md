@@ -13,6 +13,7 @@ updated: 2026-08-31
 **Source:** https://www.youtube.com/watch?v=dgjmgzegz9k (проект «Любить нельзя воспитывать» на радио «Маяк», выпуск №162 от 21.10.2020)
 **Date ingested:** 2026-08-30
 **Type:** transcript
+**Published:** 2020-10-22 · 77 мин 36 с
 
 ## Summary
 

@@ -13,6 +13,7 @@ updated: 2026-08-30
 **Source:** https://www.youtube.com/watch?v=Jito2eIZ2mg
 **Date ingested:** 2026-08-30
 **Type:** transcript (дебаты, программа «Правила жизни», канал «Культура», эфир от 14.10.2019)
+**Published:** 2019-10-15 · 7 мин 5 с
 
 ## Summary
 

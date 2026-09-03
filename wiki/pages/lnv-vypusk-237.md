@@ -13,7 +13,7 @@ updated: 2026-09-03
 **Source:** https://www.youtube.com/watch?v=CF5-k3neMD8
 **Date ingested:** 2026-09-03
 **Type:** transcript
-**Published:** 2021-11-24 · 1ч12м · программа «[[programma-lyubit-nelzya-vospityvat](pages/programma-lyubit-nelzya-vospityvat.md)]»
+**Published:** 2021-11-25 · 1ч12м · программа «[[programma-lyubit-nelzya-vospityvat](pages/programma-lyubit-nelzya-vospityvat.md)]»
 
 ## Summary
 

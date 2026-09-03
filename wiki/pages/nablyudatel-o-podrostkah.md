@@ -13,6 +13,7 @@ updated: 2026-09-03
 **Source:** https://www.youtube.com/watch?v=ElB7G9DUXoE (программа «Наблюдатель», канал «Культура», ведущий Андрей Максимов; также участвуют психологи Ольга Карабанова и Евгения Зоткина)
 **Date ingested:** 2026-08-30
 **Type:** transcript
+**Published:** 2016-10-11 · 55 мин 27 с
 
 ## Summary
 

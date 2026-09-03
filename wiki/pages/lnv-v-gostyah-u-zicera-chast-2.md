@@ -13,6 +13,7 @@ updated: 2026-08-31
 **Source:** https://www.youtube.com/watch?v=Yrd5RK9BRTQ
 **Date ingested:** 2026-08-31
 **Type:** transcript (специальный выпуск, беседа Екатерины Мереминской с Димой Зицером)
+**Published:** 2025-07-29 · 56 мин 30 с
 
 ## Summary
 

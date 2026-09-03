@@ -13,6 +13,7 @@ updated: 2026-09-02
 **Source:** https://www.youtube.com/watch?v=XNynszHQ6nI (программа «Детский недетский вопрос», ведущий Дмитрий Брикман, 2025)
 **Date ingested:** 2026-09-02
 **Type:** transcript
+**Published:** 2025-11-20 · 60 мин 51 с
 
 ## Summary
 

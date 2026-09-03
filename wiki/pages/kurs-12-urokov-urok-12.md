@@ -13,6 +13,7 @@ updated: 2026-09-01
 **Source:** https://www.youtube.com/watch?v=c3yX64Qgpos
 **Date ingested:** 2026-08-30
 **Type:** transcript (видеоурок, курс [[kurs-12-urokov-dlya-prodvinutyh-roditeley](pages/kurs-12-urokov-dlya-prodvinutyh-roditeley.md)])
+**Published:** 2021-11-12 · 15 мин
 
 ## Summary
 

@@ -13,6 +13,7 @@ updated: 2026-08-31
 **Source:** https://www.youtube.com/watch?v=_l51cyeI_cc (программа «Любить нельзя воспитывать», выпуск №252 от 25.01.2022)
 **Date ingested:** 2026-08-30
 **Type:** transcript
+**Published:** 2022-01-26 · 75 мин 42 с
 
 ## Summary
 

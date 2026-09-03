@@ -353,5 +353,12 @@ Analyses
   every skill reads it before writing or scanning links
 - YouTube video sources are downloaded and deduplicated per `config/youtube-transcript.md`
   before `wiki-ingest` reads them — same yt-dlp command and VTT-cleanup script every time
+- `**Published:**` on a Source page takes the date from `upload_date` in
+  `raw/<ID>.info.json` — never the date written in the video title. The two differ:
+  a broadcast aired in the evening is usually uploaded the next day, and for some
+  sources they diverge by weeks. `upload_date` is chosen because it is machine-verifiable
+  and available for every YouTube source, whereas a title date exists only for some.
+  Nothing is lost by this: where the broadcast date matters it is already carried by the
+  page `title:` and the H1 heading (e.g. «выпуск #237 от 24.11.2021»)
 - contradiction check: ingest gates on blocking contradictions in touched pages via a transient `contradiction-check: failed` flag, removed before commit — committed pages are always clean (see Contradiction Check)
 - pre-commit gate: git wikis run bin/hooks/pre-commit (via core.hooksPath) → bin/check-contradictions.py, which blocks any commit staging a page that still carries the flag (see Pre-commit Gate); re-run `git config core.hooksPath bin/hooks` after a fresh clone
