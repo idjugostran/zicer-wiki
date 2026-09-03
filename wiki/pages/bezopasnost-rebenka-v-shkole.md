@@ -3,7 +3,7 @@ title: Безопасность ребёнка в школе как обязан
 category: Concepts
 summary: При систематической травле школа обязана обеспечить ребёнку безопасность и прекратить ситуацию без стигматизации того, кто обратился за помощью
 tags: [concept, shkola, bulling, roditelstvo]
-sources: [lnv-vypusk-215, lnv-vypusk-162, lnv-vypusk-252, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-164, lnv-vypusk-332, kak-razreshit-konflikt-v-shkole, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-byt-esli-ne-nravyatsya-druzya-rebenka, kak-zashchitit-7-letnego-syna-ot-travli, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-244, lnv-vypusk-235, lnv-vypusk-218]
+sources: [lnv-vypusk-215, lnv-vypusk-162, lnv-vypusk-252, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-164, lnv-vypusk-332, kak-razreshit-konflikt-v-shkole, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-byt-esli-ne-nravyatsya-druzya-rebenka, kak-zashchitit-7-letnego-syna-ot-travli, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-244, lnv-vypusk-235, lnv-vypusk-218, lnv-vypusk-213]
 created: 2026-08-30
 updated: 2026-09-04
 ---
@@ -41,6 +41,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — воспитательница ударила детей: первый адрес — заведующая, вместе с другими родителями, а не департамент
 - [[lnv-vypusk-235](pages/lnv-vypusk-235.md)] — пространство без опасений устраивают взрослые; система характеризуется не ошибкой, а реакцией на ошибку
 - [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — две школы, где ребёнка унижают и грозят учётом; вопрос «зачем ваш сын ходит в такую школу» задан дважды
+- [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — систематическая травля десятилетнего: учительница отказалась вмешиваться, разговоры с директором не помогли; Зицер настаивает на выводе ребёнка из класса до всякого разбирательства
 
 ## Related Concepts
 
@@ -50,3 +51,4 @@ updated: 2026-09-04
 - [[obrechennost-kak-istochnik-otkaza](pages/obrechennost-kak-istochnik-otkaza.md)] — альтернативное объяснение школьного отказа, когда травли нет: предопределённая траектория без участия ребёнка
 - [[zashchita-ot-uchitelskogo-oskorbleniya](pages/zashchita-ot-uchitelskogo-oskorbleniya.md)] — та же защита, когда агрессор — не другие дети, а взрослый в школе
 - [[priem-ne-srabotal-znachit-menyat](pages/priem-ne-srabotal-znachit-menyat.md)] — реакция системы на ошибку как её характеристика
+- [[snachala-bezopasnost-potom-pravota](pages/snachala-bezopasnost-potom-pravota.md)] — порядок исполнения: вывести из опасности прежде, чем разбираться

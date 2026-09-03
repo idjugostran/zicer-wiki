@@ -44,3 +44,4 @@ updated: 2026-09-04
 - [[sotsializatsiya-ne-ravna-shkole](pages/sotsializatsiya-ne-ravna-shkole.md)] — доводит фактор «субъектное взаимодействие» до предела: раз связи не складываются именно в школе, их можно строить вне неё
 - [[pravo-zhit-dlya-kayfov](pages/pravo-zhit-dlya-kayfov.md)] — та же возрастная оговорка («потерпи, потом пригодится» — обман), распространённая на подростковый возраст
 - [[pedagogika-bez-konteksta](pages/pedagogika-bez-konteksta.md)] — следствие: отцензурированный мир делает познание мира невозможным
+- [[navyk-uchitelya-vazhnee-razmera-klassa](pages/navyk-uchitelya-vazhnee-razmera-klassa.md)] — то же возражение о размере класса, разобранное как критерий выбора школы

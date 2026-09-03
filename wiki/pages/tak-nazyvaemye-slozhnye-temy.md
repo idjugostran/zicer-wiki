@@ -3,9 +3,9 @@ title: Так называемые «сложные темы»
 category: Concepts
 summary: Секс, смерть, дурные привычки — не сложны сами по себе; сложность создаёт телесный блок родителя, который ребёнок считывает и начинает защитно избегать темы
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-8, lnv-vypusk-164, lnv-vypusk-250, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-245, lnv-vypusk-237, lnv-vypusk-229]
+sources: [kurs-12-urokov-urok-8, lnv-vypusk-164, lnv-vypusk-250, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-245, lnv-vypusk-237, lnv-vypusk-229, lnv-vypusk-213]
 created: 2026-08-29
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Так называемые «сложные темы»
@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-245](pages/lnv-vypusk-245.md)] — о смерти деда рассказывают точно, начиная с извинения за трёхлетнее молчание
 - [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — испуг матери от самих слов закрывает тему; Зицер называет эти слова нормативными
 - [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — детская навязчивая мастурбация разбирается по пунктам, спокойно и без драматизации
+- [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — незнакомое подростковое увлечение не оценивают, а расспрашивают
 
 ## Related Concepts
 

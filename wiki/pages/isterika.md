@@ -3,9 +3,9 @@ title: Истерика (детская и взрослая)
 category: Concepts
 summary: Реактивное неконтролируемое состояние — по Зицеру, не специфичное для детей, а общечеловеческое
 tags: [concept, emotional-regulation]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-3, lnv-vypusk-215, otkuda-berutsya-modeli-povedeniya, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, kniga-lyubit-nelzya-vospityvat, moya-doch-deretsya-i-plyuetsya, kak-nauchitsya-spravlyatsya-s-emotsiyami, lnv-vypusk-237]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-3, lnv-vypusk-215, otkuda-berutsya-modeli-povedeniya, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, kniga-lyubit-nelzya-vospityvat, moya-doch-deretsya-i-plyuetsya, kak-nauchitsya-spravlyatsya-s-emotsiyami, lnv-vypusk-237, lnv-vypusk-213]
 created: 2026-08-04
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Истерика (детская и взрослая)
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[moya-doch-deretsya-i-plyuetsya](pages/moya-doch-deretsya-i-plyuetsya.md)] — «всё добивается слезами»: мать уступает сладкое и мультик, подкармливая силовой ход
 - [[kak-nauchitsya-spravlyatsya-s-emotsiyami](pages/kak-nauchitsya-spravlyatsya-s-emotsiyami.md)] — крик до визга, брошенные вещи, хлопнувшая дверь у одиннадцатилетней
 - [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — внутри истерики трёхлетнего разговор невозможен; обсуждение выносится наружу, внутри остаются сочувствие, вода и объятие
+- [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — падение на пол и крик у трёхлетней девочки — единственное, что Зицер попросил проанализировать отдельно
 
 ## Related Concepts
 

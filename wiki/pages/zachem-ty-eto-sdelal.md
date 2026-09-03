@@ -3,9 +3,9 @@ title: «Зачем ты это сделал»
 category: Concepts
 summary: Самый тупиковый родительский вопрос в дошкольном возрасте: ребёнок честно не знает ответа, и взрослый на своём примере тоже не знал бы; вопрос лишь заряжает ситуацию, вместо того чтобы её разбирать
 tags: [concept, roditelstvo, doshkolniki, kommunikatsiya]
-sources: [syn-beret-chuzhie-veshchi, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, mne-nravitsya-kak-papa-reagiruet, lnv-vypusk-236, lnv-vypusk-232]
+sources: [syn-beret-chuzhie-veshchi, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, mne-nravitsya-kak-papa-reagiruet, lnv-vypusk-236, lnv-vypusk-232, lnv-vypusk-213]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # «Зачем ты это сделал»
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[mne-nravitsya-kak-papa-reagiruet](pages/mne-nravitsya-kak-papa-reagiruet.md)] — обратный случай: ответ уже получен, и дальнейшие «зачем и почему» бесполезны
 - [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — «я не знаю, зачем я это сделала» от подростка Зицер считает правдивым ответом, а не отговоркой
 - [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — мать четырёхлетнего расспрашивает его о причинах гримасы при закапывании капель; Зицер показывает, что вопрос не даёт ничего
+- [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — «на вопрос зачем ребёнок честно отвечает: весело»; предложена замена — вопрос о помощи в прекращении
 
 ## Related Concepts
 
@@ -38,6 +39,7 @@ updated: 2026-09-03
 - [[sochuvstvie-razoblachennomu](pages/sochuvstvie-razoblachennomu.md)] — что делают вместо требования объяснить мотив
 - [[vopros-pochemu-kak-zavualirovannyi-prikaz](pages/vopros-pochemu-kak-zavualirovannyi-prikaz.md)] — соседний тупиковый вопрос: там ответа не знает ребёнок, здесь его прячет взрослый
 - [[ne-znayu-kak-raschet](pages/ne-znayu-kak-raschet.md)] — вторая причина того же ответа: не «не понимает», а «просчитал»
+- [[kak-tebe-pomoch-prekratit](pages/kak-tebe-pomoch-prekratit.md)] — чем заменяют тупиковый вопрос при нарушении правил
 
 ## Footnotes
 

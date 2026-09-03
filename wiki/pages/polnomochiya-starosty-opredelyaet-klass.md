@@ -3,7 +3,7 @@ title: Полномочия старосты определяет класс
 category: Concepts
 summary: Выбранный староста получает не обязанность наводить порядок за учителей, а право влияния с функциями, которые определяют прежде всего сами дети; самоуправление имеет смысл только тогда, когда выборы не фейковые
 tags: [concept, shkola, samoupravlenie, mandat, uchastniki]
-sources: [lnv-vypusk-241]
+sources: [lnv-vypusk-241, lnv-vypusk-213]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -28,3 +28,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — вводит тезис: вопрос Елены об обязанностях выбранного старосты
+- [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — парламент как орган разбора нарушений вместо учителя

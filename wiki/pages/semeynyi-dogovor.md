@@ -3,9 +3,9 @@ title: Семейный договор
 category: Concepts
 summary: Двухнедельная процедура: каждый формулирует, что ему нужно и где его красные линии, затем короткий эксперимент, разбор и переформулировка — нарушенное правило означает неточную формулировку, а не плохого человека
 tags: [concept, dogovor, granitsy, semya, protsedura]
-sources: [kak-dobitsya-mira-so-svoimi-detmi, kak-pravilno-govorit-s-rebenkom-pro-dengi, syn-14-let-vlyubilsya-i-eto-opasno, kuda-zhe-my-toropimsya, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-244]
+sources: [kak-dobitsya-mira-so-svoimi-detmi, kak-pravilno-govorit-s-rebenkom-pro-dengi, syn-14-let-vlyubilsya-i-eto-opasno, kuda-zhe-my-toropimsya, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-244, lnv-vypusk-213]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Семейный договор
@@ -40,6 +40,7 @@ updated: 2026-09-03
 - [[kuda-zhe-my-toropimsya](pages/kuda-zhe-my-toropimsya.md)] — «главное чтобы не меня, не папу не трогали»: договор про тройки, устраивавший обе стороны
 - [[kogda-starshiy-brat-koshmarit-mladshego](pages/kogda-starshiy-brat-koshmarit-mladshego.md)] — круглый стол под абажуром и еженедельное «собрание профсоюзное» как сеанс обратной связи
 - [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — входные шаги процедуры без её цикла: спросить по-честному, как человек хочет жить, затем родитель формулирует своё, и обе картины сопоставляются — «придумываем заново нашу жизнь»
+- [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — правила школы вырабатываются вместе с детьми: «это их правило»
 
 ## Related Concepts
 

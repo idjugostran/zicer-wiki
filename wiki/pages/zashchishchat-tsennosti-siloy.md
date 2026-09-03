@@ -3,9 +3,9 @@ title: Защищать ценности силой
 category: Concepts
 summary: Гуманистические убеждения не отменяются войной и не превращаются в запрет сопротивляться: «не обижай слабых» остаётся в силе именно потому, что за него сражаются
 tags: [concept, voyna, gumanizm, tsennosti, soprotivlenie]
-sources: [mozhno-li-uberech-rebenka-ot-nenavisti, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy, vstuplenie-k-lnv-10-oktyabrya-2023]
+sources: [mozhno-li-uberech-rebenka-ot-nenavisti, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy, vstuplenie-k-lnv-10-oktyabrya-2023, lnv-vypusk-213]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Защищать ценности силой
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[mozhno-li-uberech-rebenka-ot-nenavisti](pages/mozhno-li-uberech-rebenka-ot-nenavisti.md)] — сформулировано впервые: мать из Киева боится, что предаёт собственные убеждения
 - [[chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy](pages/chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy.md)] — победа и сопротивление не обесцениваются: отделяется от них только пожелание повторения
 - [[vstuplenie-k-lnv-10-oktyabrya-2023](pages/vstuplenie-k-lnv-10-oktyabrya-2023.md)] — «у меня нет сомнения в победе Израиля и в победе Украины… вопрос цены»
+- [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — частичное согласие с «добро должно быть с кулаками»: добро должно уметь защищаться, вопрос — как и кого
 
 ## Related Concepts
 

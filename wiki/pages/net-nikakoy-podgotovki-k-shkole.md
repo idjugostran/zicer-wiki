@@ -3,9 +3,9 @@ title: Нет никакой подготовки к школе
 category: Concepts
 summary: Требование «подготовить» ребёнка к школе Зицер называет враньём: единственная подготовка — спокойное детство и стабильное состояние, с которым человек в школу приходит
 tags: [concept, shkola, doshkolniki, mify, stabilnost]
-sources: [kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-byt-esli-devochka-ne-hochet-zdorovatsya, lnv-vypusk-241, lnv-vypusk-231, lnv-vypusk-230]
+sources: [kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-byt-esli-devochka-ne-hochet-zdorovatsya, lnv-vypusk-241, lnv-vypusk-231, lnv-vypusk-230, lnv-vypusk-213]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Нет никакой подготовки к школе
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — тезис расширен со школы на всю цепочку: жизнь ребёнка вообще не превращают в подготовку к жизни
 - [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — вместо подготовки пятилетнего к школе ищут среду по его интересам
 - [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — вопрос Анфисы о «супернавыках» из детского сада
+- [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — та же логика снятия тревоги родителя, но по поводу размера класса и программы
 
 ## Related Concepts
 

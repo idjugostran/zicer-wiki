@@ -3,7 +3,7 @@ title: Обратиться к властям как защита
 category: Concepts
 summary: Когда травля продолжается, а взрослые с другой стороны отказываются вмешиваться, защиту ищут в полиции и социальных службах; недопустим только один исход — тот, при котором ребёнка не защищают
 tags: [concept, travlya, bulling, zashchita, protsedura, vzroslye]
-sources: [kak-zashchitit-7-letnego-syna-ot-travli, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245, lnv-vypusk-218]
+sources: [kak-zashchitit-7-letnego-syna-ot-travli, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245, lnv-vypusk-218, lnv-vypusk-213]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -32,6 +32,7 @@ updated: 2026-09-04
 - [[obysk-desyatiklassnikov-v-orske](pages/obysk-desyatiklassnikov-v-orske.md)] — граница: правовой путь остаётся верным, но ставится после вывода ребёнка из школы
 - [[lnv-vypusk-245](pages/lnv-vypusk-245.md)] — взрослые механизмы — уполномоченный по правам ребёнка — применяются отдельно от детей
 - [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — обратная сторона: когда школа заговорила о постановке на учёт, семье нужен юрист и собственная защита
+- [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — эскалация: директор → комитет по образованию → городские газеты, если директор «не в курсе»
 
 ## Related Concepts
 
@@ -41,3 +42,4 @@ updated: 2026-09-04
 - [[sdvg-kak-osobennost-a-ne-diagnoz](pages/sdvg-kak-osobennost-a-ne-diagnoz.md)] — почему особенности усиливают обязанность защищать
 - [[davat-sdachi](pages/davat-sdachi.md)] — почему ответное нападение не является защитой
 - [[nam-kto-to-poveril](pages/nam-kto-to-poveril.md)] — обратный случай: оступившегося ребёнка не выдают, длящуюся опасность не скрывают
+- [[snachala-bezopasnost-potom-pravota](pages/snachala-bezopasnost-potom-pravota.md)] — эскалация идёт после того, как ребёнок в безопасности

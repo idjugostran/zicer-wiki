@@ -47,3 +47,4 @@ updated: 2026-09-04
 - [[shkola-apelsin](pages/shkola-apelsin.md)] — институциональная среда, в которой этот принцип применяется на практике
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — рамка в кризисный момент дополняет телесные техники: сначала остановить действие, разговор — только после успокоения
 - [[stop-slovo](pages/stop-slovo.md)] — договорённость, работающая по согласию обеих сторон, а не по подчинению
+- [[navyk-uchitelya-vazhnee-razmera-klassa](pages/navyk-uchitelya-vazhnee-razmera-klassa.md)] — те самые навыки, которые важнее наполняемости
