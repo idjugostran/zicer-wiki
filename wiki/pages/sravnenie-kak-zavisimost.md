@@ -3,9 +3,9 @@ title: Сравнение
 category: Concepts
 summary: Сравнение/оценка как психологический механизм, близкий к зависимости — подменяет внутренний интерес потребностью во внешнем одобрении
 tags: [concept, otsenka, roditelstvo, pedagogika]
-sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin, lnv-vypusk-164, kak-byt-esli-rebenok-ne-uveren-v-sebe, kniga-lyubit-nelzya-vospityvat, kak-ne-perehvalit-rebenka, vstuplenie-k-programme-16-01-24, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-240, lnv-vypusk-241, lnv-vypusk-235, lnv-vypusk-231, lnv-vypusk-227]
+sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin, lnv-vypusk-164, kak-byt-esli-rebenok-ne-uveren-v-sebe, kniga-lyubit-nelzya-vospityvat, kak-ne-perehvalit-rebenka, vstuplenie-k-programme-16-01-24, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-240, lnv-vypusk-241, lnv-vypusk-235, lnv-vypusk-231, lnv-vypusk-227, lnv-vypusk-225]
 created: 2026-08-04
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Сравнение
@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-235](pages/lnv-vypusk-235.md)] — шестилетний играет «в школу», где он всё сделал правильно, а остальные нет; привычку кто-то показал, противоядие — подчёркивать самость вне зависимости от других
 - [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — семилетний «посажен на оценку, посажен на похвалу»
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — мальчик, «посаженный на похвалу, как наркоман»; радость от победы как колосс на глиняных ногах
+- [[lnv-vypusk-225](pages/lnv-vypusk-225.md)] — «должна быть лучше других» у шестилетней дочери разбирается как выученное, а не как черта характера
 
 ## Related Concepts
 

@@ -3,9 +3,9 @@ title: Возрастные кризисы как смена системы ко
 category: Concepts
 summary: Три ключевые возрастные границы (3 года, 7 лет, переходный возраст) — не сбои, а последовательная смена «системы координат» взаимодействия с миром
 tags: [concept, roditelstvo, kurs-12-urokov, podrostki]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-248, lnv-vypusk-220, kak-nayti-druzey-na-novom-meste, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-3-letniy-syn-komanduet-mamoy, syn-darit-tsennye-veshchi-drugim-detyam, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, moya-doch-deretsya-i-plyuetsya, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, mamu-arestovali-na-glazah-dvuhletnego-syna, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-246, lnv-vypusk-239, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-237, lnv-vypusk-233, lnv-vypusk-229]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-248, lnv-vypusk-220, kak-nayti-druzey-na-novom-meste, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-3-letniy-syn-komanduet-mamoy, syn-darit-tsennye-veshchi-drugim-detyam, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, moya-doch-deretsya-i-plyuetsya, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, mamu-arestovali-na-glazah-dvuhletnego-syna, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-246, lnv-vypusk-239, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-237, lnv-vypusk-233, lnv-vypusk-229, lnv-vypusk-225]
 created: 2026-08-29
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Возрастные кризисы как смена системы координат
@@ -49,6 +49,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — развёрнутая формулировка кризиса семилетия: до семи маминый поцелуй «лечит головку», после — уже нет
 - [[lnv-vypusk-233](pages/lnv-vypusk-233.md)] — 14–16 лет как возраст переоценки ценностей назван в трёх разных звонках
 - [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — кризис семи лет у старшей и кризис трёх лет у младшей названы фоном семейного конфликта
+- [[lnv-vypusk-225](pages/lnv-vypusk-225.md)] — состояние трёхлетнего после болезни матери описывается тем же языком «новой системы координат»
 
 ## Related Concepts
 

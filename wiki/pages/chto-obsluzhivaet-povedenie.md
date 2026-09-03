@@ -5,7 +5,7 @@ summary: Вместо оценки самого поступка — искат�
 tags: [concept, samoregulyatsiya, podrostki]
 sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208, lnv-vypusk-250, lnv-vypusk-207, moy-syn-yabeda-ili-postupaet-pravilno, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-byt-esli-vashego-rebenka-schitayut-huliganom, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-314, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-236, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227]
 created: 2026-08-30
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # «Что обслуживает» поведение
@@ -58,3 +58,4 @@ updated: 2026-09-03
 - [[rebenok-nazyvaet-prichinu-sam](pages/rebenok-nazyvaet-prichinu-sam.md)] — то же искомое, но названное самим ребёнком, а не добытое взрослым
 - [[datirovka-izmeneniya-povedeniya](pages/datirovka-izmeneniya-povedeniya.md)] — шаг, предшествующий вопросу о функции поведения
 - [[nasmeshka-kak-vozvrat-sebya](pages/nasmeshka-kak-vozvrat-sebya.md)] — частный механизм: плата за насмешку — возврат себе ощущения, что существуешь
+- [[dengi-kak-emotsionalno-zaryazhennoe-mesto](pages/dengi-kak-emotsionalno-zaryazhennoe-mesto.md)] — частный случай: деньги как место с гарантированной реакцией взрослых

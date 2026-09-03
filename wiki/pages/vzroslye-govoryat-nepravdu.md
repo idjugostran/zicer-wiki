@@ -5,7 +5,7 @@ summary: Прошлые несбывшиеся угрозы взрослых о�
 tags: [concept, doverie, zaprety, podrostki, pravda]
 sources: [lnv-vypusk-249]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Взрослые говорят неправду
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[chtenie-perepiski-detey](pages/chtenie-perepiski-detey.md)] — слежка как способ, отвергаемый вместе с запретом
 - [[pravda-ob-opasnoy-srede](pages/pravda-ob-opasnoy-srede.md)] — правда как условие разговора, но про внешнюю среду
 - [[cheloveka-tuda-nuzhno-privesti](pages/cheloveka-tuda-nuzhno-privesti.md)] — что стоит за самим курением: компенсация неуверенности
+- [[roditel-ne-znaet-posledstviy](pages/roditel-ne-znaet-posledstviy.md)] — цена ложной точности в прогнозах, накопленная за годы
 
 ## Appearances in Sources
 

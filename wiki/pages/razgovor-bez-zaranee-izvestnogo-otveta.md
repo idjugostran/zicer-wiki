@@ -3,9 +3,9 @@ title: Разговор без заранее известного ответа
 category: Concepts
 summary: Нельзя входить в разговор, зная ответ ребёнка, даже если вы его действительно знаете, и нельзя отвечать за него: от произнесённого им ответа зависит, какой ход делает родитель дальше
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-ponyat-14-letnyuyu-doch, malchik-hochet-odevatsya-kak-devochka, syn-14-let-vlyubilsya-i-eto-opasno, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-244, lnv-vypusk-232, lnv-vypusk-227]
+sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-ponyat-14-letnyuyu-doch, malchik-hochet-odevatsya-kak-devochka, syn-14-let-vlyubilsya-i-eto-opasno, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-244, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-225]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Разговор без заранее известного ответа
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — мама не должна ждать ответа «хочу быть отличницей», иначе разговор не состоится
 - [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — «она говорит одно, вы говорите другое»: мать отвечает за дочь вместо того, чтобы услышать её заказ
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — проверка, не подстроен ли ответ восьмилетнего под мамино ожидание
+- [[lnv-vypusk-225](pages/lnv-vypusk-225.md)] — Зицер не знает заранее, откуда взялись айкидо и фехтование, и именно от ответа матери зависит его следующий ход
 
 ## Related Concepts
 
