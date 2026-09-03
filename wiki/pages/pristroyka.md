@@ -3,7 +3,7 @@ title: Пристройка
 category: Concepts
 summary: Индивидуальный способ, которым человек приспосабливается к невыносимым обстоятельствам; пристройки бывают очень разными и странными на вид, и отнимать найденную — значит лишать опоры
 tags: [concept, voyna, travma, adaptatsiya, deti]
-sources: [chto-pomogaet-detyam-vyzhit-na-voyne]
+sources: [chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 
 - [[chto-pomogaet-detyam-vyzhit-na-voyne](pages/chto-pomogaet-detyam-vyzhit-na-voyne.md)] — вводит термин: тринадцатилетний сын отказывается уезжать и поддерживает мать
 - [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] — пристройка к новой школе после переезда: «принят таким — а что я буду менять?»
+- [[devochka-13-let-poteryala-vkus-k-zhizni](pages/devochka-13-let-poteryala-vkus-k-zhizni.md)] — Зицер сам употребляет термин и подчёркивает непредсказуемость: общительный может закрыться, закрытый — заговорить
 
 ## Related Concepts
 

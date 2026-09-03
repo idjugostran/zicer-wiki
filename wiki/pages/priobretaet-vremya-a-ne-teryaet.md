@@ -3,7 +3,7 @@ title: Она не теряет время, она приобретает вре
 category: Concepts
 summary: Переворот рамки «потерянного года»: пауза после переезда или потрясения — это не простой, а работа по восстановлению себя заново
 tags: [concept, travma, emigratsiya, podrostki, vremya]
-sources: [moya-doch-zabila-na-vse]
+sources: [moya-doch-zabila-na-vse, devochka-13-let-poteryala-vkus-k-zhizni]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[moya-doch-zabila-na-vse](pages/moya-doch-zabila-na-vse.md)] — сформулировано впервые: дочь-музыкант из Одессы за полтора года в Германии бросила инструмент и учёбу
+- [[devochka-13-let-poteryala-vkus-k-zhizni](pages/devochka-13-let-poteryala-vkus-k-zhizni.md)] — прямая отсылка Зицера к собственному прошлому выпуску: «она не теряет время, она приобретает время»
 
 ## Related Concepts
 

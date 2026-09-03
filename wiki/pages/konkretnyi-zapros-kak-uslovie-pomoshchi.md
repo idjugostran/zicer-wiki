@@ -3,7 +3,7 @@ title: Конкретный запрос как условие помощи
 category: Concepts
 summary: Помочь человеку против его воли или без сформулированной цели невозможно; прежде чем советовать, нужно добиться от просящего конкретного запроса, а не позволять ему просто изливать эмоции
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-219, kak-byt-esli-rebenok-ne-uveren-v-sebe, kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-organizovat-poezdku-dlya-detey, devochka-otkazyvaetsya-hodit-v-shkolu, chego-boitsya-syn-i-chto-s-etim-delat, kak-podderzhat-rebenka-vo-vremya-voyny, kak-ponyat-14-letnyuyu-doch, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami, kto-ya-svoey-padcheritse, kak-nauchitsya-spravlyatsya-s-emotsiyami, chto-pomogaet-detyam-vyzhit-na-voyne]
+sources: [lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-219, kak-byt-esli-rebenok-ne-uveren-v-sebe, kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-organizovat-poezdku-dlya-detey, devochka-otkazyvaetsya-hodit-v-shkolu, chego-boitsya-syn-i-chto-s-etim-delat, kak-podderzhat-rebenka-vo-vremya-voyny, kak-ponyat-14-letnyuyu-doch, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami, kto-ya-svoey-padcheritse, kak-nauchitsya-spravlyatsya-s-emotsiyami, chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -42,3 +42,4 @@ updated: 2026-09-03
 - [[korol-pomoshchi](pages/korol-pomoshchi.md)] — зеркальное требование конкретности, обращённое к тому, кто просит помощи у ребёнка
 - [[proverka-masshtaba-trevogi](pages/proverka-masshtaba-trevogi.md)] — «докажите мне, что помощь нужна» как частный случай той же проверки
 - [[prosit-o-pomoshchi-eto-sila](pages/prosit-o-pomoshchi-eto-sila.md)] — просьба о поддержке в отличие от перекладывания проблемы
+- [[prinyat-sostoyanie-kak-normu](pages/prinyat-sostoyanie-kak-normu.md)] — почему инструменты предлагают только после того, как состояние объявлено нормой

@@ -3,7 +3,7 @@ title: Психотерапия как инструмент
 category: Concepts
 summary: Психотерапия — не признание слабости и не приговор, а специальный инструмент вроде таблетки от гриппа; слово «травма» лучше не произносить, а само переживание назвать человеческим качеством, которое бывает у кого угодно
 tags: [concept, roditelstvo, psihoterapiya, strah]
-sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy]
+sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, devochka-13-let-poteryala-vkus-k-zhizni]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[kto-ya-svoey-padcheritse](pages/kto-ya-svoey-padcheritse.md)] — еженедельный психолог с одиннадцати лет не отменяет необходимости менять устройство жизни
 - [[mozhno-li-pomoch-rodnym-izdaleka](pages/mozhno-li-pomoch-rodnym-izdaleka.md)] — психолог, затем психиатр и препараты для сна у старшего подростка
 - [[kak-nauchitsya-spravlyatsya-s-emotsiyami](pages/kak-nauchitsya-spravlyatsya-s-emotsiyami.md)] — редкий случай критики результата: два года работы дали «справляться» через закрывание
+- [[devochka-13-let-poteryala-vkus-k-zhizni](pages/devochka-13-let-poteryala-vkus-k-zhizni.md)] — психолог как один из инструментов следующего витка; отдельно оговорена граница с депрессией как болезнью
 
 ## Related Concepts
 
