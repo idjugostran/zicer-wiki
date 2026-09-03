@@ -3,7 +3,7 @@ title: Участники как заказчики
 category: Concepts
 summary: Каждый присутствующий — включая подростка, которого никто не спрашивал, — делается заказчиком процесса, вплоть до деления времени занятия на равные части по числу заказов
 tags: [concept, pedagogika, neformalnoe-obrazovanie, subyektnost]
-sources: [kak-provodit-klassnye-ekskursii-dlya-detey, kak-uchitelyu-stroit-atmosferu-uroka]
+sources: [kak-provodit-klassnye-ekskursii-dlya-detey, kak-uchitelyu-stroit-atmosferu-uroka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 
 - [[kak-provodit-klassnye-ekskursii-dlya-detey](pages/kak-provodit-klassnye-ekskursii-dlya-detey.md)] — вводит концепт целиком: экскурсия для семьи с подростком и младшим ребёнком в итальянском городе
 - [[kak-uchitelyu-stroit-atmosferu-uroka](pages/kak-uchitelyu-stroit-atmosferu-uroka.md)] — динамическая группа, где говорят участники, а взрослый не носитель всех ответов
+- [[kak-uchitelyu-pomoch-uchenikam-iz-ukrainy](pages/kak-uchitelyu-pomoch-uchenikam-iz-ukrainy.md)] — принять их не говорящими на немецком и не готовыми интегрироваться
 
 ## Related Concepts
 

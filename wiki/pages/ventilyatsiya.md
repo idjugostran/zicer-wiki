@@ -3,7 +3,7 @@ title: Вентиляция
 category: Concepts
 summary: С человеком в травме говорят, давая ему выговориться, а не разбирая сказанное по существу; при этом поддерживающий обязан фильтровать услышанное, иначе сломается его собственный вентилятор
 tags: [concept, travma, voyna, podderzhka, resurs]
-sources: [mozhno-li-pomoch-rodnym-izdaleka]
+sources: [mozhno-li-pomoch-rodnym-izdaleka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[mozhno-li-pomoch-rodnym-izdaleka](pages/mozhno-li-pomoch-rodnym-izdaleka.md)] — сформулировано впервые: тётя из Днепра поддерживает племянников и сестру в Германии
+- [[kak-uchitelyu-pomoch-uchenikam-iz-ukrainy](pages/kak-uchitelyu-pomoch-uchenikam-iz-ukrainy.md)] — первая задача группы: снова позволить себе сказать «я»
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Психотерапия как инструмент
 category: Concepts
 summary: Психотерапия — не признание слабости и не приговор, а специальный инструмент вроде таблетки от гриппа; слово «травма» лучше не произносить, а само переживание назвать человеческим качеством, которое бывает у кого угодно
 tags: [concept, roditelstvo, psihoterapiya, strah]
-sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka, kak-nauchitsya-spravlyatsya-s-emotsiyami]
+sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[lichnost-a-ne-povedenie](pages/lichnost-a-ne-povedenie.md)] — реакция ребёнка не описывает его личность и не делает его менее достойным
 - [[pravo-na-svyaz-s-blizkimi](pages/pravo-na-svyaz-s-blizkimi.md)] — причина, по которой инструмент понадобился
 - [[nichego-ne-byvaet-prosto-tak](pages/nichego-ne-byvaet-prosto-tak.md)] — «к неврологу ходят не для того, чтобы услышать, что всё нормально»
+- [[karl-rodzhers](pages/karl-rodzhers.md)] — граница между педагогической группой и психотерапией, которую Зицер отказывается переходить
 
 ## Footnotes
 

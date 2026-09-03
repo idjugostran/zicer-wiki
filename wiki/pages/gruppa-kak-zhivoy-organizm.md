@@ -3,7 +3,7 @@ title: Группа как живой организм
 category: Concepts
 summary: Группа сама структурирует образовательный процесс; задача ведущего не создать этот процесс, а уметь его включить — отсюда динамическая группа, где говорят участники, а взрослый не является носителем всех ответов
 tags: [concept, pedagogika, gruppa, neformalnoe-obrazovanie]
-sources: [kak-uchitelyu-stroit-atmosferu-uroka]
+sources: [kak-uchitelyu-stroit-atmosferu-uroka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-uchitelyu-stroit-atmosferu-uroka](pages/kak-uchitelyu-stroit-atmosferu-uroka.md)] — вводит концепт: цитата из статьи «Группа», динамическая группа на 20 минут, отказ взрослого быть носителем всех ответов
+- [[kak-uchitelyu-pomoch-uchenikam-iz-ukrainy](pages/kak-uchitelyu-pomoch-uchenikam-iz-ukrainy.md)] — группа как инструмент изменений, со ссылкой на Карла Роджерса
 
 ## Related Concepts
 
