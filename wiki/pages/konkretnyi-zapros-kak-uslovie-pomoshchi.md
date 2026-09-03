@@ -3,7 +3,7 @@ title: Конкретный запрос как условие помощи
 category: Concepts
 summary: Помочь человеку против его воли или без сформулированной цели невозможно; прежде чем советовать, нужно добиться от просящего конкретного запроса, а не позволять ему просто изливать эмоции
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-219, kak-byt-esli-rebenok-ne-uveren-v-sebe, kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-organizovat-poezdku-dlya-detey, devochka-otkazyvaetsya-hodit-v-shkolu, chego-boitsya-syn-i-chto-s-etim-delat, kak-podderzhat-rebenka-vo-vremya-voyny, kak-ponyat-14-letnyuyu-doch, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami, kto-ya-svoey-padcheritse, kak-nauchitsya-spravlyatsya-s-emotsiyami, chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni]
+sources: [lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-219, kak-byt-esli-rebenok-ne-uveren-v-sebe, kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-organizovat-poezdku-dlya-detey, devochka-otkazyvaetsya-hodit-v-shkolu, chego-boitsya-syn-i-chto-s-etim-delat, kak-podderzhat-rebenka-vo-vremya-voyny, kak-ponyat-14-letnyuyu-doch, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami, kto-ya-svoey-padcheritse, kak-nauchitsya-spravlyatsya-s-emotsiyami, chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[moya-doch-ne-delitsya-chuvstvami](pages/moya-doch-ne-delitsya-chuvstvami.md)] — самая жёсткая формулировка: «попробуй доказать мне, что ей нужна помощь»
 - [[kto-ya-svoey-padcheritse](pages/kto-ya-svoey-padcheritse.md)] — «всё ли у тебя в порядке» и последующее «пальпирование» не дают ничего
 - [[kak-nauchitsya-spravlyatsya-s-emotsiyami](pages/kak-nauchitsya-spravlyatsya-s-emotsiyami.md)] — «если у неё есть заказ, ваши шансы очень высоки»; без него мать одна не справится
+- [[chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy](pages/chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy.md)] — «мам, я не знаю»: вариант нельзя угадать, его изобретают вместе
 
 ## Related Concepts
 

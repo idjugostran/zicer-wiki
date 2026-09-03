@@ -3,7 +3,7 @@ title: «Поплавки»
 category: Concepts
 summary: Личные зацепки, за которые человек держится на новом месте; родитель не может найти их за ребёнка — он может только помочь сформулировать, и ответ «моя семья здесь» не годится
 tags: [concept, emigratsiya, adaptatsiya, podrostki]
-sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-byt-esli-ne-nravyatsya-druzya-rebenka]
+sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-byt-esli-ne-nravyatsya-druzya-rebenka, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 - [[rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane](pages/rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane.md)] — вводит концепт: «поплавки», требование личного ответа на вопрос «почему я здесь», отмотка разговора назад
 - [[kak-pomoch-rebenku-prinyat-novuyu-realnost](pages/kak-pomoch-rebenku-prinyat-novuyu-realnost.md)] — поплавков нет не потому, что их не нашли, а потому что ребёнку сказано, что искать их незачем
 - [[kak-byt-esli-ne-nravyatsya-druzya-rebenka](pages/kak-byt-esli-ne-nravyatsya-druzya-rebenka.md)] — «ему нужно за что-то зацепиться, как каждому из нас»: третий переезд за год
+- [[chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy](pages/chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy.md)] — якоря ищет не только дочь, но и мать: «я откладываю этот вопрос и ищу позитивные моменты»
 
 ## Related Concepts
 

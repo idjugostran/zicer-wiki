@@ -3,7 +3,7 @@ title: Границы появляются из наших границ
 category: Concepts
 summary: Рамка для ребёнка выводится не из педагогики, а из реального ресурса взрослого: у родителя есть своё время и свой предел, и это законное основание сказать «нет»
 tags: [concept, granitsy, roditelskiy-resurs, semya]
-sources: [kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-sdelat-chtoby-ona-slushalas-roditeley]
+sources: [kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -30,3 +30,4 @@ updated: 2026-09-03
 - [[ya-na-tvoey-storone-no-ne-mogu-pozvolit](pages/ya-na-tvoey-storone-no-ne-mogu-pozvolit.md)] — как звучит «нет», выросшее из этой границы
 - [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)] — предъявление своего предела как отдельный приём
 - [[plavayushchie-granitsy](pages/plavayushchie-granitsy.md)] — почему рамка у каждой семьи своя
+- [[chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy](pages/chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy.md)] — тот же ход: желание матери выйти из дома законно, но не должно выдаваться за заботу о ребёнке

@@ -3,7 +3,7 @@ title: «Безопасный вопрос» как техника начала 
 category: Concepts
 summary: Начинать контакт со сверстником стоит не с прямого сближения, а с вопроса, встроенного в правдоподобный повод, чей худший ответ не задевает личность спрашивающего, — а отказ рассматривать как тест, а не поражение
 tags: [concept, podrostki, obshchenie, druzhba]
-sources: [kak-nayti-druzey-na-novom-meste, kak-razgovorit-cheloveka-4-h-let, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka]
+sources: [kak-nayti-druzey-na-novom-meste, kak-razgovorit-cheloveka-4-h-let, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 - [[kak-nayti-druzey-na-novom-meste](pages/kak-nayti-druzey-na-novom-meste.md)] — вводит концепт целиком на примере 13-летней беженки из Киева: формула «можно я воспользуюсь твоей линейкой?», логика теста и рекомендация тренироваться на 2-3 кандидатках
 - [[kak-razgovorit-cheloveka-4-h-let](pages/kak-razgovorit-cheloveka-4-h-let.md)] — «в этот момент мы сожрём Мишку»: один прямой вопрос уничтожает канал
 - [[kto-ya-svoey-padcheritse](pages/kto-ya-svoey-padcheritse.md)] — вопрос «зачем ты сюда приезжаешь» назван «ещё одним порезом»
+- [[chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy](pages/chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy.md)] — расспросы «имеют ощущение пытки»
 
 ## Related Concepts
 

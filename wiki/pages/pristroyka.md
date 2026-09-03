@@ -3,7 +3,7 @@ title: Пристройка
 category: Concepts
 summary: Индивидуальный способ, которым человек приспосабливается к невыносимым обстоятельствам; пристройки бывают очень разными и странными на вид, и отнимать найденную — значит лишать опоры
 tags: [concept, voyna, travma, adaptatsiya, deti]
-sources: [chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mozhno-li-uberech-rebenka-ot-nenavisti, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh]
+sources: [chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mozhno-li-uberech-rebenka-ot-nenavisti, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov](pages/kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov.md)] — отрицательный полюс: пристройка не складывается, каждый новый сад обнуляет попытку
 - [[mozhno-li-uberech-rebenka-ot-nenavisti](pages/mozhno-li-uberech-rebenka-ot-nenavisti.md)] — Зицер называет термин прямо: и роль защитника мамы, и кровожадные планы суть пристройка
 - [[chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh](pages/chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh.md)] — игра в злого как способ четырёхлетнего справиться со страшным
+- [[chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy](pages/chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy.md)] — «дети ищут новые пристройки»: у десятилетней это желание побыть одной и заняться своим
 
 ## Related Concepts
 

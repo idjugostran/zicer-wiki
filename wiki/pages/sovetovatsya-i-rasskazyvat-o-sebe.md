@@ -3,7 +3,7 @@ title: Рассказывать о себе и советоваться
 category: Concepts
 summary: «Золотое правило» Зицера для поддержания отношений — регулярно рассказывать о себе и спрашивать совета, а не только сообщать/требовать; работает и между родителем и ребёнком, и между сиблингами
 tags: [concept, lnv, roditelstvo, siblings]
-sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, kak-pomoch-nayti-otvet-na-vopros-kto-ya, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, moya-doch-ne-delitsya-chuvstvami, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let]
+sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, kak-pomoch-nayti-otvet-na-vopros-kto-ya, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, moya-doch-ne-delitsya-chuvstvami, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy]
 created: 2026-09-01
 updated: 2026-09-03
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy](pages/kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy.md)] — честность о настоящей причине отъезда как условие того, чтобы объяснение вообще работало
 - [[v-poslednee-vremya-syn-ochen-grustit](pages/v-poslednee-vremya-syn-ochen-grustit.md)] — тот же принцип, превращённый в регулярную семейную игру, где взрослые рассказывают первыми
 - [[kak-razgovorit-cheloveka-4-h-let](pages/kak-razgovorit-cheloveka-4-h-let.md)] — Мишка сначала рассказывает про свой день и только потом спрашивает «а у тебя?»
+- [[chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy](pages/chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy.md)] — самое подробное применение с готовым сценарием и гарантией: «удели мне десять минут, мне надо рассказать»
 
 ## Related Concepts
 
