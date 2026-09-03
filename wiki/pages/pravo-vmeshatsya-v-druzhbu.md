@@ -3,7 +3,7 @@ title: Право вмешаться в дружбу
 category: Concepts
 summary: Влиять на дружбу ребёнка родитель вправе, только если тот в прямой опасности — как вправе схватить за шиворот стоящего на краю открытого окна; цена такого вмешательства высока, а «сложная ситуация» прямой опасностью не является
 tags: [concept, druzhba, roditelstvo, granitsy, otvetstvennost]
-sources: [kak-byt-esli-ne-nravyatsya-druzya-rebenka]
+sources: [kak-byt-esli-ne-nravyatsya-druzya-rebenka, s-kem-druzhit-nashim-detyam]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-byt-esli-ne-nravyatsya-druzya-rebenka](pages/kak-byt-esli-ne-nravyatsya-druzya-rebenka.md)] — вводит концепт: критерий прямой опасности, аналогия с открытым окном, оговорка о цене, возрастное окно
+- [[s-kem-druzhit-nashim-detyam](pages/s-kem-druzhit-nashim-detyam.md)] — «селекцией заниматься не нужно», но в гости не ходить и уметь сказать почему
 
 ## Related Concepts
 

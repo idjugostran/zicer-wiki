@@ -3,7 +3,7 @@ title: Как уберечь детей от ненависти
 category: Concepts
 summary: Ненависть, возникшая на фоне войны, не запрещается и не подавляется — вместо этого ребёнку помогают различить разрушительную и созидательную цель своего чувства
 tags: [concept, voyna, nenavist, roditelstvo]
-sources: [uchitsya-budu-tolko-v-kieve, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey]
+sources: [uchitsya-budu-tolko-v-kieve, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, s-kem-druzhit-nashim-detyam]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 - [[uchitsya-budu-tolko-v-kieve](pages/uchitsya-budu-tolko-v-kieve.md)] — вводит концепт: младшая дочь Наталки говорит «пусть страдают, пусть умирают» о русских; Зицер отвечает различением разрушительной и созидательной ненависти и личным примером своей семьи
 - [[kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy](pages/kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy.md)] — расхождение между антивоенной позицией родителей и их поступками как прямой путь к [[dvoemyslie-u-detey](pages/dvoemyslie-u-detey.md)]
 - [[kak-vo-vremya-voyny-uspokaivat-sebya-i-detey](pages/kak-vo-vremya-voyny-uspokaivat-sebya-i-detey.md)] — «есть несчастные люди, которым привили ненависть» плюс «и мы будем защищаться»
+- [[s-kem-druzhit-nashim-detyam](pages/s-kem-druzhit-nashim-detyam.md)] — «мой папа на СВО, он герой, а твой»: то, чего отец не хочет услышать на площадке
 
 ## Related Concepts
 
