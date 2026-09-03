@@ -3,7 +3,7 @@ title: Собаку заводят себе
 category: Concepts
 summary: Домашнее животное родители заводят себе, а не детям; поэтому обязательство ребёнка на его прошлом желании не строится — вместо «ты же сам хотел» переходят к просьбе о помощи, которую он вправе и отклонить
 tags: [concept, zhivotnye, obeshchanie, pomoshch, podrostki]
-sources: [lnv-vypusk-241]
+sources: [lnv-vypusk-241, lnv-vypusk-232]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -29,3 +29,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — вводит тезис: собака, выпрошенная в двенадцать, и конфликты в шестнадцать
+- [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — пять спасённых животных и вопрос «зачем этот кот ему?» как вход в разбор агрессии пятилетнего

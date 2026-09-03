@@ -3,7 +3,7 @@ title: «Давать сдачи»
 category: Concepts
 summary: Критика совета учить детей отвечать на агрессию физической силой — приравнивается к обучению «языку зоны»
 tags: [concept, konflikt, nasilie]
-sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, moy-syn-yabeda-ili-postupaet-pravilno, kak-razreshit-konflikt-v-shkole, kak-zashchitit-7-letnego-syna-ot-travli, mozhno-li-uberech-rebenka-ot-nenavisti, lnv-vypusk-238]
+sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, moy-syn-yabeda-ili-postupaet-pravilno, kak-razreshit-konflikt-v-shkole, kak-zashchitit-7-letnego-syna-ot-travli, mozhno-li-uberech-rebenka-ot-nenavisti, lnv-vypusk-238, lnv-vypusk-232]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[kak-zashchitit-7-letnego-syna-ot-travli](pages/kak-zashchitit-7-letnego-syna-ot-travli.md)] — «обзывать Сашу в ответ» отвергается: это ничего не даст
 - [[mozhno-li-uberech-rebenka-ot-nenavisti](pages/mozhno-li-uberech-rebenka-ot-nenavisti.md)] — мать выросла на «никогда не давай сдачи» и теперь говорит сыну обратное
 - [[lnv-vypusk-238](pages/lnv-vypusk-238.md)] — отец двух пятилетних сыновей сам посоветовал младшему давать сдачи; Зицер показывает механику: тот, кто уже бьёт, получает подтверждение, что удар работает
+- [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — десятилетний Лео после случайной травмы младшего брата настаивает, что обязан был дать сдачи; Зицер разбирает это через целеполагание и эскалацию, а работать предлагает с отцом
 
 ## Related Concepts
 
@@ -39,3 +40,4 @@ updated: 2026-09-03
 - [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)] — метафора «надсмотрщик и заключённый» перекликается с «ментальностью зоны»
 - [[manipulyatsiya](pages/manipulyatsiya.md)] — смежная классификация: манипуляция как мягкая форма того же силового принуждения
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — тот же принцип «можно, потому что не ответит» применён взрослым к ребёнку, а не наоборот
+- [[logika-silnogo-prervat-krug](pages/logika-silnogo-prervat-krug.md)] — положительная формулировка взамен: разбор через цель и прерывание круга

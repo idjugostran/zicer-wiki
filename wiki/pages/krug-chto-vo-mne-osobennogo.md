@@ -3,7 +3,7 @@ title: Круг «что во мне особенного»
 category: Concepts
 summary: Регулярное занятие в кругу, где каждый — включая учителя — говорит, чем он отличается от других; первые разы дают внешние и шуточные ответы, дальше разговор углубляется, и из него вырастает не сплочённый коллектив, а «единство индивидуальностей», способное само остановить агрессию
 tags: [concept, pedagogika, gruppa, refleksiya, bulling, tehnika, nachalnaya-shkola]
-sources: [dolzhen-li-uchitel-lyubit-detey]
+sources: [dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-232]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -32,7 +32,9 @@ updated: 2026-09-03
 - [[izobretenie-instrumentov-v-igre](pages/izobretenie-instrumentov-v-igre.md)] — соседняя процедура: инструменты остановки придумываются вместе
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — рамки как правила игры, придуманные вместе с детьми
 - [[kak-uchitelyu-stroit-atmosferu-uroka](pages/kak-uchitelyu-stroit-atmosferu-uroka.md)] — соседний набор приёмов для того же адресата
+- [[otkryvat-vmeste-a-ne-obyavlyat](pages/otkryvat-vmeste-a-ne-obyavlyat.md)] — правило о том, кто произносит вывод в таком кругу
 
 ## Appearances in Sources
 
 - [[dolzhen-li-uchitel-lyubit-detey](pages/dolzhen-li-uchitel-lyubit-detey.md)] — сформулировано впервые: подарено учительнице третьего класса после случая с избитым второклассником
+- [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — формат кружка и работы в парах, предложенный учительнице для разговора о выборе слова

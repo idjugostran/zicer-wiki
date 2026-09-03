@@ -41,6 +41,7 @@ updated: 2026-09-03
 - [[sohranit-rebenka-v-tselosti](pages/sohranit-rebenka-v-tselosti.md)] — тот же приоритет сохранности
 - [[shkola-kak-soyuznik](pages/shkola-kak-soyuznik.md)] — обратный случай: среда, с которой можно договориться
 - [[ne-na-kostyah-nashih-detey](pages/ne-na-kostyah-nashih-detey.md)] — то же движение выхода, но с явной очерёдностью относительно борьбы за справедливость
+- [[smenit-mesto-a-ne-brosit-zanyatie](pages/smenit-mesto-a-ne-brosit-zanyatie.md)] — соседний вариант, где уход и есть цель
 
 ## Footnotes
 
