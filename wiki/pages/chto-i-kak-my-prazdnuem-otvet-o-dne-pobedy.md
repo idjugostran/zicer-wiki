@@ -66,7 +66,7 @@ updated: 2026-09-03
 
 [[obobshchestvlenie-lichnogo](pages/obobshchestvlenie-lichnogo.md)] — государственный масштаб того самого механизма, который [[pravo-na-lichnost-i-est-politika](pages/pravo-na-lichnost-i-est-politika.md)] описывает как единое устройство дома, в школе и в стране: человека лишают права сказать «я» о собственном переживании. [[bolshe-nikogda-protiv-mozhem-povtorit](pages/bolshe-nikogda-protiv-mozhem-povtorit.md)] при этом уточняет [[zashchishchat-tsennosti-siloy](pages/zashchishchat-tsennosti-siloy.md)]: победу и сопротивление Зицер не обесценивает — он отделяет их от пожелания повторения.
 
-Практический вывод — «сохранить этот день в семье» — примыкает к [[semya-eto-to-chto-my-opredelyaem](pages/semya-eto-to-chto-my-opredelyaem.md)]: семья оказывается единственной инстанцией, способной удержать значение, которое государство переписало.
+Практический вывод — «сохранить этот день в семье» — примыкает к [[semya-eto-to-chto-my-opredelyaem](pages/semya-eto-to-chto-my-opredelyaem.md)]: семья оказывается единственной инстанцией, способной удержать значение, которое государство переписало. Тот же механизм присвоения и обесценивания личной боли, но в применении к сегодняшней войне, разобран в [[vstuplenie-k-programme-16-01-24](pages/vstuplenie-k-programme-16-01-24.md)].
 
 ## Note
 

@@ -3,7 +3,7 @@ title: Раскачивание критического мышления
 category: Concepts
 summary: Единственный механизм защиты, доступный взрослым, — и включается он не инструктажем, а тем, что взрослый делится с ребёнком собственными сомнениями по поводу своих контактов и советуется с ним
 tags: [concept, bezopasnost, profilaktika, kommunikatsiya, roditelstvo]
-sources: [kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, kak-spasti-detey-ot-nenavisti]
+sources: [kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, kak-spasti-detey-ot-nenavisti, vstuplenie-k-programme-16-01-24]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 - [[rebenok-v-8-let-smotrit-zapreshchennyi-kontent](pages/rebenok-v-8-let-smotrit-zapreshchennyi-kontent.md)] — учить работе с поиском и разговору о теме вместо ограждения от неё
 - [[dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima](pages/dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima.md)] — «государство стремится нас упрощать, наша задача — усложняться»
 - [[kak-spasti-detey-ot-nenavisti](pages/kak-spasti-detey-ot-nenavisti.md)] — «язык ненависти в медиа» и социальные сети как «крючок, на что ловят людей»
+- [[vstuplenie-k-programme-16-01-24](pages/vstuplenie-k-programme-16-01-24.md)] — «не давайте собой манипулировать»; проверка требующего по его собственной странице
 
 ## Related Concepts
 

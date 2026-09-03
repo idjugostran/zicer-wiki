@@ -32,3 +32,4 @@ updated: 2026-09-03
 - [[otdelnye-otnosheniya-s-kazhdym](pages/otdelnye-otnosheniya-s-kazhdym.md)] — с кем именно ведётся такой разговор
 - [[kak-podderzhat-rebenka-vo-vremya-voyny](pages/kak-podderzhat-rebenka-vo-vremya-voyny.md)] — содержательное описание той же работы
 - [[psihoterapiya-kak-instrument](pages/psihoterapiya-kak-instrument.md)] — граница, за которой нужен специалист
+- [[ne-sudi-cheloveka-v-gore-ego](pages/ne-sudi-cheloveka-v-gore-ego.md)] — почему с человеком в горе не спорят по существу

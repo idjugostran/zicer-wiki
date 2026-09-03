@@ -35,6 +35,7 @@ updated: 2026-09-03
 - [[otvechat-tolko-na-zadannye-voprosy](pages/otvechat-tolko-na-zadannye-voprosy.md)] — соседний запрет на опережающее объяснение
 - [[chto-i-gde-ya-chuvstvuyu](pages/chto-i-gde-ya-chuvstvuyu.md)] — взрослый не называет чувство за ребёнка, а помогает найти его телесный адрес
 - [[chto-ty-hochesh-skazat-na-samom-dele](pages/chto-ty-hochesh-skazat-na-samom-dele.md)] — разбирают сказанное, а не поправляют само чувство: «испытывай»
+- [[ne-sudi-cheloveka-v-gore-ego](pages/ne-sudi-cheloveka-v-gore-ego.md)] — та же граница на взрослом материале: чувство человека в горе не поправляют
 
 ## Footnotes
 

@@ -31,3 +31,4 @@ updated: 2026-09-03
 - [[zashchishchat-tsennosti-siloy](pages/zashchishchat-tsennosti-siloy.md)] — что делают, признав ответственность
 - [[kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy](pages/kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy.md)] — та же честность применительно к разговору с детьми
 - [[raskachivanie-kriticheskogo-myshleniya](pages/raskachivanie-kriticheskogo-myshleniya.md)] — «ставить вопросы и не удовлетворяться государственной точкой зрения»
+- [[ne-sudi-cheloveka-v-gore-ego](pages/ne-sudi-cheloveka-v-gore-ego.md)] — что недопустимо требовать от того, кто внутри горя

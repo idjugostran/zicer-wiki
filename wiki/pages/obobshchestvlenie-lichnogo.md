@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[manipulyatsiya](pages/manipulyatsiya.md)] — приём, которым оно осуществлено
 - [[semya-eto-to-chto-my-opredelyaem](pages/semya-eto-to-chto-my-opredelyaem.md)] — семья как инстанция, определяющая значение самостоятельно
 - [[fakt-biografii-ne-obsuzhdaetsya](pages/fakt-biografii-ne-obsuzhdaetsya.md)] — соседнее правило о том, что принадлежит человеку и не подлежит внешней ревизии
+- [[perenos-otvetstvennosti-na-drugogo](pages/perenos-otvetstvennosti-na-drugogo.md)] — соседний приём: личная боль превращается в улику против говорящего
 
 ## Appearances in Sources
 
