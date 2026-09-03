@@ -27,3 +27,4 @@ updated: 2026-09-03
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — оба концепта опираются на то, что возрастной опыт времени и значимости качественно иной, чем у взрослого
 - [[sohranit-rebenka-v-tselosti](pages/sohranit-rebenka-v-tselosti.md)] — три-пять лет вхождения в новую жизнь как допустимый темп после травмы
 - [[priobretaet-vremya-a-ne-teryaet](pages/priobretaet-vremya-a-ne-teryaet.md)] — год «простоя» в родительском календаре и восстановление себя в детском
+- [[sleduyushchee-sobytie-zatmevaet-predydushchee](pages/sleduyushchee-sobytie-zatmevaet-predydushchee.md)] — тот же разрыв внутри одного дня, а не на масштабе лет

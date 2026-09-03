@@ -31,3 +31,4 @@ updated: 2026-09-03
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — та же телесная техника рекомендована для изменения привычки сравнивать
 - [[subyektnost](pages/subyektnost.md)] — «ад» как подмена равных отношений иерархией — обратная сторона того же принципа
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — тот же вывод с другой стороны: отсутствие сравнения освобождает энергию для взаимопомощи внутри жёстких, но не дисциплинарных рамок урока
+- [[pust-povisnet](pages/pust-povisnet.md)] — как разбирается количественное сравнение, принесённое ребёнком как самоочевидное

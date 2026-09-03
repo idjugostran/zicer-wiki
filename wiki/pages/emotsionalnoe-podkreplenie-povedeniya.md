@@ -3,7 +3,7 @@ title: Эмоциональное подкрепление поведения
 category: Concepts
 summary: Реакция взрослого — топливо привычки: ребёнок нажимает кнопку, чтобы получить эмоцию, и чем ярче реакция, тем прочнее закрепляется поступок
 tags: [concept, rannii-vozrast, privychki, reaktsiya-vzroslogo]
-sources: [moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, kak-byt-esli-vashego-rebenka-schitayut-huliganom]
+sources: [moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, doch-6-let-nachala-zavidovat-i-vydumyvat]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh](pages/chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh.md)] — «эмоциональная ловушка»: ребёнок видит яркие эмоции родителей и выдаёт по заказу
 - [[chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — «я ещё не умею издеваться»: щёлканье ручкой ради маминой эмоции
 - [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] — «его любят поддеть, а он даёт очень бурную реакцию, и всем эта реакция интересна»
+- [[doch-6-let-nachala-zavidovat-i-vydumyvat](pages/doch-6-let-nachala-zavidovat-i-vydumyvat.md)] — «таким образом она нас раскачивает на любовь в кавычках»: разбухающая жалоба как способ получить реакцию
 
 ## Related Concepts
 

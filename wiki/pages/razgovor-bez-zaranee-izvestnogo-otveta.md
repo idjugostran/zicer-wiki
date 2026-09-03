@@ -37,6 +37,7 @@ updated: 2026-09-03
 - [[zachem-ty-eto-sdelal](pages/zachem-ty-eto-sdelal.md)] — обратный случай: вопрос задаётся при уже известном ответе и потому превращается в спектакль
 - [[priznanie-roditelskoy-oshibki](pages/priznanie-roditelskoy-oshibki.md)] — первый обязательный шаг, если решение было принято без ребёнка
 - [[vau-da-ladno-rasskazhi](pages/vau-da-ladno-rasskazhi.md)] — приём, вырождающийся в допрос, если ответ известен заранее
+- [[pust-povisnet](pages/pust-povisnet.md)] — зеркальный случай: ответа сознательно не должно появиться и у ребёнка
 
 ## Footnotes
 

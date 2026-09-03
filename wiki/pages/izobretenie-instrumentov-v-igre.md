@@ -3,7 +3,7 @@ title: Изобретение инструментов в игре
 category: Concepts
 summary: Ребёнок знает, что так делать нельзя, но не знает, что делать вместо; инструменты придумываются вместе в разыгранной сценке — убежать, рассмотреть и положить, позвать маму, — а после срыва вместе разбирают, какой из них не сработал
 tags: [concept, roditelstvo, doshkolniki, igra, samoregulyatsiya]
-sources: [syn-beret-chuzhie-veshchi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi]
+sources: [syn-beret-chuzhie-veshchi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, doch-6-let-nachala-zavidovat-i-vydumyvat]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh](pages/chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh.md)] — «изнутри вы можете всё что угодно»
 - [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] — пять инструментов вместо удара, собранных вместе с матерью в разговоре
 - [[9-letniy-malchik-beret-chuzhie-veshchi](pages/9-letniy-malchik-beret-chuzhie-veshchi.md)] — разыгрывание с ручкой, закрепляющее уже сработавший механизм торможения
+- [[doch-6-let-nachala-zavidovat-i-vydumyvat](pages/doch-6-let-nachala-zavidovat-i-vydumyvat.md)] — клоунский алгоритм на случай «мне кажется, что меня обидели»: поцелуй, прыжок на одной ножке, мороженое
 
 ## Related Concepts
 
