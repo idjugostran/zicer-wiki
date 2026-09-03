@@ -3,7 +3,7 @@ title: Модели поведения
 category: Concepts
 summary: Модель поведения — рамка, закрепившаяся через повторение похожих ситуаций; безвредна, пока осознаётся, и опасна, когда становится незаметной «второй натурой», ощущаемой как характер
 tags: [concept, roditelstvo, samoregulyatsiya]
-sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-201, lnv-vypusk-200, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, pochemu-ona-mne-vret, chto-meshaet-docheri-izbavitsya-ot-nostalgii, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, syn-beret-chuzhie-veshchi, kak-byt-esli-syn-vlyubilsya-v-druga, moya-doch-deretsya-i-plyuetsya]
+sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-201, lnv-vypusk-200, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, pochemu-ona-mne-vret, chto-meshaet-docheri-izbavitsya-ot-nostalgii, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, syn-beret-chuzhie-veshchi, kak-byt-esli-syn-vlyubilsya-v-druga, moya-doch-deretsya-i-plyuetsya, kak-nauchitsya-spravlyatsya-s-emotsiyami]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -36,6 +36,7 @@ updated: 2026-09-03
 - [[syn-beret-chuzhie-veshchi](pages/syn-beret-chuzhie-veshchi.md)] — в пять лет привычка формируется за дни; повторяющаяся домашняя сцена закрепляет её
 - [[kak-byt-esli-syn-vlyubilsya-v-druga](pages/kak-byt-esli-syn-vlyubilsya-v-druga.md)] — модель из детства, покрытая «цементом», всплывает первой даже у понимающего родителя
 - [[moya-doch-deretsya-i-plyuetsya](pages/moya-doch-deretsya-i-plyuetsya.md)] — «он видел эту модель как успешную»: происхождение силового приёма у двухлетнего ребёнка
+- [[kak-nauchitsya-spravlyatsya-s-emotsiyami](pages/kak-nauchitsya-spravlyatsya-s-emotsiyami.md)] — «с папой она зеркалит меня, а со мной ведёт себя как он»
 
 ## Related Concepts
 

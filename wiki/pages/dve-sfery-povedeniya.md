@@ -3,7 +3,7 @@ title: Две сферы поведения
 category: Concepts
 summary: Ребёнок, яркий дома и молчаливый в школе, не сдерживается и не страдает — у него сложились две разные сферы, и при отсутствии признаков неблагополучия это норма, а не симптом
 tags: [concept, shkola, adaptatsiya, norma, molchanie]
-sources: [rebenok-v-shkole-ne-razgovarivaet]
+sources: [rebenok-v-shkole-ne-razgovarivaet, kak-nauchitsya-spravlyatsya-s-emotsiyami]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] — сформулировано впервые: шестилетний Аарон второй год молчит в школе, оставаясь ярким дома
+- [[kak-nauchitsya-spravlyatsya-s-emotsiyami](pages/kak-nauchitsya-spravlyatsya-s-emotsiyami.md)] — с матерью взрывы, с отцом молчание: разное поведение с разными людьми
 
 ## Related Concepts
 

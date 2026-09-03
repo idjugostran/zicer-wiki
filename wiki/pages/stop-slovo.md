@@ -3,7 +3,7 @@ title: Стоп-слово
 category: Concepts
 summary: Общий тормоз для близких людей: заранее выбранное (лучше смешное) слово, которым любой из двоих сигналит «ещё шаг — и скандал»; ответственность остановиться остаётся на том, кто говорит лишнее
 tags: [concept, roditelstvo, kommunikatsiya, samoregulyatsiya]
-sources: [proklyataya-chelka-ili-kak-perestat-delat-zamechaniya]
+sources: [proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, kak-nauchitsya-spravlyatsya-s-emotsiyami]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[proklyataya-chelka-ili-kak-perestat-delat-zamechaniya](pages/proklyataya-chelka-ili-kak-perestat-delat-zamechaniya.md)] — вводит концепт целиком: механика, выбор слова «полотенце», запрет на отмахивание, распределение ответственности, совет отыграть как в театре
+- [[kak-nauchitsya-spravlyatsya-s-emotsiyami](pages/kak-nauchitsya-spravlyatsya-s-emotsiyami.md)] — «Чебурашка» для одиннадцатилетней: слово выбивает из ситуации, выбирает его сам ребёнок, приём репетируется в игре
 
 ## Related Concepts
 
