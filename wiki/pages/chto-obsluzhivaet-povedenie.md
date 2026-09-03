@@ -3,7 +3,7 @@ title: «Что обслуживает» поведение
 category: Concepts
 summary: Вместо оценки самого поступка — искать эмоциональную «плату», которую он приносит: какое состояние или ощущение человек хочет получить, повторяя это поведение
 tags: [concept, samoregulyatsiya, podrostki]
-sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208, lnv-vypusk-250, lnv-vypusk-207, moy-syn-yabeda-ili-postupaet-pravilno, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-byt-esli-vashego-rebenka-schitayut-huliganom, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-314, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-236, lnv-vypusk-234]
+sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208, lnv-vypusk-250, lnv-vypusk-207, moy-syn-yabeda-ili-postupaet-pravilno, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-byt-esli-vashego-rebenka-schitayut-huliganom, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-314, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-236, lnv-vypusk-234, lnv-vypusk-231]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -42,6 +42,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — вместо оценки школьных шалостей — вопрос, что даёт мальчику выключенный свет и стук в кабинет, и предложение придумать замену
 - [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — выдуманное нападение и выдуманная опухоль у четырнадцатилетней: поведение читается через плату, которую оно приносит, — «порцию сострадания»
 - [[lnv-vypusk-234](pages/lnv-vypusk-234.md)] — четырёхлетний повторяет неприличные слова там, где смеются, шестилетний кривляется перед девочкой: разбирается не поступок, а что он приносит
+- [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — матери возвращён вопрос «почему он не останавливается» как её собственный анализ
 
 ## Related Concepts
 
@@ -54,3 +55,4 @@ updated: 2026-09-03
 - [[dva-varianta-bes-ili-chto-to-meshaet](pages/dva-varianta-bes-ili-chto-to-meshaet.md)] — вилка, которой разговор переводится с «назло» на «что мешает»
 - [[rebenok-nazyvaet-prichinu-sam](pages/rebenok-nazyvaet-prichinu-sam.md)] — то же искомое, но названное самим ребёнком, а не добытое взрослым
 - [[datirovka-izmeneniya-povedeniya](pages/datirovka-izmeneniya-povedeniya.md)] — шаг, предшествующий вопросу о функции поведения
+- [[nasmeshka-kak-vozvrat-sebya](pages/nasmeshka-kak-vozvrat-sebya.md)] — частный механизм: плата за насмешку — возврат себе ощущения, что существуешь

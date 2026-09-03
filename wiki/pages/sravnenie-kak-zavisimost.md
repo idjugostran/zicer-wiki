@@ -3,7 +3,7 @@ title: Сравнение
 category: Concepts
 summary: Сравнение/оценка как психологический механизм, близкий к зависимости — подменяет внутренний интерес потребностью во внешнем одобрении
 tags: [concept, otsenka, roditelstvo, pedagogika]
-sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin, lnv-vypusk-164, kak-byt-esli-rebenok-ne-uveren-v-sebe, kniga-lyubit-nelzya-vospityvat, kak-ne-perehvalit-rebenka, vstuplenie-k-programme-16-01-24, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-240, lnv-vypusk-241, lnv-vypusk-235]
+sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin, lnv-vypusk-164, kak-byt-esli-rebenok-ne-uveren-v-sebe, kniga-lyubit-nelzya-vospityvat, kak-ne-perehvalit-rebenka, vstuplenie-k-programme-16-01-24, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-240, lnv-vypusk-241, lnv-vypusk-235, lnv-vypusk-231]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — риск «сжечь» отношения ребёнка с оценками на всю школьную жизнь; сравнение классов учительницей описано как «огромная красная лампочка»
 - [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — шестилетняя, которой в саду рассказали про будущие оценки, отказывается плавать, рисовать и слышать про школу; Зицер предлагает выдернуть оценочность изо всех занятий сразу
 - [[lnv-vypusk-235](pages/lnv-vypusk-235.md)] — шестилетний играет «в школу», где он всё сделал правильно, а остальные нет; привычку кто-то показал, противоядие — подчёркивать самость вне зависимости от других
+- [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — семилетний «посажен на оценку, посажен на похвалу»
 
 ## Related Concepts
 
@@ -40,3 +41,4 @@ updated: 2026-09-03
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — тот же вывод с другой стороны: отсутствие сравнения освобождает энергию для взаимопомощи внутри жёстких, но не дисциплинарных рамок урока
 - [[pust-povisnet](pages/pust-povisnet.md)] — как разбирается количественное сравнение, принесённое ребёнком как самоочевидное
 - [[mostik-ot-svoego-net-k-chuzhomu](pages/mostik-ot-svoego-net-k-chuzhomu.md)] — разбор достройки «я хуже» через собственные отказы ребёнка
+- [[nasmeshka-kak-vozvrat-sebya](pages/nasmeshka-kak-vozvrat-sebya.md)] — соседний механизм: там подменяется интерес, здесь — ощущение существования

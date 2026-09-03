@@ -3,7 +3,7 @@ title: Откат при появлении младшего
 category: Concepts
 summary: После рождения второго ребёнка старший как будто теряет уже освоенные умения — говорить, есть, одеваться; Зицер называет это известным синдромом, обязательным в той или иной мере у всех детей, и предлагает искать его прежде, чем объяснять поведение характером
 tags: [concept, siblingi, doshkolniki, razvitie, diagnostika]
-sources: [kak-zhe-on-dolgo-sobiraetsya]
+sources: [kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-231]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -33,3 +33,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-zhe-on-dolgo-sobiraetsya](pages/kak-zhe-on-dolgo-sobiraetsya.md)] — сформулировано впервые: четырёхлетний перестал одеваться сам после рождения брата
+- [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — крик трёхлетнего усилился после рождения сестры пять месяцев назад

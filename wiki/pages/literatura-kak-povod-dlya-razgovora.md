@@ -3,7 +3,7 @@ title: Литература как повод для разговора
 category: Concepts
 summary: Готовая чужая история — рабочий вход в тему, которую трудно обсуждать напрямую: читают вместе, обсуждают, задают вопросы и пытаются понять героя, а не вычитывают мораль
 tags: [concept, roditelstvo, kommunikatsiya, chtenie]
-sources: [syn-darit-tsennye-veshchi-drugim-detyam, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-byt-esli-syn-vlyubilsya-v-druga, doch-hochet-vybrosit-staruyu-kuklu]
+sources: [syn-darit-tsennye-veshchi-drugim-detyam, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-byt-esli-syn-vlyubilsya-v-druga, doch-hochet-vybrosit-staruyu-kuklu, lnv-vypusk-231]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 - [[rebenok-v-8-let-smotrit-zapreshchennyi-kontent](pages/rebenok-v-8-let-smotrit-zapreshchennyi-kontent.md)] — детская книга про полы как возвращаемый вход в разговор
 - [[kak-byt-esli-syn-vlyubilsya-v-druga](pages/kak-byt-esli-syn-vlyubilsya-v-druga.md)] — важное ограничение: «не надо насиловать мальчика книгой», иначе возникает навязчивость
 - [[doch-hochet-vybrosit-staruyu-kuklu](pages/doch-hochet-vybrosit-staruyu-kuklu.md)] — «Друг детства» Драгунского с прямым запретом «пилить» после чтения
+- [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — детская книжка или мультик как вход в разговор об отношениях с четырёхлетним
 
 ## Related Concepts
 

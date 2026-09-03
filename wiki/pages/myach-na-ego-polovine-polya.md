@@ -3,7 +3,7 @@ title: Мяч на его половине поля
 category: Concepts
 summary: Формулировки, после которых формулировки ищет ребёнок, а не родитель: «правда же я не должна тебе нудить?», «я как все мамы трусиха — мне бояться или нет?», «успокой меня» — вместо требования и нотации
 tags: [concept, roditelstvo, kommunikatsiya, podrostki]
-sources: [syn-rasskazal-mame-chto-on-biseksual, chto-takoe-dogovor-s-rebenkom, kak-ponyat-14-letnyuyu-doch, lnv-vypusk-247, lnv-vypusk-236]
+sources: [syn-rasskazal-mame-chto-on-biseksual, chto-takoe-dogovor-s-rebenkom, kak-ponyat-14-letnyuyu-doch, lnv-vypusk-247, lnv-vypusk-236, lnv-vypusk-231]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[kak-ponyat-14-letnyuyu-doch](pages/kak-ponyat-14-letnyuyu-doch.md)] — «в лепёшку разобьюсь, ну чуть-чуть помоги мне, капелюшечку»
 - [[lnv-vypusk-247](pages/lnv-vypusk-247.md)] — тот же ход: ответственность за спокойствие матери не перекладывается на подростка требованием отчёта
 - [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — «котик, давай придумаем, чем я могу тебе помочь» вместо «сколько раз я тебе говорила»
+- [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — расширение за пределы «родитель — ребёнок»: мяч на половине старшей сестры
 
 ## Related Concepts
 
@@ -35,6 +36,7 @@ updated: 2026-09-03
 - [[manipulyatsiya](pages/manipulyatsiya.md)] — граница, которую приём не переходит: ребёнку оставляют реальную возможность ответить «нет», а не имитацию выбора
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — общее основание приёма: ответ должен быть произнесён ребёнком, а не предположен родителем
 - [[prosto-poprosit](pages/prosto-poprosit.md)] — соседний ход: не вопрос, возвращающий инициативу, а прямая просьба о себе
+- [[zachem-emu-eti-otnosheniya](pages/zachem-emu-eti-otnosheniya.md)] — обратное направление: мяч на половине того, кто хочет наладить отношения
 
 ## Footnotes
 

@@ -3,7 +3,7 @@ title: «Какую битву вы ведёте»
 category: Concepts
 summary: Восстановить справедливость и добиться конкретного результата — две разные битвы, которые нельзя вести одновременно; пока задача не выбрана одна, действия работают друг против друга, а мотив «оказаться правым» разрушает собственную цель говорящего
 tags: [concept, shkola, konflikt, peregovory, roditelstvo]
-sources: [nam-popalas-plohaya-uchilka]
+sources: [nam-popalas-plohaya-uchilka, lnv-vypusk-231]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[nam-popalas-plohaya-uchilka](pages/nam-popalas-plohaya-uchilka.md)] — вводит концепт целиком: две битвы, цена первой, разбор скрытого мотива «оказаться правой»
+- [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — школьный конфликт: изменить учительницу химии малореально, сохранить интерес к предмету — реально
 
 ## Related Concepts
 

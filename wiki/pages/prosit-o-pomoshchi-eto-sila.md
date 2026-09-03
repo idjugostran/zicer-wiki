@@ -3,7 +3,7 @@ title: Просить о помощи — это сила
 category: Concepts
 summary: Просьба о поддержке — решительный поступок, на который слабый не способен; она отличается от перекладывания тем, что не требует решить проблему за просящего, и укрепляет тех, к кому обращена
 tags: [concept, podderzhka, sila, semya, otnosheniya]
-sources: [chto-pomogaet-detyam-vyzhit-na-voyne, lnv-vypusk-247]
+sources: [chto-pomogaet-detyam-vyzhit-na-voyne, lnv-vypusk-247, lnv-vypusk-231]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 
 - [[chto-pomogaet-detyam-vyzhit-na-voyne](pages/chto-pomogaet-detyam-vyzhit-na-voyne.md)] — сформулировано впервые: мать из Украины, скрывающая страх от мужа и старшего сына
 - [[lnv-vypusk-247](pages/lnv-vypusk-247.md)] — «помоги мне успокоиться» как рабочая форма родительского страха
+- [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — «мама, помоги» трёхлетнего становится опорой всей работы над голосом
 
 ## Related Concepts
 
@@ -36,3 +37,4 @@ updated: 2026-09-03
 - [[prosto-poprosit](pages/prosto-poprosit.md)] — та же логика в отношениях с ребёнком
 - [[talant-ne-propadaet](pages/talant-ne-propadaet.md)] — лучший исход занятий: ребёнок сам приходит и просит денег, помощи, смены учителя
 - [[pomogayte-poka-pomoshch-nuzhna](pages/pomogayte-poka-pomoshch-nuzhna.md)] — родительская сторона того же: помощь оказывают, пока её просят
+- [[uchitsya-dyshat-inache](pages/uchitsya-dyshat-inache.md)] — случай, где просьба ребёнка становится входом в обучение навыку
