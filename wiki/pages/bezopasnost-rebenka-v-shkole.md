@@ -3,7 +3,7 @@ title: Безопасность ребёнка в школе как обязан
 category: Concepts
 summary: При систематической травле школа обязана обеспечить ребёнку безопасность и прекратить ситуацию без стигматизации того, кто обратился за помощью
 tags: [concept, shkola, bulling, roditelstvo]
-sources: [lnv-vypusk-215, lnv-vypusk-162, lnv-vypusk-252, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-164, lnv-vypusk-332, kak-razreshit-konflikt-v-shkole, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-byt-esli-ne-nravyatsya-druzya-rebenka, kak-zashchitit-7-letnego-syna-ot-travli, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, obysk-desyatiklassnikov-v-orske]
+sources: [lnv-vypusk-215, lnv-vypusk-162, lnv-vypusk-252, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-164, lnv-vypusk-332, kak-razreshit-konflikt-v-shkole, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-byt-esli-ne-nravyatsya-druzya-rebenka, kak-zashchitit-7-letnego-syna-ot-travli, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -35,6 +35,7 @@ updated: 2026-09-03
 - [[kak-zashchitit-7-letnego-syna-ot-travli](pages/kak-zashchitit-7-letnego-syna-ot-travli.md)] — «дети сами не разберутся во многих ситуациях, например в этой»
 - [[kak-borotsya-s-dvoemysliem-kogda-docheri-9-let](pages/kak-borotsya-s-dvoemysliem-kogda-docheri-9-let.md)] — идеологическая среда как вопрос безопасности, а не убеждений
 - [[obysk-desyatiklassnikov-v-orske](pages/obysk-desyatiklassnikov-v-orske.md)] — предельный случай: безопасность нарушила сама школа, заперев класс и обыскав детей
+- [[lnv-vypusk-245](pages/lnv-vypusk-245.md)] — выбор одного ребёнка жертвой назван травлей; попытки сына ответить — защита себя, а не раздувание конфликта
 
 ## Related Concepts
 

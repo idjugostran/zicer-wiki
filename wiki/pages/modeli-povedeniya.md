@@ -3,7 +3,7 @@ title: Модели поведения
 category: Concepts
 summary: Модель поведения — рамка, закрепившаяся через повторение похожих ситуаций; безвредна, пока осознаётся, и опасна, когда становится незаметной «второй натурой», ощущаемой как характер
 tags: [concept, roditelstvo, samoregulyatsiya]
-sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-201, lnv-vypusk-200, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, pochemu-ona-mne-vret, chto-meshaet-docheri-izbavitsya-ot-nostalgii, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, syn-beret-chuzhie-veshchi, kak-byt-esli-syn-vlyubilsya-v-druga, moya-doch-deretsya-i-plyuetsya, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, kak-roditeli-perenosyat-na-detey-modeli, pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov, kak-i-za-chto-ne-hvalit-rebenka]
+sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-201, lnv-vypusk-200, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, pochemu-ona-mne-vret, chto-meshaet-docheri-izbavitsya-ot-nostalgii, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, syn-beret-chuzhie-veshchi, kak-byt-esli-syn-vlyubilsya-v-druga, moya-doch-deretsya-i-plyuetsya, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, kak-roditeli-perenosyat-na-detey-modeli, pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-245]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -42,6 +42,7 @@ updated: 2026-09-03
 - [[kak-roditeli-perenosyat-na-detey-modeli](pages/kak-roditeli-perenosyat-na-detey-modeli.md)] — «мы воспринимаем 99% моделей от наших родителей»; и объяснение, почему мать воспроизводит методы своей матери
 - [[pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov](pages/pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov.md)] — «проклятие отцов» снимается только сознательно: клятвы «я никогда не буду так» недостаточно
 - [[kak-i-za-chto-ne-hvalit-rebenka](pages/kak-i-za-chto-ne-hvalit-rebenka.md)] — уборка выучивается участием и наблюдением: «вы, наверное, тоже что-то убираете, он будет это видеть»
+- [[lnv-vypusk-245](pages/lnv-vypusk-245.md)] — детская модель «в непривычной ситуации я убегаю, меня уговаривают» с годами распространяется на всё остальное
 
 ## Related Concepts
 
@@ -54,3 +55,4 @@ updated: 2026-09-03
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — смежный, но отдельный вопрос: зачем модель продолжает воспроизводиться, а не откуда она взялась
 - [[oshchushchenie-doma](pages/oshchushchenie-doma.md)] — конкретный случай: невыясненное отношение родителя к дому усваивается ребёнком как собственная тревога
 - [[stop-slovo](pages/stop-slovo.md)] — внешний сигнал, прерывающий модель до того, как она развернётся
+- [[variativnost-v-igre](pages/variativnost-v-igre.md)] — средство расшатать модель «путь только один»

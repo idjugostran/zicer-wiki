@@ -3,7 +3,7 @@ title: Выбор через пробы
 category: Concepts
 summary: Смена детских увлечений — не каприз, а нормальный механизм выбора через пробу; принуждение «доводить до конца» учит подчинению, а не решительности
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-248, lnv-vypusk-250, lnv-vypusk-216, lnv-vypusk-211, kak-rastit-samostoyatelnogo-rebenka, kak-pomoch-docheri-vybrat-professiyu, devochka-otkazyvaetsya-hodit-v-shkolu, nam-popalas-plohaya-uchilka, kak-uchitelyu-stroit-atmosferu-uroka, chto-delat-esli-rebenok-boitsya-vsego-novogo, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, malchik-6-let-hochet-pomogat-ukraine, syn-14-let-vlyubilsya-i-eto-opasno, devochka-hochet-brosit-zanyatiya-peniem]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-248, lnv-vypusk-250, lnv-vypusk-216, lnv-vypusk-211, kak-rastit-samostoyatelnogo-rebenka, kak-pomoch-docheri-vybrat-professiyu, devochka-otkazyvaetsya-hodit-v-shkolu, nam-popalas-plohaya-uchilka, kak-uchitelyu-stroit-atmosferu-uroka, chto-delat-esli-rebenok-boitsya-vsego-novogo, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, malchik-6-let-hochet-pomogat-ukraine, syn-14-let-vlyubilsya-i-eto-opasno, devochka-hochet-brosit-zanyatiya-peniem, lnv-vypusk-245]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[kak-uchitelyu-stroit-atmosferu-uroka](pages/kak-uchitelyu-stroit-atmosferu-uroka.md)] — переименование ошибки в находку: «как интересно получилось, давай повторим»
 - [[malchik-6-let-hochet-pomogat-ukraine](pages/malchik-6-let-hochet-pomogat-ukraine.md)] — «ему шесть лет, он вообще не знает всех возможностей»
 - [[devochka-hochet-brosit-zanyatiya-peniem](pages/devochka-hochet-brosit-zanyatiya-peniem.md)] — «вы блокируете возможный талант»: монополия пения закрывает живопись и остальное
+- [[lnv-vypusk-245](pages/lnv-vypusk-245.md)] — в семь лет ребёнок имеет право на эксперимент; вернуться к занятиям можно по его собственному запросу, выписав за и против
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Хороший невролог говорит, как быть
 category: Concepts
 summary: Критерий специалиста: обследование, закончившееся словами «патологий нет», не является ответом — хороший врач говорит не что всё в порядке, а как быть в конкретной ситуации
 tags: [concept, spetsialisty, sdvg, diagnostika, roditelstvo]
-sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom]
+sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom, lnv-vypusk-245]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] — «хороший невролог — это не человек, который скажет: всё в порядке»; невролог, назвавший гиперактивность на словах и не написавший ничего
+- [[lnv-vypusk-245](pages/lnv-vypusk-245.md)] — дважды за эфир, с оговоркой для слушателей: болезни у детей не подозреваются, речь о хорошем специалисте
 
 ## Related Concepts
 

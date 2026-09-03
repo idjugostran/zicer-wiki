@@ -3,7 +3,7 @@ title: Изобретение инструментов в игре
 category: Concepts
 summary: Ребёнок знает, что так делать нельзя, но не знает, что делать вместо; инструменты придумываются вместе в разыгранной сценке — убежать, рассмотреть и положить, позвать маму, — а после срыва вместе разбирают, какой из них не сработал
 tags: [concept, roditelstvo, doshkolniki, igra, samoregulyatsiya]
-sources: [syn-beret-chuzhie-veshchi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, doch-6-let-nachala-zavidovat-i-vydumyvat]
+sources: [syn-beret-chuzhie-veshchi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, doch-6-let-nachala-zavidovat-i-vydumyvat, lnv-vypusk-245]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] — пять инструментов вместо удара, собранных вместе с матерью в разговоре
 - [[9-letniy-malchik-beret-chuzhie-veshchi](pages/9-letniy-malchik-beret-chuzhie-veshchi.md)] — разыгрывание с ручкой, закрепляющее уже сработавший механизм торможения
 - [[doch-6-let-nachala-zavidovat-i-vydumyvat](pages/doch-6-let-nachala-zavidovat-i-vydumyvat.md)] — клоунский алгоритм на случай «мне кажется, что меня обидели»: поцелуй, прыжок на одной ножке, мороженое
+- [[lnv-vypusk-245](pages/lnv-vypusk-245.md)] — приёмчики против крика и кулака придумываются вместе с ребёнком и в игровом ключе
 
 ## Related Concepts
 
@@ -43,6 +44,7 @@ updated: 2026-09-03
 - [[srezat-ugol-volshebnoy-skazkoy](pages/srezat-ugol-volshebnoy-skazkoy.md)] — граница между игрой как инструментом и срезанным углом
 - [[pomenyatsya-rolyami-v-igre](pages/pomenyatsya-rolyami-v-igre.md)] — соседний игровой метод: не изобрести инструмент, а найти слова из роли взрослого
 - [[krug-chto-vo-mne-osobennogo](pages/krug-chto-vo-mne-osobennogo.md)] — та же выработка инструментов, вынесенная на уровень класса
+- [[forma-tyanet-soderzhanie](pages/forma-tyanet-soderzhanie.md)] — утверждение о причинности, на котором держится подбор инструментов
 
 ## Footnotes
 

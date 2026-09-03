@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[plavayushchie-granitsy](pages/plavayushchie-granitsy.md)] — зеркальный случай: что не является решением со стороны родителя
 - [[srezat-ugol-volshebnoy-skazkoy](pages/srezat-ugol-volshebnoy-skazkoy.md)] — обратный случай: где выдумка допустима и где она превращается в подмену договора
 - [[semeynyi-dogovor](pages/semeynyi-dogovor.md)] — процедура, которой настоящий договор отличается от объявленного правила
+- [[roditelskoe-derevo](pages/roditelskoe-derevo.md)] — механика застревания взрослого в уже произнесённом требовании
 
 ## Footnotes
 
