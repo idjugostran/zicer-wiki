@@ -3,9 +3,9 @@ title: Время просто так
 category: Concepts
 summary: Совместное время, наполненное развивающими занятиями, не заменяет времени «просто так»: ревность старшего снимается не игрушками и не вовлечением в дела младшего, а совместным переживанием без цели, когда мама и ребёнок принадлежат друг другу
 tags: [concept, vremya, revnost, sovmestnost, starshiy-rebenok]
-sources: [lnv-vypusk-230]
+sources: [lnv-vypusk-230, lnv-vypusk-226]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Время просто так
@@ -28,7 +28,9 @@ updated: 2026-09-03
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — отношения, в которых ребёнок не является задачей
 - [[otdelnye-otnosheniya-s-kazhdym](pages/otdelnye-otnosheniya-s-kazhdym.md)] — та же отдельность, но со стороны родственника
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — соседний ход, где у совместности всё же есть содержание
+- [[podygrat-regressii](pages/podygrat-regressii.md)] — второй ход того же ответа, идущий параллельно
 
 ## Appearances in Sources
 
 - [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — вводит различение: девятилетний, ревнующий к младшему брату
+- [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — «перестаньте называть его эффективным»: время вдвоём раз в неделю, в графике, для удовольствия

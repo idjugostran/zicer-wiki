@@ -3,9 +3,9 @@ title: «Завали урок»
 category: Concepts
 summary: Прямое разрешение руководителя на неудачную попытку: попробуй то, что хочешь, проверь реакции — претензий не будет; цена эксперимента ограничена одним занятием
 tags: [concept, pedagogika, professiya, upravlenie]
-sources: [kak-provodit-klassnye-ekskursii-dlya-detey, kak-uchitelyu-stroit-atmosferu-uroka, lnv-vypusk-239]
+sources: [kak-provodit-klassnye-ekskursii-dlya-detey, kak-uchitelyu-stroit-atmosferu-uroka, lnv-vypusk-239, lnv-vypusk-226]
 created: 2026-09-02
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # «Завали урок»
@@ -21,6 +21,7 @@ updated: 2026-09-03
 - [[kak-provodit-klassnye-ekskursii-dlya-detey](pages/kak-provodit-klassnye-ekskursii-dlya-detey.md)] — вводит концепт целиком, как финальное разрешение гиду перестроить экскурсию
 - [[kak-uchitelyu-stroit-atmosferu-uroka](pages/kak-uchitelyu-stroit-atmosferu-uroka.md)] — второй источник концепта: тот же совет тренеру, распространённый и на детей («пусть ошибаются, пусть смеются вместе с тобой»)
 - [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — директор дал Илье разрешение «экспериментировать»; Зицер снимает с изменения сам статус эксперимента
+- [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — там же: право начинающего педагога на неудачную попытку
 
 ## Related Concepts
 

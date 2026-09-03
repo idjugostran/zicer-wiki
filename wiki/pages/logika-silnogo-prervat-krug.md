@@ -3,9 +3,9 @@ title: Логика сильного — прервать круг
 category: Concepts
 summary: Ответ на «дать сдачи» строится не на морали, а на целеполагании: добился ли ребёнок цели и что будет после того, как обидчик «поймёт»; логика размена ударами — логика человека без других инструментов, а логика сильного — прервать кольцо насилия
 tags: [concept, agressiya, tselepolaganie, sila, otets]
-sources: [lnv-vypusk-232]
+sources: [lnv-vypusk-232, lnv-vypusk-226]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Логика сильного — прервать круг
@@ -28,7 +28,9 @@ updated: 2026-09-03
 - [[izobretenie-instrumentov-v-igre](pages/izobretenie-instrumentov-v-igre.md)] — чем заполняют дефицит, стоящий за дракой
 - [[myach-na-ego-polovine-polya](pages/myach-na-ego-polovine-polya.md)] — форма разговора с отцом: вопросы вместо спора
 - [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)] — граница: прерывание круга не отменяет обязанности взрослых защищать
+- [[podoyti-k-obidchiku-vne-konflikta](pages/podoyti-k-obidchiku-vne-konflikta.md)] — практический ход, которым прерывают круг
 
 ## Appearances in Sources
 
 - [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — вводит формулировку: десятилетний Лео и его отец
+- [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — тот же довод, доведённый до конкретного хода: подойти к обидчику за обедом

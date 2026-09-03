@@ -3,9 +3,9 @@ title: Сначала норма, потом инструменты
 category: Concepts
 summary: Пока над ребёнком висит, что он «не окей», никакие способы вернуть его к жизни не работают; первый ход — объявить его состояние нормальным, и только на следующем витке искать инструменты
 tags: [concept, emigratsiya, shkolnyi-otkaz, prinyatie, poryadok-deystviy]
-sources: [devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mamu-arestovali-na-glazah-dvuhletnego-syna, lnv-vypusk-238]
+sources: [devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mamu-arestovali-na-glazah-dvuhletnego-syna, lnv-vypusk-238, lnv-vypusk-226]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Сначала норма, потом инструменты
@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov](pages/kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov.md)] — «сейчас никакого вывода сделать нельзя»: сначала почва под ногами, потом решение про сад
 - [[mamu-arestovali-na-glazah-dvuhletnego-syna](pages/mamu-arestovali-na-glazah-dvuhletnego-syna.md)] — «сто процентов реакций нормальны»: Зицер специально ищет тревожное и не находит
 - [[lnv-vypusk-238](pages/lnv-vypusk-238.md)] — пятилетнему возвращают право держаться на заднем плане: «совершенно не все люди должны на сцене топтаться»
+- [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — страхи шестилетнего — мама за дверью, закрытая дверь ванной — объявляются возрастной нормой
 
 ## Related Concepts
 

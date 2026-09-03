@@ -3,9 +3,9 @@ title: Модели поведения
 category: Concepts
 summary: Модель поведения — рамка, закрепившаяся через повторение похожих ситуаций; безвредна, пока осознаётся, и опасна, когда становится незаметной «второй натурой», ощущаемой как характер
 tags: [concept, roditelstvo, samoregulyatsiya]
-sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-201, lnv-vypusk-200, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, pochemu-ona-mne-vret, chto-meshaet-docheri-izbavitsya-ot-nostalgii, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, syn-beret-chuzhie-veshchi, kak-byt-esli-syn-vlyubilsya-v-druga, moya-doch-deretsya-i-plyuetsya, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, kak-roditeli-perenosyat-na-detey-modeli, pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-245, lnv-vypusk-240, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227]
+sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-201, lnv-vypusk-200, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, pochemu-ona-mne-vret, chto-meshaet-docheri-izbavitsya-ot-nostalgii, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, syn-beret-chuzhie-veshchi, kak-byt-esli-syn-vlyubilsya-v-druga, moya-doch-deretsya-i-plyuetsya, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, kak-roditeli-perenosyat-na-detey-modeli, pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-245, lnv-vypusk-240, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-226]
 created: 2026-08-29
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Модели поведения
@@ -47,6 +47,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — источник дразнилок четырёхлетнего найден в семейной игре в смешные слова
 - [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — выбор контента формируется как еда ложкой — повторением рядом со взрослым
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — «я победил, и значит я молодец» как принесённая извне система координат трёхлетнего
+- [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — ученики шестого-седьмого класса приходят с моделями, сформированными другими учителями
 
 ## Related Concepts
 

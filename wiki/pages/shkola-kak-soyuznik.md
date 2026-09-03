@@ -3,9 +3,9 @@ title: Школа как союзник
 category: Concepts
 summary: На переговорах со школой ищут не правоту, а пересечение интересов: школа заинтересована погасить напряжение, сохранить ученика и не создавать волну — на этом и строится разговор, без перехода на личности
 tags: [concept, shkola, peregovory, roditelstvo]
-sources: [nam-popalas-plohaya-uchilka, moya-doch-zabila-na-vse, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, 8-letniy-malchik-stesnyaetsya-starshego-brata, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-238, lnv-vypusk-240, lnv-vypusk-241, lnv-vypusk-233, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227]
+sources: [nam-popalas-plohaya-uchilka, moya-doch-zabila-na-vse, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, 8-letniy-malchik-stesnyaetsya-starshego-brata, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-238, lnv-vypusk-240, lnv-vypusk-241, lnv-vypusk-233, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-226]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Школа как союзник
@@ -39,6 +39,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — поход к директору с другими родителями и просьба о замене учителя без перехода на личности
 - [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — разговор с воспитателями как проверка версии, а не как поиск виноватых
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — на собрание с директором и завучем идут со своей повесткой и прямой просьбой о помощи
+- [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — обращение к классной руководительнице строится как просьба об инструментах, к воспитательнице сада — как «помогите мне пожалуйста»
 
 ## Related Concepts
 

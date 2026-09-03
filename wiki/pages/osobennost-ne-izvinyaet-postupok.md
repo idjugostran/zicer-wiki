@@ -3,9 +3,9 @@ title: Особенность не извиняет поступок
 category: Concepts
 summary: Гиперактивность может объяснять неспособность остановиться, но не объясняет и не извиняет мат и удар в лицо; диагноз — это то, с чем учатся жить, а не индульгенция
 tags: [concept, sdvg, otvetstvennost, agressiya, diagnostika]
-sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom]
+sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom, lnv-vypusk-226]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Особенность не извиняет поступок
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] — «это не связанные вещи»: диагноз не оправдывает мат и удар в лицо
+- [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — обзывательства четырёхлетнего разбираются как вопрос границы, а не как проявление диагноза
 
 ## Related Concepts
 

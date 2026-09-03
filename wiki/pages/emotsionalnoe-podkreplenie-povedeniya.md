@@ -3,9 +3,9 @@ title: Эмоциональное подкрепление поведения
 category: Concepts
 summary: Реакция взрослого — топливо привычки: ребёнок нажимает кнопку, чтобы получить эмоцию, и чем ярче реакция, тем прочнее закрепляется поступок
 tags: [concept, rannii-vozrast, privychki, reaktsiya-vzroslogo]
-sources: [moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, doch-6-let-nachala-zavidovat-i-vydumyvat, mne-nravitsya-kak-papa-reagiruet, kak-byt-esli-devochka-ne-hochet-zdorovatsya, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-244, lnv-vypusk-237, lnv-vypusk-231]
+sources: [moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, doch-6-let-nachala-zavidovat-i-vydumyvat, mne-nravitsya-kak-papa-reagiruet, kak-byt-esli-devochka-ne-hochet-zdorovatsya, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-244, lnv-vypusk-237, lnv-vypusk-231, lnv-vypusk-226]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Эмоциональное подкрепление поведения
@@ -39,6 +39,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — сосание пальца в пять лет: не делать привычку предметом внимания взрослых, «не строить эмоциональной ловушки»
 - [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — два примера подряд: хруст пальцами и грызение ногтей закрепляются родительским вниманием
 - [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — годовалая Лика кидает кружку ради бурной реакции бабушки; совет — реагировать тихо
+- [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — реакция окружающих на обзывательства и реакция отца на брошенную куртку как топливо привычки
 
 ## Related Concepts
 

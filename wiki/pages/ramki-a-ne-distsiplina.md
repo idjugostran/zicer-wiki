@@ -3,7 +3,7 @@ title: Рамки, а не дисциплина
 category: Concepts
 summary: Урок не нуждается в едином поведенческом стандарте (дисциплине) — ему нужны чёткие рамки (место, правила, канва); шум и движение внутри рамок — признак вовлечённости, а не потери контроля
 tags: [concept, shkola-apelsin, pedagogika]
-sources: [urok-matematiki-v-shkole-apelsin, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-223, lnv-vypusk-250, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, mama-ne-dolzhna-stradat, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kak-organizovat-poezdku-dlya-detey, kak-provodit-klassnye-ekskursii-dlya-detey, chto-takoe-dogovor-s-rebenkom, kak-uchitelyu-stroit-atmosferu-uroka, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-239, lnv-vypusk-233, lnv-vypusk-227, chto-takoe-neformalnoe-obrazovanie]
+sources: [urok-matematiki-v-shkole-apelsin, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-223, lnv-vypusk-250, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, mama-ne-dolzhna-stradat, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kak-organizovat-poezdku-dlya-detey, kak-provodit-klassnye-ekskursii-dlya-detey, chto-takoe-dogovor-s-rebenkom, kak-uchitelyu-stroit-atmosferu-uroka, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-239, lnv-vypusk-233, lnv-vypusk-227, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-226]
 created: 2026-08-29
 updated: 2026-09-04
 ---
@@ -39,6 +39,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-233](pages/lnv-vypusk-233.md)] — беготня на переменах как следствие того, что делают с энергией на уроке
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — молчащий на уроке ученик как задача учительских инструментов, а не отклонение
 - [[chto-takoe-neformalnoe-obrazovanie](pages/chto-takoe-neformalnoe-obrazovanie.md)] — искусство педагога определено как постановка рамок, в которых интерес проявится сам; практическое дополнение — группы-лаборатории в классе на 25 человек
+- [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — ответ начинающей учительнице английского про двух-трёх невключённых учеников
 
 ## Related Concepts
 

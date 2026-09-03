@@ -3,7 +3,7 @@ title: Откат при появлении младшего
 category: Concepts
 summary: После рождения второго ребёнка старший как будто теряет уже освоенные умения — говорить, есть, одеваться; Зицер называет это известным синдромом, обязательным в той или иной мере у всех детей, и предлагает искать его прежде, чем объяснять поведение характером
 tags: [concept, siblingi, doshkolniki, razvitie, diagnostika]
-sources: [kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-231, lnv-vypusk-230, lnv-vypusk-225]
+sources: [kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-231, lnv-vypusk-230, lnv-vypusk-225, lnv-vypusk-226]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -30,6 +30,7 @@ updated: 2026-09-04
 - [[znachimost-rebenka-v-seme](pages/znachimost-rebenka-v-seme.md)] — что именно перераспределяется с появлением младшего
 - [[ozhidat-chut-menshe](pages/ozhidat-chut-menshe.md)] — снижение требований как рабочий ответ на откат
 - [[vremya-prosto-tak](pages/vremya-prosto-tak.md)] — чем на самом деле снимается ревность старшего
+- [[podygrat-regressii](pages/podygrat-regressii.md)] — ответный ход: подыграть дозированно, а не пресекать
 
 ## Appearances in Sources
 
@@ -37,3 +38,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — крик трёхлетнего усилился после рождения сестры пять месяцев назад
 - [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — ревность девятилетнего к младшему брату и бросание на пол у четырёхлетнего при годовалом младшем
 - [[lnv-vypusk-225](pages/lnv-vypusk-225.md)] — трёхлетний хочет быть малышом и атакует годовалого; объяснение «невзлюбил маленького» отводится, речь о потраченных силах
+- [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — энкопрез у пятилетнего после рождения второго и возврат четырёхлетней к моделям младшего брата

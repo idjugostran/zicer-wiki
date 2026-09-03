@@ -3,9 +3,9 @@ title: Защита близкого человека как граница
 category: Concepts
 summary: Когда ребёнок систематически третирует одного родителя, вмешаться и поставить границу должен не он сам, а тот родитель, к которому ребёнок прислушивается — личным «я не позволяю», а не моралью
 tags: [concept, roditelstvo, granitsy]
-sources: [mozhet-li-rebenok-bullit-mamu, mozhno-li-pomoch-rodnym-izdaleka, kak-zashchitit-7-letnego-syna-ot-travli, mozhno-li-uberech-rebenka-ot-nenavisti, kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, mne-nravitsya-kak-papa-reagiruet]
+sources: [mozhet-li-rebenok-bullit-mamu, mozhno-li-pomoch-rodnym-izdaleka, kak-zashchitit-7-letnego-syna-ot-travli, mozhno-li-uberech-rebenka-ot-nenavisti, kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, mne-nravitsya-kak-papa-reagiruet, lnv-vypusk-226]
 created: 2026-08-29
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Защита близкого человека как граница
@@ -23,6 +23,7 @@ updated: 2026-09-03
 - [[kak-zashchitit-7-letnego-syna-ot-travli](pages/kak-zashchitit-7-letnego-syna-ot-travli.md)] — «детей надо защищать»; недопустим исход «ничего не поделаешь, Мартина не защищаем»
 - [[kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny](pages/kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny.md)] — зеркальный случай: мать защищает детей от взрослых, ставя границу за себя
 - [[mne-nravitsya-kak-papa-reagiruet](pages/mne-nravitsya-kak-papa-reagiruet.md)] — «вы имеете право защищать мужа от него»: зеркальный случай, границу ставит мать
+- [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — «ваш ребёнок прав»: дочь ждёт защиты от отца, и защиту она должна получить
 
 ## Related Concepts
 

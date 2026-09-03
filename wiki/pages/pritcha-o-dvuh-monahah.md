@@ -5,7 +5,7 @@ summary: Любимая притча Зицера — «я всего лишь �
 tags: [concept, emotsii, refleksiya, roditelstvo]
 sources: [moya-doch-ne-delitsya-chuvstvami]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Притча о двух монахах
@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — тревога, которую притча адресует родителю, а не ребёнку
 - [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — смежное право ребёнка выйти из тяжёлой темы
 - [[proverka-masshtaba-trevogi](pages/proverka-masshtaba-trevogi.md)] — смежный ход при разборе родительской тревоги об отсутствующей проблеме
+- [[brannye-slova-kak-dary](pages/brannye-slova-kak-dary.md)] — соседняя притча в том же инструментальном употреблении
 
 ## Footnotes
 

@@ -3,9 +3,9 @@ title: Открытый разговор с детьми о сексе
 category: Concepts
 summary: Секс — обычная интересная тема для ребёнка, а не опасная; неловкость при разговоре о ней — унаследованная взрослыми модель, а не реакция на реальный риск
 tags: [concept, seks, roditelstvo]
-sources: [kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-8, lnv-vypusk-252, lnv-vypusk-201, lnv-vypusk-250, kniga-lyubit-nelzya-vospityvat, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-233, lnv-vypusk-229]
+sources: [kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-8, lnv-vypusk-252, lnv-vypusk-201, lnv-vypusk-250, kniga-lyubit-nelzya-vospityvat, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-233, lnv-vypusk-229, lnv-vypusk-226]
 created: 2026-08-29
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Открытый разговор с детьми о сексе
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[mozhet-li-rebenka-razvratit-nagota-roditeley](pages/mozhet-li-rebenka-razvratit-nagota-roditeley.md)] — отсутствие просвещения названо частью «специального проекта», делающего взгляд сексуализирующим
 - [[lnv-vypusk-233](pages/lnv-vypusk-233.md)] — двадцатипятилетний брат нашёл секс-игрушки у четырнадцатилетних близнецов: тема обычная, вопрос только в форме разговора
 - [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — отец на вопрос сына «как было у вас с мамой» ответил фактической историей вместо разговора об отношениях
+- [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — «мы опоздали на несколько лет с этим разговором», вернуться к нему предлагается через месяц
 
 ## Related Concepts
 

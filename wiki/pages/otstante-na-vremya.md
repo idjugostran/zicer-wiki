@@ -3,9 +3,9 @@ title: «Отстаньте на время»
 category: Concepts
 summary: Совет, который Зицер сам называет самым популярным в программе: на неделю-десять дней полностью выключить расспросы и давление — потому что иначе родитель сам создаёт ребёнку причину там, где её не было
 tags: [concept, roditelstvo, roditelskiy-strakh, nablyudenie]
-sources: [v-poslednee-vremya-syn-ochen-grustit, moya-doch-zabila-na-vse, moya-doch-deretsya-i-plyuetsya, kak-razgovorit-cheloveka-4-h-let, rebenok-v-shkole-ne-razgovarivaet, kto-ya-svoey-padcheritse, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-aktivnoy-mame-zhit-s-synom-introvertom, devochka-13-let-poteryala-vkus-k-zhizni, mozhno-li-uberech-rebenka-ot-nenavisti, mamu-arestovali-na-glazah-dvuhletnego-syna, mama-day-mne-vremya, devochka-hochet-brosit-zanyatiya-peniem, kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-245, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-244, lnv-vypusk-237, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232]
+sources: [v-poslednee-vremya-syn-ochen-grustit, moya-doch-zabila-na-vse, moya-doch-deretsya-i-plyuetsya, kak-razgovorit-cheloveka-4-h-let, rebenok-v-shkole-ne-razgovarivaet, kto-ya-svoey-padcheritse, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-aktivnoy-mame-zhit-s-synom-introvertom, devochka-13-let-poteryala-vkus-k-zhizni, mozhno-li-uberech-rebenka-ot-nenavisti, mamu-arestovali-na-glazah-dvuhletnego-syna, mama-day-mne-vremya, devochka-hochet-brosit-zanyatiya-peniem, kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-245, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-244, lnv-vypusk-237, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-226]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # «Отстаньте на время»
@@ -44,6 +44,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-234](pages/lnv-vypusk-234.md)] — история с памперсом: «я бы отстал», произнесённое ребёнку обещание больше не приставать
 - [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — вместо ежедневных «нужна помощь?» — один последний разговор и выход из темы
 - [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — разрешение смотреть кино и «зарыться под одеяло» как право ребёнка укрыться от линии огня
+- [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — «остановитесь, наблюдайте»: при хорошей динамике коррекция отменяется на две-три недели, вместе со специалистами
 
 ## Related Concepts
 
