@@ -67,3 +67,4 @@ updated: 2026-09-03
 - [[semeynaya-kultura-rabotaet-kak-chasy](pages/semeynaya-kultura-rabotaet-kak-chasy.md)] — ограничение снизу: в три года круг общения фактически определяют родители
 - [[semeynyi-byudzhet-prinadlezhit-vsem](pages/semeynyi-byudzhet-prinadlezhit-vsem.md)] — право распоряжаться общим, а не получать выданное
 - [[otvet-v-karmane](pages/otvet-v-karmane.md)] — отвечает на вопрос о себе сам ребёнок, а не взрослый вместо него
+- [[day-mne-vremya](pages/day-mne-vremya.md)] — собственное заявление ребёнка о своём сроке весомее родительской оценки его готовности
