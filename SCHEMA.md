@@ -119,6 +119,41 @@ Three rules for every footnote:
 3. **Either a verbatim quote, or the `[synthesis]` tag plus a description** of
    what the cited range supports. No third option.
 
+### Quoting auto-generated transcripts
+
+Auto-generated subtitle tracks carry no punctuation and no capitalization, split words
+in the middle, truncate word endings, and mangle proper names and numbers. A quote in
+«…» therefore always involves some rendering by the writer. The line is where that
+rendering stops being rendering and becomes reconstruction.
+
+**Allowed silently** — the transcript carries none of this, so supplying it is not a
+change to what was said:
+- punctuation and capitalization;
+- `ё` where the track writes `е`;
+- numerals written out as words (`1000 руб` → «тысячей рублей»);
+- rejoining a word the track split (`пере статьей` → «перестать», `в остро` → «востро»);
+- an elision inside a quote, **marked with `…`**;
+- an editorial insertion, **marked with square brackets** (`в об[уви] жарко`).
+
+**Not allowed** — each of these silently attributes to the speaker something the
+record does not support:
+- substituting a word, however close in meaning;
+- changing word order (`они вытаскивают её… эти ребята` is not «эти ребята её вытаскивают»);
+- dropping or adding a content word without `…`;
+- stitching two separated utterances into one continuous quote;
+- guessing a word the track garbled beyond recovery.
+
+When the passage is garbled past recovery, **drop the «…» and render it as indirect
+speech**, saying in the same sentence that the track is damaged there — e.g. «нам не
+по государство году» becomes: *решив, что им с этим государством не по пути (фраза в
+дорожке искажена)*. The page's `## Note` section flags overall track quality; this
+inline marker is what tells the reader which specific claim is a restoration.
+
+`python3 bin/audit-quotes.py [slug…]` checks every footnote quote against the raw VTT
+and reports the ones whose word content or order does not match. It is a report, not a
+commit blocker: word-splits and truncations in the track still surface as candidates and
+need a human look. Run it after an ingest and before the commit.
+
 **Drive-by citation examples:**
 ```
 [^3]: raw/scaling-laws.pdf p.7 — "loss scales as a power law in compute"
