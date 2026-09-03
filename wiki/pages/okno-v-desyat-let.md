@@ -3,7 +3,7 @@ title: Окно в десять лет
 category: Concepts
 summary: Приёмы, основанные на подражании взрослому, работают, пока ребёнок ещё перенимает его модель; около двенадцати лет знак меняется на противоположный — и не по слабости, а потому, что человек начинает исследовать мир, пробуя иначе
 tags: [concept, vozrast, modeli, podrostki, granitsy-priemov]
-sources: [chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy]
+sources: [chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -31,3 +31,4 @@ updated: 2026-09-03
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — возрастные переходы, меняющие работающие средства
 - [[vytesnenie-roditeley-v-perehodnom-vozraste](pages/vytesnenie-roditeley-v-perehodnom-vozraste.md)] — что происходит после закрытия окна
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — противостояние как форма исследования мира
+- [[vopros-zachem-ty-eto-govorish](pages/vopros-zachem-ty-eto-govorish.md)] — соседний пример того, что у приёма есть возрастные границы применимости

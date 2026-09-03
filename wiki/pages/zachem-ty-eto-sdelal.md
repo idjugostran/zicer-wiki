@@ -3,7 +3,7 @@ title: «Зачем ты это сделал»
 category: Concepts
 summary: Самый тупиковый родительский вопрос в дошкольном возрасте: ребёнок честно не знает ответа, и взрослый на своём примере тоже не знал бы; вопрос лишь заряжает ситуацию, вместо того чтобы её разбирать
 tags: [concept, roditelstvo, doshkolniki, kommunikatsiya]
-sources: [syn-beret-chuzhie-veshchi]
+sources: [syn-beret-chuzhie-veshchi, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — где действительно находится ответ на «зачем»
 - [[pomoshch-bez-upreka](pages/pomoshch-bez-upreka.md)] — смежная правка формулировок, снимающая обвинение
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — здесь наоборот: вопрос задаётся при уже известном ответе, что и делает его спектаклем
+- [[vopros-zachem-ty-eto-govorish](pages/vopros-zachem-ty-eto-govorish.md)] — тот же по форме вопрос, который в тринадцать лет Зицер называет крутейшим: различие в возрасте, предмете (сказанное, а не сделанное) и тоне
 
 ## Footnotes
 
