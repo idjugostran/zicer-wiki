@@ -3,7 +3,7 @@ title: Телесная реакция предшествует поступку
 category: Concepts
 summary: Реактивные действия (крик, удар) вызываются телесным сигналом (сжатые кулаки, сухость во рту), возникающим за секунды до поступка, а не осознанным решением
 tags: [concept, samoregulyatsiya, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-ponimat-signaly-tela, lnv-vypusk-253, lnv-vypusk-215, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kniga-lyubit-nelzya-vospityvat, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, kak-ponyat-14-letnyuyu-doch, kak-byt-esli-syn-vlyubilsya-v-druga, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, vashego-rebenka-schitayut-huliganom]
+sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-ponimat-signaly-tela, lnv-vypusk-253, lnv-vypusk-215, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kniga-lyubit-nelzya-vospityvat, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, kak-ponyat-14-letnyuyu-doch, kak-byt-esli-syn-vlyubilsya-v-druga, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -51,3 +51,4 @@ updated: 2026-09-03
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — источник телесной реакции в Уроке 4: страх, а не реакция вообще
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — возрастная рамка (до 7 лет), в которой ребёнок систематически теряет телесные ориентиры под давлением родительского авторитета
 - [[izobretenie-instrumentov-v-igre](pages/izobretenie-instrumentov-v-igre.md)] — почему изобретённые инструменты телесные: занять руки, убежать, позвать взрослого
+- [[kak-tebe-eto-udalos](pages/kak-tebe-eto-udalos.md)] — закрепление механизма торможения после того, как он однажды сработал

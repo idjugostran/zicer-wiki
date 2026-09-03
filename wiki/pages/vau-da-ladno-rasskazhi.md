@@ -3,7 +3,7 @@ title: «Вау, да ладно, расскажи»
 category: Concepts
 summary: Замена родительской проверке: вместо наводящих вопросов, проверяющих гипотезу взрослого, — искреннее удивление и просьба рассказать; чем больше ненаигранных «вау», тем лучше
 tags: [concept, kommunikatsiya, prinyatie, podrostki, roditelstvo]
-sources: [malchik-hochet-odevatsya-kak-devochka]
+sources: [malchik-hochet-odevatsya-kak-devochka, 9-letniy-malchik-beret-chuzhie-veshchi]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[malchik-hochet-odevatsya-kak-devochka](pages/malchik-hochet-odevatsya-kak-devochka.md)] — приём сформулирован дословно как замена материнской проверке
+- [[9-letniy-malchik-beret-chuzhie-veshchi](pages/9-letniy-malchik-beret-chuzhie-veshchi.md)] — «самый главный момент — это не „ты молодец“, а: вау, какая круть, вау, расскажи»
 
 ## Related Concepts
 

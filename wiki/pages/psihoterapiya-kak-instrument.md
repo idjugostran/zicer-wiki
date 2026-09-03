@@ -3,7 +3,7 @@ title: Психотерапия как инструмент
 category: Concepts
 summary: Психотерапия — не признание слабости и не приговор, а специальный инструмент вроде таблетки от гриппа; слово «травма» лучше не произносить, а само переживание назвать человеческим качеством, которое бывает у кого угодно
 tags: [concept, roditelstvo, psihoterapiya, strah]
-sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, devochka-13-let-poteryala-vkus-k-zhizni, kak-nam-nauchitsya-kontrolirovat-sebya, selfharm-trevoga-i-slezy]
+sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, devochka-13-let-poteryala-vkus-k-zhizni, kak-nam-nauchitsya-kontrolirovat-sebya, selfharm-trevoga-i-slezy, 9-letniy-malchik-beret-chuzhie-veshchi]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[devochka-13-let-poteryala-vkus-k-zhizni](pages/devochka-13-let-poteryala-vkus-k-zhizni.md)] — психолог как один из инструментов следующего витка; отдельно оговорена граница с депрессией как болезнью
 - [[kak-nam-nauchitsya-kontrolirovat-sebya](pages/kak-nam-nauchitsya-kontrolirovat-sebya.md)] — прикладной анализ поведения у обоих детей и явная граница компетенции педагога
 - [[selfharm-trevoga-i-slezy](pages/selfharm-trevoga-i-slezy.md)] — «специалисты существуют, чтобы облегчать нашу жизнь… это как таблеточку выпить»
+- [[9-letniy-malchik-beret-chuzhie-veshchi](pages/9-letniy-malchik-beret-chuzhie-veshchi.md)] — «известная проблема, на тему которой написаны монографии, с этим можно справиться»
 
 ## Related Concepts
 
