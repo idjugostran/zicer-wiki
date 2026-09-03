@@ -3,9 +3,9 @@ title: Родительская любовь как действие
 category: Concepts
 summary: Любовь и забота — не эмоция-клише, а список конкретных действий, поддающихся описанию
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, kniga-lyubit-nelzya-vospityvat, kak-pomoch-docheri-vybrat-professiyu, kak-ne-perehvalit-rebenka, kak-nam-nauchitsya-kontrolirovat-sebya]
+sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, kniga-lyubit-nelzya-vospityvat, kak-pomoch-docheri-vybrat-professiyu, kak-ne-perehvalit-rebenka, kak-nam-nauchitsya-kontrolirovat-sebya, lnv-vypusk-218]
 created: 2026-08-04
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Родительская любовь как действие
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «О любви бессмысленной и беспощадной» проверяет тот же тезис от противного: абстрактная декларация «я люблю детей» (без разбора, всех) обесценена так же, как расистское обобщение — настоящая любовь конкретна и определяется через действие, а не декларацию
 - [[kak-pomoch-docheri-vybrat-professiyu](pages/kak-pomoch-docheri-vybrat-professiyu.md)] — конкретная словесная формула безусловной поддержки выбора («иди, я рядом, это твой выбор, и он офигенный»), не зависящая от результата
 - [[kak-ne-perehvalit-rebenka](pages/kak-ne-perehvalit-rebenka.md)] — «я тебя люблю» в самых неожиданных ситуациях, чтобы не быть наградой за заслугу
+- [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — «любовь это действие», проверяемое вечерним листком с двумя колонками
 
 ## Related Concepts
 
@@ -40,3 +41,4 @@ updated: 2026-09-03
 - [[otkaz-ot-nelzya](pages/otkaz-ot-nelzya.md)] — тот же ход: абстрактное правило проверяется прямым вопросом, а не принимается на веру
 - [[obshchestvennyi-interes-ne-dolg-rebenka](pages/obshchestvennyi-interes-ne-dolg-rebenka.md)] — то, что родитель делает для ребёнка, не создаёт у ребёнка долга
 - [[lyubov-cherez-sobstvennye-deystviya](pages/lyubov-cherez-sobstvennye-deystviya.md)] — предельный случай: любовь, которой пока не отвечают
+- [[vecherniy-listok-chem-uluchshil-chem-uhudshil](pages/vecherniy-listok-chem-uluchshil-chem-uhudshil.md)] — процедура, которой проверяется этот тезис

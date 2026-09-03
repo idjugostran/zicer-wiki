@@ -3,9 +3,9 @@ title: Обыск ребёнка как нарушение границ тела
 category: Concepts
 summary: Досмотр и ощупывание школьников Зицер квалифицирует не как нарушение правил, а как насилие: цель поиска запрещённого ничего не оправдывает, потому что нарушена граница человеческого тела, а взрослые воспользовались правом сильного
 tags: [concept, nasilie, granitsy-tela, shkola, dostoinstvo, vzroslye]
-sources: [obysk-desyatiklassnikov-v-orske, lnv-vypusk-246]
+sources: [obysk-desyatiklassnikov-v-orske, lnv-vypusk-246, lnv-vypusk-218]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Обыск ребёнка как нарушение границ тела
@@ -33,8 +33,10 @@ updated: 2026-09-03
 - [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)] — почему то же самое со взрослыми немыслимо
 - [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)] — обязанность, которую школа здесь нарушила сама
 - [[telo-neprikosnovenno-v-lyubom-vozraste](pages/telo-neprikosnovenno-v-lyubom-vozraste.md)] — тот же принцип вне институции: доброжелательные знакомые, а не досмотр
+- [[bezopasnost-ne-opravdyvaet-vtorzhenie](pages/bezopasnost-ne-opravdyvaet-vtorzhenie.md)] — то же вторжение, встроенное в устройство школы
 
 ## Appearances in Sources
 
 - [[obysk-desyatiklassnikov-v-orske](pages/obysk-desyatiklassnikov-v-orske.md)] — сформулировано впервые: досмотр рюкзаков и ощупывание десятиклассников в поисках вейпов
 - [[lnv-vypusk-246](pages/lnv-vypusk-246.md)] — бытовой вариант того же принципа: знакомые в кафе берут на руки и пересаживают двухлетних детей
+- [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — запрет защёлок на кабинках разобран той же логикой: безопасность не оправдывает вторжения в личную сферу

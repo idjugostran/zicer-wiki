@@ -3,7 +3,7 @@ title: Плавающие границы
 category: Concepts
 summary: Продавливание просьбами и физическое насилие — симптомы одного и того же: границ, которые ребёнок раз за разом успешно продавливает; лечится не уговорами, а решением, которое не меняется от усталости взрослого
 tags: [concept, granitsy, roditelstvo, nasilie, mladshie-shkolniki]
-sources: [kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-226]
+sources: [kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-226, lnv-vypusk-218]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-04
 - [[kak-nauchit-rebenka-uvazhat-chuzhie-granitsy](pages/kak-nauchit-rebenka-uvazhat-chuzhie-granitsy.md)] — вводит концепт: «демократия должна уметь себя защитить», усвоенная модель длинного пути, два ответа на просьбу, продавливание и насилие как один симптом
 - [[kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu](pages/kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu.md)] — общий стол обязателен или нет в зависимости от культурного кода конкретной семьи
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — «он не чувствует границы»: хватание за руку вместо сказанного словами «нет»
+- [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — гипотеза о домашних рамках как источнике нарушения границ на занятиях и в саду, проверяемая коротким опросом матери
 
 ## Related Concepts
 
@@ -37,6 +38,7 @@ updated: 2026-09-04
 - [[psihoterapiya-kak-instrument](pages/psihoterapiya-kak-instrument.md)] — что добавляется, когда ребёнок не справляется сам
 - [[merilo-eto-ty](pages/merilo-eto-ty.md)] — обратный случай: там граница называется жёстко, здесь мерило возвращается семье
 - [[krasnaya-liniya-zaranee](pages/krasnaya-liniya-zaranee.md)] — то же правило заранее принятого решения, перенесённое на отношения взрослых
+- [[opros-vsluh-bez-otveta](pages/opros-vsluh-bez-otveta.md)] — формат, которым проверяется эта гипотеза
 
 ## Footnotes
 

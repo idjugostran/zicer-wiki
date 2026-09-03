@@ -3,7 +3,7 @@ title: СДВГ как особенность, а не диагноз
 category: Concepts
 summary: СДВГ переформулируется как личностная особенность, а не диагноз-приговор; взятая под контроль через положительную обратную связь, она превращается из проблемы в преимущество — способность воспринимать больше и выбирать реакцию из гораздо большего числа вариантов
 tags: [concept, sdvg, roditelstvo]
-sources: [u-nego-sdvg-ili-my-ego-razbalovali, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kniga-lyubit-nelzya-vospityvat, kak-naladit-otnosheniya-s-docheryu-13-let, kak-zashchitit-7-letnego-syna-ot-travli, kak-nam-nauchitsya-kontrolirovat-sebya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-314, lnv-vypusk-244, lnv-vypusk-227, lnv-vypusk-226]
+sources: [u-nego-sdvg-ili-my-ego-razbalovali, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kniga-lyubit-nelzya-vospityvat, kak-naladit-otnosheniya-s-docheryu-13-let, kak-zashchitit-7-letnego-syna-ot-travli, kak-nam-nauchitsya-kontrolirovat-sebya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-314, lnv-vypusk-244, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-218]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -31,6 +31,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — неучтённая особенность день за днём превращается в модель поведения: «он не виноват в этом»
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — поставленный трёхлетнему диагноз в разборе не используется ни как объяснение, ни как приговор
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — «с СДВГ тут ни при чём»: диагноз снимается с объяснительной роли прямо в эфире
+- [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — подозрение на гиперактивность у трёхлетнего: неусидчивость нормальна для возраста, вопрос вызывает нарушение чужих границ
 
 ## Related Concepts
 

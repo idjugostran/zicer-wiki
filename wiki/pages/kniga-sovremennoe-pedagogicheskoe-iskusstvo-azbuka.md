@@ -3,9 +3,9 @@ title: «Современное педагогическое искусство.
 category: Entities
 summary: Книга Димы Зицера, устроенная как словарь педагогических понятий; в эфирах он ссылается на её статью «Группа» — о группе как живом организме, самостоятельно структурирующем образовательный процесс
 tags: [entity, kniga, dima-zicer, pedagogika]
-sources: [kak-uchitelyu-stroit-atmosferu-uroka]
+sources: [kak-uchitelyu-stroit-atmosferu-uroka, lnv-vypusk-218]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # «Современное педагогическое искусство. Азбука»
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-uchitelyu-stroit-atmosferu-uroka](pages/kak-uchitelyu-stroit-atmosferu-uroka.md)] — Зицер отсылает тренера к статье «Группа», отвечая на вопрос о работе с детским страхом ошибки
+- [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — Зицер отсылает классного руководителя к книге за конкретными технологиями и называет технологию «Что я люблю / чего не люблю» по Драгунскому
 
 ## Related Concepts
 

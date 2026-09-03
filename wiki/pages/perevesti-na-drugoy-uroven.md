@@ -3,9 +3,9 @@ title: Перевести на другой уровень
 category: Concepts
 summary: Детское желание, пугающее взрослого своей формой, не уводят в сторону, а поднимают до уровня, где оно исполнимо: не «не играй в это», а «давай посмотрим, какими способами люди помогают людям»
 tags: [concept, igra, voyna, zhelanie, pomoshch, doshkolniki]
-sources: [malchik-6-let-hochet-pomogat-ukraine]
+sources: [malchik-6-let-hochet-pomogat-ukraine, lnv-vypusk-218]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Перевести на другой уровень
@@ -27,6 +27,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[malchik-6-let-hochet-pomogat-ukraine](pages/malchik-6-let-hochet-pomogat-ukraine.md)] — сформулировано впервые: шестилетний сын, рисующий украинский флаг и мечтающий «быть как дядя Женя»
+- [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — исследовательский интерес из мусорных баков переносится в поиск клада, экспедицию и спортивное ориентирование
 
 ## Related Concepts
 

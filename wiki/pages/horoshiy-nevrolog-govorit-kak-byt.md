@@ -3,7 +3,7 @@ title: Хороший невролог говорит, как быть
 category: Concepts
 summary: Критерий специалиста: обследование, закончившееся словами «патологий нет», не является ответом — хороший врач говорит не что всё в порядке, а как быть в конкретной ситуации
 tags: [concept, spetsialisty, sdvg, diagnostika, roditelstvo]
-sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom, lnv-vypusk-245, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-238, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-233, lnv-vypusk-226]
+sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom, lnv-vypusk-245, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-238, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-233, lnv-vypusk-226, lnv-vypusk-218]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -31,6 +31,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — невролог как первый пункт проверки, «не то что я считаю, что вам нужна медицинская помощь»
 - [[lnv-vypusk-233](pages/lnv-vypusk-233.md)] — невролог Полины сказала не «патологий нет», а что мама поторопилась со школой
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — психолог, объясняющий нежелание ребёнка ходить тем, что она «не должна его развлекать», признаётся сменяемым
+- [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — «есть или нет гиперактивность на самом деле решает невролог»; идти надо в любом случае, ради ответа, каким бы он ни был
 
 ## Related Concepts
 

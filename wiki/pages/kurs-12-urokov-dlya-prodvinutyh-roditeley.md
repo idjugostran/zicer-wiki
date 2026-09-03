@@ -3,9 +3,9 @@ title: Курс «Двенадцать уроков для продвинуты�
 category: Entities
 summary: Бесплатный еженедельный курс Димы Зицера из 12 уроков с обязательными домашними заданиями
 tags: [entity, course, dima-zicer]
-sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-3, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kurs-12-urokov-urok-6, kurs-12-urokov-urok-7, kurs-12-urokov-urok-8, kurs-12-urokov-urok-9, kurs-12-urokov-urok-10, kurs-12-urokov-urok-11, kurs-12-urokov-urok-12, lnv-vypusk-232]
+sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-3, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kurs-12-urokov-urok-6, kurs-12-urokov-urok-7, kurs-12-urokov-urok-8, kurs-12-urokov-urok-9, kurs-12-urokov-urok-10, kurs-12-urokov-urok-11, kurs-12-urokov-urok-12, lnv-vypusk-232, lnv-vypusk-218]
 created: 2026-08-04
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Курс «Двенадцать уроков для продвинутых родителей»
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[kurs-12-urokov-urok-11](pages/kurs-12-urokov-urok-11.md)] — Урок 11: «дурная компания», техника «пригласить друга домой»
 - [[kurs-12-urokov-urok-12](pages/kurs-12-urokov-urok-12.md)] — Урок 12 (заключительный): чистая рефлексия и синтез Уроков 1–11, финальная формула «всегда на стороне ребёнка»
 - [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — первая звонящая упоминает курс, и Зицер поясняет в эфире, что это за программа
+- [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — Зицер напоминает в эфире устройство первой домашней работы курса
 
 ## Related Concepts
 
