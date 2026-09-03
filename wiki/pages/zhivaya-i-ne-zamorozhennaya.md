@@ -3,7 +3,7 @@ title: Живая и не замороженная
 category: Concepts
 summary: Тот член семьи, кто продолжает бояться вслух, не является её слабым звеном: именно он даёт остальным возможность быть сильными, утешать и оставаться живыми
 tags: [concept, semya, voyna, strah, podderzhka, roli]
-sources: [chto-pomogaet-detyam-vyzhit-na-voyne]
+sources: [chto-pomogaet-detyam-vyzhit-na-voyne, mozhno-li-uberech-rebenka-ot-nenavisti]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[chto-pomogaet-detyam-vyzhit-na-voyne](pages/chto-pomogaet-detyam-vyzhit-na-voyne.md)] — сформулировано впервые: мать, считающая себя «самым слабым звеном» семьи под обстрелами
+- [[mozhno-li-uberech-rebenka-ot-nenavisti](pages/mozhno-li-uberech-rebenka-ot-nenavisti.md)] — зеркальный случай: здесь маму бережёт девятилетний сын, и отнимать у него эту роль нельзя
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Защита близкого человека как граница
 category: Concepts
 summary: Когда ребёнок систематически третирует одного родителя, вмешаться и поставить границу должен не он сам, а тот родитель, к которому ребёнок прислушивается — личным «я не позволяю», а не моралью
 tags: [concept, roditelstvo, granitsy]
-sources: [mozhet-li-rebenok-bullit-mamu, mozhno-li-pomoch-rodnym-izdaleka, kak-zashchitit-7-letnego-syna-ot-travli]
+sources: [mozhet-li-rebenok-bullit-mamu, mozhno-li-pomoch-rodnym-izdaleka, kak-zashchitit-7-letnego-syna-ot-travli, mozhno-li-uberech-rebenka-ot-nenavisti]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -26,3 +26,4 @@ updated: 2026-09-03
 
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — привычное направление «защиты» (родитель защищает ребёнка); здесь та же обязанность развёрнута в обратную сторону
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — та же техника «говорить о себе» от первого лица вместо требования к ребёнку, но в защиту третьего человека, а не в признании собственного страха
+- [[zashchishchat-tsennosti-siloy](pages/zashchishchat-tsennosti-siloy.md)] — «сражайся, Арджуна»: сила как условие существования ценностей
