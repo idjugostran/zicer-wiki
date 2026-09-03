@@ -3,9 +3,9 @@ title: Он вернёт то, чему научился
 category: Concepts
 summary: Аргумент к взрослому, которого не берут педагогические доводы: не мораль, а прогноз — через несколько лет ребёнок получит инструменты и вернёт именно ту модель, которой его научили
 tags: [concept, modeli-povedeniya, podrostki, semya, kommunikatsiya]
-sources: [kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny]
+sources: [kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, lnv-vypusk-224]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Он вернёт то, чему научился
@@ -32,3 +32,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny](pages/kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny.md)] — сформулировано впервые: «плохо кончится, родной» как предложенная мужу формулировка
+- [[lnv-vypusk-224](pages/lnv-vypusk-224.md)] — «чему учили, тому и научили»: отбитое в пять лет желание учиться не восстанавливается объяснениями в семь и восемь

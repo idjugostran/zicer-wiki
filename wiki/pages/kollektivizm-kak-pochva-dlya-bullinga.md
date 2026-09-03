@@ -3,9 +3,9 @@ title: Навязанный коллективизм как почва для б
 category: Concepts
 summary: Буллинг — примитивное упрощение личных отношений в групповую агрессию; навязанный взрослыми коллективизм («мы единая команда») порождает вожака и травлю, тогда как личностные отношения в классе защищают от неё; работать нужно с чувствами инициатора, а не с коллективом
 tags: [concept, bulling, samoregulyatsiya, subyektnost]
-sources: [mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-223, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, nam-popalas-plohaya-uchilka, doch-schitaet-sebya-kvadroberom, kak-zashchitit-7-letnego-syna-ot-travli, dolzhen-li-uchitel-lyubit-detey, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-235]
+sources: [mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-223, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, nam-popalas-plohaya-uchilka, doch-schitaet-sebya-kvadroberom, kak-zashchitit-7-letnego-syna-ot-travli, dolzhen-li-uchitel-lyubit-detey, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-235, lnv-vypusk-224]
 created: 2026-08-30
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Навязанный коллективизм как почва для буллинга
@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[dolzhen-li-uchitel-lyubit-detey](pages/dolzhen-li-uchitel-lyubit-detey.md)] — «сплачивать коллектив — полная чепуха»; коллектив как «единство индивидуальностей»
 - [[kogda-starshiy-brat-koshmarit-mladshego](pages/kogda-starshiy-brat-koshmarit-mladshego.md)] — «а Фёдору хорошо от этого всего?»: работа с состоянием инициатора, а не потерпевшего
 - [[lnv-vypusk-235](pages/lnv-vypusk-235.md)] — страх дразнилок из-за очков: повод не в очках — «они найдут над чем смеяться»; жестокости дети учатся у взрослых
+- [[lnv-vypusk-224](pages/lnv-vypusk-224.md)] — большинство класса поддерживает четвёрку смехом и одновременно голосует за исключение одного; Зицер защищает от большинства именно нарушителя
 
 ## Related Concepts
 

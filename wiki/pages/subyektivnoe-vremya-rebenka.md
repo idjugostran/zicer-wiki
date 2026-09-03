@@ -3,9 +3,9 @@ title: Субъективное время ребёнка и взрослого
 category: Concepts
 summary: Три года для взрослого — миг, для шестилетнего ребёнка — большая часть сознательной жизни; парадигма «подготовки к жизни» (детский сад готовит к школе, школа — к вузу) игнорирует эту разницу и подменяет текущую жизнь ребёнка ожиданием будущей
 tags: [concept, roditelstvo, kniga]
-sources: [kniga-lyubit-nelzya-vospityvat, chto-takoe-dogovor-s-rebenkom, v-poslednee-vremya-syn-ochen-grustit, kuda-zhe-my-toropimsya, kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-229]
+sources: [kniga-lyubit-nelzya-vospityvat, chto-takoe-dogovor-s-rebenkom, v-poslednee-vremya-syn-ochen-grustit, kuda-zhe-my-toropimsya, kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-229, lnv-vypusk-224]
 created: 2026-09-02
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Субъективное время ребёнка и взрослого
@@ -22,6 +22,7 @@ updated: 2026-09-03
 - [[kuda-zhe-my-toropimsya](pages/kuda-zhe-my-toropimsya.md)] — «мы не живём, мы только готовимся и бежим», применённое к десятикласснику на Кипре
 - [[kak-zhe-on-dolgo-sobiraetsya](pages/kak-zhe-on-dolgo-sobiraetsya.md)] — «пять минут — совсем абстрактная история для этого возраста»
 - [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — «трудно ожидать от человека пяти лет волевого поведения»; требование вести себя как взрослый названо выступлением против природы
+- [[lnv-vypusk-224](pages/lnv-vypusk-224.md)] — пятнадцатилетняя Софья сама подменяет девятый класс планом на после школы; совет — не принимать решение на три года вперёд
 
 ## Related Concepts
 

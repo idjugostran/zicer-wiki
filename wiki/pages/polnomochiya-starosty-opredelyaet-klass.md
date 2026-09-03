@@ -5,7 +5,7 @@ summary: Выбранный староста получает не обязан�
 tags: [concept, shkola, samoupravlenie, mandat, uchastniki]
 sources: [lnv-vypusk-241]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Полномочия старосты определяет класс
@@ -23,6 +23,7 @@ updated: 2026-09-03
 - [[uchastniki-kak-zakazchiki](pages/uchastniki-kak-zakazchiki.md)] — те, кто выбирал, и определяют содержание роли
 - [[psevdodogovor-kak-prikaz](pages/psevdodogovor-kak-prikaz.md)] — та же подмена в семье: приказ, названный договорённостью
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — почему поддержание дисциплины не может быть содержанием роли
+- [[nuzhna-pomoshch-vzroslogo-chtoby-strukturirovat](pages/nuzhna-pomoshch-vzroslogo-chtoby-strukturirovat.md)] — граница детского самоуправления: структуру задаёт взрослый
 
 ## Appearances in Sources
 

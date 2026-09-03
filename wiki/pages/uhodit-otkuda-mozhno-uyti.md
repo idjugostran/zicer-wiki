@@ -3,9 +3,9 @@ title: Уходить, откуда можно уйти
 category: Concepts
 summary: Двойной стандарт разбирается по одной мерке независимо от места — школа, бассейн, музей; тот, кто гонит идеологию, вредит, даже если в чём-то помогает, и уходить приходится отовсюду, откуда возможно
 tags: [concept, dvoemyslie, ideologiya, shkola, bezopasnost, vybor-sredy]
-sources: [kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, lnv-vypusk-314, lnv-vypusk-245, lnv-vypusk-238, lnv-vypusk-240, lnv-vypusk-241]
+sources: [kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, lnv-vypusk-314, lnv-vypusk-245, lnv-vypusk-238, lnv-vypusk-240, lnv-vypusk-241, lnv-vypusk-224]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Уходить, откуда можно уйти
@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-238](pages/lnv-vypusk-238.md)] — десятилетний мальчик после переезда: больничный, пауза, при необходимости смена школы вместо борьбы за правоту
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — уход из секции и смена школы в середине года — законные варианты; мерило решения — улучшается или ухудшается жизнь человека
 - [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — граница уточнена: уходят из ситуаций насилия и прямого унижения, а не из трудных вообще; в том же эфире Зицер встаёт на сторону учительницы, требующей вернуть мальчика в школу
+- [[lnv-vypusk-224](pages/lnv-vypusk-224.md)] — отказ дать совет «в рамках этого сада»; нехватка мест признана недостаточным основанием оставлять ребёнка там, где ему плохо
 
 ## Related Concepts
 

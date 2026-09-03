@@ -3,9 +3,9 @@ title: Мяч на его половине поля
 category: Concepts
 summary: Формулировки, после которых формулировки ищет ребёнок, а не родитель: «правда же я не должна тебе нудить?», «я как все мамы трусиха — мне бояться или нет?», «успокой меня» — вместо требования и нотации
 tags: [concept, roditelstvo, kommunikatsiya, podrostki]
-sources: [syn-rasskazal-mame-chto-on-biseksual, chto-takoe-dogovor-s-rebenkom, kak-ponyat-14-letnyuyu-doch, lnv-vypusk-247, lnv-vypusk-236, lnv-vypusk-231, lnv-vypusk-232]
+sources: [syn-rasskazal-mame-chto-on-biseksual, chto-takoe-dogovor-s-rebenkom, kak-ponyat-14-letnyuyu-doch, lnv-vypusk-247, lnv-vypusk-236, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-224]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Мяч на его половине поля
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — «котик, давай придумаем, чем я могу тебе помочь» вместо «сколько раз я тебе говорила»
 - [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — расширение за пределы «родитель — ребёнок»: мяч на половине старшей сестры
 - [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — вопросы отцу — «что будет после того, как он поймёт?» — вместо спора о правильности сдачи
+- [[lnv-vypusk-224](pages/lnv-vypusk-224.md)] — граница расширена по возрасту: «перебросьте мячик на его половину поля» адресовано пятилетней, с паузой в двадцать-тридцать секунд и с требованием до её ответа делать ровно то, о чём она просит
 
 ## Related Concepts
 

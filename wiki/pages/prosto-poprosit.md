@@ -5,7 +5,7 @@ summary: Самое пропускаемое решение: сказать ре
 tags: [concept, roditelstvo, kommunikatsiya, podrostki]
 sources: [doch-revnuet-i-ustraivaet-skandaly, kak-pomoch-rebenku-prinyat-novuyu-realnost, chto-pomogaet-detyam-vyzhit-na-voyne, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-233, lnv-vypusk-232]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Просто попросить
@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[usloviya-trudnogo-razgovora](pages/usloviya-trudnogo-razgovora.md)] — требование говорить в спокойной обстановке, не связанной с конфликтом
 - [[prosit-o-pomoshchi-eto-sila](pages/prosit-o-pomoshchi-eto-sila.md)] — та же логика между взрослыми: просьба как решительный поступок
 - [[pomenyatsya-rolyami-v-igre](pages/pomenyatsya-rolyami-v-igre.md)] — игра, возвращающая просьбе смысл, когда прямая просьба перестала работать
+- [[prosba-vmesto-obyasneniya](pages/prosba-vmesto-obyasneniya.md)] — прямая просьба без объяснения, адресованная младшему ребёнку
 
 ## Footnotes
 

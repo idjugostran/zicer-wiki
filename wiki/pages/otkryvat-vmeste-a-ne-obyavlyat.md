@@ -5,7 +5,7 @@ summary: Педагогический вывод, объявленный взр�
 tags: [concept, uchitel, krug, vyvod, protsedura]
 sources: [lnv-vypusk-232]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Открывать вместе, а не объявлять
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[legitimizatsiya-temy](pages/legitimizatsiya-temy.md)] — условие входа: тема вводится как обычная
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — то же требование в разговоре один на один
 - [[razgovor-otdelno-ot-situatsii](pages/razgovor-otdelno-ot-situatsii.md)] — когда проводить такой разговор относительно самого эпизода
+- [[nuzhna-pomoshch-vzroslogo-chtoby-strukturirovat](pages/nuzhna-pomoshch-vzroslogo-chtoby-strukturirovat.md)] — кто запускает такое обсуждение, когда запрос идёт от ученика
 
 ## Appearances in Sources
 

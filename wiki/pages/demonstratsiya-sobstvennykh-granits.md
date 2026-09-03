@@ -3,9 +3,9 @@ title: Демонстрация собственных границ
 category: Concepts
 summary: Родитель признаёт чувство ребёнка, но всё равно называет и осуществляет своё намерение — способ показать ребёнку, что родитель тоже отдельный, живой человек со своими нуждами
 tags: [concept, granitsy, vozrastnye-krizisy, roditelstvo]
-sources: [chto-delat-esli-3-letniy-syn-komanduet-mamoy, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-dobitsya-mira-so-svoimi-detmi, kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-244]
+sources: [chto-delat-esli-3-letniy-syn-komanduet-mamoy, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-dobitsya-mira-so-svoimi-detmi, kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-244, lnv-vypusk-224]
 created: 2026-09-02
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Демонстрация собственных границ
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny](pages/kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny.md)] — «стоп, мне неприятно», адресованное не ребёнку, а другому взрослому
 - [[kogda-starshiy-brat-koshmarit-mladshego](pages/kogda-starshiy-brat-koshmarit-mladshego.md)] — «чтобы вы и мама сказали о своих границах» на общем семейном разговоре
 - [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — форма настоятельной просьбы вместо приказа: «для меня это очень-очень важно»
+- [[lnv-vypusk-224](pages/lnv-vypusk-224.md)] — два звонка подряд с одним ходом: «мне неприятно, я прошу этого не делать» без объяснений
 
 ## Related Concepts
 
@@ -38,3 +39,4 @@ updated: 2026-09-03
 - [[stop-slovo](pages/stop-slovo.md)] — тот же сигнал о границе, но которым пользуется ребёнок в отношении родителя
 - [[shchedrost-a-ne-slabohakternost](pages/shchedrost-a-ne-slabohakternost.md)] — ограничение родителя называется отдельно от оценки ребёнка и заранее
 - [[druzey-ne-unizhayut](pages/druzey-ne-unizhayut.md)] — та же граница, названная вслух, но не переходящая в постоянный надзор
+- [[prosba-vmesto-obyasneniya](pages/prosba-vmesto-obyasneniya.md)] — тот же жанр, но взрослый просит, а не осуществляет намерение
