@@ -3,7 +3,7 @@ title: Аплодисменты как радость, а не оценка
 category: Concepts
 summary: Чтобы похвала перестала быть допингом, её не убирают, а расширяют: если хлопают и просто так, аплодисменты перестают означать «ты заслужил»
 tags: [concept, pohvala, otsenka, rannii-vozrast, motivatsiya]
-sources: [kak-ne-perehvalit-rebenka]
+sources: [kak-ne-perehvalit-rebenka, kak-i-za-chto-ne-hvalit-rebenka]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-ne-perehvalit-rebenka](pages/kak-ne-perehvalit-rebenka.md)] — сформулировано впервые: годовалая Арина показывает бабушке ладошками, где аплодисменты
+- [[kak-i-za-chto-ne-hvalit-rebenka](pages/kak-i-za-chto-ne-hvalit-rebenka.md)] — «как мы с тобой быстро управились»: реплика о происшедшем вместо оценки ребёнка
 
 ## Related Concepts
 
