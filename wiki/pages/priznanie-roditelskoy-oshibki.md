@@ -3,7 +3,7 @@ title: Признание родительской ошибки
 category: Concepts
 summary: Когда решение было принято без ребёнка и объяснено ему неправдой, первым обязательным шагом становится извинение — без самоуничижения, но и без смягчения сути; без этой части ничего остальное не работает
 tags: [concept, roditelstvo, chestnost, podrostki, emigratsiya]
-sources: [kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, lnv-vypusk-314]
+sources: [kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, lnv-vypusk-314, lnv-vypusk-246]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] — просьба к отцу самому сказать сыну, что он поменял точку зрения, и что менять её — круто
 - [[9-letniy-malchik-beret-chuzhie-veshchi](pages/9-letniy-malchik-beret-chuzhie-veshchi.md)] — «надо это отмотать обратно», чтобы не осталось и процента на «предательство»
 - [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — «мы это сделали уже без тебя, сожалеем, мы сделали, наверное, неправильно»
+- [[lnv-vypusk-246](pages/lnv-vypusk-246.md)] — «мы ошиблись, мы переусердствовали» как первый шаг к прекращению подростковой лжи
 
 ## Related Concepts
 
@@ -36,6 +37,7 @@ updated: 2026-09-03
 - [[kniga-bessmyslennost-vospitaniya-podrostkov](pages/kniga-bessmyslennost-vospitaniya-podrostkov.md)] — почему реакция подростка может быть любой
 - [[pravo-vmeshatsya-v-druzhbu](pages/pravo-vmeshatsya-v-druzhbu.md)] — счёт, который подросток предъявляет за решения, принятые без него
 - [[nesmotrya-a-ne-blagodarya](pages/nesmotrya-a-ne-blagodarya.md)] — отказ от самооправдания прошлым как условие отказа от метода
+- [[obman-kak-strah-roditelskoy-otsenki](pages/obman-kak-strah-roditelskoy-otsenki.md)] — случай, где признание ошибки — первый шаг к прекращению лжи
 
 ## Footnotes
 

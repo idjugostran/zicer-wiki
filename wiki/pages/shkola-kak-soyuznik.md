@@ -3,7 +3,7 @@ title: Школа как союзник
 category: Concepts
 summary: На переговорах со школой ищут не правоту, а пересечение интересов: школа заинтересована погасить напряжение, сохранить ученика и не создавать волну — на этом и строится разговор, без перехода на личности
 tags: [concept, shkola, peregovory, roditelstvo]
-sources: [nam-popalas-plohaya-uchilka, moya-doch-zabila-na-vse, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, 8-letniy-malchik-stesnyaetsya-starshego-brata]
+sources: [nam-popalas-plohaya-uchilka, moya-doch-zabila-na-vse, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, 8-letniy-malchik-stesnyaetsya-starshego-brata, lnv-vypusk-246]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] — директор, звонящая с намёками вместо совета; «в смысле это её работа»
 - [[9-letniy-malchik-beret-chuzhie-veshchi](pages/9-letniy-malchik-beret-chuzhie-veshchi.md)] — учителей просят напоминать и поддерживать, а не ловить; оба должны быть «на 100% на его стороне»
 - [[8-letniy-malchik-stesnyaetsya-starshego-brata](pages/8-letniy-malchik-stesnyaetsya-starshego-brata.md)] — повод обратиться к учительнице не «у моего ребёнка проблемы», а «пора поговорить в классе на тему я и другой»
+- [[lnv-vypusk-246](pages/lnv-vypusk-246.md)] — уведомление о драках и спор об учебнике математики; отдельно — предупреждение, что запись публичного разбора, принесённая в школу как аргумент, читается как ультиматум
 
 ## Related Concepts
 

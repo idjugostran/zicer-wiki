@@ -3,7 +3,7 @@ title: Обыск ребёнка как нарушение границ тела
 category: Concepts
 summary: Досмотр и ощупывание школьников Зицер квалифицирует не как нарушение правил, а как насилие: цель поиска запрещённого ничего не оправдывает, потому что нарушена граница человеческого тела, а взрослые воспользовались правом сильного
 tags: [concept, nasilie, granitsy-tela, shkola, dostoinstvo, vzroslye]
-sources: [obysk-desyatiklassnikov-v-orske]
+sources: [obysk-desyatiklassnikov-v-orske, lnv-vypusk-246]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -32,7 +32,9 @@ updated: 2026-09-03
 - [[pochemu-vzroslye-unizhayut-detey](pages/pochemu-vzroslye-unizhayut-detey.md)] — унижение как возможность, даваемая зависимостью
 - [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)] — почему то же самое со взрослыми немыслимо
 - [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)] — обязанность, которую школа здесь нарушила сама
+- [[telo-neprikosnovenno-v-lyubom-vozraste](pages/telo-neprikosnovenno-v-lyubom-vozraste.md)] — тот же принцип вне институции: доброжелательные знакомые, а не досмотр
 
 ## Appearances in Sources
 
 - [[obysk-desyatiklassnikov-v-orske](pages/obysk-desyatiklassnikov-v-orske.md)] — сформулировано впервые: досмотр рюкзаков и ощупывание десятиклассников в поисках вейпов
+- [[lnv-vypusk-246](pages/lnv-vypusk-246.md)] — бытовой вариант того же принципа: знакомые в кафе берут на руки и пересаживают двухлетних детей

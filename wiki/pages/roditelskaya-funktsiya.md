@@ -3,7 +3,7 @@ title: Родительская функция
 category: Concepts
 summary: Формулировка Зицера — защита, помощь, присутствие, поддержка
 tags: [concept, parenting]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kto-ya-svoey-padcheritse, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, kak-roditeli-perenosyat-na-detey-modeli]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kto-ya-svoey-padcheritse, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-246]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -41,6 +41,7 @@ updated: 2026-09-03
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «Правила для родителей и подростков» формулирует «тыл» как главное из восьми правил, с личной историей автора (делегатское собрание ТЮЗа как убежище); глава «Детский клуб самоубийц» повторяет ту же формулу уже как условие психологического выживания в тяжёлом конфликте (см. [[tyl-dlya-rebenka](pages/tyl-dlya-rebenka.md)])
 - [[kak-borotsya-s-dvoemysliem-kogda-docheri-9-let](pages/kak-borotsya-s-dvoemysliem-kogda-docheri-9-let.md)] — «в первую очередь мы говорим о его безопасности, дальше начинается образование»
 - [[kak-roditeli-perenosyat-na-detey-modeli](pages/kak-roditeli-perenosyat-na-detey-modeli.md)] — безопасность, возможность осознавать себя и исследовать мир: выполняющему это родителю ребёнок верит
+- [[lnv-vypusk-246](pages/lnv-vypusk-246.md)] — защита ребёнка от взрослого агрессора и «сделайте свою взрослую работу» — найти сыну учителя и систему, где не придётся учить нежеланное
 
 ## Related Concepts
 

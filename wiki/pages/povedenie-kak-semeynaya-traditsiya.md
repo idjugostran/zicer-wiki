@@ -3,7 +3,7 @@ title: Поведение как семейная традиция
 category: Concepts
 summary: Повторяющаяся связка «поступок ребёнка — реакция родителя» — это не непослушание, а сложившийся ритуал; его не запрещают, а заменяют другим, столь же конкретным
 tags: [concept, rannii-vozrast, traditsii, poslushanie, ritual]
-sources: [kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru]
+sources: [kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, lnv-vypusk-246]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 
 - [[kak-sdelat-chtoby-ona-slushalas-roditeley](pages/kak-sdelat-chtoby-ona-slushalas-roditeley.md)] — сформулировано впервые: двухлетняя София, прыжки на диване и брызги в ванне
 - [[kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru](pages/kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru.md)] — «есть какая-то традиция: я ною», за которой стоит другое желание
+- [[lnv-vypusk-246](pages/lnv-vypusk-246.md)] — традиция «мама укладывает нас спать» сложилась сама после командировки отца; её не ломают, а пережидают, отдав отцу другое регулярное действие
 
 ## Related Concepts
 

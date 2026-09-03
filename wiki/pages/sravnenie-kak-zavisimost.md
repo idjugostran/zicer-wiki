@@ -3,7 +3,7 @@ title: Сравнение
 category: Concepts
 summary: Сравнение/оценка как психологический механизм, близкий к зависимости — подменяет внутренний интерес потребностью во внешнем одобрении
 tags: [concept, otsenka, roditelstvo, pedagogika]
-sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin, lnv-vypusk-164, kak-byt-esli-rebenok-ne-uveren-v-sebe, kniga-lyubit-nelzya-vospityvat, kak-ne-perehvalit-rebenka, vstuplenie-k-programme-16-01-24]
+sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin, lnv-vypusk-164, kak-byt-esli-rebenok-ne-uveren-v-sebe, kniga-lyubit-nelzya-vospityvat, kak-ne-perehvalit-rebenka, vstuplenie-k-programme-16-01-24, lnv-vypusk-246]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «Сравнение — мать насилия» даёт самую жёсткую формулировку тезиса («сравнение разъедает душу покруче, чем насилие») и глава «Изнасилование на пятёрку» — развёрнутую критику школьных оценок как того же механизма
 - [[kak-ne-perehvalit-rebenka](pages/kak-ne-perehvalit-rebenka.md)] — годовалый ребёнок требует аплодисментов; аналогия с учёбой ради пятёрки с плюсом
 - [[vstuplenie-k-programme-16-01-24](pages/vstuplenie-k-programme-16-01-24.md)] — «любое сравнение — и в педагогике, и в жизни — ведёт в тупик и обесценивает»
+- [[lnv-vypusk-246](pages/lnv-vypusk-246.md)] — «у меня плохая снежинка» — недосказанное сравнение; выяснять надо и внешний источник, и домашнюю соревновательность родителей
 
 ## Related Concepts
 
