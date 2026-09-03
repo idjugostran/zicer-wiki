@@ -3,7 +3,7 @@ title: Семейная культура работает как часы
 category: Concepts
 summary: На то, каким вырастет ребёнок, влияют не отдельные запреты, а уклад дома — то, о чём говорят, что считают хорошим, что звучит; и этот механизм почти безотказен, в обе стороны
 tags: [concept, semeynaya-kultura, vliyanie, tsennosti, vospitanie]
-sources: [s-kem-druzhit-nashim-detyam]
+sources: [s-kem-druzhit-nashim-detyam, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[s-kem-druzhit-nashim-detyam](pages/s-kem-druzhit-nashim-detyam.md)] — сформулировано впервые: отец трёхлетней девочки в Ереване опасается дружбы с детьми из провоенных семей
+- [[chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh](pages/chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh.md)] — «мне достаточно смотреть на тебя и на маму, я и так буду поступать, как ты»
 
 ## Related Concepts
 

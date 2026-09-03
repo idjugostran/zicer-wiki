@@ -3,7 +3,7 @@ title: Поведение как семейная традиция
 category: Concepts
 summary: Повторяющаяся связка «поступок ребёнка — реакция родителя» — это не непослушание, а сложившийся ритуал; его не запрещают, а заменяют другим, столь же конкретным
 tags: [concept, rannii-vozrast, traditsii, poslushanie, ritual]
-sources: [kak-sdelat-chtoby-ona-slushalas-roditeley]
+sources: [kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -31,3 +31,4 @@ updated: 2026-09-03
 - [[obshchenie-cherez-igrushku](pages/obshchenie-cherez-igrushku.md)] — ещё один формат, вводимый как регулярная традиция
 - [[semeynyi-spektakl-kak-traditsiya](pages/semeynyi-spektakl-kak-traditsiya.md)] — традиция как несущая конструкция семейной жизни
 - [[horoshaya-i-plohaya-rutina](pages/horoshaya-i-plohaya-rutina.md)] — какие повторяющиеся конструкции стоит заводить
+- [[regulirovat-igru-iznutri](pages/regulirovat-igru-iznutri.md)] — та же логика замены содержания вместо запрета, но внутри игры

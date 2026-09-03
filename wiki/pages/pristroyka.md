@@ -3,7 +3,7 @@ title: Пристройка
 category: Concepts
 summary: Индивидуальный способ, которым человек приспосабливается к невыносимым обстоятельствам; пристройки бывают очень разными и странными на вид, и отнимать найденную — значит лишать опоры
 tags: [concept, voyna, travma, adaptatsiya, deti]
-sources: [chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mozhno-li-uberech-rebenka-ot-nenavisti]
+sources: [chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mozhno-li-uberech-rebenka-ot-nenavisti, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[devochka-13-let-poteryala-vkus-k-zhizni](pages/devochka-13-let-poteryala-vkus-k-zhizni.md)] — Зицер сам употребляет термин и подчёркивает непредсказуемость: общительный может закрыться, закрытый — заговорить
 - [[kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov](pages/kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov.md)] — отрицательный полюс: пристройка не складывается, каждый новый сад обнуляет попытку
 - [[mozhno-li-uberech-rebenka-ot-nenavisti](pages/mozhno-li-uberech-rebenka-ot-nenavisti.md)] — Зицер называет термин прямо: и роль защитника мамы, и кровожадные планы суть пристройка
+- [[chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh](pages/chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh.md)] — игра в злого как способ четырёхлетнего справиться со страшным
 
 ## Related Concepts
 
