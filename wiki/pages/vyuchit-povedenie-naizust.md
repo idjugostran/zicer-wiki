@@ -31,3 +31,4 @@ updated: 2026-09-03
 - [[smena-vektora-voprosa](pages/smena-vektora-voprosa.md)] — «как у тебя это получилось?» вместо оценки
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — отличие обратной связи на успех от системы поощрений
 - [[lyubov-cherez-sobstvennye-deystviya](pages/lyubov-cherez-sobstvennye-deystviya.md)] — соседний ход из того же разбора
+- [[on-vernet-to-chemu-nauchilsya](pages/on-vernet-to-chemu-nauchilsya.md)] — та же логика усвоения, обращённая как предупреждение взрослому

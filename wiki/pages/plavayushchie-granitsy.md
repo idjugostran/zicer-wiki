@@ -35,6 +35,7 @@ updated: 2026-09-03
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — жёсткие границы не равны жестокости
 - [[psihoterapiya-kak-instrument](pages/psihoterapiya-kak-instrument.md)] — что добавляется, когда ребёнок не справляется сам
 - [[merilo-eto-ty](pages/merilo-eto-ty.md)] — обратный случай: там граница называется жёстко, здесь мерило возвращается семье
+- [[krasnaya-liniya-zaranee](pages/krasnaya-liniya-zaranee.md)] — то же правило заранее принятого решения, перенесённое на отношения взрослых
 
 ## Footnotes
 
