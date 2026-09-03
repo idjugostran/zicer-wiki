@@ -5,7 +5,7 @@ summary: Шестилетний сын игнорирует и «буллит» 
 tags: [source, transcript, lyubit-nelzya-vospityvat, dima-zicer]
 sources: [mozhet-li-rebenok-bullit-mamu]
 created: 2026-08-29
-updated: 2026-09-01
+updated: 2026-09-03
 ---
 
 # Может ли ребёнок «буллить» собственную маму? Короткий ответ — ДА
@@ -39,7 +39,7 @@ updated: 2026-09-01
 
 ## Relation to Other Wiki Pages
 
-Развивает [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] в новом направлении: «защита» в этой формуле обычно адресована ребёнку (защитить его от внешнего мира), здесь же один родитель защищает другого от собственного ребёнка. Использует ту же технику «говорить о себе» от первого лица, что и [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] (Урок 4), но с прямым личным «я не позволяю» в защиту третьего человека.[^2]
+Развивает [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] в новом направлении: «защита» в этой формуле обычно адресована ребёнку (защитить его от внешнего мира), здесь же один родитель защищает другого от собственного ребёнка. Использует ту же технику «говорить о себе» от первого лица, что и [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] (Урок 4), но с прямым личным «я не позволяю» в защиту третьего человека.[^2] Зеркальный случай — [[mne-nravitsya-kak-papa-reagiruet](pages/mne-nravitsya-kak-papa-reagiruet.md)]: там агрессия направлена на отца, и границу ставит мать той же формулой «я не позволю».
 
 ## Footnotes
 

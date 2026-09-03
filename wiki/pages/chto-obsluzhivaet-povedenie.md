@@ -46,3 +46,4 @@ updated: 2026-09-03
 - [[pritcha-o-dvuh-monahah](pages/pritcha-o-dvuh-monahah.md)] — обратный ход разбора: за поведением ребёнка ищут не нужду, а здоровое качество
 - [[nichego-ne-byvaet-prosto-tak](pages/nichego-ne-byvaet-prosto-tak.md)] — тот же поиск функции поступка, сформулированный как родительская обязанность
 - [[dva-varianta-bes-ili-chto-to-meshaet](pages/dva-varianta-bes-ili-chto-to-meshaet.md)] — вилка, которой разговор переводится с «назло» на «что мешает»
+- [[rebenok-nazyvaet-prichinu-sam](pages/rebenok-nazyvaet-prichinu-sam.md)] — то же искомое, но названное самим ребёнком, а не добытое взрослым

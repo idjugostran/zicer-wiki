@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[problema-prinadlezhit-tomu-komu-ona-meshaet](pages/problema-prinadlezhit-tomu-komu-ona-meshaet.md)] — смежный критерий: чья это на самом деле проблема
 - [[ne-obyasnyat-chto-chuvstvovat](pages/ne-obyasnyat-chto-chuvstvovat.md)] — чувство ребёнка принимается, а не корректируется
 - [[merilo-eto-ty](pages/merilo-eto-ty.md)] — тот же отказ от внешней нормы, но ориентиром назначен взрослый и уклад его дома
+- [[rebenok-nazyvaet-prichinu-sam](pages/rebenok-nazyvaet-prichinu-sam.md)] — крайний случай: ребёнок даёт готовый диагноз собственного поведения
 
 ## Footnotes
 
