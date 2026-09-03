@@ -3,7 +3,7 @@ title: Защищать ценности силой
 category: Concepts
 summary: Гуманистические убеждения не отменяются войной и не превращаются в запрет сопротивляться: «не обижай слабых» остаётся в силе именно потому, что за него сражаются
 tags: [concept, voyna, gumanizm, tsennosti, soprotivlenie]
-sources: [mozhno-li-uberech-rebenka-ot-nenavisti]
+sources: [mozhno-li-uberech-rebenka-ot-nenavisti, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -33,3 +33,4 @@ updated: 2026-09-03
 - [[kak-uberech-detey-ot-nenavisti](pages/kak-uberech-detey-ot-nenavisti.md)] — куда направляется энергия ненависти
 - [[zashchita-blizkogo-cheloveka](pages/zashchita-blizkogo-cheloveka.md)] — защита как обязанность, а не как исключение
 - [[kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy](pages/kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy.md)] — честность взрослого, говорящего ребёнку тяжёлые вещи
+- [[priznanie-otvetstvennosti-vmesto-sochuvstviya](pages/priznanie-otvetstvennosti-vmesto-sochuvstviya.md)] — что делают, признав ответственность

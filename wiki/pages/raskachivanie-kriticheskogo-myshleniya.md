@@ -3,7 +3,7 @@ title: Раскачивание критического мышления
 category: Concepts
 summary: Единственный механизм защиты, доступный взрослым, — и включается он не инструктажем, а тем, что взрослый делится с ребёнком собственными сомнениями по поводу своих контактов и советуется с ним
 tags: [concept, bezopasnost, profilaktika, kommunikatsiya, roditelstvo]
-sources: [kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent]
+sources: [kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -22,6 +22,7 @@ updated: 2026-09-03
 
 - [[kazhetsya-k-moemu-rebenku-pristaet-vzroslyi](pages/kazhetsya-k-moemu-rebenku-pristaet-vzroslyi.md)] — вводит концепт: «основной механизм», два способа его включения, ответ «никак, поздно» и оговорка про статистику
 - [[rebenok-v-8-let-smotrit-zapreshchennyi-kontent](pages/rebenok-v-8-let-smotrit-zapreshchennyi-kontent.md)] — учить работе с поиском и разговору о теме вместо ограждения от неё
+- [[dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima](pages/dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima.md)] — «государство стремится нас упрощать, наша задача — усложняться»
 
 ## Related Concepts
 

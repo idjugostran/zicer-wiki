@@ -3,7 +3,7 @@ title: Человечность
 category: Concepts
 summary: Человечность по Зицеру — забота о том, чтобы совет или серьёзные слова не ранили адресата, а были восприняты как шанс, а не как обвинение
 tags: [concept, chelovechnost, ii]
-sources: [ii-v-shkole-zlo-ili-blagoslovenie, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, mozhno-li-uberech-rebenka-ot-nenavisti]
+sources: [ii-v-shkole-zlo-ili-blagoslovenie, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, mozhno-li-uberech-rebenka-ot-nenavisti, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -22,6 +22,7 @@ updated: 2026-09-03
 - [[kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy](pages/kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy.md)] — вопрос о честности с собой, поставленный в ситуации вынужденного отъезда
 - [[lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya](pages/lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya.md)] — покаяние «снизу» и разбор позиции «я в политике не разбираюсь» как передачи ответственности манипуляторам
 - [[mozhno-li-uberech-rebenka-ot-nenavisti](pages/mozhno-li-uberech-rebenka-ot-nenavisti.md)] — «не обижай слабых» остаётся в силе именно потому, что за него сражаются
+- [[dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima](pages/dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima.md)] — «человечность заключается в рефлексии и в действии»; «даже опустившийся человек — это человек»
 
 ## Related Concepts
 
