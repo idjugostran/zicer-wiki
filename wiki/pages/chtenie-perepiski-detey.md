@@ -3,7 +3,7 @@ title: Чтение переписки ребёнка
 category: Concepts
 summary: Тайное чтение переписки/сообщений ребёнка не защищает от опасности, а разрушает доверие; путь к тому, чтобы реально быть «в курсе», лежит через взаимную открытость с раннего возраста, а не через слежку
 tags: [concept, roditelstvo, doverie]
-sources: [lnv-vypusk-201, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-249]
+sources: [lnv-vypusk-201, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-249, lnv-vypusk-244]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -23,9 +23,11 @@ updated: 2026-09-03
 - [[kazhetsya-k-moemu-rebenku-pristaet-vzroslyi](pages/kazhetsya-k-moemu-rebenku-pristaet-vzroslyi.md)] — независимое подтверждение: выросшая дочь благодарна матери за то, что та никогда не читала её переписку
 - [[kak-roditeli-perenosyat-na-detey-modeli](pages/kak-roditeli-perenosyat-na-detey-modeli.md)] — мать не смотрит соцсети сыновей, и Зицер требует интереса без контроля: «у меня есть секреты, у тебя есть секреты»
 - [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — мать читает переписку курящей тринадцатилетней дочери; «я не унижусь до слежки» как позиция целиком
+- [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — прочитанная год назад переписка двенадцатилетней с интернет-другом как значимая часть её нынешнего состояния
 
 ## Related Concepts
 
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — тот же механизм (страх взрослого, замаскированный под заботу о безопасности), применённый к цифровой переписке
 - [[otkrytyi-razgovor-o-sekse](pages/otkrytyi-razgovor-o-sekse.md)] — та же логика взаимной открытости с раннего возраста, применённая к теме секса вместо цифровой переписки
 - [[manipulyatsiya](pages/manipulyatsiya.md)] — слежка как форма контроля, подрывающая равенство сторон, — смежный, но отдельный механизм
+- [[vosstanovlenie-prava-govorit-pravdu](pages/vosstanovlenie-prava-govorit-pravdu.md)] — обратный ход: восстановление доверия, разрушенного слежкой

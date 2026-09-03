@@ -3,7 +3,7 @@ title: «Нам кто-то поверил»
 category: Concepts
 summary: Взрослый, узнавший о поступке чужого ребёнка, не сообщает его родителям, если знает, чем это для ребёнка кончится: отказ стать звеном наказания и есть тот редкий случай, когда чужая жизнь меняется от того, что кто-то поверил
 tags: [concept, doverie, druzhba, granitsy, roditelstvo]
-sources: [chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let]
+sources: [chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-244]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -30,3 +30,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let](pages/chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let.md)] — сформулировано впервые: подруга дочери, украденные духи и деньги, просьба «не говорите моей маме»
+- [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — разговор с роднёй о пропавших вещах допустим, только если он не обернётся наказанием ребёнка

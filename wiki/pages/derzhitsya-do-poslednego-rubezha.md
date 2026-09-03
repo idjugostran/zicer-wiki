@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[obman-kak-strah-roditelskoy-otsenki](pages/obman-kak-strah-roditelskoy-otsenki.md)] — соседний механизм лжи: страх за себя, а не забота о родителе
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — работа с самим поступком, к которой доступ открывается вторым шагом
 - [[priznanie-roditelskoy-oshibki](pages/priznanie-roditelskoy-oshibki.md)] — извинение взрослого за собственную реакцию как вход в разговор
+- [[vosstanovlenie-prava-govorit-pravdu](pages/vosstanovlenie-prava-govorit-pravdu.md)] — та же односторонняя гарантия, оформленная как процедура
 
 ## Appearances in Sources
 

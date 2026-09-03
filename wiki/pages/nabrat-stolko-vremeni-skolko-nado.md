@@ -3,7 +3,7 @@ title: Набрать столько времени, сколько нужно
 category: Concepts
 summary: Ребёнку, который не готов войти в новое, дают присутствовать без участия: он сидит рядом, смотрит на других, никто его не провоцирует и не строит вокруг него опасений — и через какое-то время он входит сам
 tags: [concept, strah, novizna, doshkolniki, shkola, terpenie]
-sources: [chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mamu-arestovali-na-glazah-dvuhletnego-syna, mama-day-mne-vremya, kuda-zhe-my-toropimsya, lnv-vypusk-240]
+sources: [chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mamu-arestovali-na-glazah-dvuhletnego-syna, mama-day-mne-vremya, kuda-zhe-my-toropimsya, lnv-vypusk-240, lnv-vypusk-244]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[mama-day-mne-vremya](pages/mama-day-mne-vremya.md)] — время, затребованное самим ребёнком: «сколько ему надо времени, пусть и возьмёт»
 - [[kuda-zhe-my-toropimsya](pages/kuda-zhe-my-toropimsya.md)] — «позволить входить постепенно, и выдохнуть, и прогулять» после переезда
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — запрет на подготовительный текст по дороге в кружок и на предупреждение педагогов о молчаливости ребёнка
+- [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — граница приёма: когда сад не даёт маме быть рядом, время набирают до старта, а не внутри группы
 
 ## Related Concepts
 
@@ -36,3 +37,4 @@ updated: 2026-09-03
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — вход в новое как собственная проба, а не как выполненное требование
 - [[subyektnost](pages/subyektnost.md)] — «дай ему пожить так, чтобы решал он»
 - [[ozhidat-chut-menshe](pages/ozhidat-chut-menshe.md)] — то же время как ресурс, но применительно к темпу повседневных требований
+- [[otlozhennaya-adaptatsiya-k-sadu](pages/otlozhennaya-adaptatsiya-k-sadu.md)] — граница приёма: когда быть рядом нельзя, время набирают до старта

@@ -3,7 +3,7 @@ title: СДВГ как особенность, а не диагноз
 category: Concepts
 summary: СДВГ переформулируется как личностная особенность, а не диагноз-приговор; взятая под контроль через положительную обратную связь, она превращается из проблемы в преимущество — способность воспринимать больше и выбирать реакцию из гораздо большего числа вариантов
 tags: [concept, sdvg, roditelstvo]
-sources: [u-nego-sdvg-ili-my-ego-razbalovali, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kniga-lyubit-nelzya-vospityvat, kak-naladit-otnosheniya-s-docheryu-13-let, kak-zashchitit-7-letnego-syna-ot-travli, kak-nam-nauchitsya-kontrolirovat-sebya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-314]
+sources: [u-nego-sdvg-ili-my-ego-razbalovali, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kniga-lyubit-nelzya-vospityvat, kak-naladit-otnosheniya-s-docheryu-13-let, kak-zashchitit-7-letnego-syna-ot-travli, kak-nam-nauchitsya-kontrolirovat-sebya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-314, lnv-vypusk-244]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[9-letniy-malchik-beret-chuzhie-veshchi](pages/9-letniy-malchik-beret-chuzhie-veshchi.md)] — «дислексия — это совершенно прекрасная особенность»
 - [[dolzhen-li-uchitel-lyubit-detey](pages/dolzhen-li-uchitel-lyubit-detey.md)] — мальчик с СДВГ упомянут как участник конфликтов, но объяснением случившегося не становится
 - [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — «неотъемлемая часть»: «вы можете сами перебить дома всю мебель — ничего не изменится»
+- [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — неучтённая особенность день за днём превращается в модель поведения: «он не виноват в этом»
 
 ## Related Concepts
 

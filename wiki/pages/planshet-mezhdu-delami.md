@@ -3,7 +3,7 @@ title: Планшет между делами
 category: Concepts
 summary: Гаджет перестаёт быть проблемой не тогда, когда его ограничивают по часам, а тогда, когда он становится одним делом среди многих, а не тем, с чего начинается и чем заканчивается день
 tags: [concept, gadzhety, rannii-vozrast, rutina, instrumenty]
-sources: [kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, lnv-vypusk-239]
+sources: [kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, lnv-vypusk-239, lnv-vypusk-244]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 
 - [[kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let](pages/kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let.md)] — сформулировано впервые: девочка трёх с половиной лет, включавшая планшет сразу после подъёма
 - [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — два сценария «посадки» на гаджет: «мне не до тебя» и критика любого другого занятия
+- [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — пятилетняя дочь и YouTube: Зицер не верит в зависимость в этом возрасте и возвращает экран в ряд других дел
 
 ## Related Concepts
 
