@@ -3,7 +3,7 @@ title: Псевдодоговор как приказ
 category: Concepts
 summary: Произнесённое слово «договорились?» договора не создаёт: настоящий договор — сопоставление позиций и компромисс, он не может касаться только другого человека, а согласие ребёнка без выхода — это подчинение приказу
 tags: [concept, roditelstvo, dogovor, granitsy, gadzhety]
-sources: [chto-takoe-dogovor-s-rebenkom]
+sources: [chto-takoe-dogovor-s-rebenkom, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[soglasovanie-ozhidaniy](pages/soglasovanie-ozhidaniy.md)] — как выглядит настоящее согласование, если делать его заранее
 - [[subyektnost](pages/subyektnost.md)] — согласие без возможности отказаться согласием не является
 - [[plavayushchie-granitsy](pages/plavayushchie-granitsy.md)] — зеркальный случай: что не является решением со стороны родителя
+- [[srezat-ugol-volshebnoy-skazkoy](pages/srezat-ugol-volshebnoy-skazkoy.md)] — обратный случай: где выдумка допустима и где она превращается в подмену договора
 
 ## Footnotes
 

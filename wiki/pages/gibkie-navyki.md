@@ -3,7 +3,7 @@ title: Гибкие навыки
 category: Concepts
 summary: Мета-навык освоения новых навыков как главный ответ школы на ускорение технологий — важнее содержательных знаний, которые устаревают
 tags: [concept, obrazovanie, gibkie-navyki]
-sources: [ii-v-shkole-zlo-ili-blagoslovenie, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane]
+sources: [ii-v-shkole-zlo-ili-blagoslovenie, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -22,6 +22,7 @@ updated: 2026-09-03
 
 - [[ii-v-shkole-zlo-ili-blagoslovenie](pages/ii-v-shkole-zlo-ili-blagoslovenie.md)] — единственный пока источник, вводящий этот концепт
 - [[rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane](pages/rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane.md)] — то, чему ребёнок учится во «внешне пропущенное» время адаптации: заново входить в контакты и отношения
+- [[kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let](pages/kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let.md)] — «есть ещё молоток, кастрюля, водопроводный кран и лыжи»
 
 ## Related Concepts
 
