@@ -5,6 +5,15 @@ How a video source becomes a deduplicated, timestamped plain-text transcript rea
 transcripts" source type). Two mechanical steps, always run in this order, then hand off
 to `wiki-ingest`.
 
+## 0. Preflight
+
+`yt-dlp --version`; если бинарника нет — `pip3 install yt-dlp` и вызывать как
+`python3 -m yt_dlp`. Флаги те же, способ вызова значения не имеет, версия не фиксируется.
+
+Если скачать не удаётся, порядок действий — в `CLAUDE.md`, раздел «Когда видео не
+скачивается»: временная недоступность и недоступность в принципе обрабатываются
+по-разному, и ни в одном из случаев содержание выпуска не восстанавливается по памяти.
+
 ## 1. Download (yt-dlp)
 
 ```
