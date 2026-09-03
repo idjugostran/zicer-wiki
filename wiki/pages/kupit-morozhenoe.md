@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[horoshaya-i-plohaya-rutina](pages/horoshaya-i-plohaya-rutina.md)] — что ещё нельзя переносить на новое место механически
 - [[obshchestvennyi-interes-ne-dolg-rebenka](pages/obshchestvennyi-interes-ne-dolg-rebenka.md)] — почему решение взрослых не конвертируется в детскую благодарность
 - [[dvoemyslie-u-detey](pages/dvoemyslie-u-detey.md)] — цена расхождения между «приехали ради детей» и поступками
+- [[vstuplenie-k-lnv-10-oktyabrya-2023](pages/vstuplenie-k-lnv-10-oktyabrya-2023.md)] — приезд Зицера в Израиль в 1990 году, из которого он выводит этот совет
 
 ## Appearances in Sources
 

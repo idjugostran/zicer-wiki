@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)] — граница называется от первого лица, а не превращается в надзор
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — почему морализаторство не работает: поступок чем-то обслуживается
 - [[s-kem-druzhit-nashim-detyam](pages/s-kem-druzhit-nashim-detyam.md)] — родительское право вмешаться в состав детской дружбы и его пределы
+- [[izrail-kak-dom](pages/izrail-kak-dom.md)] — принцип, который не отменяется поступком человека, на другом материале
 
 ## Appearances in Sources
 

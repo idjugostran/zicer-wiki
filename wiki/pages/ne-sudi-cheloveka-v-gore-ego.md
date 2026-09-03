@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[ventilyatsiya](pages/ventilyatsiya.md)] — как говорят с человеком в травме вместо разбора по существу
 - [[priznanie-otvetstvennosti-vmesto-sochuvstviya](pages/priznanie-otvetstvennosti-vmesto-sochuvstviya.md)] — смежный случай: что уместно сказать вместо сочувствия
 - [[travma-u-vseh-ukrainskih-detey](pages/travma-u-vseh-ukrainskih-detey.md)] — те, кому такие требования адресуют чаще всего
+- [[izrail-kak-dom](pages/izrail-kak-dom.md)] — та же безусловность принципа, проверенная самым неудобным случаем
 
 ## Appearances in Sources
 
