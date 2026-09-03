@@ -3,7 +3,7 @@ title: «Любовь в условиях турбулентности»
 category: Entities
 summary: Книга Димы Зицера о том, что происходит с нами и с нашими детьми во время войны и вынужденных переездов; вводит понятия хорошей и плохой рутины, «поплавков» и места в душе для языка
 tags: [entity, kniga, dima-zicer, emigratsiya, voyna]
-sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, kak-podderzhat-rebenka-vo-vremya-voyny, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, mozhno-li-uberech-rebenka-ot-nenavisti]
+sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, kak-podderzhat-rebenka-vo-vremya-voyny, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, mozhno-li-uberech-rebenka-ot-nenavisti, mamu-arestovali-na-glazah-dvuhletnego-syna]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy](pages/kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy.md)] — вопросы, пришедшие в «Медузу» после выхода книги и не вошедшие в неё
 - [[lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya](pages/lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya.md)] — первая неделя отзывов на книгу; тезис о практичности профессии
 - [[mozhno-li-uberech-rebenka-ot-nenavisti](pages/mozhno-li-uberech-rebenka-ot-nenavisti.md)] — Зицер говорит, что писал главу на эту тему в день эфира
+- [[mamu-arestovali-na-glazah-dvuhletnego-syna](pages/mamu-arestovali-na-glazah-dvuhletnego-syna.md)] — книга на последней стадии; помогает её писать белорусская журналистка Надя Белохвостик
 
 ## Related Concepts
 

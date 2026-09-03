@@ -3,7 +3,7 @@ title: Набрать столько времени, сколько нужно
 category: Concepts
 summary: Ребёнку, который не готов войти в новое, дают присутствовать без участия: он сидит рядом, смотрит на других, никто его не провоцирует и не строит вокруг него опасений — и через какое-то время он входит сам
 tags: [concept, strah, novizna, doshkolniki, shkola, terpenie]
-sources: [chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov]
+sources: [chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mamu-arestovali-na-glazah-dvuhletnego-syna]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -32,3 +32,4 @@ updated: 2026-09-03
 - [[shkola-kak-soyuznik](pages/shkola-kak-soyuznik.md)] — кто на практике обеспечивает такое присутствие
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — вход в новое как собственная проба, а не как выполненное требование
 - [[subyektnost](pages/subyektnost.md)] — «дай ему пожить так, чтобы решал он»
+- [[ozhidat-chut-menshe](pages/ozhidat-chut-menshe.md)] — то же время как ресурс, но применительно к темпу повседневных требований

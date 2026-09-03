@@ -3,7 +3,7 @@ title: Сначала норма, потом инструменты
 category: Concepts
 summary: Пока над ребёнком висит, что он «не окей», никакие способы вернуть его к жизни не работают; первый ход — объявить его состояние нормальным, и только на следующем витке искать инструменты
 tags: [concept, emigratsiya, shkolnyi-otkaz, prinyatie, poryadok-deystviy]
-sources: [devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov]
+sources: [devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mamu-arestovali-na-glazah-dvuhletnego-syna]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-03
 
 - [[devochka-13-let-poteryala-vkus-k-zhizni](pages/devochka-13-let-poteryala-vkus-k-zhizni.md)] — сформулировано впервые: тринадцатилетняя девочка в США, год не ходящая в школу
 - [[kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov](pages/kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov.md)] — «сейчас никакого вывода сделать нельзя»: сначала почва под ногами, потом решение про сад
+- [[mamu-arestovali-na-glazah-dvuhletnego-syna](pages/mamu-arestovali-na-glazah-dvuhletnego-syna.md)] — «сто процентов реакций нормальны»: Зицер специально ищет тревожное и не находит
 
 ## Related Concepts
 

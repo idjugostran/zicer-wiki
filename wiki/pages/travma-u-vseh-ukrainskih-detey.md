@@ -3,7 +3,7 @@ title: Травма у всех украинских детей
 category: Concepts
 summary: У ста процентов украинских детей — вне зависимости от того, в Украине они или уехали — произошёл слом личности, детства и системы координат; они заняты самовыживанием, и относиться к ним как к нетравмированным нельзя
 tags: [concept, voyna, ukraina, travma, obuchenie]
-sources: [kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-zabila-na-vse, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, mozhno-li-pomoch-rodnym-izdaleka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, mozhno-li-uberech-rebenka-ot-nenavisti]
+sources: [kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-zabila-na-vse, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, mozhno-li-pomoch-rodnym-izdaleka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, mozhno-li-uberech-rebenka-ot-nenavisti, mamu-arestovali-na-glazah-dvuhletnego-syna]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[chto-pomogaet-detyam-vyzhit-na-voyne](pages/chto-pomogaet-detyam-vyzhit-na-voyne.md)] — вводит понятие пристройки: как именно дети приспосабливаются к войне
 - [[devochka-13-let-poteryala-vkus-k-zhizni](pages/devochka-13-let-poteryala-vkus-k-zhizni.md)] — тот же механизм потери основ у ребёнка, уехавшего из России
 - [[mozhno-li-uberech-rebenka-ot-nenavisti](pages/mozhno-li-uberech-rebenka-ot-nenavisti.md)] — «100% украинских детей потеряли детство, которое у них было»
+- [[mamu-arestovali-na-glazah-dvuhletnego-syna](pages/mamu-arestovali-na-glazah-dvuhletnego-syna.md)] — тот же подход на белорусском материале; отдельная реплика о том, что Беларусь выпадает из обсуждения
 
 ## Related Concepts
 

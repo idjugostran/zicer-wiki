@@ -3,7 +3,7 @@ title: Возрастные кризисы как смена системы ко
 category: Concepts
 summary: Три ключевые возрастные границы (3 года, 7 лет, переходный возраст) — не сбои, а последовательная смена «системы координат» взаимодействия с миром
 tags: [concept, roditelstvo, kurs-12-urokov, podrostki]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-248, lnv-vypusk-220, kak-nayti-druzey-na-novom-meste, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-3-letniy-syn-komanduet-mamoy, syn-darit-tsennye-veshchi-drugim-detyam, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, moya-doch-deretsya-i-plyuetsya, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-253, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, mama-prochla-dnevnik-docheri-i-uzhasnulas, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, o-diskriminatsii-detey-vzroslymi, lnv-vypusk-248, lnv-vypusk-220, kak-nayti-druzey-na-novom-meste, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-3-letniy-syn-komanduet-mamoy, syn-darit-tsennye-veshchi-drugim-detyam, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, moya-doch-deretsya-i-plyuetsya, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, mamu-arestovali-na-glazah-dvuhletnego-syna]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -40,6 +40,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-rebenok-boitsya-vsego-novogo](pages/chto-delat-esli-rebenok-boitsya-vsego-novogo.md)] — «он не консервативный, он маленький»: отказ от нового как норма четырёх лет
 - [[kak-sdelat-chtoby-ona-slushalas-roditeley](pages/kak-sdelat-chtoby-ona-slushalas-roditeley.md)] — «в два с половиной года эта цепочка — невозможный проект»
 - [[chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh](pages/chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh.md)] — «если он говорит перемотай — значит ему страшно»; опережение нормы не надо эксплуатировать
+- [[mamu-arestovali-na-glazah-dvuhletnego-syna](pages/mamu-arestovali-na-glazah-dvuhletnego-syna.md)] — три года как Рубикон, который в этом случае может сработать в плюс
 
 ## Related Concepts
 
