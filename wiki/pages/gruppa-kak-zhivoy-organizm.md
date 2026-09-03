@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[muzyka-kak-instrument-atmosfery](pages/muzyka-kak-instrument-atmosfery.md)] — инструмент, которым эта группа настраивается
 - [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)] — рамка, внутри которой работает формат
 - [[smena-vektora-voprosa](pages/smena-vektora-voprosa.md)] — смежный приём: спрашивать об общем деле, а не о самом собеседнике
+- [[krug-chto-vo-mne-osobennogo](pages/krug-chto-vo-mne-osobennogo.md)] — конкретная процедура, в которой говорят участники, а учитель участвует наравне
 
 ## Footnotes
 

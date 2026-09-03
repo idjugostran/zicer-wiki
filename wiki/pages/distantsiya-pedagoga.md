@@ -3,7 +3,7 @@ title: Дистанция педагога
 category: Concepts
 summary: Обожание в глазах учеников — не любовь, а часть профессии; обнять коллегу окей, обнять ученика не окей, даже если ты ничего не имел в виду, и ответственность за эту границу целиком лежит на взрослом
 tags: [concept, pedagogicheskaya-etika, shkola, bezopasnost, professiya]
-sources: [kazhetsya-k-moemu-rebenku-pristaet-vzroslyi]
+sources: [kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, dolzhen-li-uchitel-lyubit-detey]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kazhetsya-k-moemu-rebenku-pristaet-vzroslyi](pages/kazhetsya-k-moemu-rebenku-pristaet-vzroslyi.md)] — вводит концепт: соблазн, известный педагогам, «энергия рок-звезды», различение тактильности с коллегой и с учеником, «красная лампочка»
+- [[dolzhen-li-uchitel-lyubit-detey](pages/dolzhen-li-uchitel-lyubit-detey.md)] — «уважает — это другое слово, это не любит»; возражение против «отношусь как к собственным детям»
 
 ## Related Concepts
 

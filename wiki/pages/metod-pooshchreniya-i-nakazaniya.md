@@ -40,3 +40,4 @@ updated: 2026-09-03
 - [[subyektnost](pages/subyektnost.md)] — положительная альтернатива: равенство сторон вместо транзакции/оценки
 - [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — смежный концепт: механизм зависимости, стоящий за оценкой
 - [[modeli-povedeniya](pages/modeli-povedeniya.md)] — общая рамка: метод поощрения/наказания как частный случай унаследованной транзакционной модели
+- [[lyubov-kak-antipedagogicheskiy-instrument](pages/lyubov-kak-antipedagogicheskiy-instrument.md)] — ещё одна внешняя опора поведения, рушащаяся вместе с уходом взрослого

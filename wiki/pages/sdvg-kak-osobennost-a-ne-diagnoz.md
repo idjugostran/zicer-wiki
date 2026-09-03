@@ -3,7 +3,7 @@ title: СДВГ как особенность, а не диагноз
 category: Concepts
 summary: СДВГ переформулируется как личностная особенность, а не диагноз-приговор; взятая под контроль через положительную обратную связь, она превращается из проблемы в преимущество — способность воспринимать больше и выбирать реакцию из гораздо большего числа вариантов
 tags: [concept, sdvg, roditelstvo]
-sources: [u-nego-sdvg-ili-my-ego-razbalovali, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kniga-lyubit-nelzya-vospityvat, kak-naladit-otnosheniya-s-docheryu-13-let, kak-zashchitit-7-letnego-syna-ot-travli, kak-nam-nauchitsya-kontrolirovat-sebya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi]
+sources: [u-nego-sdvg-ili-my-ego-razbalovali, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kniga-lyubit-nelzya-vospityvat, kak-naladit-otnosheniya-s-docheryu-13-let, kak-zashchitit-7-letnego-syna-ot-travli, kak-nam-nauchitsya-kontrolirovat-sebya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, dolzhen-li-uchitel-lyubit-detey]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[kak-nam-nauchitsya-kontrolirovat-sebya](pages/kak-nam-nauchitsya-kontrolirovat-sebya.md)] — редкий случай, где Зицер отказывается рассуждать о диагнозе и отсылает к специалистам
 - [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] — невролог назвал гиперактивность на словах и не написал в заключении; «это очень понятная особенность»
 - [[9-letniy-malchik-beret-chuzhie-veshchi](pages/9-letniy-malchik-beret-chuzhie-veshchi.md)] — «дислексия — это совершенно прекрасная особенность»
+- [[dolzhen-li-uchitel-lyubit-detey](pages/dolzhen-li-uchitel-lyubit-detey.md)] — мальчик с СДВГ упомянут как участник конфликтов, но объяснением случившегося не становится
 
 ## Related Concepts
 

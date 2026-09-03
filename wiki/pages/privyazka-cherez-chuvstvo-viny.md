@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[prosto-poprosit](pages/prosto-poprosit.md)] — второй ход после проведённой черты
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — то, на чём держится вся конструкция со стороны взрослого
 - [[emotsionalnoe-podkreplenie-povedeniya](pages/emotsionalnoe-podkreplenie-povedeniya.md)] — тот же механизм в раннем возрасте: реакция взрослого как награда
+- [[lyubov-kak-antipedagogicheskiy-instrument](pages/lyubov-kak-antipedagogicheskiy-instrument.md)] — тот же механизм в школьном варианте: страх разочаровать вместо чувства вины
 
 ## Footnotes
 

@@ -42,6 +42,7 @@ updated: 2026-09-03
 - [[obshchenie-cherez-igrushku](pages/obshchenie-cherez-igrushku.md)] — частный случай: инструмент, изобретаемый вместе с ребёнком в роли персонажа
 - [[srezat-ugol-volshebnoy-skazkoy](pages/srezat-ugol-volshebnoy-skazkoy.md)] — граница между игрой как инструментом и срезанным углом
 - [[pomenyatsya-rolyami-v-igre](pages/pomenyatsya-rolyami-v-igre.md)] — соседний игровой метод: не изобрести инструмент, а найти слова из роли взрослого
+- [[krug-chto-vo-mne-osobennogo](pages/krug-chto-vo-mne-osobennogo.md)] — та же выработка инструментов, вынесенная на уровень класса
 
 ## Footnotes
 
