@@ -3,7 +3,7 @@ title: Плавающие границы
 category: Concepts
 summary: Продавливание просьбами и физическое насилие — симптомы одного и того же: границ, которые ребёнок раз за разом успешно продавливает; лечится не уговорами, а решением, которое не меняется от усталости взрослого
 tags: [concept, granitsy, roditelstvo, nasilie, mladshie-shkolniki]
-sources: [kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu]
+sources: [kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, mozhet-li-rebenka-razvratit-nagota-roditeley]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — почему поведение ребёнка рационально
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — жёсткие границы не равны жестокости
 - [[psihoterapiya-kak-instrument](pages/psihoterapiya-kak-instrument.md)] — что добавляется, когда ребёнок не справляется сам
+- [[merilo-eto-ty](pages/merilo-eto-ty.md)] — обратный случай: там граница называется жёстко, здесь мерило возвращается семье
 
 ## Footnotes
 

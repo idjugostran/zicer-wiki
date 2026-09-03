@@ -3,7 +3,7 @@ title: Граница интимности
 category: Concepts
 summary: Есть вещи, которые человек хранит только для себя, включая собственные интересы; эту границу нарушают сразу с нескольких сторон — тот, кто показывает, тот, кто пересылает дальше, и тот, кто демонстрирует, — а в принуждении смотреть есть элемент насилия
 tags: [concept, granitsy, seksualnoe-prosveshchenie, internet, bezopasnost]
-sources: [rebenok-v-8-let-smotrit-zapreshchennyi-kontent]
+sources: [rebenok-v-8-let-smotrit-zapreshchennyi-kontent, mozhet-li-rebenka-razvratit-nagota-roditeley]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[rebenok-v-8-let-smotrit-zapreshchennyi-kontent](pages/rebenok-v-8-let-smotrit-zapreshchennyi-kontent.md)] — вводит концепт: что хранится только для себя, кто именно нарушает границу, элемент насилия в принуждении, вход через историю с чужим телефоном
+- [[mozhet-li-rebenka-razvratit-nagota-roditeley](pages/mozhet-li-rebenka-razvratit-nagota-roditeley.md)] — травматично не тело, а принуждение: «человека раздевают насильно и выставляют напоказ»
 
 ## Related Concepts
 

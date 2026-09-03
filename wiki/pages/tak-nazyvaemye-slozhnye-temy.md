@@ -3,7 +3,7 @@ title: Так называемые «сложные темы»
 category: Concepts
 summary: Секс, смерть, дурные привычки — не сложны сами по себе; сложность создаёт телесный блок родителя, который ребёнок считывает и начинает защитно избегать темы
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-8, lnv-vypusk-164, lnv-vypusk-250, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey]
+sources: [kurs-12-urokov-urok-8, lnv-vypusk-164, lnv-vypusk-250, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, mozhet-li-rebenka-razvratit-nagota-roditeley]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 - [[syn-rasskazal-mame-chto-on-biseksual](pages/syn-rasskazal-mame-chto-on-biseksual.md)] — тема открыта самим ребёнком; источник добавляет процедуру разговора, когда «сложная тема» уже названа
 - [[kazhetsya-k-moemu-rebenku-pristaet-vzroslyi](pages/kazhetsya-k-moemu-rebenku-pristaet-vzroslyi.md)] — «поздно» как ответ: в чувственной сфере разговор нужен за годы до ситуации
 - [[rebenok-v-8-let-smotrit-zapreshchennyi-kontent](pages/rebenok-v-8-let-smotrit-zapreshchennyi-kontent.md)] — открытием для взрослых оказывается не содержание темы, а то, как о ней говорить
+- [[mozhet-li-rebenka-razvratit-nagota-roditeley](pages/mozhet-li-rebenka-razvratit-nagota-roditeley.md)] — «Даная» и хихикающие школьники: неловкость привита заранее
 
 ## Related Concepts
 
