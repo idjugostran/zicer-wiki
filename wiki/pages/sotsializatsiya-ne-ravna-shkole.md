@@ -3,7 +3,7 @@ title: Социализация не равна школе
 category: Concepts
 summary: Социализация не возникает автоматически из факта посещения школы — она строится через любой круг живого общения и может быть сознательно организована отдельно, если в школе не складывается
 tags: [concept, shkola, sotsializatsiya, obrazovanie]
-sources: [kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, lnv-vypusk-249]
+sources: [kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, lnv-vypusk-249, lnv-vypusk-241]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -20,6 +20,7 @@ updated: 2026-09-03
 - [[kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov](pages/kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov.md)] — «куда ты торопишься»: ответ на страх не успеть социализировать
 - [[kak-borotsya-s-dvoemysliem-kogda-docheri-9-let](pages/kak-borotsya-s-dvoemysliem-kogda-docheri-9-let.md)] — «никакой социальной отчуждённости нет в городе Москва, вы наскребёте десяток детей»
 - [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — коммуникацию строят детско-родительские проекты и театральная студия, а не сад, школа или соревнования
+- [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — математику ребёнку, которому её мало в школе, предлагается дать вне школы — студия занимательной математики, задачки с родителями
 
 ## Related Concepts
 

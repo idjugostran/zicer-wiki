@@ -3,7 +3,7 @@ title: Помочь переключиться
 category: Concepts
 summary: Вместо «время истекло» — сесть рядом и увлечься тем же, чем увлечён ребёнок, а потом предложить «это было так круто, а давай…»; работает, пока ребёнку около 11, и требует признать, что его занятие действительно увлекательно
 tags: [concept, roditelstvo, gadzhety, vzaimodeystvie]
-sources: [chto-takoe-dogovor-s-rebenkom]
+sources: [chto-takoe-dogovor-s-rebenkom, lnv-vypusk-241]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[chto-takoe-dogovor-s-rebenkom](pages/chto-takoe-dogovor-s-rebenkom.md)] — вводит концепт: три шага, возрастное окно, требование принять увлекательность занятия и разобраться в нём
+- [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — «подсесть к нему, поиграй с ним, а потом переключи» — совет матери третьеклассника, ушедшего в онлайн-игру
 
 ## Related Concepts
 

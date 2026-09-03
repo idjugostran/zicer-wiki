@@ -3,7 +3,7 @@ title: Проблема принадлежит тому, кому она меш�
 category: Concepts
 summary: Прежде чем исправлять поведение ребёнка, нужно различить его собственную трудность и неудобство взрослого; последнему следует назвать свою конкретную потребность и просить помощи, а не объявлять ребёнка проблемой
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [lnv-vypusk-214, lnv-vypusk-220, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, mama-ne-dolzhna-stradat, kak-oblegchit-shkolnuyu-zhizn-docheri, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, moy-rebenok-sovsem-nichego-ne-est, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-dobitsya-mira-so-svoimi-detmi, mama-day-mne-vremya, devochka-hochet-brosit-zanyatiya-peniem, kak-zhe-on-dolgo-sobiraetsya]
+sources: [lnv-vypusk-214, lnv-vypusk-220, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, mama-ne-dolzhna-stradat, kak-oblegchit-shkolnuyu-zhizn-docheri, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, moy-rebenok-sovsem-nichego-ne-est, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-dobitsya-mira-so-svoimi-detmi, mama-day-mne-vremya, devochka-hochet-brosit-zanyatiya-peniem, kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-241]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[mama-day-mne-vremya](pages/mama-day-mne-vremya.md)] — «кто сказал, что это неправильно»; мать сама отвечает: «помощь нужна не ему, а мне»
 - [[devochka-hochet-brosit-zanyatiya-peniem](pages/devochka-hochet-brosit-zanyatiya-peniem.md)] — «зачем вам её прогресс?»: цепочка «зачем», доведённая до отсутствия ответа
 - [[kak-zhe-on-dolgo-sobiraetsya](pages/kak-zhe-on-dolgo-sobiraetsya.md)] — уход группы на прогулку не расстраивает самого ребёнка: «я думаю, что его это устраивает»
+- [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — разбор ярлыка «неспокойный ребёнок»: взрослый вместо «я чего-то не понимаю» объявляет ребёнка неудобным
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Король этой помощи
 category: Concepts
 summary: Единственный ненасильственный способ получить помощь ребёнка — просить у него эксклюзивное, то, что умеет только он, с названным сроком, признанием его превосходства в этой области и сохранённым правом отказаться
 tags: [concept, roditelstvo, semya, pomoshch-po-domu]
-sources: [syn-ne-uchityvaet-interesy-semi]
+sources: [syn-ne-uchityvaet-interesy-semi, lnv-vypusk-241]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)] — вводит концепт целиком: «король этой помощи», волшебные способности, форма просьбы и сохранённое право отказаться
+- [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — с шестнадцатилетней про выгул собаки — просьба и иногда твёрдое требование вместо апелляции к прошлому желанию
 
 ## Related Concepts
 
@@ -29,6 +30,7 @@ updated: 2026-09-03
 - [[znachimost-rebenka-v-seme](pages/znachimost-rebenka-v-seme.md)] — реальная незаменимость вместо назначенной роли
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — зеркальное требование конкретности, обращённое к просящему
 - [[subyektnost](pages/subyektnost.md)] — право отказаться сохраняется даже при самой убедительной просьбе
+- [[sobaku-zavodyat-sebe](pages/sobaku-zavodyat-sebe.md)] — просьба о помощи как замена взысканию по старому обещанию
 
 ## Footnotes
 

@@ -3,7 +3,7 @@ title: Никогда не поздно научиться
 category: Concepts
 summary: Учебное отставание наверстывается быстро, когда человек сам захотел: десятилетний, не умевший писать и считать, догнал четвёртый класс за полгода, а дочь Зицера сдала брошенную математику за две недели
 tags: [concept, obuchenie, motivatsiya, roditelskiy-strakh]
-sources: [kak-podderzhat-rebenka-vo-vremya-voyny]
+sources: [kak-podderzhat-rebenka-vo-vremya-voyny, lnv-vypusk-241]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-podderzhat-rebenka-vo-vremya-voyny](pages/kak-podderzhat-rebenka-vo-vremya-voyny.md)] — вводит концепт: оба примера и вывод о сохранении ребёнка как условии возвращения к учёбе
+- [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — довод против форсирования подготовительной группы: смышлёный человек успеет научиться читать, считать и писать
 
 ## Related Concepts
 

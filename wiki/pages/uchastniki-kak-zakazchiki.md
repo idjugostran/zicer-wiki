@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)] — фактор «личный интерес», который приём и добывает
 - [[subyektnost](pages/subyektnost.md)] — основание: участник любого возраста — сторона отношений, а не получатель готового продукта
 - [[pravo-na-svyaz-s-blizkimi](pages/pravo-na-svyaz-s-blizkimi.md)] — минимальное право участника поездки, нарушение которого делает всё остальное неважным
+- [[polnomochiya-starosty-opredelyaet-klass](pages/polnomochiya-starosty-opredelyaet-klass.md)] — тот же принцип в школьном самоуправлении
 
 ## Footnotes
 

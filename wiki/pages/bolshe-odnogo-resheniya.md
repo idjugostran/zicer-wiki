@@ -3,7 +3,7 @@ title: Есть больше одного решения
 category: Concepts
 summary: Острота выбора сжимает поле до двух вариантов; ставить ребёнка перед такой развилкой — упрощение, и работа взрослого в том, чтобы вернуть в обсуждение третьи страны, промежуточные форматы и самих участников ситуации
 tags: [concept, reshenie, podrostki, emigratsiya, konflikt]
-sources: [syn-14-let-vlyubilsya-i-eto-opasno, doch-hochet-vybrosit-staruyu-kuklu, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-240]
+sources: [syn-14-let-vlyubilsya-i-eto-opasno, doch-hochet-vybrosit-staruyu-kuklu, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-240, lnv-vypusk-241]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — «есть больше одного варианта»: не только английская школа, но и голландская система
 - [[lnv-vypusk-247](pages/lnv-vypusk-247.md)] — требование к педагогам продлёнки — «есть больше одного способа»; профессионализм в разнообразии подходов
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — хоккейная секция с грубым тренером: минимум две, а на деле три возможности — сменить тренера, принять устройство, уйти
+- [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — веер решений для не идущего в школу: другой класс, другая школа, индивидуальное расписание, математический класс
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Сравнение
 category: Concepts
 summary: Сравнение/оценка как психологический механизм, близкий к зависимости — подменяет внутренний интерес потребностью во внешнем одобрении
 tags: [concept, otsenka, roditelstvo, pedagogika]
-sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin, lnv-vypusk-164, kak-byt-esli-rebenok-ne-uveren-v-sebe, kniga-lyubit-nelzya-vospityvat, kak-ne-perehvalit-rebenka, vstuplenie-k-programme-16-01-24, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-240]
+sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin, lnv-vypusk-164, kak-byt-esli-rebenok-ne-uveren-v-sebe, kniga-lyubit-nelzya-vospityvat, kak-ne-perehvalit-rebenka, vstuplenie-k-programme-16-01-24, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-240, lnv-vypusk-241]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-247](pages/lnv-vypusk-247.md)] — «ты хуже» в чужом отказе не звучит — оно достраивается внутри, и именно эта достройка разбирается с ребёнком
 - [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — восьмилетний мальчик бьётся головой после проигрыша; совет убрать соревнования из его жизни и не спрашивать, что получили остальные
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — риск «сжечь» отношения ребёнка с оценками на всю школьную жизнь; сравнение классов учительницей описано как «огромная красная лампочка»
+- [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — шестилетняя, которой в саду рассказали про будущие оценки, отказывается плавать, рисовать и слышать про школу; Зицер предлагает выдернуть оценочность изо всех занятий сразу
 
 ## Related Concepts
 
