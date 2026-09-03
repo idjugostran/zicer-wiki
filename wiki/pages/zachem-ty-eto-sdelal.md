@@ -3,7 +3,7 @@ title: «Зачем ты это сделал»
 category: Concepts
 summary: Самый тупиковый родительский вопрос в дошкольном возрасте: ребёнок честно не знает ответа, и взрослый на своём примере тоже не знал бы; вопрос лишь заряжает ситуацию, вместо того чтобы её разбирать
 tags: [concept, roditelstvo, doshkolniki, kommunikatsiya]
-sources: [syn-beret-chuzhie-veshchi, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, mne-nravitsya-kak-papa-reagiruet]
+sources: [syn-beret-chuzhie-veshchi, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, mne-nravitsya-kak-papa-reagiruet, lnv-vypusk-236]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 - [[syn-beret-chuzhie-veshchi](pages/syn-beret-chuzhie-veshchi.md)] — вводит концепт: невозможность ответа для ребёнка и для взрослого, воспоминание Зицера про обои, замена допроса присоединением
 - [[chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let](pages/chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let.md)] — мать сама называет свой вопрос тупым, но ответ получает: «мне было скучно»
 - [[mne-nravitsya-kak-papa-reagiruet](pages/mne-nravitsya-kak-papa-reagiruet.md)] — обратный случай: ответ уже получен, и дальнейшие «зачем и почему» бесполезны
+- [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — «я не знаю, зачем я это сделала» от подростка Зицер считает правдивым ответом, а не отговоркой
 
 ## Related Concepts
 
@@ -33,6 +34,7 @@ updated: 2026-09-03
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — здесь наоборот: вопрос задаётся при уже известном ответе, что и делает его спектаклем
 - [[vopros-zachem-ty-eto-govorish](pages/vopros-zachem-ty-eto-govorish.md)] — тот же по форме вопрос, который в тринадцать лет Зицер называет крутейшим: различие в возрасте, предмете (сказанное, а не сделанное) и тоне
 - [[vopros-na-ego-meste-eto-glyuk](pages/vopros-na-ego-meste-eto-glyuk.md)] — соседний вопрос, на который ребёнок тоже не может ответить
+- [[sochuvstvie-razoblachennomu](pages/sochuvstvie-razoblachennomu.md)] — что делают вместо требования объяснить мотив
 
 ## Footnotes
 

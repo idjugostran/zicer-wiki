@@ -3,7 +3,7 @@ title: Мяч на его половине поля
 category: Concepts
 summary: Формулировки, после которых формулировки ищет ребёнок, а не родитель: «правда же я не должна тебе нудить?», «я как все мамы трусиха — мне бояться или нет?», «успокой меня» — вместо требования и нотации
 tags: [concept, roditelstvo, kommunikatsiya, podrostki]
-sources: [syn-rasskazal-mame-chto-on-biseksual, chto-takoe-dogovor-s-rebenkom, kak-ponyat-14-letnyuyu-doch, lnv-vypusk-247]
+sources: [syn-rasskazal-mame-chto-on-biseksual, chto-takoe-dogovor-s-rebenkom, kak-ponyat-14-letnyuyu-doch, lnv-vypusk-247, lnv-vypusk-236]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 - [[chto-takoe-dogovor-s-rebenkom](pages/chto-takoe-dogovor-s-rebenkom.md)] — «я очень боюсь, успокой меня» с прямо названным правом ребёнка отказаться
 - [[kak-ponyat-14-letnyuyu-doch](pages/kak-ponyat-14-letnyuyu-doch.md)] — «в лепёшку разобьюсь, ну чуть-чуть помоги мне, капелюшечку»
 - [[lnv-vypusk-247](pages/lnv-vypusk-247.md)] — тот же ход: ответственность за спокойствие матери не перекладывается на подростка требованием отчёта
+- [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — «котик, давай придумаем, чем я могу тебе помочь» вместо «сколько раз я тебе говорила»
 
 ## Related Concepts
 

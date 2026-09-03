@@ -3,7 +3,7 @@ title: Хороший невролог говорит, как быть
 category: Concepts
 summary: Критерий специалиста: обследование, закончившееся словами «патологий нет», не является ответом — хороший врач говорит не что всё в порядке, а как быть в конкретной ситуации
 tags: [concept, spetsialisty, sdvg, diagnostika, roditelstvo]
-sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom, lnv-vypusk-245, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-238, lnv-vypusk-244]
+sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom, lnv-vypusk-245, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-238, lnv-vypusk-244, lnv-vypusk-236]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — визит к неврологу назван необязательным вторым пунктом ответа, с оговоркой «идти к хорошему»
 - [[lnv-vypusk-238](pages/lnv-vypusk-238.md)] — первоклассник, срывающий уроки: невролог как пункт номер один, независимо от школы
 - [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — «любимый вопрос» Зицера при школьном срыве двенадцатилетнего: невролог должен сказать не «патологий нет», а что делать
+- [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — невролог как первый пункт проверки, «не то что я считаю, что вам нужна медицинская помощь»
 
 ## Related Concepts
 

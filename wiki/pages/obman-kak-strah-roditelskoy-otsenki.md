@@ -3,7 +3,7 @@ title: Обман как страх родительской оценки
 category: Concepts
 summary: Подростковая ложь родителям объясняется не испорченностью, а страхом отрицательной оценки и разочарования; она держится на занятии, которое выбрали родители, и снимается признанием их ошибки и возвращением выбора, а не требованием перестать врать
 tags: [concept, podrostki, obman, vybor, priznanie-oshibki]
-sources: [lnv-vypusk-246]
+sources: [lnv-vypusk-246, lnv-vypusk-236]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -26,7 +26,9 @@ updated: 2026-09-03
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — смена увлечений как норма, а не безответственность
 - [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — зависимость от внешней оценки, частным случаем которой оказывается этот страх
 - [[derzhitsya-do-poslednego-rubezha](pages/derzhitsya-do-poslednego-rubezha.md)] — соседний механизм: ребёнок бережёт родителя, а не себя
+- [[sochuvstvie-razoblachennomu](pages/sochuvstvie-razoblachennomu.md)] — с чего начинают, когда ложь уже раскрыта
 
 ## Appearances in Sources
 
 - [[lnv-vypusk-246](pages/lnv-vypusk-246.md)] — вводит концепт: пятнадцатилетний сын и музыкальная школа, выбранная родителями
+- [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — ложь дочери привязана к навязанной музыкальной школе; снимается не запретом врать, а признанием ошибки родителя

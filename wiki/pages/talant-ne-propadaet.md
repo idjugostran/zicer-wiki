@@ -3,7 +3,7 @@ title: Талант не пропадает
 category: Concepts
 summary: Страх, что без родительского нажима способность будет потеряна, Зицер снимает прямо: при определённых обстоятельствах талант не пропадает, труд обязан быть в кайф, а если ребёнок захочет — он всё сделает сам и сам придёт за помощью
 tags: [concept, talant, prinuzhdenie, motivatsiya, subyektnost]
-sources: [devochka-hochet-brosit-zanyatiya-peniem]
+sources: [devochka-hochet-brosit-zanyatiya-peniem, lnv-vypusk-236]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -36,3 +36,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[devochka-hochet-brosit-zanyatiya-peniem](pages/devochka-hochet-brosit-zanyatiya-peniem.md)] — сформулировано впервые: «рукописи не горят» в применении к таланту двенадцатилетней певицы
+- [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — годы биологии не пропадают: интерес вернётся через год или через десять

@@ -35,6 +35,7 @@ updated: 2026-09-03
 - [[govorit-nepriyatnoe-i-byt-uslyshannym](pages/govorit-nepriyatnoe-i-byt-uslyshannym.md)] — почему упрёк, вшитый в предложение помощи, блокирует ответ
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — признание собственного несовершенства как рабочая форма разговора
 - [[prosto-poprosit](pages/prosto-poprosit.md)] — ещё одно правило прямой речи: просьба без обвинения ребёнка
+- [[vzyat-polovinu-udara](pages/vzyat-polovinu-udara.md)] — та же чистка формулировки, но применённая к последствиям поступка
 
 ## Footnotes
 
