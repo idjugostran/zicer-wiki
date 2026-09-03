@@ -3,7 +3,7 @@ title: Уходить, откуда можно уйти
 category: Concepts
 summary: Двойной стандарт разбирается по одной мерке независимо от места — школа, бассейн, музей; тот, кто гонит идеологию, вредит, даже если в чём-то помогает, и уходить приходится отовсюду, откуда возможно
 tags: [concept, dvoemyslie, ideologiya, shkola, bezopasnost, vybor-sredy]
-sources: [kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, lnv-vypusk-314, lnv-vypusk-245, lnv-vypusk-238]
+sources: [kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, lnv-vypusk-314, lnv-vypusk-245, lnv-vypusk-238, lnv-vypusk-240]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — вальдорфская школа как выход из самой жёсткой в Европе системы образования
 - [[lnv-vypusk-245](pages/lnv-vypusk-245.md)] — уход из школы поддержан, но с условием: до перехода обсудить с подростком, чего он ждёт от новой школы
 - [[lnv-vypusk-238](pages/lnv-vypusk-238.md)] — десятилетний мальчик после переезда: больничный, пауза, при необходимости смена школы вместо борьбы за правоту
+- [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — уход из секции и смена школы в середине года — законные варианты; мерило решения — улучшается или ухудшается жизнь человека
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Воспитывать или растить
 category: Concepts
 summary: Языковое различие «воспитывать ребёнка» (по-русски) vs «растить ребёнка» (в большинстве других языков) — воспитание требует непрерывной оценки и переделки, рост — наблюдения и создания условий
 tags: [concept, roditelstvo, kniga]
-sources: [kniga-lyubit-nelzya-vospityvat]
+sources: [kniga-lyubit-nelzya-vospityvat, lnv-vypusk-240]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -17,6 +17,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «Свобода от воспитания» вводит различие целиком и формулирует итоговую формулу о тюрьме/свободе
+- [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — определение воспитания в звонке про Влада: как мы общаемся, готовим вместе, проводим вечер и решаем конфликт
 
 ## Related Concepts
 

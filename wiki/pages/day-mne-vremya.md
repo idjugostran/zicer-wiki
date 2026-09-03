@@ -3,7 +3,7 @@ title: «Дай мне время»
 category: Concepts
 summary: Ребёнок, сам сказавший «дай мне время», сделал заявление осознанного человека, а не отказался от контакта: он видит свой путь и знает, что по нему надо пройти, — и услышанная фраза превращает родительскую паузу из приёма в обязательство
 tags: [concept, adaptatsiya, refleksiya, subyektnost, vremya, kommunikatsiya]
-sources: [mama-day-mne-vremya, kuda-zhe-my-toropimsya]
+sources: [mama-day-mne-vremya, kuda-zhe-my-toropimsya, lnv-vypusk-240]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -39,3 +39,4 @@ updated: 2026-09-03
 
 - [[mama-day-mne-vremya](pages/mama-day-mne-vremya.md)] — сформулировано впервые: восьмилетний Кирилл после переезда в Данию
 - [[kuda-zhe-my-toropimsya](pages/kuda-zhe-my-toropimsya.md)] — «нету у них ресурса» как формула, которую родителю надо произнести про себя
+- [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — ожидаемый ответ шестнадцатилетнего на вопрос о помощи: «дай мне пару месяцев»; настойчивость взрослого названа унижением недоверием

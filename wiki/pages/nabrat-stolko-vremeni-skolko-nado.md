@@ -3,7 +3,7 @@ title: Набрать столько времени, сколько нужно
 category: Concepts
 summary: Ребёнку, который не готов войти в новое, дают присутствовать без участия: он сидит рядом, смотрит на других, никто его не провоцирует и не строит вокруг него опасений — и через какое-то время он входит сам
 tags: [concept, strah, novizna, doshkolniki, shkola, terpenie]
-sources: [chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mamu-arestovali-na-glazah-dvuhletnego-syna, mama-day-mne-vremya, kuda-zhe-my-toropimsya]
+sources: [chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mamu-arestovali-na-glazah-dvuhletnego-syna, mama-day-mne-vremya, kuda-zhe-my-toropimsya, lnv-vypusk-240]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov](pages/kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov.md)] — предельный случай: ребёнку нужен не другой сад, а отсутствие сада
 - [[mama-day-mne-vremya](pages/mama-day-mne-vremya.md)] — время, затребованное самим ребёнком: «сколько ему надо времени, пусть и возьмёт»
 - [[kuda-zhe-my-toropimsya](pages/kuda-zhe-my-toropimsya.md)] — «позволить входить постепенно, и выдохнуть, и прогулять» после переезда
+- [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — запрет на подготовительный текст по дороге в кружок и на предупреждение педагогов о молчаливости ребёнка
 
 ## Related Concepts
 

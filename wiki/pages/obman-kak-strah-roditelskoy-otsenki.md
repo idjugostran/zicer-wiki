@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[priznanie-roditelskoy-oshibki](pages/priznanie-roditelskoy-oshibki.md)] — первый шаг, без которого возвращение выбора не читается
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — смена увлечений как норма, а не безответственность
 - [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — зависимость от внешней оценки, частным случаем которой оказывается этот страх
+- [[derzhitsya-do-poslednego-rubezha](pages/derzhitsya-do-poslednego-rubezha.md)] — соседний механизм: ребёнок бережёт родителя, а не себя
 
 ## Appearances in Sources
 

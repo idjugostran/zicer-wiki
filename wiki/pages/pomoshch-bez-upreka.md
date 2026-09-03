@@ -3,7 +3,7 @@ title: Помощь без упрёка
 category: Concepts
 summary: Из фразы «чем тебе помочь, если ты мне ничего не говоришь» убирается вторая половина: она совмещает предложение помощи с обвинением ребёнка в том, что помощь не получается
 tags: [concept, roditelstvo, kommunikatsiya, podrostki]
-sources: [kak-ponyat-14-letnyuyu-doch, moya-doch-zabila-na-vse, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, lnv-vypusk-245, lnv-vypusk-239]
+sources: [kak-ponyat-14-letnyuyu-doch, moya-doch-zabila-na-vse, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, lnv-vypusk-245, lnv-vypusk-239, lnv-vypusk-240]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru](pages/kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru.md)] — «чем я могу тебе помочь, котик» как следующий виток после «мне тяжело»
 - [[lnv-vypusk-245](pages/lnv-vypusk-245.md)] — универсальный вход в разговор с подростком — «нужна ли тебе помощь», с перечислением допустимых ответов
 - [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — та же форма вопроса в момент, когда ребёнок прибегает обиженным
+- [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — ночной режим подростка: «давай мы с тобой подумаем, как это поменять» и «я волнуюсь, успокой меня» вместо требования перестроиться
 
 ## Related Concepts
 

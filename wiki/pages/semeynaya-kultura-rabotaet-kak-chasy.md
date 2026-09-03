@@ -3,7 +3,7 @@ title: Семейная культура работает как часы
 category: Concepts
 summary: На то, каким вырастет ребёнок, влияют не отдельные запреты, а уклад дома — то, о чём говорят, что считают хорошим, что звучит; и этот механизм почти безотказен, в обе стороны
 tags: [concept, semeynaya-kultura, vliyanie, tsennosti, vospitanie]
-sources: [s-kem-druzhit-nashim-detyam, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-dobitsya-mira-so-svoimi-detmi, mozhet-li-rebenka-razvratit-nagota-roditeley]
+sources: [s-kem-druzhit-nashim-detyam, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-dobitsya-mira-so-svoimi-detmi, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-240]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh](pages/chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh.md)] — «мне достаточно смотреть на тебя и на маму, я и так буду поступать, как ты»
 - [[kak-dobitsya-mira-so-svoimi-detmi](pages/kak-dobitsya-mira-so-svoimi-detmi.md)] — «это не может быть один раз, когда мама цыкнула»: системность как условие договора
 - [[mozhet-li-rebenka-razvratit-nagota-roditeley](pages/mozhet-li-rebenka-razvratit-nagota-roditeley.md)] — «человек полутора лет безусловно принимает ту культуру, которая существует дома»
+- [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — гарантия: если дома принято здороваться и благодарить, ребёнок начнёт делать то же без отдельного требования
 
 ## Related Concepts
 

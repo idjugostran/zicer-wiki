@@ -3,7 +3,7 @@ title: Условия трудного разговора
 category: Concepts
 summary: Канал, место и момент разговора решают его судьбу раньше содержания: серьёзную тему нельзя вести по телефону (нет возможности взять паузу), на территории собеседника и с порога встречи
 tags: [concept, kommunikatsiya, podrostki, roditelstvo]
-sources: [kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, doch-schitaet-sebya-kvadroberom, lnv-vypusk-239]
+sources: [kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, doch-schitaet-sebya-kvadroberom, lnv-vypusk-239, lnv-vypusk-240]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[kak-pomoch-nayti-otvet-na-vopros-kto-ya](pages/kak-pomoch-nayti-otvet-na-vopros-kto-ya.md)] — вводит концепт целиком: разговор матери с 17-летним сыном об идентичности, отложенный до личной встречи в Израиле
 - [[doch-schitaet-sebya-kvadroberom](pages/doch-schitaet-sebya-kvadroberom.md)] — «тут абсолютно тот случай, когда прямой ответ; тут даже не надо искать ходы»
 - [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — сообщение Вадима, 26 лет: разговор с матерью выносится в кафе, на нейтральную территорию
+- [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — разговор с семилетним ведётся отдельно от ситуации и от случая, а не по горячим следам
 
 ## Related Concepts
 
