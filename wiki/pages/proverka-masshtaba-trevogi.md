@@ -3,7 +3,7 @@ title: Проверка масштаба тревоги
 category: Concepts
 summary: Прежде чем действовать, тревогу сверяют с фактами: сосчитать реальные цифры, сравнить их с собственными и спросить, есть ли хоть один явный признак проблемы у самого ребёнка
 tags: [concept, roditelskiy-strakh, diagnostika, roditelstvo]
-sources: [moy-rebenok-sovsem-nichego-ne-est, v-poslednee-vremya-syn-ochen-grustit, rebenok-v-shkole-ne-razgovarivaet]
+sources: [moy-rebenok-sovsem-nichego-ne-est, v-poslednee-vremya-syn-ochen-grustit, rebenok-v-shkole-ne-razgovarivaet, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[moy-rebenok-sovsem-nichego-ne-est](pages/moy-rebenok-sovsem-nichego-ne-est.md)] — вводит концепт: вопрос об основании тревоги, подсчёт фактов, контрольный вопрос о признаках, сравнительный список про взрослого
 - [[v-poslednee-vremya-syn-ochen-grustit](pages/v-poslednee-vremya-syn-ochen-grustit.md)] — уточнение срока: две-четыре недели перед Новым годом, а не месяцы и не год
 - [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] — перебор признаков (интересно ли, есть ли друг, что говорят учителя) и вывод «не вижу ни одной причины волноваться»
+- [[kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya](pages/kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya.md)] — «ничего страшного пока я не услышал»: перебор проявлений и отказ от ярлыка потребительства
 
 ## Related Concepts
 

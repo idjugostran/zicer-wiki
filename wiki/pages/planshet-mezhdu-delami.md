@@ -3,7 +3,7 @@ title: Планшет между делами
 category: Concepts
 summary: Гаджет перестаёт быть проблемой не тогда, когда его ограничивают по часам, а тогда, когда он становится одним делом среди многих, а не тем, с чего начинается и чем заканчивается день
 tags: [concept, gadzhety, rannii-vozrast, rutina, instrumenty]
-sources: [kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let]
+sources: [kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -31,3 +31,4 @@ updated: 2026-09-03
 - [[srezat-ugol-volshebnoy-skazkoy](pages/srezat-ugol-volshebnoy-skazkoy.md)] — чем допустимо помочь себе, пока конструкция перестраивается
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — раздувание значимости экрана взрослыми
 - [[gibkie-navyki](pages/gibkie-navyki.md)] — «планшет не единственный инструмент взаимодействия с действительностью»
+- [[pokupka-vnutri-semeynogo-plana](pages/pokupka-vnutri-semeynogo-plana.md)] — тот же приём для покупок: встроить в общую конструкцию, а не запретить
