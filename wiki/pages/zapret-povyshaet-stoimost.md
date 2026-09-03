@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[legitimizatsiya-temy](pages/legitimizatsiya-temy.md)] — почему запрет исключён технически, а не только этически
 - [[raskachivanie-kriticheskogo-myshleniya](pages/raskachivanie-kriticheskogo-myshleniya.md)] — обучение обращению с темой как единственная работающая защита
 - [[granitsa-intimnosti](pages/granitsa-intimnosti.md)] — содержание разговора, который заменяет блокировку
+- [[cheloveka-tuda-nuzhno-privesti](pages/cheloveka-tuda-nuzhno-privesti.md)] — смежный механизм: тяга к запрещённому не встроена, а производится
 
 ## Footnotes
 

@@ -3,7 +3,7 @@ title: Подполье совести
 category: Concepts
 summary: Когда среда прямо запрещает человеку читать, думать и быть собой, допустимо не откровенничать и скрыть себя от других — меняться, утаивать, обходить темы; недопустимо только одно: насиловать собственную совесть
 tags: [concept, svoboda-sovesti, podrostki, chestnost, davlenie]
-sources: [lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, doch-schitaet-sebya-kvadroberom]
+sources: [lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, doch-schitaet-sebya-kvadroberom, kak-roditeli-perenosyat-na-detey-modeli]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 
 - [[lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya](pages/lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya.md)] — вводит концепт: письмо девушки из православной школы, свобода совести и «1984», «уходить в подполье совести», граница дозволенного
 - [[doch-schitaet-sebya-kvadroberom](pages/doch-schitaet-sebya-kvadroberom.md)] — тот же ход, но для улицы, а не для институции: дома можно всё, снаружи бережём
+- [[kak-roditeli-perenosyat-na-detey-modeli](pages/kak-roditeli-perenosyat-na-detey-modeli.md)] — «это же и есть нравственность»: гадостей не делают не из страха наказания, а по другим причинам
 
 ## Related Concepts
 

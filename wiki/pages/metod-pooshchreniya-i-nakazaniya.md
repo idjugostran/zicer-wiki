@@ -3,7 +3,7 @@ title: Метод поощрения и наказания
 category: Concepts
 summary: Заимствованный из дрессуры животных метод — Зицер считает его неприменимым к людям и подменяющим настоящие отношения
 tags: [concept, roditelstvo, pedagogika]
-sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219, lnv-vypusk-211, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, kak-sdelat-chtoby-ona-slushalas-roditeley, devochka-hochet-brosit-zanyatiya-peniem]
+sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219, lnv-vypusk-211, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, kak-sdelat-chtoby-ona-slushalas-roditeley, devochka-hochet-brosit-zanyatiya-peniem, kak-roditeli-perenosyat-na-detey-modeli]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[kak-ne-perehvalit-rebenka](pages/kak-ne-perehvalit-rebenka.md)] — похвала как половина оценочной пары; опасна она становится там, где есть обесценивание
 - [[kak-sdelat-chtoby-ona-slushalas-roditeley](pages/kak-sdelat-chtoby-ona-slushalas-roditeley.md)] — «будут последствия», наступления которых ребёнок ждёт как части ритуала
 - [[devochka-hochet-brosit-zanyatiya-peniem](pages/devochka-hochet-brosit-zanyatiya-peniem.md)] — маршмеллоу за каждую правильную ноту: приём, работавший в шесть лет и не работающий в двенадцать
+- [[kak-roditeli-perenosyat-na-detey-modeli](pages/kak-roditeli-perenosyat-na-detey-modeli.md)] — «ремешок ходил в гости»: эвфемизм, который Зицер сразу переводит как насилие
 
 ## Related Concepts
 

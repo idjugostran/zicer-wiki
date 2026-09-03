@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[privyazka-cherez-chuvstvo-viny](pages/privyazka-cherez-chuvstvo-viny.md)] — тот же удерживающий механизм: бросить дело значит бросить родителя
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — почему монополия одного занятия блокирует остальные
 - [[roditelskaya-gallyutsinatsiya](pages/roditelskaya-gallyutsinatsiya.md)] — соседняя подмена: знание о ребёнке, принадлежащее родителю
+- [[nesmotrya-a-ne-blagodarya](pages/nesmotrya-a-ne-blagodarya.md)] — «скрипка вместо живописи» как невидимая цена родительского выбора
 
 ## Appearances in Sources
 

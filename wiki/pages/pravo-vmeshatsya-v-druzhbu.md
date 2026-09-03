@@ -3,7 +3,7 @@ title: Право вмешаться в дружбу
 category: Concepts
 summary: Влиять на дружбу ребёнка родитель вправе, только если тот в прямой опасности — как вправе схватить за шиворот стоящего на краю открытого окна; цена такого вмешательства высока, а «сложная ситуация» прямой опасностью не является
 tags: [concept, druzhba, roditelstvo, granitsy, otvetstvennost]
-sources: [kak-byt-esli-ne-nravyatsya-druzya-rebenka, s-kem-druzhit-nashim-detyam, kak-zashchitit-7-letnego-syna-ot-travli]
+sources: [kak-byt-esli-ne-nravyatsya-druzya-rebenka, s-kem-druzhit-nashim-detyam, kak-zashchitit-7-letnego-syna-ot-travli, kak-roditeli-perenosyat-na-detey-modeli]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 - [[kak-byt-esli-ne-nravyatsya-druzya-rebenka](pages/kak-byt-esli-ne-nravyatsya-druzya-rebenka.md)] — вводит концепт: критерий прямой опасности, аналогия с открытым окном, оговорка о цене, возрастное окно
 - [[s-kem-druzhit-nashim-detyam](pages/s-kem-druzhit-nashim-detyam.md)] — «селекцией заниматься не нужно», но в гости не ходить и уметь сказать почему
 - [[kak-zashchitit-7-letnego-syna-ot-travli](pages/kak-zashchitit-7-letnego-syna-ot-travli.md)] — вмешательство обязательно, когда речь идёт не о дружбе, а о травле
+- [[kak-roditeli-perenosyat-na-detey-modeli](pages/kak-roditeli-perenosyat-na-detey-modeli.md)] — «ты не будешь принимать участие в отборе»; но и отказ интересоваться друзьями назван ошибкой
 
 ## Related Concepts
 
