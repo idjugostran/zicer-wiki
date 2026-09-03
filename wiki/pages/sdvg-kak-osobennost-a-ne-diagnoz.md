@@ -3,9 +3,9 @@ title: СДВГ как особенность, а не диагноз
 category: Concepts
 summary: СДВГ переформулируется как личностная особенность, а не диагноз-приговор; взятая под контроль через положительную обратную связь, она превращается из проблемы в преимущество — способность воспринимать больше и выбирать реакцию из гораздо большего числа вариантов
 tags: [concept, sdvg, roditelstvo]
-sources: [u-nego-sdvg-ili-my-ego-razbalovali, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kniga-lyubit-nelzya-vospityvat, kak-naladit-otnosheniya-s-docheryu-13-let]
+sources: [u-nego-sdvg-ili-my-ego-razbalovali, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kniga-lyubit-nelzya-vospityvat, kak-naladit-otnosheniya-s-docheryu-13-let, kak-zashchitit-7-letnego-syna-ot-travli]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # СДВГ как особенность, а не диагноз
@@ -22,6 +22,7 @@ updated: 2026-09-02
 - [[chto-delat-esli-3-letniy-syn-komanduet-mamoy](pages/chto-delat-esli-3-letniy-syn-komanduet-mamoy.md)] — диагноз без плана действий и решение «заглушить» транквилизатором одинаково отвергнуты как маскировка, а не помощь
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «Ода синдрому»: независимая литературная версия тезиса, цитаты Питера Грея и Кена Робинсона
 - [[kak-naladit-otnosheniya-s-docheryu-13-let](pages/kak-naladit-otnosheniya-s-docheryu-13-let.md)] — вводит механизм превращения особенности в преимущество через контроль: положительная обратная связь, выбор из 20.000 реакций вместо пяти
+- [[kak-zashchitit-7-letnego-syna-ot-travli](pages/kak-zashchitit-7-letnego-syna-ot-travli.md)] — СДВГ и Аспергер как основание защищать «умножить на сто», а не объяснять реакции ребёнка
 
 ## Related Concepts
 

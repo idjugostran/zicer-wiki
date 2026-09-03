@@ -5,7 +5,7 @@ summary: Панель ЮНЕСКО с Туттой Ларсен и Алексе�
 tags: [source, video, panel, bulling]
 sources: [mama-dorogaya-bulling]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-03
 ---
 
 # "Мама дорогая" (Школьный буллинг: кто виноват и что делать)
@@ -42,7 +42,7 @@ updated: 2026-08-30
 
 Новый концепт [[kollektivizm-kak-pochva-dlya-bullinga](pages/kollektivizm-kak-pochva-dlya-bullinga.md)] прямо применяет технику «зачем, а не что» из [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] к инициатору травли и продолжает [[subyektnost](pages/subyektnost.md)] новым ракурсом: групповая идентичность, навязанная сверху, работает против личных отношений, а не усиливает их.
 
-«Дом как тыл» реконфирмируется с уточнением: именно в переходном возрасте, когда «тыл» нужнее всего, родители чаще всего непреднамеренно превращают дом в «передовую» — продолжает [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] и [[kak-vyzhit-ryadom-s-podrostkom](pages/kak-vyzhit-ryadom-s-podrostkom.md)].
+«Дом как тыл» реконфирмируется с уточнением: именно в переходном возрасте, когда «тыл» нужнее всего, родители чаще всего непреднамеренно превращают дом в «передовую» — продолжает [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] и [[kak-vyzhit-ryadom-s-podrostkom](pages/kak-vyzhit-ryadom-s-podrostkom.md)]. Процедуру для случая, когда взрослые с другой стороны отказываются вмешиваться, даёт [[kak-zashchitit-7-letnego-syna-ot-travli](pages/kak-zashchitit-7-letnego-syna-ot-travli.md)] — см. [[obratitsya-k-vlastyam-kak-zashchita](pages/obratitsya-k-vlastyam-kak-zashchita.md)].
 
 ## Footnotes
 

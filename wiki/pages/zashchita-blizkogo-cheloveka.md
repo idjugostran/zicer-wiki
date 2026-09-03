@@ -3,7 +3,7 @@ title: Защита близкого человека как граница
 category: Concepts
 summary: Когда ребёнок систематически третирует одного родителя, вмешаться и поставить границу должен не он сам, а тот родитель, к которому ребёнок прислушивается — личным «я не позволяю», а не моралью
 tags: [concept, roditelstvo, granitsy]
-sources: [mozhet-li-rebenok-bullit-mamu, mozhno-li-pomoch-rodnym-izdaleka]
+sources: [mozhet-li-rebenok-bullit-mamu, mozhno-li-pomoch-rodnym-izdaleka, kak-zashchitit-7-letnego-syna-ot-travli]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -20,6 +20,7 @@ updated: 2026-09-03
 
 - [[mozhet-li-rebenok-bullit-mamu](pages/mozhet-li-rebenok-bullit-mamu.md)] — вводит концепт целиком, на конкретном случае с шестилетним сыном
 - [[mozhno-li-pomoch-rodnym-izdaleka](pages/mozhno-li-pomoch-rodnym-izdaleka.md)] — отца из жизни детей постепенно вытеснили бабушка и мать
+- [[kak-zashchitit-7-letnego-syna-ot-travli](pages/kak-zashchitit-7-letnego-syna-ot-travli.md)] — «детей надо защищать»; недопустим исход «ничего не поделаешь, Мартина не защищаем»
 
 ## Related Concepts
 
