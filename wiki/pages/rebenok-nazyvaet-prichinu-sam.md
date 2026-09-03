@@ -3,7 +3,7 @@ title: Ребёнок сам называет причину
 category: Concepts
 summary: Когда ребёнок на вопрос о своём поведении даёт содержательный ответ, этот ответ и есть диагноз: он точнее любой родительской гипотезы, и работа взрослого сводится к тому, чтобы принять его буквально, а не искать за ним что-то другое
 tags: [concept, refleksiya, diagnostika, rannii-vozrast, subyektnost]
-sources: [mne-nravitsya-kak-papa-reagiruet]
+sources: [mne-nravitsya-kak-papa-reagiruet, lnv-vypusk-234]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -33,3 +33,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[mne-nravitsya-kak-papa-reagiruet](pages/mne-nravitsya-kak-papa-reagiruet.md)] — сформулировано впервые: трёхлетний Леон и «мне нравится, как папа реагирует»
+- [[lnv-vypusk-234](pages/lnv-vypusk-234.md)] — шестилетний сам формулирует «хочу с ней поиграть», и это ответ

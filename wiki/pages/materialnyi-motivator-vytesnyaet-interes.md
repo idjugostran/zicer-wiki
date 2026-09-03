@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — общий разбор поощрения как рычага; здесь частный случай на учебной мотивации
 - [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — соседний механизм зависимости, но от внешней оценки, а не от награды
 - [[pravo-zhit-dlya-kayfov](pages/pravo-zhit-dlya-kayfov.md)] — интерес как достаточное основание, которое приз вытесняет
+- [[interes-kak-kryuchok](pages/interes-kak-kryuchok.md)] — второй способ сломать тот же крючок — наградой
 
 ## Appearances in Sources
 

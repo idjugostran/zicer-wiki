@@ -3,7 +3,7 @@ title: «Что обслуживает» поведение
 category: Concepts
 summary: Вместо оценки самого поступка — искать эмоциональную «плату», которую он приносит: какое состояние или ощущение человек хочет получить, повторяя это поведение
 tags: [concept, samoregulyatsiya, podrostki]
-sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208, lnv-vypusk-250, lnv-vypusk-207, moy-syn-yabeda-ili-postupaet-pravilno, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-byt-esli-vashego-rebenka-schitayut-huliganom, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-314, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-236]
+sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208, lnv-vypusk-250, lnv-vypusk-207, moy-syn-yabeda-ili-postupaet-pravilno, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-byt-esli-vashego-rebenka-schitayut-huliganom, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-314, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-236, lnv-vypusk-234]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -41,6 +41,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — шестилетний берёт чужие вещи; диагностический признак того, что дело не в вещи: предмет потом не используется, а забрасывается
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — вместо оценки школьных шалостей — вопрос, что даёт мальчику выключенный свет и стук в кабинет, и предложение придумать замену
 - [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — выдуманное нападение и выдуманная опухоль у четырнадцатилетней: поведение читается через плату, которую оно приносит, — «порцию сострадания»
+- [[lnv-vypusk-234](pages/lnv-vypusk-234.md)] — четырёхлетний повторяет неприличные слова там, где смеются, шестилетний кривляется перед девочкой: разбирается не поступок, а что он приносит
 
 ## Related Concepts
 

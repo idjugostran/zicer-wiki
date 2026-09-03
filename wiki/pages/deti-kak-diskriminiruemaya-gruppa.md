@@ -44,3 +44,4 @@ updated: 2026-09-03
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — механизм, вырастающий из той же исторической рамки: ребёнок как «функция», а не равный человек
 - [[detskost-i-detoboyazn](pages/detskost-i-detoboyazn.md)] — конкретизация той же рамки: подавление детской спонтанности как форма дискриминации
 - [[chastnyi-sluchay-kak-otritsanie](pages/chastnyi-sluchay-kak-otritsanie.md)] — риторический приём, которым общество снимает с себя ответственность за системную дискриминацию детей
+- [[ne-slushatsya-a-uvazhat](pages/ne-slushatsya-a-uvazhat.md)] — бытовое требование, вырастающее из той же исторической рамки

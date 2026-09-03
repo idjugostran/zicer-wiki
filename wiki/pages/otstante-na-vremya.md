@@ -3,7 +3,7 @@ title: «Отстаньте на время»
 category: Concepts
 summary: Совет, который Зицер сам называет самым популярным в программе: на неделю-десять дней полностью выключить расспросы и давление — потому что иначе родитель сам создаёт ребёнку причину там, где её не было
 tags: [concept, roditelstvo, roditelskiy-strakh, nablyudenie]
-sources: [v-poslednee-vremya-syn-ochen-grustit, moya-doch-zabila-na-vse, moya-doch-deretsya-i-plyuetsya, kak-razgovorit-cheloveka-4-h-let, rebenok-v-shkole-ne-razgovarivaet, kto-ya-svoey-padcheritse, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-aktivnoy-mame-zhit-s-synom-introvertom, devochka-13-let-poteryala-vkus-k-zhizni, mozhno-li-uberech-rebenka-ot-nenavisti, mamu-arestovali-na-glazah-dvuhletnego-syna, mama-day-mne-vremya, devochka-hochet-brosit-zanyatiya-peniem, kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-245, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-244, lnv-vypusk-237]
+sources: [v-poslednee-vremya-syn-ochen-grustit, moya-doch-zabila-na-vse, moya-doch-deretsya-i-plyuetsya, kak-razgovorit-cheloveka-4-h-let, rebenok-v-shkole-ne-razgovarivaet, kto-ya-svoey-padcheritse, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-aktivnoy-mame-zhit-s-synom-introvertom, devochka-13-let-poteryala-vkus-k-zhizni, mozhno-li-uberech-rebenka-ot-nenavisti, mamu-arestovali-na-glazah-dvuhletnego-syna, mama-day-mne-vremya, devochka-hochet-brosit-zanyatiya-peniem, kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-245, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-244, lnv-vypusk-237, lnv-vypusk-234]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -41,6 +41,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — приём применён подряд к пятилетнему (молчание в чужой компании) и к шестнадцатилетнему (выбор профессии); добавлено требование предупредить и родственников, перед которыми взрослому стыдно
 - [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — ближайший год не трогать тему сосания пальца вовсе
 - [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — хруст пальцами у семилетнего — «оставить это на месяцок», потому что фиксация внимания загоняет в ловушку
+- [[lnv-vypusk-234](pages/lnv-vypusk-234.md)] — история с памперсом: «я бы отстал», произнесённое ребёнку обещание больше не приставать
 
 ## Related Concepts
 

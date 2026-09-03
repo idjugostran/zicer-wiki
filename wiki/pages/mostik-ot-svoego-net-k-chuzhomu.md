@@ -3,7 +3,7 @@ title: Мостик от своего «нет» к чужому
 category: Concepts
 summary: Принятие отказа ставят не объяснением «они не хотели тебя обидеть», а разбором собственных «нет» ребёнка — что он сам имеет в виду, когда отказывает, — и только потом переносом этого понимания на отказы других
 tags: [concept, otkaz, obshchenie, sravnenie, razgovor]
-sources: [lnv-vypusk-247]
+sources: [lnv-vypusk-247, lnv-vypusk-234]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,7 +25,9 @@ updated: 2026-09-03
 - [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — достройка «я хуже», которую этот разбор и снимает
 - [[bezopasnyi-vopros-kak-nachalo-obshcheniya](pages/bezopasnyi-vopros-kak-nachalo-obshcheniya.md)] — подготовка к отказу до того, как он прозвучал
 - [[kak-tebe-eto-udalos](pages/kak-tebe-eto-udalos.md)] — закрепление собственного отказа ребёнка
+- [[otkaz-cherez-rasskaz-o-sebe](pages/otkaz-cherez-rasskaz-o-sebe.md)] — зеркальная сторона: как произносят собственное «нет»
 
 ## Appearances in Sources
 
 - [[lnv-vypusk-247](pages/lnv-vypusk-247.md)] — вводит приём: девочка, тяжело переживающая отказы сверстников
+- [[lnv-vypusk-234](pages/lnv-vypusk-234.md)] — обратный конец темы: одиннадцатилетнюю учат произносить собственное «нет»

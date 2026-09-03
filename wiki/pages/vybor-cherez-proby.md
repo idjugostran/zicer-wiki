@@ -3,7 +3,7 @@ title: Выбор через пробы
 category: Concepts
 summary: Смена детских увлечений — не каприз, а нормальный механизм выбора через пробу; принуждение «доводить до конца» учит подчинению, а не решительности
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-248, lnv-vypusk-250, lnv-vypusk-216, lnv-vypusk-211, kak-rastit-samostoyatelnogo-rebenka, kak-pomoch-docheri-vybrat-professiyu, devochka-otkazyvaetsya-hodit-v-shkolu, nam-popalas-plohaya-uchilka, kak-uchitelyu-stroit-atmosferu-uroka, chto-delat-esli-rebenok-boitsya-vsego-novogo, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, malchik-6-let-hochet-pomogat-ukraine, syn-14-let-vlyubilsya-i-eto-opasno, devochka-hochet-brosit-zanyatiya-peniem, lnv-vypusk-245, lnv-vypusk-246, lnv-vypusk-241, lnv-vypusk-236]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-248, lnv-vypusk-250, lnv-vypusk-216, lnv-vypusk-211, kak-rastit-samostoyatelnogo-rebenka, kak-pomoch-docheri-vybrat-professiyu, devochka-otkazyvaetsya-hodit-v-shkolu, nam-popalas-plohaya-uchilka, kak-uchitelyu-stroit-atmosferu-uroka, chto-delat-esli-rebenok-boitsya-vsego-novogo, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, malchik-6-let-hochet-pomogat-ukraine, syn-14-let-vlyubilsya-i-eto-opasno, devochka-hochet-brosit-zanyatiya-peniem, lnv-vypusk-245, lnv-vypusk-246, lnv-vypusk-241, lnv-vypusk-236, lnv-vypusk-234]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -38,6 +38,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-246](pages/lnv-vypusk-246.md)] — пятнадцатилетний сын, потерявший интерес к выбранной родителями музыкальной школе, и семилетняя Кира, бросающая занятие: силком не таскать, но научить объяснять, что было не так
 - [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — смена интересов с собаки на друзей в 12→16 лет описана как нормальный механизм, а не безответственность
 - [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — отказ от биологии в пятнадцать лет ради нового интереса — открытость, а не инфантильность
+- [[lnv-vypusk-234](pages/lnv-vypusk-234.md)] — возвращение интереса через пробы студий с разбором, что именно не понравилось; оговорка про обычный обратный совет
 
 ## Related Concepts
 
@@ -52,3 +53,4 @@ updated: 2026-09-03
 - [[nabrat-stolko-vremeni-skolko-nado](pages/nabrat-stolko-vremeni-skolko-nado.md)] — присутствие без участия как подготовка к собственной пробе
 - [[okno-v-desyat-let](pages/okno-v-desyat-let.md)] — противостояние взрослому как форма исследования мира
 - [[bolshe-odnogo-resheniya](pages/bolshe-odnogo-resheniya.md)] — отказ выбирать из двух заранее названных вариантов
+- [[interes-kak-kryuchok](pages/interes-kak-kryuchok.md)] — чем чинят оборвавшуюся связь с собственным интересом
