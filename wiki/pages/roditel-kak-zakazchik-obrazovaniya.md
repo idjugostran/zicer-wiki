@@ -3,7 +3,7 @@ title: Родитель как заказчик образования
 category: Concepts
 summary: Клиент образования — ребёнок и родители, а не государство; без сформулированного конкретного «заказа» к школе система неизбежно деградирует, как ресторан без заказов посетителей
 tags: [concept, roditelstvo, kurs-12-urokov, shkola]
-sources: [kurs-12-urokov-urok-7, lnv-vypusk-221, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, kak-provodit-klassnye-ekskursii-dlya-detey, nam-popalas-plohaya-uchilka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy]
+sources: [kurs-12-urokov-urok-7, lnv-vypusk-221, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, kak-provodit-klassnye-ekskursii-dlya-detey, nam-popalas-plohaya-uchilka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -33,3 +33,4 @@ updated: 2026-09-03
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — критика внешней мотивации («вырастешь — поймёшь») в пользу понимания, как знание меняет жизнь здесь и сейчас
 - [[shkola-kak-soyuznik](pages/shkola-kak-soyuznik.md)] — та же позиция на переговорах: заказчик ищет пересечение интересов, а не воюет с исполнителем
 - [[semeynyi-seminar-dlya-roditeley](pages/semeynyi-seminar-dlya-roditeley.md)] — работа школы с родителями, а не только с детьми
+- [[net-nikakoy-podgotovki-k-shkole](pages/net-nikakoy-podgotovki-k-shkole.md)] — «пусть такие школы закрывают»: кто кому что должен

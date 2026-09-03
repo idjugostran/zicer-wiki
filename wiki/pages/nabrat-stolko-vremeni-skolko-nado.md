@@ -3,7 +3,7 @@ title: Набрать столько времени, сколько нужно
 category: Concepts
 summary: Ребёнку, который не готов войти в новое, дают присутствовать без участия: он сидит рядом, смотрит на других, никто его не провоцирует и не строит вокруг него опасений — и через какое-то время он входит сам
 tags: [concept, strah, novizna, doshkolniki, shkola, terpenie]
-sources: [chto-delat-esli-rebenok-boitsya-vsego-novogo]
+sources: [chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[chto-delat-esli-rebenok-boitsya-vsego-novogo](pages/chto-delat-esli-rebenok-boitsya-vsego-novogo.md)] — сформулировано впервые: четырёхлетний мальчик сидит с книгой за стеклом школьного бассейна, пока одноклассники плавают
+- [[kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov](pages/kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov.md)] — предельный случай: ребёнку нужен не другой сад, а отсутствие сада
 
 ## Related Concepts
 
