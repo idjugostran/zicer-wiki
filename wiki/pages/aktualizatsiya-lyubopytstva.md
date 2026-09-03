@@ -3,7 +3,7 @@ title: Актуализация: пять удивлений в день
 category: Concepts
 summary: Техника, подключающая ребёнка к реальности — каждый вечер записывать в личный блокнот минимум пять вещей, которые приятно поразили; ценность в самой формулировке, а не в отчёте перед группой
 tags: [concept, pedagogika, poezdki, lyubopytstvo]
-sources: [kak-organizovat-poezdku-dlya-detey, kak-ne-perehvalit-rebenka, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya]
+sources: [kak-organizovat-poezdku-dlya-detey, kak-ne-perehvalit-rebenka, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, malchik-6-let-hochet-pomogat-ukraine]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[subyektnost](pages/subyektnost.md)] — отказ от отчёта перед группой: запись принадлежит автору, а не проверяющему
 - [[muzyka-kak-instrument-atmosfery](pages/muzyka-kak-instrument-atmosfery.md)] — смежная конкретная технология подключения участников к происходящему
 - [[igra-kto-samyi-neschastnyi](pages/igra-kto-samyi-neschastnyi.md)] — смежная регулярная технология с простыми правилами
+- [[perevesti-na-drugoy-uroven](pages/perevesti-na-drugoy-uroven.md)] — рассказать, чем на самом деле занимается тот, на кого ребёнок равняется
 
 ## Footnotes
 

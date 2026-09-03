@@ -3,7 +3,7 @@ title: Как уберечь детей от ненависти
 category: Concepts
 summary: Ненависть, возникшая на фоне войны, не запрещается и не подавляется — вместо этого ребёнку помогают различить разрушительную и созидательную цель своего чувства
 tags: [concept, voyna, nenavist, roditelstvo]
-sources: [uchitsya-budu-tolko-v-kieve, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, s-kem-druzhit-nashim-detyam, chto-pomogaet-detyam-vyzhit-na-voyne, mozhno-li-uberech-rebenka-ot-nenavisti]
+sources: [uchitsya-budu-tolko-v-kieve, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, s-kem-druzhit-nashim-detyam, chto-pomogaet-detyam-vyzhit-na-voyne, mozhno-li-uberech-rebenka-ot-nenavisti, malchik-6-let-hochet-pomogat-ukraine]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 - [[s-kem-druzhit-nashim-detyam](pages/s-kem-druzhit-nashim-detyam.md)] — «мой папа на СВО, он герой, а твой»: то, чего отец не хочет услышать на площадке
 - [[chto-pomogaet-detyam-vyzhit-na-voyne](pages/chto-pomogaet-detyam-vyzhit-na-voyne.md)] — «придумаю термоядерную бомбу» как пристройка, из которой ведут в хорошее, а не в разрушение
 - [[mozhno-li-uberech-rebenka-ot-nenavisti](pages/mozhno-li-uberech-rebenka-ot-nenavisti.md)] — первоисточник концепта: «разве могут украинские дети не ненавидеть» и замена слова «ненависть» на «энергия»
+- [[malchik-6-let-hochet-pomogat-ukraine](pages/malchik-6-let-hochet-pomogat-ukraine.md)] — соседний случай: доброе желание помочь поднимают на уровень, где оно исполнимо шестилетним
 
 ## Related Concepts
 
