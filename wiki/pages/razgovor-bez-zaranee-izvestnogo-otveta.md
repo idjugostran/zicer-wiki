@@ -3,7 +3,7 @@ title: Разговор без заранее известного ответа
 category: Concepts
 summary: Нельзя входить в разговор, зная ответ ребёнка, даже если вы его действительно знаете, и нельзя отвечать за него: от произнесённого им ответа зависит, какой ход делает родитель дальше
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-ponyat-14-letnyuyu-doch]
+sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-ponyat-14-letnyuyu-doch, malchik-hochet-odevatsya-kak-devochka]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[poplavki](pages/poplavki.md)] — тот же запрет отвечать за ребёнка, применённый к вопросу «почему я здесь»
 - [[zachem-ty-eto-sdelal](pages/zachem-ty-eto-sdelal.md)] — обратный случай: вопрос задаётся при уже известном ответе и потому превращается в спектакль
 - [[priznanie-roditelskoy-oshibki](pages/priznanie-roditelskoy-oshibki.md)] — первый обязательный шаг, если решение было принято без ребёнка
+- [[vau-da-ladno-rasskazhi](pages/vau-da-ladno-rasskazhi.md)] — приём, вырождающийся в допрос, если ответ известен заранее
 
 ## Footnotes
 

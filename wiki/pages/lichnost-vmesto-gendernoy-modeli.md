@@ -3,7 +3,7 @@ title: Личность вместо гендерной модели
 category: Concepts
 summary: Жёсткие гендерные сценарии («мальчик = твёрдая рука», «девочка = покорность») вредят обоим полам одинаково; личность и интересы ребёнка важнее культивирования «мальчиковости»/«девочковости»
 tags: [concept, roditelstvo, kurs-12-urokov, gender]
-sources: [kurs-12-urokov-urok-9, kak-spasti-15-letnego-syna, mama-dorogaya-bulling, o-malchikah-i-o-muzhikah, lnv-vypusk-220, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, syn-rasskazal-mame-chto-on-biseksual, kak-byt-esli-syn-vlyubilsya-v-druga]
+sources: [kurs-12-urokov-urok-9, kak-spasti-15-letnego-syna, mama-dorogaya-bulling, o-malchikah-i-o-muzhikah, lnv-vypusk-220, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, syn-rasskazal-mame-chto-on-biseksual, kak-byt-esli-syn-vlyubilsya-v-druga, malchik-hochet-odevatsya-kak-devochka]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek](pages/chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek.md)] — новый практический вопрос для раннего (8 лет) возраста: что первично в выборе, с кем дружить, — гендер или человеческие качества
 - [[syn-rasskazal-mame-chto-on-biseksual](pages/syn-rasskazal-mame-chto-on-biseksual.md)] — родители отказываются «менять» сына после его слов о бисексуальности
 - [[kak-byt-esli-syn-vlyubilsya-v-druga](pages/kak-byt-esli-syn-vlyubilsya-v-druga.md)] — «мальчик или девочка — это вообще всё равно» применительно к влюблённости шестилетки
+- [[malchik-hochet-odevatsya-kak-devochka](pages/malchik-hochet-odevatsya-kak-devochka.md)] — заколки, бант и костюм со стразами у одиннадцатилетнего: ответ не зависит от гендерной интерпретации
 
 ## Related Concepts
 
