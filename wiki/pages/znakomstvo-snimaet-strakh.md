@@ -3,7 +3,7 @@ title: Знакомство снимает страх
 category: Concepts
 summary: Детский страх перед тем, кто выглядит иначе, питается непониманием, а не враждебностью; поэтому дом не закрывают, а открывают — но приглашение никогда не идёт против воли самого ребёнка
 tags: [concept, inklyuziya, autizm, strakh, druzhba, granitsy]
-sources: [8-letniy-malchik-stesnyaetsya-starshego-brata, lnv-vypusk-244, lnv-vypusk-234]
+sources: [8-letniy-malchik-stesnyaetsya-starshego-brata, lnv-vypusk-244, lnv-vypusk-234, lnv-vypusk-227]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -37,3 +37,4 @@ updated: 2026-09-03
 - [[8-letniy-malchik-stesnyaetsya-starshego-brata](pages/8-letniy-malchik-stesnyaetsya-starshego-brata.md)] — сформулировано впервые: друзья Егора, приходящие в отсутствие Антоши, и предложение позвать их при нём
 - [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — содержание двухмесячной паузы: гости, чужие взрослые, места со сверстниками
 - [[lnv-vypusk-234](pages/lnv-vypusk-234.md)] — щенок как «домашнее» средство от страха собак, с оговоркой, что подходит не всем
+- [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — принятие непохожего одноклассника через обнаружение особенностей у всех

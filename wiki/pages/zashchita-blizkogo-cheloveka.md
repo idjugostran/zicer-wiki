@@ -31,3 +31,4 @@ updated: 2026-09-03
 - [[zashchishchat-tsennosti-siloy](pages/zashchishchat-tsennosti-siloy.md)] — «сражайся, Арджуна»: сила как условие существования ценностей
 - [[nam-kto-to-poveril](pages/nam-kto-to-poveril.md)] — граница: взрослый не входит в чужой семейный конфликт, а лишь отказывается его запустить
 - [[ne-na-kostyah-nashih-detey](pages/ne-na-kostyah-nashih-detey.md)] — защита как немедленное действие, а не как обещание добиться правды
+- [[ne-znayu-kak-raschet](pages/ne-znayu-kak-raschet.md)] — защита ребёнка как условие, размыкающее его молчание

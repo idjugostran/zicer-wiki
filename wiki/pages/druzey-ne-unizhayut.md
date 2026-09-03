@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — почему морализаторство не работает: поступок чем-то обслуживается
 - [[s-kem-druzhit-nashim-detyam](pages/s-kem-druzhit-nashim-detyam.md)] — родительское право вмешаться в состав детской дружбы и его пределы
 - [[izrail-kak-dom](pages/izrail-kak-dom.md)] — принцип, который не отменяется поступком человека, на другом материале
+- [[pravo-na-vtoroy-shans](pages/pravo-na-vtoroy-shans.md)] — соседняя развилка: как быть с оступившимся
 
 ## Appearances in Sources
 

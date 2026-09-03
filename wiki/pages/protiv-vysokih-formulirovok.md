@@ -3,7 +3,7 @@ title: Против высоких формулировок
 category: Concepts
 summary: Зицер отказывается от установок вроде «ребёнка нужно принимать»: они «звучат офигенно», но не говорят, что делать; вместо них он даёт физически исполнимое — как вдохнуть, как выдохнуть, как отвернуться, — из чего принятие и складывается
 tags: [concept, metodologiya, pedagogika, telo, yazyk, praktika]
-sources: [pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov]
+sources: [pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov, lnv-vypusk-227]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -34,3 +34,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov](pages/pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov.md)] — сформулировано впервые: «как принимать ребёнка, что это значит?»
+- [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — «нет никакой нормы в этом случае»

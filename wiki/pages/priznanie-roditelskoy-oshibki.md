@@ -42,6 +42,7 @@ updated: 2026-09-03
 - [[nesmotrya-a-ne-blagodarya](pages/nesmotrya-a-ne-blagodarya.md)] — отказ от самооправдания прошлым как условие отказа от метода
 - [[obman-kak-strah-roditelskoy-otsenki](pages/obman-kak-strah-roditelskoy-otsenki.md)] — случай, где признание ошибки — первый шаг к прекращению лжи
 - [[vosstanovlenie-prava-govorit-pravdu](pages/vosstanovlenie-prava-govorit-pravdu.md)] — что делают после извинения, чтобы вернуть правдивость
+- [[pravo-na-vtoroy-shans](pages/pravo-na-vtoroy-shans.md)] — та же установка, обращённая на чужую ошибку
 
 ## Footnotes
 

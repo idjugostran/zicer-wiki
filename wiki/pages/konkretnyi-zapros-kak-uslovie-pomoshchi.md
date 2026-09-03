@@ -3,7 +3,7 @@ title: Конкретный запрос как условие помощи
 category: Concepts
 summary: Помочь человеку против его воли или без сформулированной цели невозможно; прежде чем советовать, нужно добиться от просящего конкретного запроса, а не позволять ему просто изливать эмоции
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-219, kak-byt-esli-rebenok-ne-uveren-v-sebe, kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-organizovat-poezdku-dlya-detey, devochka-otkazyvaetsya-hodit-v-shkolu, chego-boitsya-syn-i-chto-s-etim-delat, kak-podderzhat-rebenka-vo-vremya-voyny, kak-ponyat-14-letnyuyu-doch, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami, kto-ya-svoey-padcheritse, kak-nauchitsya-spravlyatsya-s-emotsiyami, chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, kak-byt-esli-vashego-rebenka-schitayut-huliganom, doch-6-let-nachala-zavidovat-i-vydumyvat, lnv-vypusk-245, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-236, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232]
+sources: [lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-219, kak-byt-esli-rebenok-ne-uveren-v-sebe, kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-organizovat-poezdku-dlya-detey, devochka-otkazyvaetsya-hodit-v-shkolu, chego-boitsya-syn-i-chto-s-etim-delat, kak-podderzhat-rebenka-vo-vremya-voyny, kak-ponyat-14-letnyuyu-doch, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami, kto-ya-svoey-padcheritse, kak-nauchitsya-spravlyatsya-s-emotsiyami, chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, kak-byt-esli-vashego-rebenka-schitayut-huliganom, doch-6-let-nachala-zavidovat-i-vydumyvat, lnv-vypusk-245, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-236, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -42,6 +42,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-234](pages/lnv-vypusk-234.md)] — запрос трёхлетнего формулируется при поддержке родителей; без него тренер помочь не может
 - [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — отцу отказано в способе добиться режима помимо воли сына: помочь можно, только если попросят
 - [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — помощь дочери начинается с формулировки её собственного запроса, а не с обсуждения квартиры
+- [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — первый шаг работы со стеснительностью: добиться формулировки от самого мальчика
 
 ## Related Concepts
 

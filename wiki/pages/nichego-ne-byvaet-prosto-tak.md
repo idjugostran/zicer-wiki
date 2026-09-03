@@ -3,7 +3,7 @@ title: Ничего не бывает просто так
 category: Concepts
 summary: Педагогика — точная наука: поступок ребёнка почти никогда не беспричинен, и когда он выходит за общепринятые рамки или вредит, взрослый обязан найти причину и вмешаться, а не согласиться, что «всё нормально»
 tags: [concept, roditelstvo, otvetstvennost, diagnostika]
-sources: [lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, lnv-vypusk-236]
+sources: [lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, lnv-vypusk-236, lnv-vypusk-227]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 
 - [[lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya](pages/lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya.md)] — вводит концепт: «педагогика — точная наука», обязанность вмешаться, отказ принимать «всё нормально», гипотеза о непринятии
 - [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — «ничего само не меняется, не бывает такого»
+- [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — Зицер отказывается давать совет, пока не найдена точка, из которой подпитывается агрессия трёхлетнего
 
 ## Related Concepts
 

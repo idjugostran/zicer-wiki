@@ -3,7 +3,7 @@ title: Разговор без заранее известного ответа
 category: Concepts
 summary: Нельзя входить в разговор, зная ответ ребёнка, даже если вы его действительно знаете, и нельзя отвечать за него: от произнесённого им ответа зависит, какой ход делает родитель дальше
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-ponyat-14-letnyuyu-doch, malchik-hochet-odevatsya-kak-devochka, syn-14-let-vlyubilsya-i-eto-opasno, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-244, lnv-vypusk-232]
+sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-ponyat-14-letnyuyu-doch, malchik-hochet-odevatsya-kak-devochka, syn-14-let-vlyubilsya-i-eto-opasno, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-244, lnv-vypusk-232, lnv-vypusk-227]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let](pages/chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let.md)] — «зачем вашей дочке с ней дружить» против «если бы меня украли, я бы не дружила»: второе — уже навязанное решение
 - [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — мама не должна ждать ответа «хочу быть отличницей», иначе разговор не состоится
 - [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — «она говорит одно, вы говорите другое»: мать отвечает за дочь вместо того, чтобы услышать её заказ
+- [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — проверка, не подстроен ли ответ восьмилетнего под мамино ожидание
 
 ## Related Concepts
 

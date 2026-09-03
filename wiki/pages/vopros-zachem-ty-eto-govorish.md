@@ -3,7 +3,7 @@ title: «Зачем ты это говоришь»
 category: Concepts
 summary: Вопрос, запускающий рефлексию у подростка: обращённый к тому, что человек произносит по привычке, он сдвигает горы — но только при неоценивающем тоне и в возрасте, когда ответ вообще возможен
 tags: [concept, refleksiya, podrostki, kommunikatsiya, vopros]
-sources: [kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, doch-6-let-nachala-zavidovat-i-vydumyvat, lnv-vypusk-229, lnv-vypusk-230]
+sources: [kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, doch-6-let-nachala-zavidovat-i-vydumyvat, lnv-vypusk-229, lnv-vypusk-230, lnv-vypusk-227]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[doch-6-let-nachala-zavidovat-i-vydumyvat](pages/doch-6-let-nachala-zavidovat-i-vydumyvat.md)] — «нафиг ты мне об этом говоришь», переведённое на язык шестилетней; ответы «пожаловаться» и «мне обидно» ведут к одному и тому же
 - [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — цепочка «зачем — что это значит — что ты в этот момент чувствуешь», которой мама включает у восьмилетней анализ
 - [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — «хороший вопрос инструмент в педагогике зачем» — в разговоре с четырнадцатилетней о мате и порно, при неоценивающем тоне
+- [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — «зачем ты победил» как вопрос, приглашающий к размышлению, а не требующий ответа
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Рассказывать о себе и советоваться
 category: Concepts
 summary: «Золотое правило» Зицера для поддержания отношений — регулярно рассказывать о себе и спрашивать совета, а не только сообщать/требовать; работает и между родителем и ребёнком, и между сиблингами
 tags: [concept, lnv, roditelstvo, siblingi]
-sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, kak-pomoch-nayti-otvet-na-vopros-kto-ya, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, moya-doch-ne-delitsya-chuvstvami, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, malchik-6-let-hochet-pomogat-ukraine, selfharm-trevoga-i-slezy, malchik-hochet-odevatsya-kak-devochka, syn-14-let-vlyubilsya-i-eto-opasno, kak-spasti-detey-ot-nenavisti, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-246, lnv-vypusk-236, lnv-vypusk-229]
+sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, kak-pomoch-nayti-otvet-na-vopros-kto-ya, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, moya-doch-ne-delitsya-chuvstvami, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, malchik-6-let-hochet-pomogat-ukraine, selfharm-trevoga-i-slezy, malchik-hochet-odevatsya-kak-devochka, syn-14-let-vlyubilsya-i-eto-opasno, kak-spasti-detey-ot-nenavisti, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-246, lnv-vypusk-236, lnv-vypusk-229, lnv-vypusk-227]
 created: 2026-09-01
 updated: 2026-09-03
 ---
@@ -38,6 +38,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-246](pages/lnv-vypusk-246.md)] — развёрнутая трёхэтапная процедура на две недели каникул: убрать череду указаний, начать реально пользоваться советами дочери, и только в конце просить об изменении формы отказа
 - [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — «откуда же она научится делиться секретами, если с ней не делится секретами»; рассказ о своей работе как условие рассказа о школе
 - [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — вечерние чаепития с подростком и разговор отца со старшей дочерью строятся как «поделиться собой и спросить совета»
+- [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — обратная связь Полины: «секретные беседы» и рассказы о себе решили вопрос с садиком за три дня
 
 ## Related Concepts
 

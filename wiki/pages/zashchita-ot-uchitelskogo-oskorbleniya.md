@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[zashchita-blizkogo-cheloveka](pages/zashchita-blizkogo-cheloveka.md)] — обратная конфигурация: ребёнок берёт на себя защиту взрослого
 - [[obratitsya-k-vlastyam-kak-zashchita](pages/obratitsya-k-vlastyam-kak-zashchita.md)] — взрослые механизмы, применяемые отдельно от детей
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — «сделайте свою взрослую работу» как рамка всего приёма
+- [[pravo-na-vtoroy-shans](pages/pravo-na-vtoroy-shans.md)] — граница: второй шанс не даётся за проступок против самого ребёнка
 
 ## Appearances in Sources
 

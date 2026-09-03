@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[chtenie-perepiski-detey](pages/chtenie-perepiski-detey.md)] — разрушение доверия слежкой; здесь обратный ход
 - [[derzhitsya-do-poslednego-rubezha](pages/derzhitsya-do-poslednego-rubezha.md)] — та же гарантия в другом разборе, как ответ на детское отрицание
 - [[obman-kak-strah-roditelskoy-otsenki](pages/obman-kak-strah-roditelskoy-otsenki.md)] — причина, ради снятия которой гарантия и даётся
+- [[ne-znayu-kak-raschet](pages/ne-znayu-kak-raschet.md)] — тот же механизм, применённый к молчанию, а не ко лжи
 
 ## Appearances in Sources
 

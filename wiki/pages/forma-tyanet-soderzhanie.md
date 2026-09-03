@@ -3,7 +3,7 @@ title: Форма тянет за собой содержание
 category: Concepts
 summary: Реактивное поведение меняют не пониманием, а заменой физической формы реакции — шёпот вместо крика, взмах руками или рукопожатие вместо кулака; состояние подтягивается за формой, хотя кажется наоборот
 tags: [concept, agressiya, telesnost, instrumenty, sovmestnoe-reshenie]
-sources: [lnv-vypusk-245]
+sources: [lnv-vypusk-245, lnv-vypusk-227]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -30,3 +30,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[lnv-vypusk-245](pages/lnv-vypusk-245.md)] — вводит формулу и разбирает подбор замен для шестилетнего Максима
+- [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — отсылка к статье «Тело как педагогический инструмент»

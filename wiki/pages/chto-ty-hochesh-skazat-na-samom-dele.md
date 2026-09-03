@@ -3,7 +3,7 @@ title: «Что ты хочешь сказать на самом деле?»
 category: Concepts
 summary: Сильное обобщающее слово — «ненавижу» — разбирается двумя вопросами: что человек хочет этим сказать и чего он хочет, чтобы было; второй шаг обязателен, потому что только он выводит на выполнимое требование вместо волшебной палочки
 tags: [concept, vopros, emotsii, nenavist, refleksiya, kommunikatsiya]
-sources: [kak-spasti-detey-ot-nenavisti, lnv-vypusk-314]
+sources: [kak-spasti-detey-ot-nenavisti, lnv-vypusk-314, lnv-vypusk-227]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -37,3 +37,4 @@ updated: 2026-09-03
 
 - [[kak-spasti-detey-ot-nenavisti](pages/kak-spasti-detey-ot-nenavisti.md)] — сформулировано впервые: «я ненавижу русских» у восьмилетнего киевлянина
 - [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — «переводи этот разговор в интеллектуальное поле»: «а что ты хочешь почувствовать?»
+- [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — «пристаёт» бракуется как аморфное слово и разбирается до ключевого «никогда»

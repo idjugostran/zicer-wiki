@@ -3,7 +3,7 @@ title: Круг «что во мне особенного»
 category: Concepts
 summary: Регулярное занятие в кругу, где каждый — включая учителя — говорит, чем он отличается от других; первые разы дают внешние и шуточные ответы, дальше разговор углубляется, и из него вырастает не сплочённый коллектив, а «единство индивидуальностей», способное само остановить агрессию
 tags: [concept, pedagogika, gruppa, refleksiya, bulling, tehnika, nachalnaya-shkola]
-sources: [dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-232]
+sources: [dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-232, lnv-vypusk-227]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -38,3 +38,4 @@ updated: 2026-09-03
 
 - [[dolzhen-li-uchitel-lyubit-detey](pages/dolzhen-li-uchitel-lyubit-detey.md)] — сформулировано впервые: подарено учительнице третьего класса после случая с избитым второклассником
 - [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — формат кружка и работы в парах, предложенный учительнице для разговора о выборе слова
+- [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — занятие целиком проговорено учительнице из Дагестана для класса с «особенным» ребёнком

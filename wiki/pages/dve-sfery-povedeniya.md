@@ -3,7 +3,7 @@ title: Две сферы поведения
 category: Concepts
 summary: Ребёнок, яркий дома и молчаливый в школе, не сдерживается и не страдает — у него сложились две разные сферы, и при отсутствии признаков неблагополучия это норма, а не симптом
 tags: [concept, shkola, adaptatsiya, norma, molchanie]
-sources: [rebenok-v-shkole-ne-razgovarivaet, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-aktivnoy-mame-zhit-s-synom-introvertom, chto-pomogaet-detyam-vyzhit-na-voyne, lnv-vypusk-240]
+sources: [rebenok-v-shkole-ne-razgovarivaet, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-aktivnoy-mame-zhit-s-synom-introvertom, chto-pomogaet-detyam-vyzhit-na-voyne, lnv-vypusk-240, lnv-vypusk-227]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[kak-nauchitsya-spravlyatsya-s-emotsiyami](pages/kak-nauchitsya-spravlyatsya-s-emotsiyami.md)] — с матерью взрывы, с отцом молчание: разное поведение с разными людьми
 - [[kak-aktivnoy-mame-zhit-s-synom-introvertom](pages/kak-aktivnoy-mame-zhit-s-synom-introvertom.md)] — в школе и секциях всё отлично, а вечера он проводит дома — и это его выбор
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — пятилетний свободно разговаривает дома и молчит в чужой компании; Зицер прямо оговаривает, что при домашних трудностях ответ был бы другим
+- [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — «он имеет право на собственную модель поведения»; история про собственного молчавшего ученика
 
 ## Related Concepts
 

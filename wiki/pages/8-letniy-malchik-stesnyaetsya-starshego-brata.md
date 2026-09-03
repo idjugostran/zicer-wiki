@@ -60,7 +60,7 @@ updated: 2026-09-03
 
 [[otvet-v-karmane](pages/otvet-v-karmane.md)] дополняет [[legitimizatsiya-temy](pages/legitimizatsiya-temy.md)] с практической стороны: там тему делают обсуждаемой дома, здесь ребёнка снабжают формулировкой для разговора снаружи. И он же уточняет [[govorit-nepriyatnoe-i-byt-uslyshannym](pages/govorit-nepriyatnoe-i-byt-uslyshannym.md)]: сказать своё ребёнок может только тогда, когда слова у него есть.
 
-[[znakomstvo-snimaet-strakh](pages/znakomstvo-snimaet-strakh.md)] очерчивает границу [[pravda-ob-opasnoy-srede](pages/pravda-ob-opasnoy-srede.md)]: когда снаружи ребёнка беречь, а когда, наоборот, впускать внешних внутрь дома, решает не правило, а то, чем питается чужая реакция — враждебностью или незнанием.
+[[znakomstvo-snimaet-strakh](pages/znakomstvo-snimaet-strakh.md)] очерчивает границу [[pravda-ob-opasnoy-srede](pages/pravda-ob-opasnoy-srede.md)]: когда снаружи ребёнка беречь, а когда, наоборот, впускать внешних внутрь дома, решает не правило, а то, чем питается чужая реакция — враждебностью или незнанием. Зеркальная сторона той же конструкции разобрана в [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — там речь о старшей сестре и отталкиваемом младшем брате.
 
 ## Note
 

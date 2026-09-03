@@ -3,7 +3,7 @@ title: Телесная реакция предшествует поступку
 category: Concepts
 summary: Реактивные действия (крик, удар) вызываются телесным сигналом (сжатые кулаки, сухость во рту), возникающим за секунды до поступка, а не осознанным решением
 tags: [concept, samoregulyatsiya, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-ponimat-signaly-tela, lnv-vypusk-253, lnv-vypusk-215, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kniga-lyubit-nelzya-vospityvat, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, kak-ponyat-14-letnyuyu-doch, kak-byt-esli-syn-vlyubilsya-v-druga, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-spasti-detey-ot-nenavisti, pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov, lnv-vypusk-245, lnv-vypusk-230]
+sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-ponimat-signaly-tela, lnv-vypusk-253, lnv-vypusk-215, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kniga-lyubit-nelzya-vospityvat, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, kak-ponyat-14-letnyuyu-doch, kak-byt-esli-syn-vlyubilsya-v-druga, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-spasti-detey-ot-nenavisti, pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov, lnv-vypusk-245, lnv-vypusk-230, lnv-vypusk-227]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -48,6 +48,7 @@ updated: 2026-09-03
 - [[pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov](pages/pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov.md)] — «как вдохнуть, как выдохнуть, как отвернуться» вместо установки «принимать ребёнка»
 - [[lnv-vypusk-245](pages/lnv-vypusk-245.md)] — анализируется цепочка триггеров, и на сжатый кулак подбирается физическая замена
 - [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — маме, кричащей на четырёхлетнего, предложено отследить, как пересыхает в горле и сжимаются кулачки
+- [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — «волшебный» третий шаг: расслабить руки и выпить воды вместо мысли о выступлении
 
 ## Related Concepts
 

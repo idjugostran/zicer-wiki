@@ -37,6 +37,7 @@ updated: 2026-09-03
 - [[vopros-na-ego-meste-eto-glyuk](pages/vopros-na-ego-meste-eto-glyuk.md)] — соседний вопрос, на который ребёнок тоже не может ответить
 - [[sochuvstvie-razoblachennomu](pages/sochuvstvie-razoblachennomu.md)] — что делают вместо требования объяснить мотив
 - [[vopros-pochemu-kak-zavualirovannyi-prikaz](pages/vopros-pochemu-kak-zavualirovannyi-prikaz.md)] — соседний тупиковый вопрос: там ответа не знает ребёнок, здесь его прячет взрослый
+- [[ne-znayu-kak-raschet](pages/ne-znayu-kak-raschet.md)] — вторая причина того же ответа: не «не понимает», а «просчитал»
 
 ## Footnotes
 
