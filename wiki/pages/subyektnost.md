@@ -66,3 +66,4 @@ updated: 2026-09-03
 - [[zarabotannyi-taymaut](pages/zarabotannyi-taymaut.md)] — решение о паузе принадлежит тому, кто принимал решение о работе
 - [[semeynaya-kultura-rabotaet-kak-chasy](pages/semeynaya-kultura-rabotaet-kak-chasy.md)] — ограничение снизу: в три года круг общения фактически определяют родители
 - [[semeynyi-byudzhet-prinadlezhit-vsem](pages/semeynyi-byudzhet-prinadlezhit-vsem.md)] — право распоряжаться общим, а не получать выданное
+- [[otvet-v-karmane](pages/otvet-v-karmane.md)] — отвечает на вопрос о себе сам ребёнок, а не взрослый вместо него

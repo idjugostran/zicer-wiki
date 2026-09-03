@@ -31,3 +31,4 @@ updated: 2026-09-03
 - [[myach-na-ego-polovine-polya](pages/myach-na-ego-polovine-polya.md)] — та же ставка на сказанное вслух, но с формулировкой, возвращающей инициативу ребёнку
 - [[pomoshch-bez-upreka](pages/pomoshch-bez-upreka.md)] — почему упрёк, вшитый в предложение помощи, блокирует ответ
 - [[ya-na-tvoey-storone-no-ne-mogu-pozvolit](pages/ya-na-tvoey-storone-no-ne-mogu-pozvolit.md)] — готовая формула для случая, когда неприятное — это отказ
+- [[otvet-v-karmane](pages/otvet-v-karmane.md)] — сказать своё ребёнок может только тогда, когда слова у него есть

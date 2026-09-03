@@ -36,3 +36,4 @@ updated: 2026-09-03
 - [[kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy](pages/kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy.md)] — честность как условие
 - [[sohranit-rebenka-v-tselosti](pages/sohranit-rebenka-v-tselosti.md)] — охрана без требования измениться
 - [[usloviya-trudnogo-razgovora](pages/usloviya-trudnogo-razgovora.md)] — почему здесь не нужны обходные ходы
+- [[znakomstvo-snimaet-strakh](pages/znakomstvo-snimaet-strakh.md)] — обратное движение для несведущей, а не враждебной среды: дом открывают
