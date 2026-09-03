@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[pravo-na-lichnost-i-est-politika](pages/pravo-na-lichnost-i-est-politika.md)] — почему высказанная личная позиция и есть противодействие
 - [[raskachivanie-kriticheskogo-myshleniya](pages/raskachivanie-kriticheskogo-myshleniya.md)] — «не давайте собой манипулировать» как навык, а не призыв
 - [[obobshchestvlenie-lichnogo](pages/obobshchestvlenie-lichnogo.md)] — соседний приём присвоения личного государством
+- [[neuchastie-v-podlosti](pages/neuchastie-v-podlosti.md)] — второй ответ на тот же вопрос «что можно сделать»: не действие, а граница
 
 ## Appearances in Sources
 

@@ -3,7 +3,7 @@ title: Карл Роджерс
 category: Entities
 summary: Психолог и педагог, автор клиент-центрированного подхода и метода групповой фасилитации; Зицер ссылается на него как на источник представления о группе как инструменте личностных изменений
 tags: [entity, psihologiya, pedagogika, gruppy]
-sources: [kak-uchitelyu-pomoch-uchenikam-iz-ukrainy]
+sources: [kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, vstuplenie-k-efiru-11-04-2023]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-uchitelyu-pomoch-uchenikam-iz-ukrainy](pages/kak-uchitelyu-pomoch-uchenikam-iz-ukrainy.md)] — теоретическая опора совета собрать украинских подростков в гомогенную группу
+- [[vstuplenie-k-efiru-11-04-2023](pages/vstuplenie-k-efiru-11-04-2023.md)] — Роджерс и Дольто как внутрипрофессиональный аргумент в споре с педагогом
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Право на личность и есть политика
 category: Concepts
 summary: Отнятие у человека права на себя устроено одинаково дома, в школе и в государстве; поэтому требование «не занимайтесь политикой» Зицер называет ложью, а собственную позицию — сознательно однополярной
 tags: [concept, politika, lichnost, fashizm, pedagogika, gosudarstvo]
-sources: [dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy, vstuplenie-k-programme-16-01-24, vstuplenie-k-lnv-10-oktyabrya-2023]
+sources: [dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy, vstuplenie-k-programme-16-01-24, vstuplenie-k-lnv-10-oktyabrya-2023, vstuplenie-k-efiru-11-04-2023]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy](pages/chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy.md)] — государственный масштаб отнятия права сказать «я»: «это мой день, день моей семьи, не государства»
 - [[vstuplenie-k-programme-16-01-24](pages/vstuplenie-k-programme-16-01-24.md)] — «пишите у себя»: высказанная личная позиция как прививка от манипулирования
 - [[vstuplenie-k-lnv-10-oktyabrya-2023](pages/vstuplenie-k-lnv-10-oktyabrya-2023.md)] — личное заявление в эфире педагогической программы, помеченное как исключение из формата
+- [[vstuplenie-k-efiru-11-04-2023](pages/vstuplenie-k-efiru-11-04-2023.md)] — та же неотделимость, но выведенная из устройства образования, а не из права на личность
 
 ## Related Concepts
 

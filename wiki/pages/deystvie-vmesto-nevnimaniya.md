@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[raskachivanie-kriticheskogo-myshleniya](pages/raskachivanie-kriticheskogo-myshleniya.md)] — что защищает от пропаганды на длинной дистанции
 - [[dvoemyslie-u-detey](pages/dvoemyslie-u-detey.md)] — риск, возникающий, когда позицию приходится прятать
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — та же ставка на выполнимое действие вместо усилия воли
+- [[pedagogika-bez-konteksta](pages/pedagogika-bez-konteksta.md)] — та же тема со стороны учителя, а не ученика
 
 ## Appearances in Sources
 

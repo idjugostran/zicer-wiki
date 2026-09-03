@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[ozhidat-chut-menshe](pages/ozhidat-chut-menshe.md)] — «принятие» переведённое в конкретное снижение требований
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — то же требование конкретности, обращённое к собеседнику
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — определение через перечень действий, а не через качества
+- [[pedagogika-bez-konteksta](pages/pedagogika-bez-konteksta.md)] — соседняя методологическая позиция того же автора
 
 ## Appearances in Sources
 

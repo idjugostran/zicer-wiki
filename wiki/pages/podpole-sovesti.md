@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[subyektnost](pages/subyektnost.md)] — «вы режиссёр, вы артист, вы сценарист»
 - [[chetyre-tipa-adaptatsii-k-podavleniyu](pages/chetyre-tipa-adaptatsii-k-podavleniyu.md)] — смежное описание способов выжить в подавляющей среде
 - [[deystvie-vmesto-nevnimaniya](pages/deystvie-vmesto-nevnimaniya.md)] — чем занять себя, пока давление длится и уйти нельзя
+- [[neuchastie-v-podlosti](pages/neuchastie-v-podlosti.md)] — где проходит граница участия, которую человек проводит сам
 
 ## Footnotes
 

@@ -40,3 +40,4 @@ updated: 2026-09-03
 - [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)] — предварительное условие любого учебного интереса: ребёнок физически и социально защищён в школе
 - [[sotsializatsiya-ne-ravna-shkole](pages/sotsializatsiya-ne-ravna-shkole.md)] — доводит фактор «субъектное взаимодействие» до предела: раз связи не складываются именно в школе, их можно строить вне неё
 - [[pravo-zhit-dlya-kayfov](pages/pravo-zhit-dlya-kayfov.md)] — та же возрастная оговорка («потерпи, потом пригодится» — обман), распространённая на подростковый возраст
+- [[pedagogika-bez-konteksta](pages/pedagogika-bez-konteksta.md)] — следствие: отцензурированный мир делает познание мира невозможным

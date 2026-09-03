@@ -29,6 +29,7 @@ updated: 2026-09-03
 
 - [[iskusstvennyi-intellekt](pages/iskusstvennyi-intellekt.md)] — качество, которого, по наблюдению Зицера, пока не хватает ИИ
 - [[dima-zicer](pages/dima-zicer.md)] — формулирует определение
+- [[neuchastie-v-podlosti](pages/neuchastie-v-podlosti.md)] — граница, защищающая это свойство при любой власти
 
 ## Footnotes
 

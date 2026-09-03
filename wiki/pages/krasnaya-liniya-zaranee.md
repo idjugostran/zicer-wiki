@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[plavayushchie-granitsy](pages/plavayushchie-granitsy.md)] — решение, принятое заранее, не пересматривается по обстоятельствам момента
 - [[zashchita-blizkogo-cheloveka](pages/zashchita-blizkogo-cheloveka.md)] — зеркальный случай: границу ставит тот родитель, к которому ребёнок прислушивается
 - [[stop-slovo](pages/stop-slovo.md)] — заранее оговорённый сигнал остановки внутри уже начавшегося разговора
+- [[neuchastie-v-podlosti](pages/neuchastie-v-podlosti.md)] — та же работа по проведению собственной черты, вынесенная за пределы семьи
 
 ## Appearances in Sources
 

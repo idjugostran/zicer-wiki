@@ -3,7 +3,7 @@ title: Раскачивание критического мышления
 category: Concepts
 summary: Единственный механизм защиты, доступный взрослым, — и включается он не инструктажем, а тем, что взрослый делится с ребёнком собственными сомнениями по поводу своих контактов и советуется с ним
 tags: [concept, bezopasnost, profilaktika, kommunikatsiya, roditelstvo]
-sources: [kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, kak-spasti-detey-ot-nenavisti, vstuplenie-k-programme-16-01-24]
+sources: [kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, kak-spasti-detey-ot-nenavisti, vstuplenie-k-programme-16-01-24, vstuplenie-k-efiru-11-04-2023]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima](pages/dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima.md)] — «государство стремится нас упрощать, наша задача — усложняться»
 - [[kak-spasti-detey-ot-nenavisti](pages/kak-spasti-detey-ot-nenavisti.md)] — «язык ненависти в медиа» и социальные сети как «крючок, на что ловят людей»
 - [[vstuplenie-k-programme-16-01-24](pages/vstuplenie-k-programme-16-01-24.md)] — «не давайте собой манипулировать»; проверка требующего по его собственной странице
+- [[vstuplenie-k-efiru-11-04-2023](pages/vstuplenie-k-efiru-11-04-2023.md)] — «лишить права на критическое мышление» как названная цель; цена цензуры мира
 
 ## Related Concepts
 
