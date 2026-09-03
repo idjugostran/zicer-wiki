@@ -3,7 +3,7 @@ title: Выбор через пробы
 category: Concepts
 summary: Смена детских увлечений — не каприз, а нормальный механизм выбора через пробу; принуждение «доводить до конца» учит подчинению, а не решительности
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-248, lnv-vypusk-250, lnv-vypusk-216, lnv-vypusk-211, kak-rastit-samostoyatelnogo-rebenka, kak-pomoch-docheri-vybrat-professiyu, devochka-otkazyvaetsya-hodit-v-shkolu, nam-popalas-plohaya-uchilka, kak-uchitelyu-stroit-atmosferu-uroka]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-248, lnv-vypusk-250, lnv-vypusk-216, lnv-vypusk-211, kak-rastit-samostoyatelnogo-rebenka, kak-pomoch-docheri-vybrat-professiyu, devochka-otkazyvaetsya-hodit-v-shkolu, nam-popalas-plohaya-uchilka, kak-uchitelyu-stroit-atmosferu-uroka, chto-delat-esli-rebenok-boitsya-vsego-novogo]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -43,3 +43,4 @@ updated: 2026-09-03
 - [[nikogda-ne-pozdno-nauchitsya](pages/nikogda-ne-pozdno-nauchitsya.md)] — собственное желание как единственный двигатель, наверстывающий любое отставание
 - [[shkala-zhelaniya](pages/shkala-zhelaniya.md)] — измеримый инструмент проверки собственного желания
 - [[zarabotannyi-taymaut](pages/zarabotannyi-taymaut.md)] — право бросить и остановиться как часть того же выбора
+- [[nabrat-stolko-vremeni-skolko-nado](pages/nabrat-stolko-vremeni-skolko-nado.md)] — присутствие без участия как подготовка к собственной пробе
