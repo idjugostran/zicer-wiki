@@ -3,7 +3,7 @@ title: Сначала норма, потом инструменты
 category: Concepts
 summary: Пока над ребёнком висит, что он «не окей», никакие способы вернуть его к жизни не работают; первый ход — объявить его состояние нормальным, и только на следующем витке искать инструменты
 tags: [concept, emigratsiya, shkolnyi-otkaz, prinyatie, poryadok-deystviy]
-sources: [devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mamu-arestovali-na-glazah-dvuhletnego-syna]
+sources: [devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mamu-arestovali-na-glazah-dvuhletnego-syna, lnv-vypusk-238]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[devochka-13-let-poteryala-vkus-k-zhizni](pages/devochka-13-let-poteryala-vkus-k-zhizni.md)] — сформулировано впервые: тринадцатилетняя девочка в США, год не ходящая в школу
 - [[kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov](pages/kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov.md)] — «сейчас никакого вывода сделать нельзя»: сначала почва под ногами, потом решение про сад
 - [[mamu-arestovali-na-glazah-dvuhletnego-syna](pages/mamu-arestovali-na-glazah-dvuhletnego-syna.md)] — «сто процентов реакций нормальны»: Зицер специально ищет тревожное и не находит
+- [[lnv-vypusk-238](pages/lnv-vypusk-238.md)] — пятилетнему возвращают право держаться на заднем плане: «совершенно не все люди должны на сцене топтаться»
 
 ## Related Concepts
 
@@ -37,3 +38,4 @@ updated: 2026-09-03
 - [[priobretaet-vremya-a-ne-teryaet](pages/priobretaet-vremya-a-ne-teryaet.md)] — чем занята пауза, на которую соглашаются родители
 - [[psihoterapiya-kak-instrument](pages/psihoterapiya-kak-instrument.md)] — один из инструментов следующего витка
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — почему инструменты работают только после принятия
+- [[ispravlyayushchee-vpechatlenie](pages/ispravlyayushchee-vpechatlenie.md)] — чем именно вытесняется старое переживание

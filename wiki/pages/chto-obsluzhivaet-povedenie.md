@@ -3,7 +3,7 @@ title: «Что обслуживает» поведение
 category: Concepts
 summary: Вместо оценки самого поступка — искать эмоциональную «плату», которую он приносит: какое состояние или ощущение человек хочет получить, повторяя это поведение
 tags: [concept, samoregulyatsiya, podrostki]
-sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208, lnv-vypusk-250, lnv-vypusk-207, moy-syn-yabeda-ili-postupaet-pravilno, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-byt-esli-vashego-rebenka-schitayut-huliganom, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-314]
+sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208, lnv-vypusk-250, lnv-vypusk-207, moy-syn-yabeda-ili-postupaet-pravilno, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-byt-esli-vashego-rebenka-schitayut-huliganom, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-314, lnv-vypusk-238]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -37,6 +37,7 @@ updated: 2026-09-03
 - [[kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru](pages/kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru.md)] — перебор того, что может обслуживать нытьё, и вывод, что почти каждый вариант решаем
 - [[chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let](pages/chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let.md)] — «странное выражение себя, поиск себя», борьба с невниманием взрослых как то, что обслуживает детское воровство
 - [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — разговоры семилетнего о смерти как кнопка, нажимающая на материнский страх
+- [[lnv-vypusk-238](pages/lnv-vypusk-238.md)] — датировка изменения как шаг, предшествующий вопросу о том, что обслуживает поведение
 
 ## Related Concepts
 
@@ -48,3 +49,4 @@ updated: 2026-09-03
 - [[nichego-ne-byvaet-prosto-tak](pages/nichego-ne-byvaet-prosto-tak.md)] — тот же поиск функции поступка, сформулированный как родительская обязанность
 - [[dva-varianta-bes-ili-chto-to-meshaet](pages/dva-varianta-bes-ili-chto-to-meshaet.md)] — вилка, которой разговор переводится с «назло» на «что мешает»
 - [[rebenok-nazyvaet-prichinu-sam](pages/rebenok-nazyvaet-prichinu-sam.md)] — то же искомое, но названное самим ребёнком, а не добытое взрослым
+- [[datirovka-izmeneniya-povedeniya](pages/datirovka-izmeneniya-povedeniya.md)] — шаг, предшествующий вопросу о функции поведения

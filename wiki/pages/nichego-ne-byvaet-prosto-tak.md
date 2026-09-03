@@ -35,6 +35,7 @@ updated: 2026-09-03
 - [[pravo-vmeshatsya-v-druzhbu](pages/pravo-vmeshatsya-v-druzhbu.md)] — смежный критерий вмешательства, сформулированный через прямую опасность
 - [[proverka-masshtaba-trevogi](pages/proverka-masshtaba-trevogi.md)] — обратный случай: сначала проверяется, есть ли предмет
 - [[otstante-na-vremya](pages/otstante-na-vremya.md)] — противоположный полюс: когда отступать нельзя и вмешаться обязательно
+- [[datirovka-izmeneniya-povedeniya](pages/datirovka-izmeneniya-povedeniya.md)] — процедура поиска причины, о наличии которой говорит это правило
 
 ## Footnotes
 

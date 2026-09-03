@@ -3,7 +3,7 @@ title: Факт биографии не обсуждается
 category: Concepts
 summary: Личная жизнь родителя — факт его биографии, а не предмет переговоров с ребёнком: относиться к ней ребёнок может как угодно и говорить об этом сколько угодно, но сам факт выносится за пределы обсуждения
 tags: [concept, roditelstvo, granitsy, podrostki, razvod]
-sources: [doch-revnuet-i-ustraivaet-skandaly]
+sources: [doch-revnuet-i-ustraivaet-skandaly, lnv-vypusk-238]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[doch-revnuet-i-ustraivaet-skandaly](pages/doch-revnuet-i-ustraivaet-skandaly.md)] — вводит концепт: «это факт вашей биографии», предложение поставить стену, формула «разрушенной я тебе не нужна», отказ от конспирации
+- [[lnv-vypusk-238](pages/lnv-vypusk-238.md)] — граница правила: право отца не афишировать связь остаётся, но не превращается в право оставить девятилетнего сына в неведении
 
 ## Related Concepts
 

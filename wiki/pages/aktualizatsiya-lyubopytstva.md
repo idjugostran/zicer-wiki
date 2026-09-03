@@ -3,7 +3,7 @@ title: Актуализация: пять удивлений в день
 category: Concepts
 summary: Техника, подключающая ребёнка к реальности — каждый вечер записывать в личный блокнот минимум пять вещей, которые приятно поразили; ценность в самой формулировке, а не в отчёте перед группой
 tags: [concept, pedagogika, poezdki, lyubopytstvo]
-sources: [kak-organizovat-poezdku-dlya-detey, kak-ne-perehvalit-rebenka, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, malchik-6-let-hochet-pomogat-ukraine]
+sources: [kak-organizovat-poezdku-dlya-detey, kak-ne-perehvalit-rebenka, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, malchik-6-let-hochet-pomogat-ukraine, lnv-vypusk-238]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[kak-organizovat-poezdku-dlya-detey](pages/kak-organizovat-poezdku-dlya-detey.md)] — вводит концепт целиком, как третий из четырёх инструментов подготовки школьной поездки в Болгарию
 - [[kak-ne-perehvalit-rebenka](pages/kak-ne-perehvalit-rebenka.md)] — «ох, как интересно, давай вместе попробуем» вместо готовой оценки «офигенно»
 - [[kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya](pages/kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya.md)] — провести в магазине полчаса и потрогать полки руками вместо борьбы с интересом
+- [[lnv-vypusk-238](pages/lnv-vypusk-238.md)] — расспрашивание о курице и телевизоре из сна переворачивает отношение ребёнка к ночи
 
 ## Related Concepts
 
@@ -35,6 +36,7 @@ updated: 2026-09-03
 - [[muzyka-kak-instrument-atmosfery](pages/muzyka-kak-instrument-atmosfery.md)] — смежная конкретная технология подключения участников к происходящему
 - [[igra-kto-samyi-neschastnyi](pages/igra-kto-samyi-neschastnyi.md)] — смежная регулярная технология с простыми правилами
 - [[perevesti-na-drugoy-uroven](pages/perevesti-na-drugoy-uroven.md)] — рассказать, чем на самом деле занимается тот, на кого ребёнок равняется
+- [[nyrnut-v-son-rebenka](pages/nyrnut-v-son-rebenka.md)] — тот же интерес, направленный на сны ребёнка
 
 ## Footnotes
 

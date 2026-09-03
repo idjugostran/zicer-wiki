@@ -3,7 +3,7 @@ title: «Давать сдачи»
 category: Concepts
 summary: Критика совета учить детей отвечать на агрессию физической силой — приравнивается к обучению «языку зоны»
 tags: [concept, konflikt, nasilie]
-sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, moy-syn-yabeda-ili-postupaet-pravilno, kak-razreshit-konflikt-v-shkole, kak-zashchitit-7-letnego-syna-ot-travli, mozhno-li-uberech-rebenka-ot-nenavisti]
+sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, moy-syn-yabeda-ili-postupaet-pravilno, kak-razreshit-konflikt-v-shkole, kak-zashchitit-7-letnego-syna-ot-travli, mozhno-li-uberech-rebenka-ot-nenavisti, lnv-vypusk-238]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[kak-razreshit-konflikt-v-shkole](pages/kak-razreshit-konflikt-v-shkole.md)] — вместо удара в ответ взрослые обучают способам привлечь внимание без насилия, уважительно отказать и принять отказ
 - [[kak-zashchitit-7-letnego-syna-ot-travli](pages/kak-zashchitit-7-letnego-syna-ot-travli.md)] — «обзывать Сашу в ответ» отвергается: это ничего не даст
 - [[mozhno-li-uberech-rebenka-ot-nenavisti](pages/mozhno-li-uberech-rebenka-ot-nenavisti.md)] — мать выросла на «никогда не давай сдачи» и теперь говорит сыну обратное
+- [[lnv-vypusk-238](pages/lnv-vypusk-238.md)] — отец двух пятилетних сыновей сам посоветовал младшему давать сдачи; Зицер показывает механику: тот, кто уже бьёт, получает подтверждение, что удар работает
 
 ## Related Concepts
 
