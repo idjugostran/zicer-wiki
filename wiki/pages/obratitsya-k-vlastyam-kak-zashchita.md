@@ -3,7 +3,7 @@ title: Обратиться к властям как защита
 category: Concepts
 summary: Когда травля продолжается, а взрослые с другой стороны отказываются вмешиваться, защиту ищут в полиции и социальных службах; недопустим только один исход — тот, при котором ребёнка не защищают
 tags: [concept, travlya, bulling, zashchita, protsedura, vzroslye]
-sources: [kak-zashchitit-7-letnego-syna-ot-travli]
+sources: [kak-zashchitit-7-letnego-syna-ot-travli, obysk-desyatiklassnikov-v-orske]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-zashchitit-7-letnego-syna-ot-travli](pages/kak-zashchitit-7-letnego-syna-ot-travli.md)] — сформулировано впервые: соседские мальчики второй год дразнят семилетнего Мартина в Германии
+- [[obysk-desyatiklassnikov-v-orske](pages/obysk-desyatiklassnikov-v-orske.md)] — граница: правовой путь остаётся верным, но ставится после вывода ребёнка из школы
 
 ## Related Concepts
 

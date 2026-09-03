@@ -35,6 +35,7 @@ updated: 2026-09-03
 - [[sotsializatsiya-ne-ravna-shkole](pages/sotsializatsiya-ne-ravna-shkole.md)] — почему уход не равен изоляции
 - [[sohranit-rebenka-v-tselosti](pages/sohranit-rebenka-v-tselosti.md)] — тот же приоритет сохранности
 - [[shkola-kak-soyuznik](pages/shkola-kak-soyuznik.md)] — обратный случай: среда, с которой можно договориться
+- [[ne-na-kostyah-nashih-detey](pages/ne-na-kostyah-nashih-detey.md)] — то же движение выхода, но с явной очерёдностью относительно борьбы за справедливость
 
 ## Footnotes
 

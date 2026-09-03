@@ -3,7 +3,7 @@ title: Дети как «последняя дискриминируемая г�
 category: Concepts
 summary: Историческая рамка Зицера — неравенство детей и взрослых сопоставимо с историческим бесправием женщин и расовой дискриминацией
 tags: [concept, subyektnost, roditelstvo]
-sources: [konflikty-mezhdu-detmi-i-roditelyami, pochemu-vzroslye-unizhayut-detey, nablyudatel-o-podrostkah, lnv-v-gostyah-u-zicera-chast-1, o-diskriminatsii-detey-vzroslymi, mama-dorogaya-bulling, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima]
+sources: [konflikty-mezhdu-detmi-i-roditelyami, pochemu-vzroslye-unizhayut-detey, nablyudatel-o-podrostkah, lnv-v-gostyah-u-zicera-chast-1, o-diskriminatsii-detey-vzroslymi, mama-dorogaya-bulling, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, obysk-desyatiklassnikov-v-orske]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — главы «Дети как игрушки» (незнакомые взрослые трогают и комментируют ребёнка без спроса) и «Почему мы не знаем о его несчастьях» (структура доверия «взрослый прав по умолчанию» блокирует детскую жалобу на школьное насилие) расширяют рамку двумя новыми механизмами
 - [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)] — ключевое решение о составе семьи принимается без ребёнка, а долг вменяется ему
 - [[dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima](pages/dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima.md)] — «начинается это именно с детства»: тот же механизм отнятия права на себя
+- [[obysk-desyatiklassnikov-v-orske](pages/obysk-desyatiklassnikov-v-orske.md)] — тот же обыск на работе вызвал бы скандал; родительский чат промолчал
 
 ## Related Concepts
 

@@ -35,6 +35,7 @@ updated: 2026-09-03
 - [[subyektivnoe-vremya-rebenka](pages/subyektivnoe-vremya-rebenka.md)] — обоснование неспешного темпа: три-пять лет вхождения выглядят по-разному для взрослого и для ребёнка
 - [[mesto-v-dushe-dlya-yazyka](pages/mesto-v-dushe-dlya-yazyka.md)] — та же очерёдность в эмигрантском контексте: сначала покой, потом язык и требования
 - [[uhodit-otkuda-mozhno-uyti](pages/uhodit-otkuda-mozhno-uyti.md)] — тот же приоритет, применённый к выбору среды
+- [[ne-na-kostyah-nashih-detey](pages/ne-na-kostyah-nashih-detey.md)] — сохранность ребёнка выше исправления обстоятельств
 
 ## Footnotes
 

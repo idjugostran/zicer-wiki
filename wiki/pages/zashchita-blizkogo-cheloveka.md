@@ -30,3 +30,4 @@ updated: 2026-09-03
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — та же техника «говорить о себе» от первого лица вместо требования к ребёнку, но в защиту третьего человека, а не в признании собственного страха
 - [[zashchishchat-tsennosti-siloy](pages/zashchishchat-tsennosti-siloy.md)] — «сражайся, Арджуна»: сила как условие существования ценностей
 - [[nam-kto-to-poveril](pages/nam-kto-to-poveril.md)] — граница: взрослый не входит в чужой семейный конфликт, а лишь отказывается его запустить
+- [[ne-na-kostyah-nashih-detey](pages/ne-na-kostyah-nashih-detey.md)] — защита как немедленное действие, а не как обещание добиться правды
