@@ -3,7 +3,7 @@ title: Вытеснение родителей в переходном возр�
 category: Concepts
 summary: После 10 лет родители на время вытесняются более важными людьми — одноклассниками, друзьями, иногда другими взрослыми; это возрастная норма, а не утрата контакта, и маркер настоящей проблемы другой — «пап, отстань, у меня дела»
 tags: [concept, podrostki, perehodnyi-vozrast, otnosheniya]
-sources: [papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, kak-ponyat-14-letnyuyu-doch, kak-byt-esli-ne-nravyatsya-druzya-rebenka, moya-doch-zabila-na-vse, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy]
+sources: [papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, kak-ponyat-14-letnyuyu-doch, kak-byt-esli-ne-nravyatsya-druzya-rebenka, moya-doch-zabila-na-vse, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, kak-dobitsya-mira-so-svoimi-detmi]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[kak-byt-esli-ne-nravyatsya-druzya-rebenka](pages/kak-byt-esli-ne-nravyatsya-druzya-rebenka.md)] — 11 лет как «переход к переходному возрасту»: мамины слова ещё не проверяются во вторую очередь
 - [[moya-doch-zabila-na-vse](pages/moya-doch-zabila-na-vse.md)] — «я не авторитет практически ни в чём, кроме стиля одежды и иногда макияжа»
 - [[chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy](pages/chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy.md)] — мать читает отказ как сепарацию, Зицер — как поиск опоры после переезда
+- [[kak-dobitsya-mira-so-svoimi-detmi](pages/kak-dobitsya-mira-so-svoimi-detmi.md)] — четырнадцатилетние перестали выступать и фотографироваться: «может вернётся, может не вернётся»
 
 ## Related Concepts
 

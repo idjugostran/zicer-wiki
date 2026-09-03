@@ -3,7 +3,7 @@ title: Согласование ожиданий
 category: Concepts
 summary: Цели и правила общего дела формулируются участниками заранее, а не объявляются взрослым по ходу: обязательное отдельно от желательного, иначе законный ответ — «а мы про это не договаривались»
 tags: [concept, pedagogika, gruppa, poezdki]
-sources: [kak-organizovat-poezdku-dlya-detey, chego-boitsya-syn-i-chto-s-etim-delat, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya]
+sources: [kak-organizovat-poezdku-dlya-detey, chego-boitsya-syn-i-chto-s-etim-delat, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, kak-dobitsya-mira-so-svoimi-detmi]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -35,6 +35,7 @@ updated: 2026-09-03
 - [[uchastniki-kak-zakazchiki](pages/uchastniki-kak-zakazchiki.md)] — тот же принцип в масштабе одного занятия: заказ вместо готовой программы
 - [[shkola-kak-soyuznik](pages/shkola-kak-soyuznik.md)] — договорённость строится на названных интересах сторон, а не на признании чьей-то правоты
 - [[psevdodogovor-kak-prikaz](pages/psevdodogovor-kak-prikaz.md)] — от противного: что не является согласованием, даже если названо договором
+- [[semeynyi-dogovor](pages/semeynyi-dogovor.md)] — тот же принцип, развёрнутый в двухнедельную процедуру на всю семью
 
 ## Footnotes
 

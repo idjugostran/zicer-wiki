@@ -3,7 +3,7 @@ title: Проблема принадлежит тому, кому она меш�
 category: Concepts
 summary: Прежде чем исправлять поведение ребёнка, нужно различить его собственную трудность и неудобство взрослого; последнему следует назвать свою конкретную потребность и просить помощи, а не объявлять ребёнка проблемой
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [lnv-vypusk-214, lnv-vypusk-220, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, mama-ne-dolzhna-stradat, kak-oblegchit-shkolnuyu-zhizn-docheri, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, moy-rebenok-sovsem-nichego-ne-est, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru]
+sources: [lnv-vypusk-214, lnv-vypusk-220, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, mama-ne-dolzhna-stradat, kak-oblegchit-shkolnuyu-zhizn-docheri, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, moy-rebenok-sovsem-nichego-ne-est, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-dobitsya-mira-so-svoimi-detmi]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -37,3 +37,4 @@ updated: 2026-09-03
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — та же техника «говорить о себе»: назвать собственную трудность и просить о конкретной помощи вместо требования к ребёнку
 - [[kakuyu-bitvu-vy-vedete](pages/kakuyu-bitvu-vy-vedete.md)] — смежный критерий: отделить собственную задачу от желания восстановить справедливость
 - [[rebenok-kak-orientir](pages/rebenok-kak-orientir.md)] — проверка «не преувеличиваешь ли ты» как способ определить, чья это проблема
+- [[vse-pravy-vmesto-tsarya-solomona](pages/vse-pravy-vmesto-tsarya-solomona.md)] — отказ взрослого от роли арбитра в чужом конфликте

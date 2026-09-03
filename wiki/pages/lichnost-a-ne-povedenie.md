@@ -3,7 +3,7 @@ title: Личность, а не поведение
 category: Concepts
 summary: Личность присутствует с рождения независимо от возраста и способностей; мы часто путаем конкретное поведение (проявление) с личностным содержанием (желанием) за ним, и «чиним» не ту причину
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-10, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, syn-beret-chuzhie-veshchi, moy-rebenok-sovsem-nichego-ne-est, vashego-rebenka-schitayut-huliganom]
+sources: [kurs-12-urokov-urok-10, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, syn-beret-chuzhie-veshchi, moy-rebenok-sovsem-nichego-ne-est, vashego-rebenka-schitayut-huliganom, kak-dobitsya-mira-so-svoimi-detmi]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -32,3 +32,4 @@ updated: 2026-09-03
 - [[svoy-chuzhoy-kak-lozhnaya-opora](pages/svoy-chuzhoy-kak-lozhnaya-opora.md)] — тот же ход против групповой рамки, применённый к национальной принадлежности вместо диагноза
 - [[libo-durochka-libo-umnaya](pages/libo-durochka-libo-umnaya.md)] — операционализация принципа: сначала проверяется, кем родитель считает ребёнка
 - [[osobennost-ne-izvinyaet-postupok](pages/osobennost-ne-izvinyaet-postupok.md)] — поступок остаётся поступком, даже когда объяснён особенностью
+- [[vse-pravy-vmesto-tsarya-solomona](pages/vse-pravy-vmesto-tsarya-solomona.md)] — нарушенное правило означает неточную формулировку, а не плохого человека

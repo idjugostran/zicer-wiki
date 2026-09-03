@@ -3,9 +3,9 @@ title: «Мы», а не «он» — диагностика субъектно�
 category: Concepts
 summary: Родитель, рассказывающий о ребёнке только через «мы» («мы перевели», «мы вернули»), тем самым обнажает, что у ребёнка нет права голоса в собственной истории; репаративная техника — родитель наедине признаёт и оплакивает свою роль, прежде чем говорить с ребёнком, не требуя исправления, а сообщая «ты не один»
 tags: [concept, subyektnost, podrostki, krizis]
-sources: [kak-spasti-15-letnego-syna]
+sources: [kak-spasti-15-letnego-syna, kak-dobitsya-mira-so-svoimi-detmi]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-03
 ---
 
 # «Мы», а не «он» — диагностика субъектности
@@ -26,3 +26,4 @@ updated: 2026-08-30
 - [[lnv-vypusk-214](pages/lnv-vypusk-214.md)] — та же логика «сначала любовь и признание, потом ожидания» («повернуть тумблер»), доведённая до более тяжёлого случая
 - [[kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey](pages/kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey.md)] — тот же принцип «сначала отступление к себе, потом разговор без требований»
 - [[ekzistentsialnyi-vopros-perehodnogo-vozrasta](pages/ekzistentsialnyi-vopros-perehodnogo-vozrasta.md)] — вопрос «зачем ему жить», заданный родителю, а не подростку, как диагностика тяжёлого случая
+- [[vse-pravy-vmesto-tsarya-solomona](pages/vse-pravy-vmesto-tsarya-solomona.md)] — «ты не миришься своим детям, ты мама своим детям»
