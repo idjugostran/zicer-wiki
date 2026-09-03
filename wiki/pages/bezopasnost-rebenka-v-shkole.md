@@ -3,7 +3,7 @@ title: Безопасность ребёнка в школе как обязан
 category: Concepts
 summary: При систематической травле школа обязана обеспечить ребёнку безопасность и прекратить ситуацию без стигматизации того, кто обратился за помощью
 tags: [concept, shkola, bulling, roditelstvo]
-sources: [lnv-vypusk-215, lnv-vypusk-162, lnv-vypusk-252, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-164, lnv-vypusk-332, kak-razreshit-konflikt-v-shkole, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-byt-esli-ne-nravyatsya-druzya-rebenka, kak-zashchitit-7-letnego-syna-ot-travli, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-244]
+sources: [lnv-vypusk-215, lnv-vypusk-162, lnv-vypusk-252, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-164, lnv-vypusk-332, kak-razreshit-konflikt-v-shkole, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-byt-esli-ne-nravyatsya-druzya-rebenka, kak-zashchitit-7-letnego-syna-ot-travli, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-244, lnv-vypusk-235]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -39,6 +39,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-246](pages/lnv-vypusk-246.md)] — сначала требование к школе прекратить оскорбления со стороны учителя, и только затем вариант ухода
 - [[lnv-vypusk-238](pages/lnv-vypusk-238.md)] — довод против затяжного конфликта взрослых со школой: цену платит ребёнок
 - [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — воспитательница ударила детей: первый адрес — заведующая, вместе с другими родителями, а не департамент
+- [[lnv-vypusk-235](pages/lnv-vypusk-235.md)] — пространство без опасений устраивают взрослые; система характеризуется не ошибкой, а реакцией на ошибку
 
 ## Related Concepts
 
@@ -47,3 +48,4 @@ updated: 2026-09-03
 - [[davat-sdachi](pages/davat-sdachi.md)] — обращение к взрослому за помощью является способом защитить себя, а не «стукачеством»
 - [[obrechennost-kak-istochnik-otkaza](pages/obrechennost-kak-istochnik-otkaza.md)] — альтернативное объяснение школьного отказа, когда травли нет: предопределённая траектория без участия ребёнка
 - [[zashchita-ot-uchitelskogo-oskorbleniya](pages/zashchita-ot-uchitelskogo-oskorbleniya.md)] — та же защита, когда агрессор — не другие дети, а взрослый в школе
+- [[priem-ne-srabotal-znachit-menyat](pages/priem-ne-srabotal-znachit-menyat.md)] — реакция системы на ошибку как её характеристика

@@ -3,7 +3,7 @@ title: Значимость ребёнка в семье
 category: Concepts
 summary: Разрушительное поведение ребёнка часто вызвано не характером, а нехваткой ощущения собственной значимости в семье — решение не в наказании, а в реальном включении ребёнка в настоящие решения
 tags: [concept, roditelstvo]
-sources: [pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, lnv-vypusk-251, lnv-vypusk-208, lnv-vypusk-216, lnv-vypusk-211, syn-ne-uchityvaet-interesy-semi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, kak-sdelat-chtoby-ona-slushalas-roditeley, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru]
+sources: [pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, lnv-vypusk-251, lnv-vypusk-208, lnv-vypusk-216, lnv-vypusk-211, syn-ne-uchityvaet-interesy-semi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, kak-sdelat-chtoby-ona-slushalas-roditeley, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, lnv-vypusk-235]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya](pages/kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya.md)] — просьба о буфете сразу после встречи с папой и трёхмесячной сестрой: попытка уравновесить
 - [[kak-sdelat-chtoby-ona-slushalas-roditeley](pages/kak-sdelat-chtoby-ona-slushalas-roditeley.md)] — прыжки на диване рядом с трёхмесячным братом
 - [[kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru](pages/kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru.md)] — «хочет обратить на себя внимание» годится как ответ, только если внимания недостаточно
+- [[lnv-vypusk-235](pages/lnv-vypusk-235.md)] — пятиклассник из обеспеченной семьи берёт чужой телефон — Зицер отказывается от версии незнания нормы и объясняет поступок недостатком внимания
 
 ## Related Concepts
 
@@ -35,3 +36,4 @@ updated: 2026-09-03
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — тот же принцип реального включения ребёнка вместо формального требования (там — в мир взрослого, здесь — в решения семьи)
 - [[sleduyushchee-sobytie-zatmevaet-predydushchee](pages/sleduyushchee-sobytie-zatmevaet-predydushchee.md)] — почему значимость приходится проговаривать и вспоминать, а не считать достигнутой
 - [[regressiya-pri-poyavlenii-mladshego](pages/regressiya-pri-poyavlenii-mladshego.md)] — что перераспределяется в семье с появлением второго ребёнка
+- [[primerit-istoriyu-na-sebya](pages/primerit-istoriyu-na-sebya.md)] — вторая линия того же разбора: чего ребёнку не хватает

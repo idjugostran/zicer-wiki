@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[sozdat-prichinu-byt](pages/sozdat-prichinu-byt.md)] — обратный случай: взрослый создаёт поводы намеренно
 - [[materialnyi-motivator-vytesnyaet-interes](pages/materialnyi-motivator-vytesnyaet-interes.md)] — другой способ сломать тот же крючок, наградой
 - [[aktualizatsiya-lyubopytstva](pages/aktualizatsiya-lyubopytstva.md)] — техника, работающая, когда крючок цел
+- [[domashnee-kak-prodlenie-udovolstviya](pages/domashnee-kak-prodlenie-udovolstviya.md)] — то же условие, применённое к домашнему заданию
 
 ## Appearances in Sources
 

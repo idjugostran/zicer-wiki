@@ -3,7 +3,7 @@ title: «Пусть повиснет»
 category: Concepts
 summary: На детское «у него больше друзей» первым идёт вопрос «а почему это хорошо?», и его цель — не получить ответ, а оставить ребёнка без готового ответа; пауза и есть результат первого шага, подсказывать в ней нельзя
 tags: [concept, refleksiya, vopros, zavist, kommunikatsiya]
-sources: [doch-6-let-nachala-zavidovat-i-vydumyvat]
+sources: [doch-6-let-nachala-zavidovat-i-vydumyvat, lnv-vypusk-235]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -33,3 +33,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[doch-6-let-nachala-zavidovat-i-vydumyvat](pages/doch-6-let-nachala-zavidovat-i-vydumyvat.md)] — сформулировано впервые: «а почему это хорошо?» на жалобу шестилетней о чужих друзьях
+- [[lnv-vypusk-235](pages/lnv-vypusk-235.md)] — тот же первый ход — вопрос «почему это важно», но здесь Зицер прямо велит не бросать ребёнка с вопросом наедине, а разбирать вместе

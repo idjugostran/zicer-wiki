@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — психологическое следствие штампа: зависимость от внешнего одобрения
 - [[aplodismenty-kak-radost-a-ne-otsenka](pages/aplodismenty-kak-radost-a-ne-otsenka.md)] — тот же разбор применительно к похвале
 - [[domashnee-kak-prodlenie-udovolstviya](pages/domashnee-kak-prodlenie-udovolstviya.md)] — почему проверка домашнего на балл разрушает его смысл
+- [[domashnee-kak-prodlenie-udovolstviya](pages/domashnee-kak-prodlenie-udovolstviya.md)] — почему проверка домашнего на балл разрушает его смысл
 
 ## Appearances in Sources
 

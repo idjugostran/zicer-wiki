@@ -3,7 +3,7 @@ title: Изобретение инструментов в игре
 category: Concepts
 summary: Ребёнок знает, что так делать нельзя, но не знает, что делать вместо; инструменты придумываются вместе в разыгранной сценке — убежать, рассмотреть и положить, позвать маму, — а после срыва вместе разбирают, какой из них не сработал
 tags: [concept, roditelstvo, doshkolniki, igra, samoregulyatsiya]
-sources: [syn-beret-chuzhie-veshchi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, doch-6-let-nachala-zavidovat-i-vydumyvat, lnv-vypusk-245, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-234]
+sources: [syn-beret-chuzhie-veshchi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, doch-6-let-nachala-zavidovat-i-vydumyvat, lnv-vypusk-245, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-234, lnv-vypusk-235]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -36,6 +36,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — искать вместе, что делать в момент желания: убежать, «волшебная конфетка» в кармане
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — обидчивость семилетнего объяснена отсутствием инструментов взаимодействия; отец выдаёт инструмент прямой формулой
 - [[lnv-vypusk-234](pages/lnv-vypusk-234.md)] — вариант без сценки: инструменты перечисляются вслух вместе с мамой — угостить, принести игрушку
+- [[lnv-vypusk-235](pages/lnv-vypusk-235.md)] — драка в пятом классе объясняется нехваткой инструментов урегулирования конфликта; наказание за неумение названо садизмом, а производство инструментов вынесено в еженедельные классные тренинги
 
 ## Related Concepts
 
@@ -49,6 +50,7 @@ updated: 2026-09-03
 - [[pomenyatsya-rolyami-v-igre](pages/pomenyatsya-rolyami-v-igre.md)] — соседний игровой метод: не изобрести инструмент, а найти слова из роли взрослого
 - [[krug-chto-vo-mne-osobennogo](pages/krug-chto-vo-mne-osobennogo.md)] — та же выработка инструментов, вынесенная на уровень класса
 - [[forma-tyanet-soderzhanie](pages/forma-tyanet-soderzhanie.md)] — утверждение о причинности, на котором держится подбор инструментов
+- [[priem-ne-srabotal-znachit-menyat](pages/priem-ne-srabotal-znachit-menyat.md)] — чем заменяют не сработавший приём
 
 ## Footnotes
 
