@@ -3,7 +3,7 @@ title: Проблема принадлежит тому, кому она меш�
 category: Concepts
 summary: Прежде чем исправлять поведение ребёнка, нужно различить его собственную трудность и неудобство взрослого; последнему следует назвать свою конкретную потребность и просить помощи, а не объявлять ребёнка проблемой
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [lnv-vypusk-214, lnv-vypusk-220, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, mama-ne-dolzhna-stradat, kak-oblegchit-shkolnuyu-zhizn-docheri, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, moy-rebenok-sovsem-nichego-ne-est, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-dobitsya-mira-so-svoimi-detmi, mama-day-mne-vremya]
+sources: [lnv-vypusk-214, lnv-vypusk-220, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, mama-ne-dolzhna-stradat, kak-oblegchit-shkolnuyu-zhizn-docheri, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, moy-rebenok-sovsem-nichego-ne-est, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-dobitsya-mira-so-svoimi-detmi, mama-day-mne-vremya, devochka-hochet-brosit-zanyatiya-peniem]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[moy-rebenok-sovsem-nichego-ne-est](pages/moy-rebenok-sovsem-nichego-ne-est.md)] — у ребёнка нет ни одного явного признака проблемы: он здоров и развит
 - [[kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru](pages/kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru.md)] — получасовой душ решается очередью, а не воспитанием
 - [[mama-day-mne-vremya](pages/mama-day-mne-vremya.md)] — «кто сказал, что это неправильно»; мать сама отвечает: «помощь нужна не ему, а мне»
+- [[devochka-hochet-brosit-zanyatiya-peniem](pages/devochka-hochet-brosit-zanyatiya-peniem.md)] — «зачем вам её прогресс?»: цепочка «зачем», доведённая до отсутствия ответа
 
 ## Related Concepts
 

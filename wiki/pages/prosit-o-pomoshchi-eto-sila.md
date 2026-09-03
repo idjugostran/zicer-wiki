@@ -33,3 +33,4 @@ updated: 2026-09-03
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — сформулированный запрос как условие того, что помощь дойдёт
 - [[ventilyatsiya](pages/ventilyatsiya.md)] — режим, в котором такая просьба высказывается
 - [[prosto-poprosit](pages/prosto-poprosit.md)] — та же логика в отношениях с ребёнком
+- [[talant-ne-propadaet](pages/talant-ne-propadaet.md)] — лучший исход занятий: ребёнок сам приходит и просит денег, помощи, смены учителя

@@ -38,6 +38,7 @@ updated: 2026-09-03
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — вдох и выдох как единственный доступный инструмент
 - [[ne-obyasnyat-chto-chuvstvovat](pages/ne-obyasnyat-chto-chuvstvovat.md)] — во что галлюцинация превращается в разговоре с ребёнком
 - [[proverka-masshtaba-trevogi](pages/proverka-masshtaba-trevogi.md)] — способ проверить достроенную картинку фактами
+- [[dar-kak-roditelskiy-proekt](pages/dar-kak-roditelskiy-proekt.md)] — соседняя подмена: дар ребёнка, ставший делом родителя
 
 ## Footnotes
 

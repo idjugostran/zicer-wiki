@@ -35,6 +35,7 @@ updated: 2026-09-03
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — то, на чём держится вся конструкция со стороны взрослого
 - [[emotsionalnoe-podkreplenie-povedeniya](pages/emotsionalnoe-podkreplenie-povedeniya.md)] — тот же механизм в раннем возрасте: реакция взрослого как награда
 - [[lyubov-kak-antipedagogicheskiy-instrument](pages/lyubov-kak-antipedagogicheskiy-instrument.md)] — тот же механизм в школьном варианте: страх разочаровать вместо чувства вины
+- [[dar-kak-roditelskiy-proekt](pages/dar-kak-roditelskiy-proekt.md)] — бросить занятие означает бросить мать: тот же удерживающий механизм
 
 ## Footnotes
 

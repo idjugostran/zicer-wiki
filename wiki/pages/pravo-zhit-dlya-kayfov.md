@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — тот же язык конкретных удовольствий, но применённый к родителю, а не к подростку
 - [[tyl-dlya-rebenka](pages/tyl-dlya-rebenka.md)] — обещание «я за твоей спиной стою» как условие, при котором снятие груза не читается как безразличие
 - [[shkala-zhelaniya](pages/shkala-zhelaniya.md)] — как проверить, что из желаний настоящее, не превращая это в выбор судьбы
+- [[talant-ne-propadaet](pages/talant-ne-propadaet.md)] — «для того чтобы этот труд возник, он должен быть в кайф»
 
 ## Footnotes
 

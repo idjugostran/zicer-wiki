@@ -3,7 +3,7 @@ title: «Отстаньте на время»
 category: Concepts
 summary: Совет, который Зицер сам называет самым популярным в программе: на неделю-десять дней полностью выключить расспросы и давление — потому что иначе родитель сам создаёт ребёнку причину там, где её не было
 tags: [concept, roditelstvo, roditelskiy-strakh, nablyudenie]
-sources: [v-poslednee-vremya-syn-ochen-grustit, moya-doch-zabila-na-vse, moya-doch-deretsya-i-plyuetsya, kak-razgovorit-cheloveka-4-h-let, rebenok-v-shkole-ne-razgovarivaet, kto-ya-svoey-padcheritse, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-aktivnoy-mame-zhit-s-synom-introvertom, devochka-13-let-poteryala-vkus-k-zhizni, mozhno-li-uberech-rebenka-ot-nenavisti, mamu-arestovali-na-glazah-dvuhletnego-syna, mama-day-mne-vremya]
+sources: [v-poslednee-vremya-syn-ochen-grustit, moya-doch-zabila-na-vse, moya-doch-deretsya-i-plyuetsya, kak-razgovorit-cheloveka-4-h-let, rebenok-v-shkole-ne-razgovarivaet, kto-ya-svoey-padcheritse, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-aktivnoy-mame-zhit-s-synom-introvertom, devochka-13-let-poteryala-vkus-k-zhizni, mozhno-li-uberech-rebenka-ot-nenavisti, mamu-arestovali-na-glazah-dvuhletnego-syna, mama-day-mne-vremya, devochka-hochet-brosit-zanyatiya-peniem]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[mozhno-li-uberech-rebenka-ot-nenavisti](pages/mozhno-li-uberech-rebenka-ot-nenavisti.md)] — «на эту тему не трогай его вообще»: роль защитника мамы не обсуждают
 - [[mamu-arestovali-na-glazah-dvuhletnego-syna](pages/mamu-arestovali-na-glazah-dvuhletnego-syna.md)] — «ничего специального делать не надо», посмотреть через три месяца
 - [[mama-day-mne-vremya](pages/mama-day-mne-vremya.md)] — «не буду к тебе приставать» плюс оставленное открытым ухо, сказанные между делом
+- [[devochka-hochet-brosit-zanyatiya-peniem](pages/devochka-hochet-brosit-zanyatiya-peniem.md)] — «ослабьте хватку, начните отходить потихоньку… выйдите из её домашних заданий»
 
 ## Related Concepts
 

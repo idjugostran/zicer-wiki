@@ -77,7 +77,7 @@ updated: 2026-09-03
 
 [[lyubov-kak-antipedagogicheskiy-instrument](pages/lyubov-kak-antipedagogicheskiy-instrument.md)] доводит до предела то, что [[distantsiya-pedagoga](pages/distantsiya-pedagoga.md)] описывает со стороны этики: обожание учеников — часть профессии, а не личное достижение, и опираться на него нельзя. С родительской стороны тот же механизм описан в [[privyazka-cherez-chuvstvo-viny](pages/privyazka-cherez-chuvstvo-viny.md)] — там ребёнка держат чувством вины, здесь страхом разочаровать.
 
-[[krug-chto-vo-mne-osobennogo](pages/krug-chto-vo-mne-osobennogo.md)] даёт [[kollektivizm-kak-pochva-dlya-bullinga](pages/kollektivizm-kak-pochva-dlya-bullinga.md)] то, чего той странице не хватало, — положительную процедуру: вместо сплочения выстраивается «единство индивидуальностей», и остановка агрессии становится делом самих детей, а не присутствия взрослого.
+[[krug-chto-vo-mne-osobennogo](pages/krug-chto-vo-mne-osobennogo.md)] даёт [[kollektivizm-kak-pochva-dlya-bullinga](pages/kollektivizm-kak-pochva-dlya-bullinga.md)] то, чего той странице не хватало, — положительную процедуру: вместо сплочения выстраивается «единство индивидуальностей», и остановка агрессии становится делом самих детей, а не присутствия взрослого. Обратный портрет педагога — в [[devochka-hochet-brosit-zanyatiya-peniem](pages/devochka-hochet-brosit-zanyatiya-peniem.md)]: учительница пения прямо запугивает ученицу испорченным будущим.
 
 ## Note
 

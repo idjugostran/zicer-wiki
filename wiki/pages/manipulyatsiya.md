@@ -3,7 +3,7 @@ title: Манипуляция
 category: Concepts
 summary: «Мягкая» форма насилия («фокус»), лишающая человека воли без прямого принуждения — дети перенимают её у взрослых
 tags: [concept, nasilie, roditelstvo]
-sources: [o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-5, otkuda-berutsya-modeli-povedeniya, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-164, uchitsya-budu-tolko-v-kieve, kniga-lyubit-nelzya-vospityvat, kak-ubedit-syna-chto-emu-neobhodimo-uehat, kak-naladit-otnosheniya-s-docheryu-13-let, syn-darit-tsennye-veshchi-drugim-detyam, chto-takoe-dogovor-s-rebenkom, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, doch-revnuet-i-ustraivaet-skandaly, moya-doch-deretsya-i-plyuetsya, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy]
+sources: [o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-5, otkuda-berutsya-modeli-povedeniya, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-164, uchitsya-budu-tolko-v-kieve, kniga-lyubit-nelzya-vospityvat, kak-ubedit-syna-chto-emu-neobhodimo-uehat, kak-naladit-otnosheniya-s-docheryu-13-let, syn-darit-tsennye-veshchi-drugim-detyam, chto-takoe-dogovor-s-rebenkom, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, doch-revnuet-i-ustraivaet-skandaly, moya-doch-deretsya-i-plyuetsya, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy, devochka-hochet-brosit-zanyatiya-peniem]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -36,6 +36,7 @@ updated: 2026-09-03
 - [[kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu](pages/kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu.md)] — «ты же сам хотел эту кашу»: право родителя, но бесперспективный ход
 - [[kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let](pages/kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let.md)] — «планшет ушёл спать»: манипуляция, которая в три года остаётся волшебной сказкой
 - [[chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy](pages/chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy.md)] — «их вязали самым дорогим»: неотвечаемый вопрос «ты что, против Победы?»
+- [[devochka-hochet-brosit-zanyatiya-peniem](pages/devochka-hochet-brosit-zanyatiya-peniem.md)] — «две взрослые женщины манипулируют маленькой девочкой»; педагог, обещающий ученице испорченную жизнь
 
 ## Related Concepts
 

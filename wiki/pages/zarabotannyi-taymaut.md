@@ -3,7 +3,7 @@ title: Заработанный таймаут
 category: Concepts
 summary: Если ребёнок достиг чего-то по собственному выбору, решение о паузе тоже принадлежит ему — он заработал право остановиться
 tags: [concept, subyektnost, podrostki, dostizheniya]
-sources: [moya-doch-zabila-na-vse]
+sources: [moya-doch-zabila-na-vse, devochka-hochet-brosit-zanyatiya-peniem]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -19,6 +19,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[moya-doch-zabila-na-vse](pages/moya-doch-zabila-na-vse.md)] — «если она чего-то достигла, она заработала таймаут»: дочь-музыкант, лауреат конкурсов, бросившая инструмент после переезда
+- [[devochka-hochet-brosit-zanyatiya-peniem](pages/devochka-hochet-brosit-zanyatiya-peniem.md)] — «она бы бросила давно»: право остановиться, отнятое родительской вовлечённостью
 
 ## Related Concepts
 
