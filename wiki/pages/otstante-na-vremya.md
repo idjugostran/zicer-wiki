@@ -3,7 +3,7 @@ title: «Отстаньте на время»
 category: Concepts
 summary: Совет, который Зицер сам называет самым популярным в программе: на неделю-десять дней полностью выключить расспросы и давление — потому что иначе родитель сам создаёт ребёнку причину там, где её не было
 tags: [concept, roditelstvo, roditelskiy-strakh, nablyudenie]
-sources: [v-poslednee-vremya-syn-ochen-grustit, moya-doch-zabila-na-vse, moya-doch-deretsya-i-plyuetsya, kak-razgovorit-cheloveka-4-h-let, rebenok-v-shkole-ne-razgovarivaet, kto-ya-svoey-padcheritse, chto-delat-esli-rebenok-boitsya-vsego-novogo]
+sources: [v-poslednee-vremya-syn-ochen-grustit, moya-doch-zabila-na-vse, moya-doch-deretsya-i-plyuetsya, kak-razgovorit-cheloveka-4-h-let, rebenok-v-shkole-ne-razgovarivaet, kto-ya-svoey-padcheritse, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-aktivnoy-mame-zhit-s-synom-introvertom]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] — «поволноваться мы всегда успеем»: отступ на три месяца при полном отсутствии признаков беды
 - [[kto-ya-svoey-padcheritse](pages/kto-ya-svoey-padcheritse.md)] — «лезть к тебе больше не буду» как первый шаг перезагрузки отношений
 - [[chto-delat-esli-rebenok-boitsya-vsego-novogo](pages/chto-delat-esli-rebenok-boitsya-vsego-novogo.md)] — «просто выдохнуть и отпустить эту историю совсем», посмотреть через месяц
+- [[kak-aktivnoy-mame-zhit-s-synom-introvertom](pages/kak-aktivnoy-mame-zhit-s-synom-introvertom.md)] — уточнение: не трогать не нужно, нужно не выталкивать
 
 ## Related Concepts
 

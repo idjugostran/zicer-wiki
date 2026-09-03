@@ -3,7 +3,7 @@ title: Запрет повышает стоимость
 category: Concepts
 summary: Железное правило: при блокировке дети всегда находят дырочку, а сам запрет резко повышает «стоимость продукта» — раз запрещено, значит дорого, значит нужно хотеть и искать
 tags: [concept, roditelstvo, zaprety, internet, gadzhety]
-sources: [rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya]
+sources: [rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, kak-aktivnoy-mame-zhit-s-synom-introvertom]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 
 - [[rebenok-v-8-let-smotrit-zapreshchennyi-kontent](pages/rebenok-v-8-let-smotrit-zapreshchennyi-kontent.md)] — вводит концепт: «всегда находят дырочку», повышение стоимости продукта, обучение поиску вместо блокировки
 - [[kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya](pages/kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya.md)] — «иначе это становится дефицитом, и цена резко повышается»
+- [[kak-aktivnoy-mame-zhit-s-synom-introvertom](pages/kak-aktivnoy-mame-zhit-s-synom-introvertom.md)] — обратная форма: каждым «выйди из дома» родитель удорожает выход из дома
 
 ## Related Concepts
 

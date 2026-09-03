@@ -3,7 +3,7 @@ title: Проверка масштаба тревоги
 category: Concepts
 summary: Прежде чем действовать, тревогу сверяют с фактами: сосчитать реальные цифры, сравнить их с собственными и спросить, есть ли хоть один явный признак проблемы у самого ребёнка
 tags: [concept, roditelskiy-strakh, diagnostika, roditelstvo]
-sources: [moy-rebenok-sovsem-nichego-ne-est, v-poslednee-vremya-syn-ochen-grustit, rebenok-v-shkole-ne-razgovarivaet, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-rebenok-boitsya-vsego-novogo]
+sources: [moy-rebenok-sovsem-nichego-ne-est, v-poslednee-vremya-syn-ochen-grustit, rebenok-v-shkole-ne-razgovarivaet, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-aktivnoy-mame-zhit-s-synom-introvertom]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] — перебор признаков (интересно ли, есть ли друг, что говорят учителя) и вывод «не вижу ни одной причины волноваться»
 - [[kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya](pages/kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya.md)] — «ничего страшного пока я не услышал»: перебор проявлений и отказ от ярлыка потребительства
 - [[chto-delat-esli-rebenok-boitsya-vsego-novogo](pages/chto-delat-esli-rebenok-boitsya-vsego-novogo.md)] — «кончай подозревать, что во всём есть патологическая стадия»
+- [[kak-aktivnoy-mame-zhit-s-synom-introvertom](pages/kak-aktivnoy-mame-zhit-s-synom-introvertom.md)] — перебор не даёт ни одного признака беды: «проблемы нет никакой»
 
 ## Related Concepts
 
