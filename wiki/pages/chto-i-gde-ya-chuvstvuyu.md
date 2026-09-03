@@ -3,7 +3,7 @@ title: Что и где я чувствую
 category: Concepts
 summary: Прежде чем учить ребёнка справляться с эмоциями, нужно вместе с ним назвать телесный сигнал конкретными словами и конкретным местом: крутит живот, потеют ладошки, сводит скулы
 tags: [concept, samoregulyatsiya, emotsii, telo, deti]
-sources: [kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-spasti-detey-ot-nenavisti]
+sources: [kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-spasti-detey-ot-nenavisti, kogda-starshiy-brat-koshmarit-mladshego]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 
 - [[kak-nauchitsya-spravlyatsya-s-emotsiyami](pages/kak-nauchitsya-spravlyatsya-s-emotsiyami.md)] — сформулировано впервые: одиннадцатилетняя Вика, научившаяся вместо взрывов закрываться
 - [[kak-spasti-detey-ot-nenavisti](pages/kak-spasti-detey-ot-nenavisti.md)] — «если я знаю, что моя ненависть в сжатых скулах, я могу управлять своей ненавистью гарантировано»
+- [[kogda-starshiy-brat-koshmarit-mladshego](pages/kogda-starshiy-brat-koshmarit-mladshego.md)] — «как я себя чувствую, когда я младшего ложкой по лбу бью» вместо воображаемого «на его месте»
 
 ## Related Concepts
 

@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[pomoshch-bez-upreka](pages/pomoshch-bez-upreka.md)] — смежная правка формулировок, снимающая обвинение
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — здесь наоборот: вопрос задаётся при уже известном ответе, что и делает его спектаклем
 - [[vopros-zachem-ty-eto-govorish](pages/vopros-zachem-ty-eto-govorish.md)] — тот же по форме вопрос, который в тринадцать лет Зицер называет крутейшим: различие в возрасте, предмете (сказанное, а не сделанное) и тоне
+- [[vopros-na-ego-meste-eto-glyuk](pages/vopros-na-ego-meste-eto-glyuk.md)] — соседний вопрос, на который ребёнок тоже не может ответить
 
 ## Footnotes
 

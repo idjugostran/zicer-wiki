@@ -38,6 +38,7 @@ updated: 2026-09-03
 - [[priznanie-roditelskoy-oshibki](pages/priznanie-roditelskoy-oshibki.md)] — первый обязательный шаг, если решение было принято без ребёнка
 - [[vau-da-ladno-rasskazhi](pages/vau-da-ladno-rasskazhi.md)] — приём, вырождающийся в допрос, если ответ известен заранее
 - [[pust-povisnet](pages/pust-povisnet.md)] — зеркальный случай: ответа сознательно не должно появиться и у ребёнка
+- [[razgovor-o-seme-a-ne-o-brate](pages/razgovor-o-seme-a-ne-o-brate.md)] — вопрос, из которого не вычитывается ожидаемый родителем ответ
 
 ## Footnotes
 
