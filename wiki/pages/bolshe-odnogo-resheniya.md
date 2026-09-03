@@ -3,7 +3,7 @@ title: Есть больше одного решения
 category: Concepts
 summary: Острота выбора сжимает поле до двух вариантов; ставить ребёнка перед такой развилкой — упрощение, и работа взрослого в том, чтобы вернуть в обсуждение третьи страны, промежуточные форматы и самих участников ситуации
 tags: [concept, reshenie, podrostki, emigratsiya, konflikt]
-sources: [syn-14-let-vlyubilsya-i-eto-opasno]
+sources: [syn-14-let-vlyubilsya-i-eto-opasno, doch-hochet-vybrosit-staruyu-kuklu]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[syn-14-let-vlyubilsya-i-eto-opasno](pages/syn-14-let-vlyubilsya-i-eto-opasno.md)] — «есть больше одного решения, есть третьи страны»; восьмилетние, потребовавшие встречаться дважды в год
+- [[doch-hochet-vybrosit-staruyu-kuklu](pages/doch-hochet-vybrosit-staruyu-kuklu.md)] — развилка «новая или старая» снимается целиком: новую купить, старую оставить смотреть
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Литература как повод для разговора
 category: Concepts
 summary: Готовая чужая история — рабочий вход в тему, которую трудно обсуждать напрямую: читают вместе, обсуждают, задают вопросы и пытаются понять героя, а не вычитывают мораль
 tags: [concept, roditelstvo, kommunikatsiya, chtenie]
-sources: [syn-darit-tsennye-veshchi-drugim-detyam, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-byt-esli-syn-vlyubilsya-v-druga]
+sources: [syn-darit-tsennye-veshchi-drugim-detyam, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-byt-esli-syn-vlyubilsya-v-druga, doch-hochet-vybrosit-staruyu-kuklu]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 - [[syn-darit-tsennye-veshchi-drugim-detyam](pages/syn-darit-tsennye-veshchi-drugim-detyam.md)] — вводит концепт: «Он живой и светится» Драгунского как повод для разговора о том, что ребёнок отдаёт свои вещи
 - [[rebenok-v-8-let-smotrit-zapreshchennyi-kontent](pages/rebenok-v-8-let-smotrit-zapreshchennyi-kontent.md)] — детская книга про полы как возвращаемый вход в разговор
 - [[kak-byt-esli-syn-vlyubilsya-v-druga](pages/kak-byt-esli-syn-vlyubilsya-v-druga.md)] — важное ограничение: «не надо насиловать мальчика книгой», иначе возникает навязчивость
+- [[doch-hochet-vybrosit-staruyu-kuklu](pages/doch-hochet-vybrosit-staruyu-kuklu.md)] — «Друг детства» Драгунского с прямым запретом «пилить» после чтения
 
 ## Related Concepts
 

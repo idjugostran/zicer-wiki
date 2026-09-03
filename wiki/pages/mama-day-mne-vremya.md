@@ -65,7 +65,7 @@ updated: 2026-09-03
 
 Случай зеркалит [[kak-aktivnoy-mame-zhit-s-synom-introvertom](pages/kak-aktivnoy-mame-zhit-s-synom-introvertom.md)] на восемь лет раньше: там шестнадцатилетний сын не рвётся гулять, и Зицер тоже отказывается видеть проблему и отправляет мать к её собственным занятиям. Совпадение хода на двух возрастах показывает, что дело не в подростковости, а в [[roditelskaya-gallyutsinatsiya](pages/roditelskaya-gallyutsinatsiya.md)].
 
-Сравнение с украинскими семьями делает видимой шкалу внутри [[travma-u-vseh-ukrainskih-detey](pages/travma-u-vseh-ukrainskih-detey.md)]: логика «нужен ресурс, а его нет» у Зицера одна и та же для потерявшего всё и для благополучно переехавшего, различается только величина, — ср. [[rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane](pages/rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane.md)].
+Сравнение с украинскими семьями делает видимой шкалу внутри [[travma-u-vseh-ukrainskih-detey](pages/travma-u-vseh-ukrainskih-detey.md)]: логика «нужен ресурс, а его нет» у Зицера одна и та же для потерявшего всё и для благополучно переехавшего, различается только величина, — ср. [[rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane](pages/rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane.md)]. Второй разобранный в вики фрагмент того же выпуска №340 — [[doch-hochet-vybrosit-staruyu-kuklu](pages/doch-hochet-vybrosit-staruyu-kuklu.md)], где Зицер так же переводит работу с ребёнка на родительскую тревогу.
 
 ## Note
 
