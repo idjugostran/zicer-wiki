@@ -37,6 +37,7 @@ updated: 2026-09-03
 - [[granitsa-intimnosti](pages/granitsa-intimnosti.md)] — содержание разговора, который заменяет блокировку
 - [[cheloveka-tuda-nuzhno-privesti](pages/cheloveka-tuda-nuzhno-privesti.md)] — смежный механизм: тяга к запрещённому не встроена, а производится
 - [[vzroslye-govoryat-nepravdu](pages/vzroslye-govoryat-nepravdu.md)] — вторая причина, по которой запрет не работает: обесцененный жанр
+- [[smotret-spornyi-kontent-vmeste](pages/smotret-spornyi-kontent-vmeste.md)] — что делают вместо запрета, который всё равно не работает
 
 ## Footnotes
 

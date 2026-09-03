@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[shchedrost-a-ne-slabohakternost](pages/shchedrost-a-ne-slabohakternost.md)] — тема, ради которой приём здесь применён
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — общее основание: совместное занятие как форма контакта, а не как повод для нравоучения
 - [[bezopasnyi-vopros-kak-nachalo-obshcheniya](pages/bezopasnyi-vopros-kak-nachalo-obshcheniya.md)] — смежный ход: начинать с того, что не требует от собеседника защищаться
+- [[smotret-spornyi-kontent-vmeste](pages/smotret-spornyi-kontent-vmeste.md)] — соседний приём: там материал выбирает взрослый, здесь приносит ребёнок
 
 ## Footnotes
 

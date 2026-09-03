@@ -3,7 +3,7 @@ title: Поведение как семейная традиция
 category: Concepts
 summary: Повторяющаяся связка «поступок ребёнка — реакция родителя» — это не непослушание, а сложившийся ритуал; его не запрещают, а заменяют другим, столь же конкретным
 tags: [concept, rannii-vozrast, traditsii, poslushanie, ritual]
-sources: [kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-237]
+sources: [kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-237, lnv-vypusk-229]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-246](pages/lnv-vypusk-246.md)] — традиция «мама укладывает нас спать» сложилась сама после командировки отца; её не ломают, а пережидают, отдав отцу другое регулярное действие
 - [[lnv-vypusk-247](pages/lnv-vypusk-247.md)] — ритуал вопросов перед садиком предлагается не запрещать, а заменить — «давай придумаем другие слова»
 - [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — постоянный спор девятилетнего — не непослушание, а привычка-автомат, которой его научили окружающие
+- [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — вечерние страхи семилетнего разбираются как сложившаяся вечерняя традиция; предлагается стать инициатором новой
 
 ## Related Concepts
 

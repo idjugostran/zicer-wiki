@@ -3,7 +3,7 @@ title: Открытый разговор с детьми о сексе
 category: Concepts
 summary: Секс — обычная интересная тема для ребёнка, а не опасная; неловкость при разговоре о ней — унаследованная взрослыми модель, а не реакция на реальный риск
 tags: [concept, seks, roditelstvo]
-sources: [kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-8, lnv-vypusk-252, lnv-vypusk-201, lnv-vypusk-250, kniga-lyubit-nelzya-vospityvat, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-233]
+sources: [kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-8, lnv-vypusk-252, lnv-vypusk-201, lnv-vypusk-250, kniga-lyubit-nelzya-vospityvat, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-233, lnv-vypusk-229]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[rebenok-v-8-let-smotrit-zapreshchennyi-kontent](pages/rebenok-v-8-let-smotrit-zapreshchennyi-kontent.md)] — «не бывает тем, на которые я не готова с тобой говорить»; отмена усвоенного «это гадко и стыдно»
 - [[mozhet-li-rebenka-razvratit-nagota-roditeley](pages/mozhet-li-rebenka-razvratit-nagota-roditeley.md)] — отсутствие просвещения названо частью «специального проекта», делающего взгляд сексуализирующим
 - [[lnv-vypusk-233](pages/lnv-vypusk-233.md)] — двадцатипятилетний брат нашёл секс-игрушки у четырнадцатилетних близнецов: тема обычная, вопрос только в форме разговора
+- [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — отец на вопрос сына «как было у вас с мамой» ответил фактической историей вместо разговора об отношениях
 
 ## Related Concepts
 
@@ -36,3 +37,4 @@ updated: 2026-09-03
 - [[tak-nazyvaemye-slozhnye-temy](pages/tak-nazyvaemye-slozhnye-temy.md)] — обобщение того же тезиса на весь класс «сложных тем»
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — техника «зачем, а не что», применённая в том же выпуске к анализу интереса подростка к теме
 - [[chtenie-perepiski-detey](pages/chtenie-perepiski-detey.md)] — то же самое требование взаимной открытости с раннего возраста, применённое к цифровой переписке вместо секса
+- [[pervyi-opyt-ne-vernetsya](pages/pervyi-opyt-ne-vernetsya.md)] — довод, который взрослый предлагает подростку взамен запрета

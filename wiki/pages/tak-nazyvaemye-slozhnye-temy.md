@@ -3,7 +3,7 @@ title: Так называемые «сложные темы»
 category: Concepts
 summary: Секс, смерть, дурные привычки — не сложны сами по себе; сложность создаёт телесный блок родителя, который ребёнок считывает и начинает защитно избегать темы
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-8, lnv-vypusk-164, lnv-vypusk-250, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-245, lnv-vypusk-237]
+sources: [kurs-12-urokov-urok-8, lnv-vypusk-164, lnv-vypusk-250, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-245, lnv-vypusk-237, lnv-vypusk-229]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[mozhet-li-rebenka-razvratit-nagota-roditeley](pages/mozhet-li-rebenka-razvratit-nagota-roditeley.md)] — «Даная» и хихикающие школьники: неловкость привита заранее
 - [[lnv-vypusk-245](pages/lnv-vypusk-245.md)] — о смерти деда рассказывают точно, начиная с извинения за трёхлетнее молчание
 - [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — испуг матери от самих слов закрывает тему; Зицер называет эти слова нормативными
+- [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — детская навязчивая мастурбация разбирается по пунктам, спокойно и без драматизации
 
 ## Related Concepts
 
@@ -37,3 +38,4 @@ updated: 2026-09-03
 - [[usloviya-trudnogo-razgovora](pages/usloviya-trudnogo-razgovora.md)] — вторая половина той же подготовки: не телесный блок родителя, а канал, место и момент разговора
 - [[literatura-kak-povod-dlya-razgovora](pages/literatura-kak-povod-dlya-razgovora.md)] — «мостик» из книг и фильмов, показанный в действии
 - [[otvechat-tolko-na-zadannye-voprosy](pages/otvechat-tolko-na-zadannye-voprosy.md)] — правило, ограничивающее инициативу взрослого в разговоре о страшном
+- [[na-ushko-o-intimnom](pages/na-ushko-o-intimnom.md)] — как именно произносится замечание об интимном

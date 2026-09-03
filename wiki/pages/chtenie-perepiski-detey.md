@@ -3,7 +3,7 @@ title: Чтение переписки ребёнка
 category: Concepts
 summary: Тайное чтение переписки/сообщений ребёнка не защищает от опасности, а разрушает доверие; путь к тому, чтобы реально быть «в курсе», лежит через взаимную открытость с раннего возраста, а не через слежку
 tags: [concept, roditelstvo, doverie]
-sources: [lnv-vypusk-201, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-249, lnv-vypusk-244]
+sources: [lnv-vypusk-201, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-249, lnv-vypusk-244, lnv-vypusk-229]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 - [[kak-roditeli-perenosyat-na-detey-modeli](pages/kak-roditeli-perenosyat-na-detey-modeli.md)] — мать не смотрит соцсети сыновей, и Зицер требует интереса без контроля: «у меня есть секреты, у тебя есть секреты»
 - [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — мать читает переписку курящей тринадцатилетней дочери; «я не унижусь до слежки» как позиция целиком
 - [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — прочитанная год назад переписка двенадцатилетней с интернет-другом как значимая часть её нынешнего состояния
+- [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — мачеха четырнадцатилетнего Феди прочитала его переписки с друзьями; Зицер прямо не рекомендует читать соцсети сына
 
 ## Related Concepts
 

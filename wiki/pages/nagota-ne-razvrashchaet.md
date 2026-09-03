@@ -3,7 +3,7 @@ title: Нагота не развращает
 category: Concepts
 summary: Сексуализирующий взгляд не возникает сам: чтобы человек, глядя на другого, думал прежде всего о гениталиях, его надо этому научить — через отсутствие просвещения и через унижение
 tags: [concept, nagota, seksualnoe-prosveshchenie, telo, kultura]
-sources: [mozhet-li-rebenka-razvratit-nagota-roditeley]
+sources: [mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-229]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[mozhet-li-rebenka-razvratit-nagota-roditeley](pages/mozhet-li-rebenka-razvratit-nagota-roditeley.md)] — «его надо этому научить»; «Даная» и хихикающие школьники
+- [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — самая развёрнутая иллюстрация: «похабное» отношение подростка к девушке выводится из того, что ответ на свой вопрос мальчик получил не дома
 
 ## Related Concepts
 
