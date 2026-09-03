@@ -3,7 +3,7 @@ title: Проверка масштаба тревоги
 category: Concepts
 summary: Прежде чем действовать, тревогу сверяют с фактами: сосчитать реальные цифры, сравнить их с собственными и спросить, есть ли хоть один явный признак проблемы у самого ребёнка
 tags: [concept, roditelskiy-strakh, diagnostika, roditelstvo]
-sources: [moy-rebenok-sovsem-nichego-ne-est, v-poslednee-vremya-syn-ochen-grustit, rebenok-v-shkole-ne-razgovarivaet, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-aktivnoy-mame-zhit-s-synom-introvertom, mamu-arestovali-na-glazah-dvuhletnego-syna]
+sources: [moy-rebenok-sovsem-nichego-ne-est, v-poslednee-vremya-syn-ochen-grustit, rebenok-v-shkole-ne-razgovarivaet, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-aktivnoy-mame-zhit-s-synom-introvertom, mamu-arestovali-na-glazah-dvuhletnego-syna, selfharm-trevoga-i-slezy]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-rebenok-boitsya-vsego-novogo](pages/chto-delat-esli-rebenok-boitsya-vsego-novogo.md)] — «кончай подозревать, что во всём есть патологическая стадия»
 - [[kak-aktivnoy-mame-zhit-s-synom-introvertom](pages/kak-aktivnoy-mame-zhit-s-synom-introvertom.md)] — перебор не даёт ни одного признака беды: «проблемы нет никакой»
 - [[mamu-arestovali-na-glazah-dvuhletnego-syna](pages/mamu-arestovali-na-glazah-dvuhletnego-syna.md)] — критерий динамики: крики были каждую ночь, стало два-три раза в неделю
+- [[selfharm-trevoga-i-slezy](pages/selfharm-trevoga-i-slezy.md)] — два примера тревожности из трёх отведены как норма подросткового возраста
 
 ## Related Concepts
 

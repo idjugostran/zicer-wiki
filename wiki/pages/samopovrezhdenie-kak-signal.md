@@ -3,7 +3,7 @@ title: Самоповреждение как сигнал нехватки сп�
 category: Concepts
 summary: В конкретных подростковых случаях самоповреждение рассматривается как сигнал невыраженного переживания и дефицита безопасной близости; работать предлагается не только с поступком, но и со способом говорить о боли
 tags: [concept, roditelstvo, podrostki, samopovrezhdenie]
-sources: [kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-248, lnv-vypusk-219, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, kto-ya-svoey-padcheritse]
+sources: [kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-248, lnv-vypusk-219, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, kto-ya-svoey-padcheritse, selfharm-trevoga-i-slezy]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-219](pages/lnv-vypusk-219.md)] — шестнадцатилетняя дочь после прежнего физического насилия дома: мать начинает с письменного признания вины и просьбы о прощении, выбирая восстановление связи вместо контроля оценок и поведения
 - [[lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya](pages/lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya.md)] — грызение одежды и волос до болячек: выяснить, кто давит, и идти к неврологу; запрет на «перестань грызть»
 - [[kto-ya-svoey-padcheritse](pages/kto-ya-svoey-padcheritse.md)] — селфхарм связывается с жизнью на два дома: «я себя ищу и не могу себе помочь»
+- [[selfharm-trevoga-i-slezy](pages/selfharm-trevoga-i-slezy.md)] — «это не попытка самоубийства», произнесённое вслух для всех; механизм — невысказанное чувство и нехватка связи с близкими
 
 ## Related Concepts
 

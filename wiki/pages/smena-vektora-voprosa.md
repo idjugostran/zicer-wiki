@@ -3,7 +3,7 @@ title: Смена вектора вопроса
 category: Concepts
 summary: Вместо «что тебе интересно?» — «о чём будем делать экскурсию?»: вопрос об общем деле вместо вопроса о собеседнике снимает допросную интонацию и получает тот же ответ
 tags: [concept, kommunikatsiya, pedagogika, podrostki]
-sources: [kak-provodit-klassnye-ekskursii-dlya-detey, kak-nam-nauchitsya-kontrolirovat-sebya, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru]
+sources: [kak-provodit-klassnye-ekskursii-dlya-detey, kak-nam-nauchitsya-kontrolirovat-sebya, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, selfharm-trevoga-i-slezy]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 - [[kak-provodit-klassnye-ekskursii-dlya-detey](pages/kak-provodit-klassnye-ekskursii-dlya-detey.md)] — вводит концепт целиком, как техническую часть приёма «сделать участников заказчиками»
 - [[kak-nam-nauchitsya-kontrolirovat-sebya](pages/kak-nam-nauchitsya-kontrolirovat-sebya.md)] — «как у тебя это получилось?» назван главным вопросом на свете
 - [[kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru](pages/kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru.md)] — «слушай, как прикольно, ты что хотел сказать-то?» вместо упрёка
+- [[selfharm-trevoga-i-slezy](pages/selfharm-trevoga-i-slezy.md)] — «вернуть вектор»: не добиваться рассказа о её жизни, а советоваться о своей
 
 ## Related Concepts
 
