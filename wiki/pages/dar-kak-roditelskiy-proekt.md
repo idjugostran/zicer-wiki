@@ -3,9 +3,9 @@ title: Дар как родительский проект
 category: Concepts
 summary: Обнаруженный у ребёнка талант легко становится делом родителя, а не его собственным: посторонние взрослые говорят матери, «как это важно», и дальше ребёнок продолжает занятия не потому, что хочет петь, а потому, что не хочет бросить мать
 tags: [concept, roditelskoe-ego, prinuzhdenie, talant, subyektnost]
-sources: [devochka-hochet-brosit-zanyatiya-peniem]
+sources: [devochka-hochet-brosit-zanyatiya-peniem, lnv-vypusk-222]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Дар как родительский проект
@@ -38,3 +38,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[devochka-hochet-brosit-zanyatiya-peniem](pages/devochka-hochet-brosit-zanyatiya-peniem.md)] — сформулировано впервые: почти двенадцатилетняя Надя, пение и температура 39 перед уроком
+- [[lnv-vypusk-222](pages/lnv-vypusk-222.md)] — художественная гимнастика шесть раз в неделю держится на решении родителей, при том что дочь называет своё: рисовать и танцевать

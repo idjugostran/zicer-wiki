@@ -3,9 +3,9 @@ title: Семья — это то, что мы определяем как се�
 category: Concepts
 summary: Категория «мать-одиночка» отклоняется как чепуха: состав семьи задаётся не нормой и не отсутствующим взрослым, а самим определением её участников
 tags: [concept, semya, yazyk, roditelstvo]
-sources: [chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
+sources: [chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-222]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Семья — это то, что мы определяем как семью
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — «не бывает никаких матерей-одиночек», сказанное до разбора самого вопроса
+- [[lnv-vypusk-222](pages/lnv-vypusk-222.md)] — «не бывает никаких неполных семей»
 
 ## Related Concepts
 

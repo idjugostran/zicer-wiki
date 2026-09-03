@@ -5,7 +5,7 @@ summary: Прежде чем углубляться в тревожную тем
 tags: [concept, roditelstvo, kommunikatsiya, podrostki]
 sources: [syn-rasskazal-mame-chto-on-biseksual, kak-byt-esli-syn-vlyubilsya-v-druga, s-kem-druzhit-nashim-detyam, malchik-hochet-odevatsya-kak-devochka, 8-letniy-malchik-stesnyaetsya-starshego-brata, lnv-vypusk-237, lnv-vypusk-232]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Легитимизация темы
@@ -40,6 +40,7 @@ updated: 2026-09-03
 - [[pomoshch-bez-upreka](pages/pomoshch-bez-upreka.md)] — ещё одно процедурное правило: убрать из предложения помощи придаточное с обвинением
 - [[zapret-povyshaet-stoimost](pages/zapret-povyshaet-stoimost.md)] — почему запрет исключён технически, а не только этически
 - [[otkryvat-vmeste-a-ne-obyavlyat](pages/otkryvat-vmeste-a-ne-obyavlyat.md)] — честность повода как условие: маскировку дети читают сразу
+- [[poryadok-otveta-na-otkrovennost](pages/poryadok-otveta-na-otkrovennost.md)] — зеркальный случай: инициатор разговора — ребёнок
 
 ## Footnotes
 

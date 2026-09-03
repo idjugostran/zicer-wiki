@@ -3,7 +3,7 @@ title: Разговор без заранее известного ответа
 category: Concepts
 summary: Нельзя входить в разговор, зная ответ ребёнка, даже если вы его действительно знаете, и нельзя отвечать за него: от произнесённого им ответа зависит, какой ход делает родитель дальше
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-ponyat-14-letnyuyu-doch, malchik-hochet-odevatsya-kak-devochka, syn-14-let-vlyubilsya-i-eto-opasno, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-244, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-225, lnv-vypusk-226]
+sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-ponyat-14-letnyuyu-doch, malchik-hochet-odevatsya-kak-devochka, syn-14-let-vlyubilsya-i-eto-opasno, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-244, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-225, lnv-vypusk-226, lnv-vypusk-222]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — проверка, не подстроен ли ответ восьмилетнего под мамино ожидание
 - [[lnv-vypusk-225](pages/lnv-vypusk-225.md)] — Зицер не знает заранее, откуда взялись айкидо и фехтование, и именно от ответа матери зависит его следующий ход
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — мать ответит за сына «на автомате», поэтому спрашивают его самого
+- [[lnv-vypusk-222](pages/lnv-vypusk-222.md)] — «ответы вы не знаете… и я не знаю»: взрослые не могут сражаться с ребёнком за тему, которую сами не понимают
 
 ## Related Concepts
 

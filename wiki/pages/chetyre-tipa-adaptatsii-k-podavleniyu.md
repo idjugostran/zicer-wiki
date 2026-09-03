@@ -3,9 +3,9 @@ title: Четыре типа адаптации к школьному подав
 category: Concepts
 summary: Ребёнок реагирует на систематическое школьное подавление одной из четырёх извращённых стратегий («я хороший», «я плохой, но делаю вид, что хороший», «я плохой», «я хороший, но делаю вид, что плохой») — ни одна не сводится к «я такой, какой есть, и имею на это право»
 tags: [concept, shkola, kniga]
-sources: [kniga-lyubit-nelzya-vospityvat, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane]
+sources: [kniga-lyubit-nelzya-vospityvat, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, lnv-vypusk-222]
 created: 2026-09-02
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Четыре типа адаптации к школьному подавлению
@@ -18,6 +18,7 @@ updated: 2026-09-03
 
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «Первое сентября как похороны» вводит типологию целиком вместе со статистикой стресса
 - [[rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane](pages/rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane.md)] — ложное согласие: ребёнок принимает решение родителя, чтобы облегчить его страдания
+- [[lnv-vypusk-222](pages/lnv-vypusk-222.md)] — стратегия «я хороший» у четырёхлетней в саду, где детей делят на хороших и не очень
 
 ## Related Concepts
 

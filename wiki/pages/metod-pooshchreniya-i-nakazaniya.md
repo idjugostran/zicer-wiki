@@ -3,9 +3,9 @@ title: Метод поощрения и наказания
 category: Concepts
 summary: Заимствованный из дрессуры животных метод — Зицер считает его неприменимым к людям и подменяющим настоящие отношения
 tags: [concept, roditelstvo, pedagogika]
-sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219, lnv-vypusk-211, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, kak-sdelat-chtoby-ona-slushalas-roditeley, devochka-hochet-brosit-zanyatiya-peniem, kak-roditeli-perenosyat-na-detey-modeli, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-241, lnv-vypusk-234, lnv-vypusk-230, lnv-vypusk-227]
+sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219, lnv-vypusk-211, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, kak-sdelat-chtoby-ona-slushalas-roditeley, devochka-hochet-brosit-zanyatiya-peniem, kak-roditeli-perenosyat-na-detey-modeli, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-241, lnv-vypusk-234, lnv-vypusk-230, lnv-vypusk-227, lnv-vypusk-222]
 created: 2026-08-04
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Метод поощрения и наказания
@@ -43,6 +43,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-234](pages/lnv-vypusk-234.md)] — конфеты учительнице отклонены как косвенный подкуп, встраиваемый в мировоззрение семилетнего
 - [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — сделка «принеси четвёрку — поиграешь в PlayStation» в звонке Алексея
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — разбор лишения мультиков и аргумента «но это же работает»: «разве мы хотим общаться с близкими на условных рефлексах»
+- [[lnv-vypusk-222](pages/lnv-vypusk-222.md)] — отец восьмилетней спрашивает, как наказать; ответ «никак»: наказание делает родителя начальником и исключает человеческие отношения
 
 ## Related Concepts
 
@@ -53,3 +54,4 @@ updated: 2026-09-03
 - [[lyubov-kak-antipedagogicheskiy-instrument](pages/lyubov-kak-antipedagogicheskiy-instrument.md)] — ещё одна внешняя опора поведения, рушащаяся вместе с уходом взрослого
 - [[slozhnaya-obratnaya-svyaz-vmesto-otsenki](pages/slozhnaya-obratnaya-svyaz-vmesto-otsenki.md)] — граница правила: балльная система экзамена оценкой в этом смысле не является
 - [[materialnyi-motivator-vytesnyaet-interes](pages/materialnyi-motivator-vytesnyaet-interes.md)] — частный случай на учебной мотивации, с подтверждающим экспериментом
+- [[test-perenosa-na-vzroslogo](pages/test-perenosa-na-vzroslogo.md)] — проверка, обнаруживающая, что метод держится на неравенстве
