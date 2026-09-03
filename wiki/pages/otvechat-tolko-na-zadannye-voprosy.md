@@ -3,7 +3,7 @@ title: Отвечать только на заданные вопросы
 category: Concepts
 summary: На все вопросы ребёнка отвечают честно и полностью — но ни один ответ не даётся авансом; особенно в ситуации войны, болезни и других страшных обстоятельств
 tags: [concept, chestnost, voyna, trevoga, razgovor]
-sources: [kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, doch-schitaet-sebya-kvadroberom, malchik-6-let-hochet-pomogat-ukraine]
+sources: [kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, doch-schitaet-sebya-kvadroberom, malchik-6-let-hochet-pomogat-ukraine, kak-pravilno-govorit-s-rebenkom-pro-dengi]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 
 - [[kak-vo-vremya-voyny-uspokaivat-sebya-i-detey](pages/kak-vo-vremya-voyny-uspokaivat-sebya-i-detey.md)] — сформулировано впервые: как говорить с детьми про обстрелы в Хайфе
 - [[malchik-6-let-hochet-pomogat-ukraine](pages/malchik-6-let-hochet-pomogat-ukraine.md)] — «почему ты грустная» как заданный вопрос, на который отвечают, а не как повод выкладывать всё
+- [[kak-pravilno-govorit-s-rebenkom-pro-dengi](pages/kak-pravilno-govorit-s-rebenkom-pro-dengi.md)] — «объяснять рынок труда, но только на уровне того вопроса, который он задаёт»
 
 ## Related Concepts
 

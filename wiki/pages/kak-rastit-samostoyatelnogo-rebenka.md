@@ -5,7 +5,7 @@ summary: Короткий выпуск ЛНВ о том, почему самос
 tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, samostoyatelnost, vybor]
 sources: [kak-rastit-samostoyatelnogo-rebenka]
 created: 2026-09-01
-updated: 2026-09-01
+updated: 2026-09-03
 ---
 
 # Как растить САМОСТОЯТЕЛЬНОГО РЕБЕНКА?
@@ -43,7 +43,7 @@ updated: 2026-09-01
 
 ## Relation to Other Wiki Pages
 
-Источник переносит [[subyektnost](pages/subyektnost.md)] из общей рамки равноправия в бытовой критерий самостоятельности: не количество выполненных поручений, а наличие собственных решений. Для [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] он добавляет конкретную технику «чистого листа» — заново открыть всё расписание для выбора, а не спрашивать, нравится ли ребёнку уже назначенное взрослыми занятие. Различение страдания ребёнка и тревоги матери согласуется с [[roditelskiy-strakh](pages/roditelskiy-strakh.md)], но не доказывает наличия гиперопеки или иной общей проблемы в семье.
+Источник переносит [[subyektnost](pages/subyektnost.md)] из общей рамки равноправия в бытовой критерий самостоятельности: не количество выполненных поручений, а наличие собственных решений. Для [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] он добавляет конкретную технику «чистого листа» — заново открыть всё расписание для выбора, а не спрашивать, нравится ли ребёнку уже назначенное взрослыми занятие. Различение страдания ребёнка и тревоги матери согласуется с [[roditelskiy-strakh](pages/roditelskiy-strakh.md)], но не доказывает наличия гиперопеки или иной общей проблемы в семье. Денежное приложение того же принципа — [[kak-pravilno-govorit-s-rebenkom-pro-dengi](pages/kak-pravilno-govorit-s-rebenkom-pro-dengi.md)] и [[semeynyi-byudzhet-prinadlezhit-vsem](pages/semeynyi-byudzhet-prinadlezhit-vsem.md)]: «чем он младше, тем больше мы делаем вместе».
 
 ## Footnotes
 

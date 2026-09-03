@@ -3,7 +3,7 @@ title: Семейный договор
 category: Concepts
 summary: Двухнедельная процедура: каждый формулирует, что ему нужно и где его красные линии, затем короткий эксперимент, разбор и переформулировка — нарушенное правило означает неточную формулировку, а не плохого человека
 tags: [concept, dogovor, granitsy, semya, protsedura]
-sources: [kak-dobitsya-mira-so-svoimi-detmi]
+sources: [kak-dobitsya-mira-so-svoimi-detmi, kak-pravilno-govorit-s-rebenkom-pro-dengi]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -45,6 +45,7 @@ updated: 2026-09-03
 - [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)] — красные линии как содержание второго шага
 - [[semeynaya-kultura-rabotaet-kak-chasy](pages/semeynaya-kultura-rabotaet-kak-chasy.md)] — системность как условие работы
 - [[soglasovanie-ozhidaniy](pages/soglasovanie-ozhidaniy.md)] — тот же принцип в применении к одной паре ожиданий
+- [[semeynyi-byudzhet-prinadlezhit-vsem](pages/semeynyi-byudzhet-prinadlezhit-vsem.md)] — та же логика совместного решения, применённая к деньгам
 
 ## Footnotes
 

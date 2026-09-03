@@ -3,7 +3,7 @@ title: Покупка внутри семейного плана
 category: Concepts
 summary: Желание ребёнка что-нибудь купить перестаёт быть безразмерным не от запрета, а от включения в общий план: вот задача, вот деньги, давай решим, что берём — и его покупка входит сюда же
 tags: [concept, potreblenie, planirovanie, semya, doshkolniki]
-sources: [kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya]
+sources: [kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, kak-pravilno-govorit-s-rebenkom-pro-dengi]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya](pages/kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya.md)] — сформулировано впервые: шестилетний Лёва и ежедневные походы в магазин у дома
+- [[kak-pravilno-govorit-s-rebenkom-pro-dengi](pages/kak-pravilno-govorit-s-rebenkom-pro-dengi.md)] — «мы идём в магазин с тысячей рублей»: тот же приём в ситуации без конфликта
 
 ## Related Concepts
 
