@@ -3,7 +3,7 @@ title: «Отстаньте на время»
 category: Concepts
 summary: Совет, который Зицер сам называет самым популярным в программе: на неделю-десять дней полностью выключить расспросы и давление — потому что иначе родитель сам создаёт ребёнку причину там, где её не было
 tags: [concept, roditelstvo, roditelskiy-strakh, nablyudenie]
-sources: [v-poslednee-vremya-syn-ochen-grustit, moya-doch-zabila-na-vse, moya-doch-deretsya-i-plyuetsya, kak-razgovorit-cheloveka-4-h-let, rebenok-v-shkole-ne-razgovarivaet, kto-ya-svoey-padcheritse, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-aktivnoy-mame-zhit-s-synom-introvertom, devochka-13-let-poteryala-vkus-k-zhizni, mozhno-li-uberech-rebenka-ot-nenavisti, mamu-arestovali-na-glazah-dvuhletnego-syna, mama-day-mne-vremya, devochka-hochet-brosit-zanyatiya-peniem, kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-245]
+sources: [v-poslednee-vremya-syn-ochen-grustit, moya-doch-zabila-na-vse, moya-doch-deretsya-i-plyuetsya, kak-razgovorit-cheloveka-4-h-let, rebenok-v-shkole-ne-razgovarivaet, kto-ya-svoey-padcheritse, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-aktivnoy-mame-zhit-s-synom-introvertom, devochka-13-let-poteryala-vkus-k-zhizni, mozhno-li-uberech-rebenka-ot-nenavisti, mamu-arestovali-na-glazah-dvuhletnego-syna, mama-day-mne-vremya, devochka-hochet-brosit-zanyatiya-peniem, kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-245, lnv-vypusk-239]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -37,6 +37,7 @@ updated: 2026-09-03
 - [[devochka-hochet-brosit-zanyatiya-peniem](pages/devochka-hochet-brosit-zanyatiya-peniem.md)] — «ослабьте хватку, начните отходить потихоньку… выйдите из её домашних заданий»
 - [[kak-zhe-on-dolgo-sobiraetsya](pages/kak-zhe-on-dolgo-sobiraetsya.md)] — «отстать от ребёнка, дать ему время; отстать от ребёнка, пристать к мужу»
 - [[lnv-vypusk-245](pages/lnv-vypusk-245.md)] — разобрано на замечаниях об осанке: результат прямо обратен заявленной цели
+- [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — «не рыть»: частые разговоры о дружбе сами внушают ребёнку, что с ним что-то не так
 
 ## Related Concepts
 

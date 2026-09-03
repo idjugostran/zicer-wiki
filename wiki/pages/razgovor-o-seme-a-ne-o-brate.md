@@ -3,7 +3,7 @@ title: Разговор о семье, а не об отношениях с бр
 category: Concepts
 summary: Спрашивая ребёнка, каких отношений он хочет с братом, взрослый сообщает ему свои ожидания; вопрос «как бы ты хотел, чтобы была устроена наша семья» тех же ожиданий не несёт и потому оказывается для ребёнка зоной безопасности
 tags: [concept, siblingi, semya, vopros, granitsy, kommunikatsiya]
-sources: [kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-249]
+sources: [kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-249, lnv-vypusk-239]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -31,8 +31,10 @@ updated: 2026-09-03
 - [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)] — родители называют свои границы наравне с детьми
 - [[vopros-na-ego-meste-eto-glyuk](pages/vopros-na-ego-meste-eto-glyuk.md)] — вторая правка формулировки из того же разбора
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — почему угаданный ребёнком «правильный» ответ бесполезен
+- [[delitsya-izmeneniem-a-ne-otprashivatsya](pages/delitsya-izmeneniem-a-ne-otprashivatsya.md)] — позиция родителя в том же разговоре
 
 ## Appearances in Sources
 
 - [[kogda-starshiy-brat-koshmarit-mladshego](pages/kogda-starshiy-brat-koshmarit-mladshego.md)] — сформулировано впервые: Зицер правит собственную формулировку посреди фразы
 - [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — восьмилетней сестре предлагают вопрос о том, как устроить их общую жизнь, а не претензию про брата
+- [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — граница в звонке про беременность: у подростка не спрашивают разрешения

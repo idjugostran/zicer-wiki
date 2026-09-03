@@ -3,7 +3,7 @@ title: Говорить неприятное и быть услышанным
 category: Concepts
 summary: Главный секрет жизни без конфликтов, по Зицеру — говорить вслух то, что трудно, неприятно, что хочется поменять, и одинаково важно быть услышанным в ответ; без взаимного «я слышу» замечание просто повторяется всё громче
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [chto-delat-esli-mama-ochen-pristaet, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, doch-revnuet-i-ustraivaet-skandaly, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu]
+sources: [chto-delat-esli-mama-ochen-pristaet, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, doch-revnuet-i-ustraivaet-skandaly, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, lnv-vypusk-239]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-mama-ochen-pristaet](pages/chto-delat-esli-mama-ochen-pristaet.md)] — вводит концепт целиком: диагноз, что девочка никогда не говорит маме «мне неприятно», формулировка «главного секрета»
 - [[proklyataya-chelka-ili-kak-perestat-delat-zamechaniya](pages/proklyataya-chelka-ili-kak-perestat-delat-zamechaniya.md)] — дочь уже сказала «не говори мне про волосы»; разбор адресован тому, кто не услышал
 - [[doch-revnuet-i-ustraivaet-skandaly](pages/doch-revnuet-i-ustraivaet-skandaly.md)] — «мне от этого больно» со стороны родителя: дочь этой просьбы попросту не слышала
+- [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — сказать матери, что вы слышите её лучше без жёстких слов
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Родитель как заказчик образования
 category: Concepts
 summary: Клиент образования — ребёнок и родители, а не государство; без сформулированного конкретного «заказа» к школе система неизбежно деградирует, как ресторан без заказов посетителей
 tags: [concept, roditelstvo, kurs-12-urokov, shkola]
-sources: [kurs-12-urokov-urok-7, lnv-vypusk-221, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, kak-provodit-klassnye-ekskursii-dlya-detey, nam-popalas-plohaya-uchilka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, lnv-vypusk-246, lnv-vypusk-238]
+sources: [kurs-12-urokov-urok-7, lnv-vypusk-221, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, kak-provodit-klassnye-ekskursii-dlya-detey, nam-popalas-plohaya-uchilka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-239]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[nam-popalas-plohaya-uchilka](pages/nam-popalas-plohaya-uchilka.md)] — заказчик в переговорном режиме: искать пересечение интересов, а не доказывать правоту
 - [[lnv-vypusk-246](pages/lnv-vypusk-246.md)] — два случая смены площадки вместо борьбы за место: домашнее обучение вместо школы, требующей ухода, и поиск другой школы после учительских оскорблений
 - [[lnv-vypusk-238](pages/lnv-vypusk-238.md)] — «мы такого не заказывали» и «я отдала вам дочку»: сформулированный заказ как точка входа в разговор с родителем
+- [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — учитель Илья готовит родительское собрание: начинать с выигрыша родителей и детей, а не оправдываться
 
 ## Related Concepts
 

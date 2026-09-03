@@ -3,7 +3,7 @@ title: Ощущение дома
 category: Concepts
 summary: Ощущение дома складывается из конкретных мелочей и знакомых деталей, а не из гражданства, языка или «привычности» страны; ребёнок формирует его быстро, если взрослый сам определился со своим ответом
 tags: [concept, roditelstvo, pereezd]
-sources: [chto-meshaet-docheri-izbavitsya-ot-nostalgii, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, rebenok-v-shkole-ne-razgovarivaet, kto-ya-svoey-padcheritse, devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
+sources: [chto-meshaet-docheri-izbavitsya-ot-nostalgii, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, rebenok-v-shkole-ne-razgovarivaet, kto-ya-svoey-padcheritse, devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-239]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[devochka-13-let-poteryala-vkus-k-zhizni](pages/devochka-13-let-poteryala-vkus-k-zhizni.md)] — «стены, которые я вижу, улицы, по которым хожу»: то, за что можно зацепиться в одиннадцать лет
 - [[kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov](pages/kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov.md)] — «нет той реальности» и «дома и стены лечат»
 - [[chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — ночник, вывезенный из Херсона в рюкзаке с подгузниками как «маячок»
+- [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — до полутора-двух лет «папа и мама — это и есть его дом», и дом перемещается вместе с ребёнком
 
 ## Related Concepts
 
@@ -33,3 +34,4 @@ updated: 2026-09-03
 - [[pochemu-ona-mne-vret](pages/pochemu-ona-mne-vret.md)] — тот же контекст вынужденного переезда, но там задача — восстановить опоры и стабильность, здесь — определить сам смысл «дома»
 - [[svoy-chuzhoy-kak-lozhnaya-opora](pages/svoy-chuzhoy-kak-lozhnaya-opora.md)] — противоположный ход на том же материале: не собрать ощущение дома на новом месте, а поставить под вопрос саму нужду быть своим
 - [[izrail-kak-dom](pages/izrail-kak-dom.md)] — дом как отложенное обещание убежища, а не как место проживания
+- [[chem-uluchshitsya-zhizn-rebenka-pri-pereezde](pages/chem-uluchshitsya-zhizn-rebenka-pri-pereezde.md)] — проверочный вопрос до переезда; здесь — адаптация после него

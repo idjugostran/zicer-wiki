@@ -3,7 +3,7 @@ title: Войти внутрь, чтобы вывести
 category: Concepts
 summary: Ребёнка, который не может оторваться от захватившего его занятия, не зовут снаружи: взрослый входит в это занятие вместе с ним и выходит вместе с ним — потому что сам ребёнок выйти не может
 tags: [concept, sdvg, igra, doshkolniki, mladshie-shkolniki, tehnika, pomoshch]
-sources: [lnv-vypusk-314]
+sources: [lnv-vypusk-314, lnv-vypusk-239]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -33,3 +33,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — сформулировано впервые: восьмилетняя Ор с СДВГ, которая не может закончить игру
+- [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — «попроситесь внутрь»: сесть рядом во время компьютерной игры девятилетнего

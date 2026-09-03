@@ -3,7 +3,7 @@ title: Личность, а не поведение
 category: Concepts
 summary: Личность присутствует с рождения независимо от возраста и способностей; мы часто путаем конкретное поведение (проявление) с личностным содержанием (желанием) за ним, и «чиним» не ту причину
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-10, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, syn-beret-chuzhie-veshchi, moy-rebenok-sovsem-nichego-ne-est, kak-byt-esli-vashego-rebenka-schitayut-huliganom, kak-dobitsya-mira-so-svoimi-detmi, kak-byt-esli-devochka-ne-hochet-zdorovatsya]
+sources: [kurs-12-urokov-urok-10, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, syn-beret-chuzhie-veshchi, moy-rebenok-sovsem-nichego-ne-est, kak-byt-esli-vashego-rebenka-schitayut-huliganom, kak-dobitsya-mira-so-svoimi-detmi, kak-byt-esli-devochka-ne-hochet-zdorovatsya, lnv-vypusk-239]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -24,6 +24,7 @@ updated: 2026-09-03
 - [[syn-beret-chuzhie-veshchi](pages/syn-beret-chuzhie-veshchi.md)] — «он не юный преступник, не бандит, не карманник»: поступок отделён от личности
 - [[moy-rebenok-sovsem-nichego-ne-est](pages/moy-rebenok-sovsem-nichego-ne-est.md)] — главный риск не в рационе, а в том, что у ребёнка создастся впечатление, будто с ним что-то не так
 - [[kak-byt-esli-devochka-ne-hochet-zdorovatsya](pages/kak-byt-esli-devochka-ne-hochet-zdorovatsya.md)] — наблюдение верное, но превращение его в свойство человека — нет
+- [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — Зицер прерывает мать и запрещает слово «украл» применительно к шестилетнему
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Граница интимности
 category: Concepts
 summary: Есть вещи, которые человек хранит только для себя, включая собственные интересы; эту границу нарушают сразу с нескольких сторон — тот, кто показывает, тот, кто пересылает дальше, и тот, кто демонстрирует, — а в принуждении смотреть есть элемент насилия
 tags: [concept, granitsy, seksualnoe-prosveshchenie, internet, bezopasnost]
-sources: [rebenok-v-8-let-smotrit-zapreshchennyi-kontent, mozhet-li-rebenka-razvratit-nagota-roditeley, obysk-desyatiklassnikov-v-orske]
+sources: [rebenok-v-8-let-smotrit-zapreshchennyi-kontent, mozhet-li-rebenka-razvratit-nagota-roditeley, obysk-desyatiklassnikov-v-orske, lnv-vypusk-239]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[rebenok-v-8-let-smotrit-zapreshchennyi-kontent](pages/rebenok-v-8-let-smotrit-zapreshchennyi-kontent.md)] — вводит концепт: что хранится только для себя, кто именно нарушает границу, элемент насилия в принуждении, вход через историю с чужим телефоном
 - [[mozhet-li-rebenka-razvratit-nagota-roditeley](pages/mozhet-li-rebenka-razvratit-nagota-roditeley.md)] — травматично не тело, а принуждение: «человека раздевают насильно и выставляют напоказ»
 - [[obysk-desyatiklassnikov-v-orske](pages/obysk-desyatiklassnikov-v-orske.md)] — «они нарушили границу человеческого тела»: досмотр как насилие независимо от цели
+- [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — просьба четырнадцатилетнего удалить его детские фотографии из соцсетей
 
 ## Related Concepts
 
