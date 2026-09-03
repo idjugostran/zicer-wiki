@@ -56,3 +56,4 @@ updated: 2026-09-03
 - [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)] — практический инструмент именно для момента кризиса трёх лет: родитель показывает свою отдельность, помогая ребёнку осознать себя отдельной личностью
 - [[detskie-samoubiystva-kak-simptom-sistemy](pages/detskie-samoubiystva-kak-simptom-sistemy.md)] — переходный возраст как контекст, в котором разворачивается описанный там системный конфликт
 - [[okno-v-desyat-let](pages/okno-v-desyat-let.md)] — возрастная граница, за которой перенимание сменяется отталкиванием
+- [[regressiya-pri-poyavlenii-mladshego](pages/regressiya-pri-poyavlenii-mladshego.md)] — ещё один случай, когда поведение объясняется этапом, а не характером

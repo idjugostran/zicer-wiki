@@ -34,3 +34,4 @@ updated: 2026-09-03
 - [[ventilyatsiya](pages/ventilyatsiya.md)] — режим, в котором такая просьба высказывается
 - [[prosto-poprosit](pages/prosto-poprosit.md)] — та же логика в отношениях с ребёнком
 - [[talant-ne-propadaet](pages/talant-ne-propadaet.md)] — лучший исход занятий: ребёнок сам приходит и просит денег, помощи, смены учителя
+- [[pomogayte-poka-pomoshch-nuzhna](pages/pomogayte-poka-pomoshch-nuzhna.md)] — родительская сторона того же: помощь оказывают, пока её просят

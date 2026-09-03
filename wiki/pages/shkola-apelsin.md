@@ -3,7 +3,7 @@ title: Школа «Апельсин»
 category: Entities
 summary: Школа неформального образования в Санкт-Петербурге, основана Димой и Наташей Зицер в 2008 году
 tags: [entity, shkola, shkola-apelsin]
-sources: [apelsinovye-budni, urok-matematiki-v-shkole-apelsin, lnv-v-gostyah-u-zicera-chast-1, ii-v-shkole-zlo-ili-blagoslovenie, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami]
+sources: [apelsinovye-budni, urok-matematiki-v-shkole-apelsin, lnv-v-gostyah-u-zicera-chast-1, ii-v-shkole-zlo-ili-blagoslovenie, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami, kak-zhe-on-dolgo-sobiraetsya]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane](pages/rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane.md)] — позиция Зицера о цене частного образования: 10% и 200% стоимости обучения, против элитарности
 - [[syn-beret-chuzhie-veshchi](pages/syn-beret-chuzhie-veshchi.md)] — случай из практики школы: младшая девочка, начавшая брать чужие вещи через две недели после раннего поступления
 - [[moya-doch-ne-delitsya-chuvstvami](pages/moya-doch-ne-delitsya-chuvstvami.md)] — фильм про «Апельсин» как отправная точка родительской установки на автономность ребёнка
+- [[kak-zhe-on-dolgo-sobiraetsya](pages/kak-zhe-on-dolgo-sobiraetsya.md)] — случай «ну так ты помоги мне, толстячок»: самокритичный пример, рассказанный коллегой на себя
 
 ## Related Concepts
 

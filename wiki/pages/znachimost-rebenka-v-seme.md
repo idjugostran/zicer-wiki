@@ -34,3 +34,4 @@ updated: 2026-09-03
 - [[modeli-povedeniya](pages/modeli-povedeniya.md)] — механизм усвоения давления как модели, которая затем ищет выход на более слабом
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — тот же принцип реального включения ребёнка вместо формального требования (там — в мир взрослого, здесь — в решения семьи)
 - [[sleduyushchee-sobytie-zatmevaet-predydushchee](pages/sleduyushchee-sobytie-zatmevaet-predydushchee.md)] — почему значимость приходится проговаривать и вспоминать, а не считать достигнутой
+- [[regressiya-pri-poyavlenii-mladshego](pages/regressiya-pri-poyavlenii-mladshego.md)] — что перераспределяется в семье с появлением второго ребёнка

@@ -3,7 +3,7 @@ title: Субъективное время ребёнка и взрослого
 category: Concepts
 summary: Три года для взрослого — миг, для шестилетнего ребёнка — большая часть сознательной жизни; парадигма «подготовки к жизни» (детский сад готовит к школе, школа — к вузу) игнорирует эту разницу и подменяет текущую жизнь ребёнка ожиданием будущей
 tags: [concept, roditelstvo, kniga]
-sources: [kniga-lyubit-nelzya-vospityvat, chto-takoe-dogovor-s-rebenkom, v-poslednee-vremya-syn-ochen-grustit, kuda-zhe-my-toropimsya]
+sources: [kniga-lyubit-nelzya-vospityvat, chto-takoe-dogovor-s-rebenkom, v-poslednee-vremya-syn-ochen-grustit, kuda-zhe-my-toropimsya, kak-zhe-on-dolgo-sobiraetsya]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -20,6 +20,7 @@ updated: 2026-09-03
 - [[chto-takoe-dogovor-s-rebenkom](pages/chto-takoe-dogovor-s-rebenkom.md)] — ребёнок в 11 лет учится взаимодействовать с собственным временем, а родитель провожает его по этому пути
 - [[v-poslednee-vremya-syn-ochen-grustit](pages/v-poslednee-vremya-syn-ochen-grustit.md)] — «я и так никогда дома не бываю» как аргумент восьмилетнего против выходных вылазок
 - [[kuda-zhe-my-toropimsya](pages/kuda-zhe-my-toropimsya.md)] — «мы не живём, мы только готовимся и бежим», применённое к десятикласснику на Кипре
+- [[kak-zhe-on-dolgo-sobiraetsya](pages/kak-zhe-on-dolgo-sobiraetsya.md)] — «пять минут — совсем абстрактная история для этого возраста»
 
 ## Related Concepts
 

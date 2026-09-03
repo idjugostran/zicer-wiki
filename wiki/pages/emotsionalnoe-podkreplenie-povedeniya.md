@@ -40,3 +40,4 @@ updated: 2026-09-03
 - [[manipulyatsiya](pages/manipulyatsiya.md)] — соседняя тема: где ребёнок увидел силовую модель как успешную
 - [[aplodismenty-kak-radost-a-ne-otsenka](pages/aplodismenty-kak-radost-a-ne-otsenka.md)] — зеркальный случай: реакцию не убирают, а отвязывают от заслуги
 - [[dve-sfery-povedeniya](pages/dve-sfery-povedeniya.md)] — соседний случай: проблему создаёт не поведение ребёнка, а внимание взрослого к нему
+- [[regressiya-pri-poyavlenii-mladshego](pages/regressiya-pri-poyavlenii-mladshego.md)] — возрастной механизм, стоящий за возвратом к утраченным умениям

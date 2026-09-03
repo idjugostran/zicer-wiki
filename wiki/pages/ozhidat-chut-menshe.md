@@ -34,3 +34,4 @@ updated: 2026-09-03
 - [[pristroyka](pages/pristroyka.md)] — способы, которыми ребёнок сам справляется в это время
 - [[day-mne-vremya](pages/day-mne-vremya.md)] — тот же отказ торопить, но затребованный самим ребёнком
 - [[protiv-vysokih-formulirovok](pages/protiv-vysokih-formulirovok.md)] — «принятие», переведённое в проверяемое действие
+- [[regressiya-pri-poyavlenii-mladshego](pages/regressiya-pri-poyavlenii-mladshego.md)] — снижение требований как рабочий ответ на откат после рождения младшего
