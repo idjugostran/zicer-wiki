@@ -3,7 +3,7 @@ title: Травма у всех украинских детей
 category: Concepts
 summary: У ста процентов украинских детей — вне зависимости от того, в Украине они или уехали — произошёл слом личности, детства и системы координат; они заняты самовыживанием, и относиться к ним как к нетравмированным нельзя
 tags: [concept, voyna, ukraina, travma, obuchenie]
-sources: [kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-zabila-na-vse, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, mozhno-li-pomoch-rodnym-izdaleka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy]
+sources: [kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-zabila-na-vse, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, mozhno-li-pomoch-rodnym-izdaleka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, chto-pomogaet-detyam-vyzhit-na-voyne]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[kak-vo-vremya-voyny-uspokaivat-sebya-i-detey](pages/kak-vo-vremya-voyny-uspokaivat-sebya-i-detey.md)] — именно этот тезис вызвал у матери чувство вины за то, что она привезла детей в Хайфу
 - [[mozhno-li-pomoch-rodnym-izdaleka](pages/mozhno-li-pomoch-rodnym-izdaleka.md)] — «независимо от того, в Германии или в Одессе»; отсюда выводится режим вентиляции
 - [[kak-uchitelyu-pomoch-uchenikam-iz-ukrainy](pages/kak-uchitelyu-pomoch-uchenikam-iz-ukrainy.md)] — «совершенно обожжённые дети»: институциональный вывод из того же диагноза
+- [[chto-pomogaet-detyam-vyzhit-na-voyne](pages/chto-pomogaet-detyam-vyzhit-na-voyne.md)] — вводит понятие пристройки: как именно дети приспосабливаются к войне
 
 ## Related Concepts
 

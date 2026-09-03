@@ -3,7 +3,7 @@ title: Просто попросить
 category: Concepts
 summary: Самое пропускаемое решение: сказать ребёнку «мне от этого больно, я прошу тебя этого не делать»; изнутри ситуации простые ходы не видны, а ребёнок этой просьбы часто попросту не слышал
 tags: [concept, roditelstvo, kommunikatsiya, podrostki]
-sources: [doch-revnuet-i-ustraivaet-skandaly, kak-pomoch-rebenku-prinyat-novuyu-realnost]
+sources: [doch-revnuet-i-ustraivaet-skandaly, kak-pomoch-rebenku-prinyat-novuyu-realnost, chto-pomogaet-detyam-vyzhit-na-voyne]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[myach-na-ego-polovine-polya](pages/myach-na-ego-polovine-polya.md)] — соседний приём: не просьба, а вопрос, возвращающий инициативу
 - [[fakt-biografii-ne-obsuzhdaetsya](pages/fakt-biografii-ne-obsuzhdaetsya.md)] — черта, которая должна быть проведена до просьбы
 - [[usloviya-trudnogo-razgovora](pages/usloviya-trudnogo-razgovora.md)] — требование говорить в спокойной обстановке, не связанной с конфликтом
+- [[prosit-o-pomoshchi-eto-sila](pages/prosit-o-pomoshchi-eto-sila.md)] — та же логика между взрослыми: просьба как решительный поступок
 
 ## Footnotes
 

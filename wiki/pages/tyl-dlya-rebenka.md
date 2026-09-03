@@ -3,7 +3,7 @@ title: «Тыл» для ребёнка
 category: Concepts
 summary: Главное правило Зицера для родителей подростков — создать дома «тыл», пространство, где можно побыть слабым и отдохнуть от внешнего давления, а не продолжение воспитательного контроля
 tags: [concept, roditelstvo, podrostki]
-sources: [kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey]
+sources: [kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, chto-pomogaet-detyam-vyzhit-na-voyne]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -33,3 +33,4 @@ updated: 2026-09-03
 - [[detskie-samoubiystva-kak-simptom-sistemy](pages/detskie-samoubiystva-kak-simptom-sistemy.md)] — тыл как одно из немногих практических условий профилактики в этой рамке
 - [[samopovrezhdenie-kak-signal](pages/samopovrezhdenie-kak-signal.md)] — смежная тема нехватки безопасного пространства и близости
 - [[mama-direktor-kluba](pages/mama-direktor-kluba.md)] — дом как последнее место перед улицей для компании, которую больше нигде не принимают
+- [[zhivaya-i-ne-zamorozhennaya](pages/zhivaya-i-ne-zamorozhennaya.md)] — уточнение: тыл не равен непроницаемости взрослого
