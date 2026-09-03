@@ -3,7 +3,7 @@ title: Я на твоей стороне, но не могу тебе этого
 category: Concepts
 summary: Формула запрета, которая не разрывает отношения: граница называется как своя, ребёнок остаётся союзником, и из этой точки обсуждается всё остальное
 tags: [concept, granitsy, otkaz, formulirovki, bezopasnost]
-sources: [kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, mne-nravitsya-kak-papa-reagiruet, lnv-vypusk-247, lnv-vypusk-236, lnv-vypusk-227, lnv-vypusk-226]
+sources: [kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, mne-nravitsya-kak-papa-reagiruet, lnv-vypusk-247, lnv-vypusk-236, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-210]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -30,6 +30,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — «не могу позволить, чтобы ты так мучилась» как вход в разговор о смене школы
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — «давай мы поменяем это в твою пользу» как форма захода отца к двенадцатилетней дочери
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — «котик, я тебя очень люблю» и следом «я не могу тебе позволить»
+- [[lnv-vypusk-210](pages/lnv-vypusk-210.md)] — пошаговая форма отказа двухлетней внучке на дороге: взять за руку, сесть на корточки, назвать любовь и невозможность позволить
 
 ## Related Concepts
 

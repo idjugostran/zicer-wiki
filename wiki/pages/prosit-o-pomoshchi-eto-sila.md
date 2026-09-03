@@ -5,7 +5,7 @@ summary: Просьба о поддержке — решительный пос�
 tags: [concept, podderzhka, sila, semya, otnosheniya]
 sources: [chto-pomogaet-detyam-vyzhit-na-voyne, lnv-vypusk-247, lnv-vypusk-231]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Просить о помощи — это сила
@@ -38,3 +38,4 @@ updated: 2026-09-03
 - [[talant-ne-propadaet](pages/talant-ne-propadaet.md)] — лучший исход занятий: ребёнок сам приходит и просит денег, помощи, смены учителя
 - [[pomogayte-poka-pomoshch-nuzhna](pages/pomogayte-poka-pomoshch-nuzhna.md)] — родительская сторона того же: помощь оказывают, пока её просят
 - [[uchitsya-dyshat-inache](pages/uchitsya-dyshat-inache.md)] — случай, где просьба ребёнка становится входом в обучение навыку
+- [[prosit-pomoshchi-ne-znachit-zhalovatsya](pages/prosit-pomoshchi-ne-znachit-zhalovatsya.md)] — снятие тюремной рамки с обращения за помощью
