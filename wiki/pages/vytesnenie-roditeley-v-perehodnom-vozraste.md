@@ -3,7 +3,7 @@ title: Вытеснение родителей в переходном возр�
 category: Concepts
 summary: После 10 лет родители на время вытесняются более важными людьми — одноклассниками, друзьями, иногда другими взрослыми; это возрастная норма, а не утрата контакта, и маркер настоящей проблемы другой — «пап, отстань, у меня дела»
 tags: [concept, podrostki, perehodnyi-vozrast, otnosheniya]
-sources: [papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, kak-ponyat-14-letnyuyu-doch, kak-byt-esli-ne-nravyatsya-druzya-rebenka, moya-doch-zabila-na-vse, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, kak-dobitsya-mira-so-svoimi-detmi, selfharm-trevoga-i-slezy, malchik-hochet-odevatsya-kak-devochka]
+sources: [papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, kak-ponyat-14-letnyuyu-doch, kak-byt-esli-ne-nravyatsya-druzya-rebenka, moya-doch-zabila-na-vse, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, kak-dobitsya-mira-so-svoimi-detmi, selfharm-trevoga-i-slezy, malchik-hochet-odevatsya-kak-devochka, lnv-vypusk-233]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[kak-dobitsya-mira-so-svoimi-detmi](pages/kak-dobitsya-mira-so-svoimi-detmi.md)] — четырнадцатилетние перестали выступать и фотографироваться: «может вернётся, может не вернётся»
 - [[selfharm-trevoga-i-slezy](pages/selfharm-trevoga-i-slezy.md)] — «для подростков нормально родителей из комнаты гонять»
 - [[malchik-hochet-odevatsya-kak-devochka](pages/malchik-hochet-odevatsya-kak-devochka.md)] — «очень часто родителям не за что зацепиться, а вам есть»
+- [[lnv-vypusk-233](pages/lnv-vypusk-233.md)] — дочь шестнадцати лет огрызается: «где-то замкнуло», привычка, а не утрата контакта
 
 ## Related Concepts
 

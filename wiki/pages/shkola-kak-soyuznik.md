@@ -3,7 +3,7 @@ title: Школа как союзник
 category: Concepts
 summary: На переговорах со школой ищут не правоту, а пересечение интересов: школа заинтересована погасить напряжение, сохранить ученика и не создавать волну — на этом и строится разговор, без перехода на личности
 tags: [concept, shkola, peregovory, roditelstvo]
-sources: [nam-popalas-plohaya-uchilka, moya-doch-zabila-na-vse, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, 8-letniy-malchik-stesnyaetsya-starshego-brata, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-238, lnv-vypusk-240, lnv-vypusk-241]
+sources: [nam-popalas-plohaya-uchilka, moya-doch-zabila-na-vse, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, 8-letniy-malchik-stesnyaetsya-starshego-brata, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-238, lnv-vypusk-240, lnv-vypusk-241, lnv-vypusk-233]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-238](pages/lnv-vypusk-238.md)] — два звонка о школе: разговор с директором и вопрос учительнице, как ситуацию видит она
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — при несправедливых оценках по физкультуре вход в конфликт идёт через классного руководителя начальных классов, который знает ребёнка
 - [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — содействие учительницы при возвращении мальчика в класс после карантинов — попросить её встретить его при всех
+- [[lnv-vypusk-233](pages/lnv-vypusk-233.md)] — тон разговора с директором задан явно: мягко, спокойно, не конфликтно, с перечнем конкретных случаев
 
 ## Related Concepts
 

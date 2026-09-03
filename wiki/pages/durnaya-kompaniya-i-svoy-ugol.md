@@ -30,3 +30,4 @@ updated: 2026-09-03
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — запрет как реакция родительского страха, не снижающая, а повышающая реальный риск
 - [[tyl-dlya-rebenka](pages/tyl-dlya-rebenka.md)] — та же формула «тыла», в книге Зицера прямо названная главным правилом для родителей подростков
 - [[zapret-povyshaet-stoimost](pages/zapret-povyshaet-stoimost.md)] — механизм, по которому запрет выносит происходящее из зоны разговора
+- [[vstrecha-doma-vmesto-domashki](pages/vstrecha-doma-vmesto-domashki.md)] — та же причина в младшем возрасте: дома встречают требованием

@@ -3,7 +3,7 @@ title: Родитель как заказчик образования
 category: Concepts
 summary: Клиент образования — ребёнок и родители, а не государство; без сформулированного конкретного «заказа» к школе система неизбежно деградирует, как ресторан без заказов посетителей
 tags: [concept, roditelstvo, kurs-12-urokov, shkola]
-sources: [kurs-12-urokov-urok-7, lnv-vypusk-221, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, kak-provodit-klassnye-ekskursii-dlya-detey, nam-popalas-plohaya-uchilka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-240]
+sources: [kurs-12-urokov-urok-7, lnv-vypusk-221, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, kak-provodit-klassnye-ekskursii-dlya-detey, nam-popalas-plohaya-uchilka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-233]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-238](pages/lnv-vypusk-238.md)] — «мы такого не заказывали» и «я отдала вам дочку»: сформулированный заказ как точка входа в разговор с родителем
 - [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — учитель Илья готовит родительское собрание: начинать с выигрыша родителей и детей, а не оправдываться
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — музыкальная школа проверяется по заказу самого ребёнка, а не по слуху и чужим рекомендациям
+- [[lnv-vypusk-233](pages/lnv-vypusk-233.md)] — заказ школе предъявляется через прямое цитирование закона об образовании в эфире
 
 ## Related Concepts
 
@@ -38,3 +39,4 @@ updated: 2026-09-03
 - [[shkola-kak-soyuznik](pages/shkola-kak-soyuznik.md)] — та же позиция на переговорах: заказчик ищет пересечение интересов, а не воюет с исполнителем
 - [[semeynyi-seminar-dlya-roditeley](pages/semeynyi-seminar-dlya-roditeley.md)] — работа школы с родителями, а не только с детьми
 - [[net-nikakoy-podgotovki-k-shkole](pages/net-nikakoy-podgotovki-k-shkole.md)] — «пусть такие школы закрывают»: кто кому что должен
+- [[zakon-ob-obrazovanii-kak-instrument-roditelya](pages/zakon-ob-obrazovanii-kak-instrument-roditelya.md)] — тот же заказ, предъявленный нормой права

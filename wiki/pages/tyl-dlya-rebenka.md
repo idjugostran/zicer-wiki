@@ -38,3 +38,4 @@ updated: 2026-09-03
 - [[mama-direktor-kluba](pages/mama-direktor-kluba.md)] — дом как последнее место перед улицей для компании, которую больше нигде не принимают
 - [[zhivaya-i-ne-zamorozhennaya](pages/zhivaya-i-ne-zamorozhennaya.md)] — уточнение: тыл не равен непроницаемости взрослого
 - [[derzhitsya-do-poslednego-rubezha](pages/derzhitsya-do-poslednego-rubezha.md)] — почему ребёнок держится за отрицание, пока дома небезопасно
+- [[vstrecha-doma-vmesto-domashki](pages/vstrecha-doma-vmesto-domashki.md)] — бытовой механизм того же: чем встречает дом
