@@ -2,7 +2,7 @@
 title: Как разрешить конфликт в школе
 category: Sources
 summary: Разбор школьного насилия между пятилетними детьми: спокойно проверить другую школу, а конфликтам обучать при обязательной помощи взрослых
-tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, shkola, konflikty, bezopasnost]
+tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, shkola, konflikt, bezopasnost]
 sources: [kak-razreshit-konflikt-v-shkole]
 created: 2026-09-02
 updated: 2026-09-03

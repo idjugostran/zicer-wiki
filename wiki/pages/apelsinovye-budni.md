@@ -2,7 +2,7 @@
 title: "«Апельсиновые будни»: всё о школе «Апельсин»"
 category: Sources
 summary: Документальный фильм-интервью о школе неформального образования «Апельсин» — расписание, самоуправление, отказ от оценок и домашних заданий, устройство пространств
-tags: [source, transcript, apelsin, dima-zicer, shkola]
+tags: [source, transcript, shkola-apelsin, dima-zicer, shkola]
 sources: [apelsinovye-budni]
 created: 2026-08-04
 updated: 2026-08-29

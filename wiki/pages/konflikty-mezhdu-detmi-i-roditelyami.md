@@ -2,7 +2,7 @@
 title: Дима Зицер о конфликтах между детьми и родителями
 category: Sources
 summary: Радиоэфир с звонками слушателей всех возрастов — дети как «последняя дискриминируемая группа», практика равного диалога и телесной саморегуляции на живых примерах
-tags: [source, transcript, konflikty, dima-zicer, hochu-vse-znat]
+tags: [source, transcript, konflikt, dima-zicer, hochu-vse-znat]
 sources: [konflikty-mezhdu-detmi-i-roditelyami]
 created: 2026-08-04
 updated: 2026-09-03

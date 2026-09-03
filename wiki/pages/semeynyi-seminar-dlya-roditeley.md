@@ -2,7 +2,7 @@
 title: Семейный семинар для родителей
 category: Concepts
 summary: Родителю, поступающему странно, чаще всего просто никто никогда не объяснял, чем это плохо; ответ — собрать родителей в неформальный круг и спокойно объяснить рационал, взяв ответственность на себя
-tags: [concept, roditeli, shkola, prosveshchenie, pedagogika]
+tags: [concept, roditelstvo, shkola, prosveshchenie, pedagogika]
 sources: [kak-uchitelyu-pomoch-uchenikam-iz-ukrainy]
 created: 2026-09-03
 updated: 2026-09-03

@@ -3,7 +3,7 @@ title: Особенность не извиняет поступок
 category: Concepts
 summary: Гиперактивность может объяснять неспособность остановиться, но не объясняет и не извиняет мат и удар в лицо; диагноз — это то, с чем учатся жить, а не индульгенция
 tags: [concept, sdvg, otvetstvennost, agressiya, diagnostika]
-sources: [vashego-rebenka-schitayut-huliganom]
+sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -22,7 +22,7 @@ updated: 2026-09-03
 
 ## Appearances in Sources
 
-- [[vashego-rebenka-schitayut-huliganom](pages/vashego-rebenka-schitayut-huliganom.md)] — «это не связанные вещи»: диагноз не оправдывает мат и удар в лицо
+- [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] — «это не связанные вещи»: диагноз не оправдывает мат и удар в лицо
 
 ## Related Concepts
 
@@ -33,6 +33,6 @@ updated: 2026-09-03
 
 ## Footnotes
 
-[^1]: [[vashego-rebenka-schitayut-huliganom](pages/vashego-rebenka-schitayut-huliganom.md)] [00:09:57]-[00:10:30] — «если у него есть гиперактивность или нет, это абсолютно не объясняет и не извиняет то, что он ругается матом, то, что он бьёт человека в лицо. Это не связанные вещи»; «определённый синдром, с которым человек должен научиться жить»
-[^2]: [[vashego-rebenka-schitayut-huliganom](pages/vashego-rebenka-schitayut-huliganom.md)] [00:10:30]-[00:10:50] — «не исключено, что он бьёт человека в лицо, когда его обзывают, потому что он не может остановиться»; «а Костя не может»; «я, конечно, это не утверждаю, я же Костю не знаю»
-[^3]: [[vashego-rebenka-schitayut-huliganom](pages/vashego-rebenka-schitayut-huliganom.md)] [00:13:39]-[00:13:58] — «вы понимаете, что я на его стороне, когда я говорю: идите к специалисту»; «он ведёт себя так не по собственному выбору»
+[^1]: [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] [00:09:57]-[00:10:30] — «если у него есть гиперактивность или нет, это абсолютно не объясняет и не извиняет то, что он ругается матом, то, что он бьёт человека в лицо. Это не связанные вещи»; «определённый синдром, с которым человек должен научиться жить»
+[^2]: [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] [00:10:30]-[00:10:50] — «не исключено, что он бьёт человека в лицо, когда его обзывают, потому что он не может остановиться»; «а Костя не может»; «я, конечно, это не утверждаю, я же Костю не знаю»
+[^3]: [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] [00:13:39]-[00:13:58] — «вы понимаете, что я на его стороне, когда я говорю: идите к специалисту»; «он ведёт себя так не по собственному выбору»

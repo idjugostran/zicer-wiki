@@ -3,7 +3,7 @@ title: Поменяться ролями в игре
 category: Concepts
 summary: Вместо повторной просьбы — сценка днём, сыгранная дважды: сначала ребёнок ищет слова, чтобы попросить взрослого, потом взрослый просит его теми же словами, которые ребёнок нашёл сам
 tags: [concept, igra, doshkolniki, prosba, granitsy]
-sources: [otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
+sources: [chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -24,7 +24,7 @@ updated: 2026-09-03
 
 ## Appearances in Sources
 
-- [[otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — сценка с ночником, сыгранная днём и дважды
+- [[chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — сценка с ночником, сыгранная днём и дважды
 
 ## Related Concepts
 
@@ -35,4 +35,4 @@ updated: 2026-09-03
 
 ## Footnotes
 
-[^1]: [[otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] [00:13:07]-[00:14:12] [synthesis] — «поиграйте днём, не ночью, когда ты без сил», первый прогон (Максим ложится спать, мама играет), «как Максиму попросить маму, чтобы она этого не делала», второй прогон с переменой ролей, «мама теми же словами, которые Максим попросил, попросит Максима», «не гарантирую тебе, что это сработает, но шансы есть»
+[^1]: [[chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] [00:13:07]-[00:14:12] [synthesis] — «поиграйте днём, не ночью, когда ты без сил», первый прогон (Максим ложится спать, мама играет), «как Максиму попросить маму, чтобы она этого не делала», второй прогон с переменой ролей, «мама теми же словами, которые Максим попросил, попросит Максима», «не гарантирую тебе, что это сработает, но шансы есть»

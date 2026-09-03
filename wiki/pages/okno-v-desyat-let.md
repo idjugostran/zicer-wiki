@@ -2,7 +2,7 @@
 title: Окно в десять лет
 category: Concepts
 summary: Приёмы, основанные на подражании взрослому, работают, пока ребёнок ещё перенимает его модель; около двенадцати лет знак меняется на противоположный — и не по слабости, а потому, что человек начинает исследовать мир, пробуя иначе
-tags: [concept, vozrast, modeli, podrostki, granitsy-priemov]
+tags: [concept, roditelstvo, modeli-povedeniya, podrostki, granitsy]
 sources: [chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru]
 created: 2026-09-03
 updated: 2026-09-03

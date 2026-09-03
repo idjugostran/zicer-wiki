@@ -2,7 +2,7 @@
 title: Школа «Апельсин»
 category: Entities
 summary: Школа неформального образования в Санкт-Петербурге, основана Димой и Наташей Зицер в 2008 году
-tags: [entity, shkola, apelsin]
+tags: [entity, shkola, shkola-apelsin]
 sources: [apelsinovye-budni, urok-matematiki-v-shkole-apelsin, lnv-v-gostyah-u-zicera-chast-1, ii-v-shkole-zlo-ili-blagoslovenie, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami]
 created: 2026-08-04
 updated: 2026-09-03

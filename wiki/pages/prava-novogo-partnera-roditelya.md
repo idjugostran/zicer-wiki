@@ -3,7 +3,7 @@ title: Права нового партнёра родителя нужно пр
 category: Concepts
 summary: Роль отчима или мачехи по отношению к ребёнку партнёра не возникает автоматически из совместного проживания — право немного воспитывать, обижаться, стоять на своём нужно отдельно проговорить и согласовать, иначе оно просто не работает
 tags: [concept, roditelstvo, smeshannaya-semya]
-sources: [kak-naladit-otnosheniya-s-docheryu-13-let, kto-ya-svoey-padcheritse, otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
+sources: [kak-naladit-otnosheniya-s-docheryu-13-let, kto-ya-svoey-padcheritse, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
 created: 2026-09-02
 updated: 2026-09-03
 ---

@@ -2,7 +2,7 @@
 title: Как СПАСТИ 15-летнего сына
 category: Sources
 summary: Тяжёлый звонок про сына, скатывающегося по «наклонной плоскости» (вплоть до наркотиков) — диагностика «мы, а не он» вскрывает отнятую субъектность; ключевой вопрос «зачем ему жить»
-tags: [source, video, lnv, podrostki, krizis]
+tags: [source, video, lnv, podrostki, vozrastnye-krizisy]
 sources: [kak-spasti-15-letnego-syna]
 created: 2026-08-30
 updated: 2026-08-30

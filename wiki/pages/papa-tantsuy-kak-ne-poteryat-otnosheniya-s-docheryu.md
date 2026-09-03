@@ -2,7 +2,7 @@
 title: «Папа, танцуй!..» (Как НЕ ПОТЕРЯТЬ ОТНОШЕНИЯ С ДОЧЕРЬЮ)
 category: Sources
 summary: Отец пять лет общается с 10-летней дочерью по видеосвязи и чувствует, что круг тем сузился до хвастовства подарками и танцев; Зицер показывает, что это не потеря контакта, а нормальное вытеснение родителей, и советует превратить оставшуюся тему во вход — пусть она учит его хип-хопу
-tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, razvod, otnosheniya-na-rasstoyanii, perehodnyi-vozrast]
+tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, razvod, na-rasstoyanii, perehodnyi-vozrast]
 sources: [papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu]
 created: 2026-09-03
 updated: 2026-09-03

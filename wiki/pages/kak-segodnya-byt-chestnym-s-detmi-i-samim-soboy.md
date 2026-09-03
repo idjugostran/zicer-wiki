@@ -2,7 +2,7 @@
 title: Как сегодня БЫТЬ ЧЕСТНЫМ с детьми и САМИМ СОБОЙ
 category: Sources
 summary: Отец, два года назад уехавший из России, спрашивает, как объяснить детям свои отъезды; Зицер отказывается давать личный совет, показывает, что удобное объяснение потребует лгать о причине отъезда, и называет главный риск — прямой путь к двоемыслию
-tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, emigratsiya, chestnost, voyna, semya-na-rasstoyanii]
+tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, emigratsiya, chestnost, voyna, na-rasstoyanii]
 sources: [kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy]
 created: 2026-09-03
 updated: 2026-09-03

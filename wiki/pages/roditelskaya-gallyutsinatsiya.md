@@ -3,7 +3,7 @@ title: Родительская галлюцинация
 category: Concepts
 summary: Услышав от ребёнка одну фразу, взрослый мгновенно достраивает целое будущее и реагирует уже на него: ребёнок сказал «влюбился» — его уже женили; опоздал на полчаса — уже видят под самосвалом. Это происходит у всех, и это глюк родителя, а не ребёнка
 tags: [concept, roditelskiy-strakh, modeli-povedeniya, roditelstvo]
-sources: [kak-byt-esli-syn-vlyubilsya-v-druga, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-aktivnoy-mame-zhit-s-synom-introvertom, malchik-6-let-hochet-pomogat-ukraine, otnosheniya-s-4-letnim-synom-stali-uhudshatsya, malchik-hochet-odevatsya-kak-devochka]
+sources: [kak-byt-esli-syn-vlyubilsya-v-druga, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-aktivnoy-mame-zhit-s-synom-introvertom, malchik-6-let-hochet-pomogat-ukraine, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, malchik-hochet-odevatsya-kak-devochka]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -27,7 +27,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-rebenok-boitsya-vsego-novogo](pages/chto-delat-esli-rebenok-boitsya-vsego-novogo.md)] — «ты говоришь о нём как о сорокалетнем»
 - [[kak-aktivnoy-mame-zhit-s-synom-introvertom](pages/kak-aktivnoy-mame-zhit-s-synom-introvertom.md)] — «начинаю рисовать себе страшные картинки будущего, несуществующие»
 - [[malchik-6-let-hochet-pomogat-ukraine](pages/malchik-6-let-hochet-pomogat-ukraine.md)] — «эмоциональное наслоение»: испуг матери при виде подобия формы достроил всю картину
-- [[otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — «мне кажется, его глаза пустые» как достроенная картина
+- [[chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — «мне кажется, его глаза пустые» как достроенная картина
 - [[malchik-hochet-odevatsya-kak-devochka](pages/malchik-hochet-odevatsya-kak-devochka.md)] — проверка в надежде услышать «нет, мама, я хочу быть боксёром»
 
 ## Related Concepts

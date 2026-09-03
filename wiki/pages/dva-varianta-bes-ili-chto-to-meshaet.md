@@ -3,7 +3,7 @@ title: Два варианта: бес или что-то мешает изну�
 category: Concepts
 summary: Риторическая вилка, которой Зицер отсекает подразумеваемую родителями версию «делает назло»: либо в ребёнка вселился бес, либо ему что-то мешает изнутри — третьего не предлагается
 tags: [concept, diagnostika, roditelstvo, agressiya]
-sources: [vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi]
+sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -20,7 +20,7 @@ updated: 2026-09-03
 
 ## Appearances in Sources
 
-- [[vashego-rebenka-schitayut-huliganom](pages/vashego-rebenka-schitayut-huliganom.md)] — вилка предъявлена дважды, с явным делением на рациональный и нерациональный вариант
+- [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] — вилка предъявлена дважды, с явным делением на рациональный и нерациональный вариант
 - [[9-letniy-malchik-beret-chuzhie-veshchi](pages/9-letniy-malchik-beret-chuzhie-veshchi.md)] — «я исхожу из того, что он не может этого не делать» как выбранная ветка вилки
 
 ## Related Concepts
@@ -32,4 +32,4 @@ updated: 2026-09-03
 
 ## Footnotes
 
-[^1]: [[vashego-rebenka-schitayut-huliganom](pages/vashego-rebenka-schitayut-huliganom.md)] [00:05:39]-[00:06:56] — «вариант первый — что в него вселился бес… бес изнутри научил его ругаться матом, бес изнутри научил его бить в случае чего»; «вариант второй — что ему что-то мешает изнутри»; «первый рациональный, второй нерациональный»; «я абсолютно уверен, что у вас чудесная семья»
+[^1]: [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] [00:05:39]-[00:06:56] — «вариант первый — что в него вселился бес… бес изнутри научил его ругаться матом, бес изнутри научил его бить в случае чего»; «вариант второй — что ему что-то мешает изнутри»; «первый рациональный, второй нерациональный»; «я абсолютно уверен, что у вас чудесная семья»

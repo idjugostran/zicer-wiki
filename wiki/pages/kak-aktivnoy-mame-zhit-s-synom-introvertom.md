@@ -2,7 +2,7 @@
 title: Как активной маме ЖИТЬ С СЫНОМ ИНТРОВЕРТОМ
 category: Sources
 summary: Шестнадцатилетнему сыну хорошо дома, у него всё в порядке в школе и в секциях, но он не заводит друзей и не рвётся гулять; Зицер отказывается видеть здесь проблему и советует матери завести второе и третье хобби
-tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, podrostki, introversiya, roditelskaya-trevoga, kovid]
+tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, podrostki, introversiya, trevoga, kovid]
 sources: [kak-aktivnoy-mame-zhit-s-synom-introvertom]
 created: 2026-09-03
 updated: 2026-09-03

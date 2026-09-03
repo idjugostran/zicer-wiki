@@ -3,7 +3,7 @@ title: Семья — это то, что мы определяем как се�
 category: Concepts
 summary: Категория «мать-одиночка» отклоняется как чепуха: состав семьи задаётся не нормой и не отсутствующим взрослым, а самим определением её участников
 tags: [concept, semya, yazyk, roditelstvo]
-sources: [otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
+sources: [chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -20,7 +20,7 @@ updated: 2026-09-03
 
 ## Appearances in Sources
 
-- [[otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — «не бывает никаких матерей-одиночек», сказанное до разбора самого вопроса
+- [[chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — «не бывает никаких матерей-одиночек», сказанное до разбора самого вопроса
 
 ## Related Concepts
 
@@ -30,4 +30,4 @@ updated: 2026-09-03
 
 ## Footnotes
 
-[^1]: [[otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] [00:00:09]-[00:00:43] — «не бывает никаких матерей-одиночек, это полная чепуха»; «семья — это то, что мы определяем как семью»; «у вас семья из двух человек, которые любят друг друга, всё отлично»
+[^1]: [[chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] [00:00:09]-[00:00:43] — «не бывает никаких матерей-одиночек, это полная чепуха»; «семья — это то, что мы определяем как семью»; «у вас семья из двух человек, которые любят друг друга, всё отлично»

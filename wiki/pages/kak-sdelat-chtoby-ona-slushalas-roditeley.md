@@ -2,7 +2,7 @@
 title: Как сделать так, ЧТОБЫ ОНА СЛУШАЛАСЬ родителей
 category: Sources
 summary: Двухлетняя София прыгает на диване, глядя матери в глаза и ожидая реакции; Зицер описывает это как установившуюся семейную традицию, которую нужно не запрещать, а заменить другой, и возлагает бо́льшую часть работы на отца
-tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, rannii-vozrast, poslushanie, traditsii, povyshenie-golosa, mladshiy-rebenok]
+tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, rannii-vozrast, poslushanie, traditsii, krik, mladshiy-rebenok]
 sources: [kak-sdelat-chtoby-ona-slushalas-roditeley]
 created: 2026-09-03
 updated: 2026-09-03

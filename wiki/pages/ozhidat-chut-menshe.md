@@ -3,7 +3,7 @@ title: Ожидать чуть меньше
 category: Concepts
 summary: После тяжёлого события ребёнку нужно больше времени на всё — отпустить взрослого, сформулировать фразу, остаться с кем-то другим; принятие состояния означает конкретное снижение требований, а не только слова
 tags: [concept, travma, razluka, trebovaniya, vremya]
-sources: [mamu-arestovali-na-glazah-dvuhletnego-syna, otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
+sources: [mamu-arestovali-na-glazah-dvuhletnego-syna, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,7 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[mamu-arestovali-na-glazah-dvuhletnego-syna](pages/mamu-arestovali-na-glazah-dvuhletnego-syna.md)] — сформулировано впервые: трёхлетний Вова после двухмесячной разлуки с арестованной матерью
-- [[otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — «Таня, забей»: снижение бытовых требований как форма учёта травмы
+- [[chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — «Таня, забей»: снижение бытовых требований как форма учёта травмы
 
 ## Related Concepts
 

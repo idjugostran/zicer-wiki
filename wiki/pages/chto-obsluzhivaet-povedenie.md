@@ -3,7 +3,7 @@ title: «Что обслуживает» поведение
 category: Concepts
 summary: Вместо оценки самого поступка — искать эмоциональную «плату», которую он приносит: какое состояние или ощущение человек хочет получить, повторяя это поведение
 tags: [concept, samoregulyatsiya, podrostki]
-sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208, lnv-vypusk-250, lnv-vypusk-207, moy-syn-yabeda-ili-postupaet-pravilno, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, vashego-rebenka-schitayut-huliganom]
+sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208, lnv-vypusk-250, lnv-vypusk-207, moy-syn-yabeda-ili-postupaet-pravilno, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-byt-esli-vashego-rebenka-schitayut-huliganom]
 created: 2026-08-30
 updated: 2026-09-03
 ---

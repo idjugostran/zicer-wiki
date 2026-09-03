@@ -2,7 +2,7 @@
 title: СЕЛФХАРМ, ТРЕВОГА И СЛЕЗЫ: как помочь своему ребенку
 category: Sources
 summary: Мать из Германии обнаруживает у четырнадцатилетней дочери самоповреждение и наталкивается на отказ от любой помощи; Зицер снимает панику, объясняет механизм — не хватает связи с близкими — и разворачивает вектор: не расспрашивать её, а прийти советоваться о собственной жизни
-tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, selfharm, podrostki, trevozhnost, psihoterapiya, shkola, germaniya]
+tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, selfharm, podrostki, trevoga, psihoterapiya, shkola, germaniya]
 sources: [selfharm-trevoga-i-slezy]
 created: 2026-09-03
 updated: 2026-09-03

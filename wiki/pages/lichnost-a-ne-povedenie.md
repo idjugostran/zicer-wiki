@@ -3,7 +3,7 @@ title: Личность, а не поведение
 category: Concepts
 summary: Личность присутствует с рождения независимо от возраста и способностей; мы часто путаем конкретное поведение (проявление) с личностным содержанием (желанием) за ним, и «чиним» не ту причину
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-10, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, syn-beret-chuzhie-veshchi, moy-rebenok-sovsem-nichego-ne-est, vashego-rebenka-schitayut-huliganom, kak-dobitsya-mira-so-svoimi-detmi]
+sources: [kurs-12-urokov-urok-10, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, syn-beret-chuzhie-veshchi, moy-rebenok-sovsem-nichego-ne-est, kak-byt-esli-vashego-rebenka-schitayut-huliganom, kak-dobitsya-mira-so-svoimi-detmi]
 created: 2026-08-29
 updated: 2026-09-03
 ---

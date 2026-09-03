@@ -3,7 +3,7 @@ title: Школа как союзник
 category: Concepts
 summary: На переговорах со школой ищут не правоту, а пересечение интересов: школа заинтересована погасить напряжение, сохранить ученика и не создавать волну — на этом и строится разговор, без перехода на личности
 tags: [concept, shkola, peregovory, roditelstvo]
-sources: [nam-popalas-plohaya-uchilka, moya-doch-zabila-na-vse, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let]
+sources: [nam-popalas-plohaya-uchilka, moya-doch-zabila-na-vse, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -26,7 +26,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-rebenok-boitsya-vsego-novogo](pages/chto-delat-esli-rebenok-boitsya-vsego-novogo.md)] — учителя сажают ребёнка с книгой у бассейна и не провоцируют: «человек имеет право набрать столько времени, сколько ему надо»
 - [[kak-uchitelyu-pomoch-uchenikam-iz-ukrainy](pages/kak-uchitelyu-pomoch-uchenikam-iz-ukrainy.md)] — школа, которую придётся уговаривать на гомогенную группу вопреки установке на интеграцию
 - [[kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov](pages/kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov.md)] — противоположность: «мы не можем всю нашу педагогическую методику посвящать вашему сыну»
-- [[vashego-rebenka-schitayut-huliganom](pages/vashego-rebenka-schitayut-huliganom.md)] — директор, звонящая с намёками вместо совета; «в смысле это её работа»
+- [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] — директор, звонящая с намёками вместо совета; «в смысле это её работа»
 - [[9-letniy-malchik-beret-chuzhie-veshchi](pages/9-letniy-malchik-beret-chuzhie-veshchi.md)] — учителей просят напоминать и поддерживать, а не ловить; оба должны быть «на 100% на его стороне»
 
 ## Related Concepts

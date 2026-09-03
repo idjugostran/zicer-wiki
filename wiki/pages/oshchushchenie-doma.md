@@ -3,7 +3,7 @@ title: Ощущение дома
 category: Concepts
 summary: Ощущение дома складывается из конкретных мелочей и знакомых деталей, а не из гражданства, языка или «привычности» страны; ребёнок формирует его быстро, если взрослый сам определился со своим ответом
 tags: [concept, roditelstvo, pereezd]
-sources: [chto-meshaet-docheri-izbavitsya-ot-nostalgii, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, rebenok-v-shkole-ne-razgovarivaet, kto-ya-svoey-padcheritse, devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
+sources: [chto-meshaet-docheri-izbavitsya-ot-nostalgii, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, rebenok-v-shkole-ne-razgovarivaet, kto-ya-svoey-padcheritse, devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -24,7 +24,7 @@ updated: 2026-09-03
 - [[kto-ya-svoey-padcheritse](pages/kto-ya-svoey-padcheritse.md)] — «у человека обычно есть один дом», даже если любимых родителей двое
 - [[devochka-13-let-poteryala-vkus-k-zhizni](pages/devochka-13-let-poteryala-vkus-k-zhizni.md)] — «стены, которые я вижу, улицы, по которым хожу»: то, за что можно зацепиться в одиннадцать лет
 - [[kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov](pages/kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov.md)] — «нет той реальности» и «дома и стены лечат»
-- [[otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — ночник, вывезенный из Херсона в рюкзаке с подгузниками как «маячок»
+- [[chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — ночник, вывезенный из Херсона в рюкзаке с подгузниками как «маячок»
 
 ## Related Concepts
 

@@ -2,7 +2,7 @@
 title: Выучить поведение наизусть
 category: Concepts
 summary: Ребёнок, не владеющий каким-то поведением, усваивает его не через объяснение, а выучив наизусть по раз за разом транслируемой модели; из выученного затем рождается естественное
-tags: [concept, modeli, obuchenie, autizm, privychki]
+tags: [concept, modeli-povedeniya, obuchenie, autizm, privychki]
 sources: [kak-nam-nauchitsya-kontrolirovat-sebya]
 created: 2026-09-03
 updated: 2026-09-03

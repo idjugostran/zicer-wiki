@@ -3,7 +3,7 @@ title: Хороший невролог говорит, как быть
 category: Concepts
 summary: Критерий специалиста: обследование, закончившееся словами «патологий нет», не является ответом — хороший врач говорит не что всё в порядке, а как быть в конкретной ситуации
 tags: [concept, spetsialisty, sdvg, diagnostika, roditelstvo]
-sources: [vashego-rebenka-schitayut-huliganom]
+sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -22,7 +22,7 @@ updated: 2026-09-03
 
 ## Appearances in Sources
 
-- [[vashego-rebenka-schitayut-huliganom](pages/vashego-rebenka-schitayut-huliganom.md)] — «хороший невролог — это не человек, который скажет: всё в порядке»; невролог, назвавший гиперактивность на словах и не написавший ничего
+- [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] — «хороший невролог — это не человек, который скажет: всё в порядке»; невролог, назвавший гиперактивность на словах и не написавший ничего
 
 ## Related Concepts
 
@@ -32,5 +32,5 @@ updated: 2026-09-03
 
 ## Footnotes
 
-[^1]: [[vashego-rebenka-schitayut-huliganom](pages/vashego-rebenka-schitayut-huliganom.md)] [00:04:52]-[00:05:32] — «хороший невролог — это не человек, который скажет: всё в порядке, а это человек, который скажет, как быть в определённой ситуации»; «нужно найти другого»
-[^2]: [[vashego-rebenka-schitayut-huliganom](pages/vashego-rebenka-schitayut-huliganom.md)] [00:07:36]-[00:08:26] [synthesis] — невролог назвал гиперактивность на словах и не написал в заключении; «гиперактивность — это очень понятная особенность»; «не может специалист сказать на словах… при этом сказать: я вам ничего не напишу, либо туда, либо сюда»; «я не невролог, я не психолог, я не психотерапевт, я человек, который работает с этими детьми после того, как специалисты определили, что с ними происходит»
+[^1]: [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] [00:04:52]-[00:05:32] — «хороший невролог — это не человек, который скажет: всё в порядке, а это человек, который скажет, как быть в определённой ситуации»; «нужно найти другого»
+[^2]: [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] [00:07:36]-[00:08:26] [synthesis] — невролог назвал гиперактивность на словах и не написал в заключении; «гиперактивность — это очень понятная особенность»; «не может специалист сказать на словах… при этом сказать: я вам ничего не напишу, либо туда, либо сюда»; «я не невролог, я не психолог, я не психотерапевт, я человек, который работает с этими детьми после того, как специалисты определили, что с ними происходит»

@@ -2,7 +2,7 @@
 title: Откуда берутся модели поведения
 category: Sources
 summary: Модели поведения формируются повторением и становятся незаметной «второй натурой» — не вредны сами по себе, опасны именно неосознанные; выход — спросить себя «это я, или не я»
-tags: [source, transcript, dima-zicer, dozhd, modeli]
+tags: [source, transcript, dima-zicer, dozhd, modeli-povedeniya]
 sources: [otkuda-berutsya-modeli-povedeniya]
 created: 2026-08-29
 updated: 2026-09-03

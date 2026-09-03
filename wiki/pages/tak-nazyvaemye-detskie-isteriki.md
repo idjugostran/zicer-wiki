@@ -2,7 +2,7 @@
 title: Дима Зицер о так называемых детских истериках
 category: Sources
 summary: Зицер отрицает саму категорию «детской истерики» как отдельную от взрослой, и даёт практический алгоритм поведения родителя во время и после неё
-tags: [source, transcript, isterika, roditelskaya-funktsiya, dima-zicer]
+tags: [source, transcript, isteriki, roditelskaya-funktsiya, dima-zicer]
 sources: [tak-nazyvaemye-detskie-isteriki, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya]
 created: 2026-08-04
 updated: 2026-09-03

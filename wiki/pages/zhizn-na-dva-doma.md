@@ -3,7 +3,7 @@ title: Жизнь на два дома
 category: Concepts
 summary: График «неделя у мамы, неделя у папы» удобен взрослым и обычно неудобен ребёнку; главное здесь не сам развод, а то, что решение принималось без него
 tags: [concept, razvod, smeshannaya-semya, subyektnost, samopovrezhdenie]
-sources: [kto-ya-svoey-padcheritse, otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
+sources: [kto-ya-svoey-padcheritse, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
 created: 2026-09-03
 updated: 2026-09-03
 ---

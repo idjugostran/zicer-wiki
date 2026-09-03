@@ -2,7 +2,7 @@
 title: КАК СОХРАНИТЬ ОТНОШЕНИЯ МЕЖДУ ДЕТЬМИ... На расстоянии
 category: Sources
 summary: Выпуск ЛНВ — 15-летний сын уезжает учиться в другую страну; конкретные приёмы для сохранения близости с 11-летней сестрой и 4-летним братом
-tags: [source, video, lnv, siblings, roditelstvo]
+tags: [source, video, lnv, siblingi, roditelstvo]
 sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii]
 created: 2026-09-01
 updated: 2026-09-03

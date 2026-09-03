@@ -3,7 +3,7 @@ title: Просто попросить
 category: Concepts
 summary: Самое пропускаемое решение: сказать ребёнку «мне от этого больно, я прошу тебя этого не делать»; изнутри ситуации простые ходы не видны, а ребёнок этой просьбы часто попросту не слышал
 tags: [concept, roditelstvo, kommunikatsiya, podrostki]
-sources: [doch-revnuet-i-ustraivaet-skandaly, kak-pomoch-rebenku-prinyat-novuyu-realnost, chto-pomogaet-detyam-vyzhit-na-voyne, otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
+sources: [doch-revnuet-i-ustraivaet-skandaly, kak-pomoch-rebenku-prinyat-novuyu-realnost, chto-pomogaet-detyam-vyzhit-na-voyne, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
 created: 2026-09-03
 updated: 2026-09-03
 ---

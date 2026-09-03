@@ -3,7 +3,7 @@ title: Телесная реакция предшествует поступку
 category: Concepts
 summary: Реактивные действия (крик, удар) вызываются телесным сигналом (сжатые кулаки, сухость во рту), возникающим за секунды до поступка, а не осознанным решением
 tags: [concept, samoregulyatsiya, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-ponimat-signaly-tela, lnv-vypusk-253, lnv-vypusk-215, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kniga-lyubit-nelzya-vospityvat, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, kak-ponyat-14-letnyuyu-doch, kak-byt-esli-syn-vlyubilsya-v-druga, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi]
+sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-ponimat-signaly-tela, lnv-vypusk-253, lnv-vypusk-215, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kniga-lyubit-nelzya-vospityvat, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, kak-ponyat-14-letnyuyu-doch, kak-byt-esli-syn-vlyubilsya-v-druga, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -43,7 +43,7 @@ updated: 2026-09-03
 - [[kak-byt-esli-syn-vlyubilsya-v-druga](pages/kak-byt-esli-syn-vlyubilsya-v-druga.md)] — вдох и выдох названы единственным инструментом против первой всплывающей модели
 - [[kak-nauchitsya-spravlyatsya-s-emotsiyami](pages/kak-nauchitsya-spravlyatsya-s-emotsiyami.md)] — первое применение тезиса к ребёнку: «все чувства физические», у сигнала есть адрес
 - [[kak-nam-nauchitsya-kontrolirovat-sebya](pages/kak-nam-nauchitsya-kontrolirovat-sebya.md)] — самое полное изложение: «наш крик рождается от моделей», демонстрация со сжатыми и разжатыми кулаками
-- [[vashego-rebenka-schitayut-huliganom](pages/vashego-rebenka-schitayut-huliganom.md)] — «научиться в себе чувствовать этот позыв, когда кулачки сжимаются» как условие работы всех пяти инструментов
+- [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] — «научиться в себе чувствовать этот позыв, когда кулачки сжимаются» как условие работы всех пяти инструментов
 
 ## Related Concepts
 
