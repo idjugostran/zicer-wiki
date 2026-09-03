@@ -3,7 +3,7 @@ title: Запрет повышает стоимость
 category: Concepts
 summary: Железное правило: при блокировке дети всегда находят дырочку, а сам запрет резко повышает «стоимость продукта» — раз запрещено, значит дорого, значит нужно хотеть и искать
 tags: [concept, roditelstvo, zaprety, internet, gadzhety]
-sources: [rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, kak-aktivnoy-mame-zhit-s-synom-introvertom, lnv-vypusk-249]
+sources: [rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, kak-aktivnoy-mame-zhit-s-synom-introvertom, lnv-vypusk-249, lnv-vypusk-237]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya](pages/kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya.md)] — «иначе это становится дефицитом, и цена резко повышается»
 - [[kak-aktivnoy-mame-zhit-s-synom-introvertom](pages/kak-aktivnoy-mame-zhit-s-synom-introvertom.md)] — обратная форма: каждым «выйди из дома» родитель удорожает выход из дома
 - [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — вылавливание курящего подростка превращается в игру в кошки-мышки, увлекательнее самого курения
+- [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — отдельный монолог о родительском контроле: блокировка сайтов не работает, источник найдётся
 
 ## Related Concepts
 

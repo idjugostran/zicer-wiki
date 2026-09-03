@@ -3,7 +3,7 @@ title: «Тыл» для ребёнка
 category: Concepts
 summary: Главное правило Зицера для родителей подростков — создать дома «тыл», пространство, где можно побыть слабым и отдохнуть от внешнего давления, а не продолжение воспитательного контроля
 tags: [concept, roditelstvo, podrostki]
-sources: [kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, chto-pomogaet-detyam-vyzhit-na-voyne, mamu-arestovali-na-glazah-dvuhletnego-syna, lnv-vypusk-240]
+sources: [kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, chto-pomogaet-detyam-vyzhit-na-voyne, mamu-arestovali-na-glazah-dvuhletnego-syna, lnv-vypusk-240, lnv-vypusk-237]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[kak-vo-vremya-voyny-uspokaivat-sebya-i-detey](pages/kak-vo-vremya-voyny-uspokaivat-sebya-i-detey.md)] — тыл здесь строится не утешением, а точным описанием: куда идём, где стоит сумка
 - [[mamu-arestovali-na-glazah-dvuhletnego-syna](pages/mamu-arestovali-na-glazah-dvuhletnego-syna.md)] — «быть с ним там, где ты можешь быть с ним»
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — условие, при котором одиннадцатилетний перестаёт врать: дома спокойно, за правду не ругают, тема переводится в совместную
+- [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — при отце в длительных командировках семилетний «хватается за второго» родителя и пробует побыть слабым
 
 ## Related Concepts
 

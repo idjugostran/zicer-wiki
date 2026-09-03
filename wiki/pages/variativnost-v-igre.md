@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[modeli-povedeniya](pages/modeli-povedeniya.md)] — описание модели, которую этот приём расшатывает
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — параллельный ход в том же разборе: не уговаривать и посмотреть, что будет
 - [[predskazuemost-kak-bezopasnost](pages/predskazuemost-kak-bezopasnost.md)] — обратный ход: там безопасность даёт точное описание неизменных обстоятельств
+- [[detskiy-konservatizm](pages/detskiy-konservatizm.md)] — явление, которое эта техника расшатывает
 
 ## Appearances in Sources
 

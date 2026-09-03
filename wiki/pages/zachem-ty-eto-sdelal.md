@@ -35,6 +35,7 @@ updated: 2026-09-03
 - [[vopros-zachem-ty-eto-govorish](pages/vopros-zachem-ty-eto-govorish.md)] — тот же по форме вопрос, который в тринадцать лет Зицер называет крутейшим: различие в возрасте, предмете (сказанное, а не сделанное) и тоне
 - [[vopros-na-ego-meste-eto-glyuk](pages/vopros-na-ego-meste-eto-glyuk.md)] — соседний вопрос, на который ребёнок тоже не может ответить
 - [[sochuvstvie-razoblachennomu](pages/sochuvstvie-razoblachennomu.md)] — что делают вместо требования объяснить мотив
+- [[vopros-pochemu-kak-zavualirovannyi-prikaz](pages/vopros-pochemu-kak-zavualirovannyi-prikaz.md)] — соседний тупиковый вопрос: там ответа не знает ребёнок, здесь его прячет взрослый
 
 ## Footnotes
 

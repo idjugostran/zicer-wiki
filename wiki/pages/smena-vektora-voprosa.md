@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[myach-na-ego-polovine-polya](pages/myach-na-ego-polovine-polya.md)] — смежный приём: вопрос возвращается тому, кто может на него ответить
 - [[shkola-kak-soyuznik](pages/shkola-kak-soyuznik.md)] — тот же приём, применённый ко взрослым: спрашивать не «кто прав», а «что нам обоим нужно»
 - [[gruppa-kak-zhivoy-organizm](pages/gruppa-kak-zhivoy-organizm.md)] — тот же перенос инициативы: говорят участники, а не ведущий
+- [[vopros-pochemu-kak-zavualirovannyi-prikaz](pages/vopros-pochemu-kak-zavualirovannyi-prikaz.md)] — что переформулируют, чтобы вопрос стал настоящим
 
 ## Footnotes
 

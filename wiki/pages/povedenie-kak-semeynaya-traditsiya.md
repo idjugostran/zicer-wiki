@@ -3,7 +3,7 @@ title: Поведение как семейная традиция
 category: Concepts
 summary: Повторяющаяся связка «поступок ребёнка — реакция родителя» — это не непослушание, а сложившийся ритуал; его не запрещают, а заменяют другим, столь же конкретным
 tags: [concept, rannii-vozrast, traditsii, poslushanie, ritual]
-sources: [kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, lnv-vypusk-246, lnv-vypusk-247]
+sources: [kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-237]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru](pages/kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru.md)] — «есть какая-то традиция: я ною», за которой стоит другое желание
 - [[lnv-vypusk-246](pages/lnv-vypusk-246.md)] — традиция «мама укладывает нас спать» сложилась сама после командировки отца; её не ломают, а пережидают, отдав отцу другое регулярное действие
 - [[lnv-vypusk-247](pages/lnv-vypusk-247.md)] — ритуал вопросов перед садиком предлагается не запрещать, а заменить — «давай придумаем другие слова»
+- [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — постоянный спор девятилетнего — не непослушание, а привычка-автомат, которой его научили окружающие
 
 ## Related Concepts
 
@@ -35,3 +36,4 @@ updated: 2026-09-03
 - [[semeynyi-spektakl-kak-traditsiya](pages/semeynyi-spektakl-kak-traditsiya.md)] — традиция как несущая конструкция семейной жизни
 - [[horoshaya-i-plohaya-rutina](pages/horoshaya-i-plohaya-rutina.md)] — какие повторяющиеся конструкции стоит заводить
 - [[regulirovat-igru-iznutri](pages/regulirovat-igru-iznutri.md)] — та же логика замены содержания вместо запрета, но внутри игры
+- [[perestat-sporit-v-odnostoronnem-poryadke](pages/perestat-sporit-v-odnostoronnem-poryadke.md)] — граница: там ритуал заменяют другим, здесь из него просто выходят

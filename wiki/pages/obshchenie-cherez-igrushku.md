@@ -3,7 +3,7 @@ title: Общение через игрушку
 category: Concepts
 summary: Кукольный театр как канал: ребёнку четырёх-пяти лет намного легче рассказать медведю, чем папе, — при условии, что медведь рассказывает о себе первым и ни о чём не расспрашивает
 tags: [concept, igra, rannii-vozrast, doverie, instrumenty]
-sources: [kak-razgovorit-cheloveka-4-h-let, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh]
+sources: [kak-razgovorit-cheloveka-4-h-let, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, lnv-vypusk-237]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-razgovorit-cheloveka-4-h-let](pages/kak-razgovorit-cheloveka-4-h-let.md)] — сформулировано впервые: четырёхлетний сын не рассказывает, что его напугало
+- [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — сцену отъезда от светофора, вызвавшую истерику, предлагается разыграть игрушками и посмеяться вместе
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Легитимизация темы
 category: Concepts
 summary: Прежде чем углубляться в тревожную тему, её нужно сделать обычной темой разговора — такой же, как «что мы сегодня едим»; порядок жёсткий: легитимизация → углубление → «успокой меня» → инструменты
 tags: [concept, roditelstvo, kommunikatsiya, podrostki]
-sources: [syn-rasskazal-mame-chto-on-biseksual, kak-byt-esli-syn-vlyubilsya-v-druga, s-kem-druzhit-nashim-detyam, malchik-hochet-odevatsya-kak-devochka, 8-letniy-malchik-stesnyaetsya-starshego-brata]
+sources: [syn-rasskazal-mame-chto-on-biseksual, kak-byt-esli-syn-vlyubilsya-v-druga, s-kem-druzhit-nashim-detyam, malchik-hochet-odevatsya-kak-devochka, 8-letniy-malchik-stesnyaetsya-starshego-brata, lnv-vypusk-237]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[s-kem-druzhit-nashim-detyam](pages/s-kem-druzhit-nashim-detyam.md)] — «дома должно быть принято говорить обо всём»: про мир и войну говорим, не устраивая специальных бесед
 - [[malchik-hochet-odevatsya-kak-devochka](pages/malchik-hochet-odevatsya-kak-devochka.md)] — «нужно легитимизировать эту тему, то есть перестать намекать»
 - [[8-letniy-malchik-stesnyaetsya-starshego-brata](pages/8-letniy-malchik-stesnyaetsya-starshego-brata.md)] — регулярный разговор про брата дома и классный разговор «я и другой» как легитимизация до всякого инструмента
+- [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — на найденный у десятилетней «неприличный» текст первым ходом идёт «интерес — это нормально», и только потом вопрос о содержании
 
 ## Related Concepts
 
