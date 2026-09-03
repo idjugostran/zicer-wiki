@@ -57,3 +57,4 @@ updated: 2026-09-03
 - [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)] — защита ребёнка, когда источником угрозы становится школа или детская группа
 - [[tyl-dlya-rebenka](pages/tyl-dlya-rebenka.md)] — та же формула «тыла», выделенная в отдельную страницу как явно названное «главное правило» книги и условие профилактики подросткового суицида
 - [[zhizn-na-dva-doma](pages/zhizn-na-dva-doma.md)] — случай, где взрослые распорядились жизнью ребёнка, не сделав его участником решения
+- [[protiv-vysokih-formulirovok](pages/protiv-vysokih-formulirovok.md)] — определение через перечень действий, а не через качества

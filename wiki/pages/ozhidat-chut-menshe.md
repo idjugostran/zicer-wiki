@@ -33,3 +33,4 @@ updated: 2026-09-03
 - [[tyl-dlya-rebenka](pages/tyl-dlya-rebenka.md)] — «быть с ним там, где ты можешь быть с ним»
 - [[pristroyka](pages/pristroyka.md)] — способы, которыми ребёнок сам справляется в это время
 - [[day-mne-vremya](pages/day-mne-vremya.md)] — тот же отказ торопить, но затребованный самим ребёнком
+- [[protiv-vysokih-formulirovok](pages/protiv-vysokih-formulirovok.md)] — «принятие», переведённое в проверяемое действие

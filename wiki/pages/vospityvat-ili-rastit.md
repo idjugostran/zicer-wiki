@@ -5,7 +5,7 @@ summary: Языковое различие «воспитывать ребёнк
 tags: [concept, roditelstvo, kniga]
 sources: [kniga-lyubit-nelzya-vospityvat]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-03
 ---
 
 # Воспитывать или растить
@@ -23,3 +23,4 @@ updated: 2026-09-02
 - [[otkaz-ot-nelzya](pages/otkaz-ot-nelzya.md)] — тот же принцип на практике: замена запрета вопросом «что случится, если разрешить» вместо переделки поведения
 - [[subyektnost](pages/subyektnost.md)] — «растить» предполагает то же равенство сторон, что субъектность — ребёнок не объект переделки, а участник отношений
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — формулировка родительской функции (защита, помощь, присутствие, поддержка) ближе к «растить», чем к «воспитывать»
+- [[protiv-vysokih-formulirovok](pages/protiv-vysokih-formulirovok.md)] — почему Зицер предпочитает исполнимое описание действия общей установке
