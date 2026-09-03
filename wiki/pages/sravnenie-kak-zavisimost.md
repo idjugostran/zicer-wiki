@@ -3,7 +3,7 @@ title: Сравнение
 category: Concepts
 summary: Сравнение/оценка как психологический механизм, близкий к зависимости — подменяет внутренний интерес потребностью во внешнем одобрении
 tags: [concept, otsenka, roditelstvo, pedagogika]
-sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin, lnv-vypusk-164, kak-byt-esli-rebenok-ne-uveren-v-sebe, kniga-lyubit-nelzya-vospityvat, kak-ne-perehvalit-rebenka, vstuplenie-k-programme-16-01-24, lnv-vypusk-246]
+sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin, lnv-vypusk-164, kak-byt-esli-rebenok-ne-uveren-v-sebe, kniga-lyubit-nelzya-vospityvat, kak-ne-perehvalit-rebenka, vstuplenie-k-programme-16-01-24, lnv-vypusk-246, lnv-vypusk-247]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[kak-ne-perehvalit-rebenka](pages/kak-ne-perehvalit-rebenka.md)] — годовалый ребёнок требует аплодисментов; аналогия с учёбой ради пятёрки с плюсом
 - [[vstuplenie-k-programme-16-01-24](pages/vstuplenie-k-programme-16-01-24.md)] — «любое сравнение — и в педагогике, и в жизни — ведёт в тупик и обесценивает»
 - [[lnv-vypusk-246](pages/lnv-vypusk-246.md)] — «у меня плохая снежинка» — недосказанное сравнение; выяснять надо и внешний источник, и домашнюю соревновательность родителей
+- [[lnv-vypusk-247](pages/lnv-vypusk-247.md)] — «ты хуже» в чужом отказе не звучит — оно достраивается внутри, и именно эта достройка разбирается с ребёнком
 
 ## Related Concepts
 
@@ -34,3 +35,4 @@ updated: 2026-09-03
 - [[subyektnost](pages/subyektnost.md)] — «ад» как подмена равных отношений иерархией — обратная сторона того же принципа
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — тот же вывод с другой стороны: отсутствие сравнения освобождает энергию для взаимопомощи внутри жёстких, но не дисциплинарных рамок урока
 - [[pust-povisnet](pages/pust-povisnet.md)] — как разбирается количественное сравнение, принесённое ребёнком как самоочевидное
+- [[mostik-ot-svoego-net-k-chuzhomu](pages/mostik-ot-svoego-net-k-chuzhomu.md)] — разбор достройки «я хуже» через собственные отказы ребёнка

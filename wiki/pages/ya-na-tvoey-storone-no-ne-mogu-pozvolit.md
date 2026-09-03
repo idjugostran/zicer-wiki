@@ -3,7 +3,7 @@ title: Я на твоей стороне, но не могу тебе этого
 category: Concepts
 summary: Формула запрета, которая не разрывает отношения: граница называется как своя, ребёнок остаётся союзником, и из этой точки обсуждается всё остальное
 tags: [concept, granitsy, otkaz, formulirovki, bezopasnost]
-sources: [kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, mne-nravitsya-kak-papa-reagiruet]
+sources: [kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, mne-nravitsya-kak-papa-reagiruet, lnv-vypusk-247]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 
 - [[kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu](pages/kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu.md)] — сформулировано впервые: шапка зимой, посуда в гостях, возвращение домой с прогулки
 - [[mne-nravitsya-kak-papa-reagiruet](pages/mne-nravitsya-kak-papa-reagiruet.md)] — «очень тебя люблю, но я папу очень-очень люблю. Нет, я не позволю тебе папу обижать»
+- [[lnv-vypusk-247](pages/lnv-vypusk-247.md)] — формула в трёхлетнем возрасте: руку ребёнка взять в свою и сказать «я не могу тебе этого позволить», без наказания
 
 ## Related Concepts
 

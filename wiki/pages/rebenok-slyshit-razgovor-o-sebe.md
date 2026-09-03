@@ -3,7 +3,7 @@ title: Ребёнок слышит разговор о себе
 category: Concepts
 summary: Прежде чем обсуждать ребёнка, взрослый отвечает себе, зачем тот присутствует: услышать о себе «она стеснительная» ещё раз ребёнку не нужно, а услышит он это, как правило, не впервые
 tags: [concept, yarlyk, lichnost, kommunikatsiya, roditelstvo]
-sources: [kak-byt-esli-devochka-ne-hochet-zdorovatsya]
+sources: [kak-byt-esli-devochka-ne-hochet-zdorovatsya, lnv-vypusk-247]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -33,3 +33,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-byt-esli-devochka-ne-hochet-zdorovatsya](pages/kak-byt-esli-devochka-ne-hochet-zdorovatsya.md)] — сформулировано впервые: шестилетняя Сара присутствует при разговоре о своей стеснительности
+- [[lnv-vypusk-247](pages/lnv-vypusk-247.md)] — требование прекратить разбирательства при семилетнем сыне: взрослые нагружают его виной и обидой одновременно

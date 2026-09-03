@@ -3,7 +3,7 @@ title: Срезать угол волшебной сказкой
 category: Concepts
 summary: Выдумка вроде «планшет ушёл спать» в три-четыре года остаётся для ребёнка сказкой, а не обманом; это срезанный угол, а не преступление, и раскручивать его назад не нужно
 tags: [concept, rannii-vozrast, manipulyatsiya, igra, roditelskaya-vina]
-sources: [kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let]
+sources: [kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, lnv-vypusk-247]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let](pages/kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let.md)] — сформулировано впервые: «планшет уходит спать» для девочки трёх с половиной лет
+- [[lnv-vypusk-247](pages/lnv-vypusk-247.md)] — граница приёма: традицию про Деда Мороза держат, пока в неё верят, и не разрушают ради правды в шесть лет
 
 ## Related Concepts
 

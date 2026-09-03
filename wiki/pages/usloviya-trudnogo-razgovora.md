@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[legitimizatsiya-temy](pages/legitimizatsiya-temy.md)] — внутренний порядок того же разговора: сначала сделать тему обычной, потом углублять
 - [[prosto-poprosit](pages/prosto-poprosit.md)] — то же требование: говорить в спокойной обстановке, не связанной с самим конфликтом
 - [[ya-na-tvoey-storone-no-ne-mogu-pozvolit](pages/ya-na-tvoey-storone-no-ne-mogu-pozvolit.md)] — запрет, после которого разговор продолжается, а не прекращается
+- [[razgovor-otdelno-ot-situatsii](pages/razgovor-otdelno-ot-situatsii.md)] — отсрочка от эпизода как отдельное условие, помимо канала и территории
 
 ## Footnotes
 

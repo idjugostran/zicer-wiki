@@ -3,7 +3,7 @@ title: Эмоциональное подкрепление поведения
 category: Concepts
 summary: Реакция взрослого — топливо привычки: ребёнок нажимает кнопку, чтобы получить эмоцию, и чем ярче реакция, тем прочнее закрепляется поступок
 tags: [concept, rannii-vozrast, privychki, reaktsiya-vzroslogo]
-sources: [moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, doch-6-let-nachala-zavidovat-i-vydumyvat, mne-nravitsya-kak-papa-reagiruet, kak-byt-esli-devochka-ne-hochet-zdorovatsya, lnv-vypusk-314]
+sources: [moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, doch-6-let-nachala-zavidovat-i-vydumyvat, mne-nravitsya-kak-papa-reagiruet, kak-byt-esli-devochka-ne-hochet-zdorovatsya, lnv-vypusk-314, lnv-vypusk-247]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[mne-nravitsya-kak-papa-reagiruet](pages/mne-nravitsya-kak-papa-reagiruet.md)] — «не дарить Леону эту замечательную эмоциональность»; механизм подтверждён самим трёхлетним ребёнком
 - [[kak-byt-esli-devochka-ne-hochet-zdorovatsya](pages/kak-byt-esli-devochka-ne-hochet-zdorovatsya.md)] — «клавиша западает, и очень прикольно на эту клавишу жать»: ярлык, поддерживаемый репликами матери
 - [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — «кнопочка называется смерть»; и еда как способ «расковырять нервного родителя»
+- [[lnv-vypusk-247](pages/lnv-vypusk-247.md)] — два звонка на одном механизме — повторяющийся вопрос «ты меня заберёшь» у пятилетнего и швыряние игрушек у трёхлетнего; проверка гипотезы: ребёнок наедине с собой не швыряет
 
 ## Related Concepts
 
@@ -43,3 +44,4 @@ updated: 2026-09-03
 - [[aplodismenty-kak-radost-a-ne-otsenka](pages/aplodismenty-kak-radost-a-ne-otsenka.md)] — зеркальный случай: реакцию не убирают, а отвязывают от заслуги
 - [[dve-sfery-povedeniya](pages/dve-sfery-povedeniya.md)] — соседний случай: проблему создаёт не поведение ребёнка, а внимание взрослого к нему
 - [[regressiya-pri-poyavlenii-mladshego](pages/regressiya-pri-poyavlenii-mladshego.md)] — возрастной механизм, стоящий за возвратом к утраченным умениям
+- [[razgovor-otdelno-ot-situatsii](pages/razgovor-otdelno-ot-situatsii.md)] — почему разговор по горячим следам работает как ещё одна порция подкрепления
