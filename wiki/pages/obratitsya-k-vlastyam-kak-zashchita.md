@@ -3,7 +3,7 @@ title: Обратиться к властям как защита
 category: Concepts
 summary: Когда травля продолжается, а взрослые с другой стороны отказываются вмешиваться, защиту ищут в полиции и социальных службах; недопустим только один исход — тот, при котором ребёнка не защищают
 tags: [concept, travlya, bulling, zashchita, protsedura, vzroslye]
-sources: [kak-zashchitit-7-letnego-syna-ot-travli, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245, lnv-vypusk-218, lnv-vypusk-213, lnv-vypusk-210]
+sources: [kak-zashchitit-7-letnego-syna-ot-travli, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245, lnv-vypusk-218, lnv-vypusk-213, lnv-vypusk-210, lnv-vypusk-212]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — обратная сторона: когда школа заговорила о постановке на учёт, семье нужен юрист и собственная защита
 - [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — эскалация: директор → комитет по образованию → городские газеты, если директор «не в курсе»
 - [[lnv-vypusk-210](pages/lnv-vypusk-210.md)] — Зицер отправляет мать поднимать вопрос до директора, а девочке переопределяет обращение к взрослым как просьбу о помощи, а не донос
+- [[lnv-vypusk-212](pages/lnv-vypusk-212.md)] — звонок о распространении наркотиков в школе: разговор переносится из педагогики в полицию
 
 ## Related Concepts
 
@@ -44,3 +45,4 @@ updated: 2026-09-04
 - [[davat-sdachi](pages/davat-sdachi.md)] — почему ответное нападение не является защитой
 - [[nam-kto-to-poveril](pages/nam-kto-to-poveril.md)] — обратный случай: оступившегося ребёнка не выдают, длящуюся опасность не скрывают
 - [[snachala-bezopasnost-potom-pravota](pages/snachala-bezopasnost-potom-pravota.md)] — эскалация идёт после того, как ребёнок в безопасности
+- [[nulevaya-terpimost-demonstriruetsya-postupkom](pages/nulevaya-terpimost-demonstriruetsya-postupkom.md)] — второй адресат того же действия: собственный ребёнок, который смотрит

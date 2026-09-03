@@ -28,6 +28,7 @@ updated: 2026-09-04
 - [[vyuchit-povedenie-naizust](pages/vyuchit-povedenie-naizust.md)] — та же логика усвоения, использованная конструктивно: транслировать желаемую модель
 - [[krasnaya-liniya-zaranee](pages/krasnaya-liniya-zaranee.md)] — первый шаг в том же разборе, к которому этот аргумент добавляется вторым
 - [[povedenie-kak-semeynaya-traditsiya](pages/povedenie-kak-semeynaya-traditsiya.md)] — повторяющаяся связка как ритуал семьи, а не как непослушание
+- [[nulevaya-terpimost-demonstriruetsya-postupkom](pages/nulevaya-terpimost-demonstriruetsya-postupkom.md)] — частный случай: усваивается сделанное, а не сказанное
 
 ## Appearances in Sources
 

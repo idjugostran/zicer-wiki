@@ -3,7 +3,7 @@ title: Субъектность
 category: Concepts
 summary: Равенство всех участников образовательного процесса как субъектов отношений вне зависимости от возраста и статуса
 tags: [concept, shkola-apelsin, pedagogika]
-sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-10, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kak-spasti-15-letnego-syna, o-shkole-i-ne-tolko-kidfrendli, mama-dorogaya-bulling, lnv-vypusk-201, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-219, kak-rastit-samostoyatelnogo-rebenka, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, syn-ne-uchityvaet-interesy-semi, syn-darit-tsennye-veshchi-drugim-detyam, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, moya-doch-ne-delitsya-chuvstvami, kto-ya-svoey-padcheritse, chto-delat-esli-rebenok-boitsya-vsego-novogo, s-kem-druzhit-nashim-detyam, chto-pomogaet-detyam-vyzhit-na-voyne, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, kak-pravilno-govorit-s-rebenkom-pro-dengi, syn-14-let-vlyubilsya-i-eto-opasno, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-233, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-222]
+sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-10, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kak-spasti-15-letnego-syna, o-shkole-i-ne-tolko-kidfrendli, mama-dorogaya-bulling, lnv-vypusk-201, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-219, kak-rastit-samostoyatelnogo-rebenka, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, syn-ne-uchityvaet-interesy-semi, syn-darit-tsennye-veshchi-drugim-detyam, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, moya-doch-ne-delitsya-chuvstvami, kto-ya-svoey-padcheritse, chto-delat-esli-rebenok-boitsya-vsego-novogo, s-kem-druzhit-nashim-detyam, chto-pomogaet-detyam-vyzhit-na-voyne, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, kak-pravilno-govorit-s-rebenkom-pro-dengi, syn-14-let-vlyubilsya-i-eto-opasno, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-233, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-222, lnv-vypusk-212]
 created: 2026-08-04
 updated: 2026-09-04
 ---
@@ -51,6 +51,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-233](pages/lnv-vypusk-233.md)] — родитель как равный угол треугольника; подросток, которому не нужно разрешения сократить футбол
 - [[chto-takoe-neformalnoe-obrazovanie](pages/chto-takoe-neformalnoe-obrazovanie.md)] — определение субъектности через профессиональный статус учителя — профессия наравне с сантехником и инженером — в противовес модели «я субъект, ты объект»
 - [[lnv-vypusk-222](pages/lnv-vypusk-222.md)] — сквозной ход выпуска: спрашивать самого ребёнка, чего он хочет, вместо решения за него
+- [[lnv-vypusk-212](pages/lnv-vypusk-212.md)] — форму согласуют с теми, кому её носить
 
 ## Related Concepts
 
@@ -76,3 +77,4 @@ updated: 2026-09-04
 - [[otvet-v-karmane](pages/otvet-v-karmane.md)] — отвечает на вопрос о себе сам ребёнок, а не взрослый вместо него
 - [[day-mne-vremya](pages/day-mne-vremya.md)] — собственное заявление ребёнка о своём сроке весомее родительской оценки его готовности
 - [[ne-slushatsya-a-uvazhat](pages/ne-slushatsya-a-uvazhat.md)] — операциональное следствие: послушание заменяется уважением
+- [[forma-tolko-po-soglasovaniyu](pages/forma-tolko-po-soglasovaniyu.md)] — принцип, применённый к школьной форме

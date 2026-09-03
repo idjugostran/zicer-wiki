@@ -3,9 +3,9 @@ title: Закон об образовании как инструмент род
 category: Concepts
 summary: Федеральный закон об образовании — рабочий довод родителя, а не декларация: он называет родителей и обучающихся важнейшими участниками образовательных отношений и запрещает оценки и домашние задания в первом классе, поэтому в разговоре со школой на него ссылаются наравне с педагогическим аргументом
 tags: [concept, shkola, pravo, zakon, roditelskaya-pozitsiya]
-sources: [lnv-vypusk-233]
+sources: [lnv-vypusk-233, lnv-vypusk-212]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Закон об образовании как инструмент родителя
@@ -26,7 +26,9 @@ updated: 2026-09-03
 - [[shkola-kak-soyuznik](pages/shkola-kak-soyuznik.md)] — тон разговора, который ссылка на закон не отменяет
 - [[obratitsya-k-vlastyam-kak-zashchita](pages/obratitsya-k-vlastyam-kak-zashchita.md)] — крайняя мера, в отличие от довода в обычном разговоре
 - [[subyektnost](pages/subyektnost.md)] — ценностная рамка, которой норма права даёт опору
+- [[forma-tolko-po-soglasovaniyu](pages/forma-tolko-po-soglasovaniyu.md)] — статья 38 как рычаг, работающий до принятия локального акта
 
 ## Appearances in Sources
 
 - [[lnv-vypusk-233](pages/lnv-vypusk-233.md)] — вводит приём: закон читается в эфире и трижды применяется к разным звонкам
+- [[lnv-vypusk-212](pages/lnv-vypusk-212.md)] — статья 38 и родительский комитет как рычаг до принятия локального акта о школьной форме; после принятия инструмент почти не работает
