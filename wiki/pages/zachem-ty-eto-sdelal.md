@@ -3,7 +3,7 @@ title: «Зачем ты это сделал»
 category: Concepts
 summary: Самый тупиковый родительский вопрос в дошкольном возрасте: ребёнок честно не знает ответа, и взрослый на своём примере тоже не знал бы; вопрос лишь заряжает ситуацию, вместо того чтобы её разбирать
 tags: [concept, roditelstvo, doshkolniki, kommunikatsiya]
-sources: [syn-beret-chuzhie-veshchi, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru]
+sources: [syn-beret-chuzhie-veshchi, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[syn-beret-chuzhie-veshchi](pages/syn-beret-chuzhie-veshchi.md)] — вводит концепт: невозможность ответа для ребёнка и для взрослого, воспоминание Зицера про обои, замена допроса присоединением
+- [[chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let](pages/chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let.md)] — мать сама называет свой вопрос тупым, но ответ получает: «мне было скучно»
 
 ## Related Concepts
 

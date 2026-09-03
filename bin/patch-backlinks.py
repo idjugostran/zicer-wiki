@@ -76,6 +76,9 @@ def main():
         if RELATION not in body:
             sys.exit('%s: нет ни "%s", ни "%s"' % (args.slug, head, RELATION))
         head = RELATION
+        if args.text.lstrip().startswith('-'):
+            sys.exit('%s: это Source-страница, связь дописывается в "%s" '
+                     'отдельным предложением, а не пунктом списка' % (args.slug, RELATION))
 
     body = append_to_section(body, head, args.text)
     fm = bump_frontmatter(fm, args.src, args.date)

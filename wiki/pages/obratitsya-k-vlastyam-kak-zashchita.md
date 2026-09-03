@@ -37,3 +37,4 @@ updated: 2026-09-03
 - [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)] — ответственность взрослых за безопасность среды
 - [[sdvg-kak-osobennost-a-ne-diagnoz](pages/sdvg-kak-osobennost-a-ne-diagnoz.md)] — почему особенности усиливают обязанность защищать
 - [[davat-sdachi](pages/davat-sdachi.md)] — почему ответное нападение не является защитой
+- [[nam-kto-to-poveril](pages/nam-kto-to-poveril.md)] — обратный случай: оступившегося ребёнка не выдают, длящуюся опасность не скрывают

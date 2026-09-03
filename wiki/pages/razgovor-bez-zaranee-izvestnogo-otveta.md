@@ -3,7 +3,7 @@ title: Разговор без заранее известного ответа
 category: Concepts
 summary: Нельзя входить в разговор, зная ответ ребёнка, даже если вы его действительно знаете, и нельзя отвечать за него: от произнесённого им ответа зависит, какой ход делает родитель дальше
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-ponyat-14-letnyuyu-doch, malchik-hochet-odevatsya-kak-devochka, syn-14-let-vlyubilsya-i-eto-opasno]
+sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-ponyat-14-letnyuyu-doch, malchik-hochet-odevatsya-kak-devochka, syn-14-let-vlyubilsya-i-eto-opasno, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 - [[chego-boitsya-syn-i-chto-s-etim-delat](pages/chego-boitsya-syn-i-chto-s-etim-delat.md)] — вводит концепт целиком: запрет отвечать за ребёнка, две несовместимые ветки ответа, отказ «пилить» при отрицательном ответе
 - [[kak-ponyat-14-letnyuyu-doch](pages/kak-ponyat-14-letnyuyu-doch.md)] — жёсткая форма правила: родитель не перечисляет доводы за и против школы, это реплики ребёнка
 - [[syn-14-let-vlyubilsya-i-eto-opasno](pages/syn-14-let-vlyubilsya-i-eto-opasno.md)] — «из самого обсуждения рождается истина»; вопрос предложен как предмет, а не как ответ
+- [[chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let](pages/chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let.md)] — «зачем вашей дочке с ней дружить» против «если бы меня украли, я бы не дружила»: второе — уже навязанное решение
 
 ## Related Concepts
 
