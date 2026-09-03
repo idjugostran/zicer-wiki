@@ -63,7 +63,7 @@ updated: 2026-09-03
 - [[privyazka-cherez-chuvstvo-viny](pages/privyazka-cherez-chuvstvo-viny.md)] — намёк родителя как источник нервозности
 - [[shkola-kak-soyuznik](pages/shkola-kak-soyuznik.md)] — школа дала роль в проекте и перевела в другой класс по просьбе ребёнка
 - [[rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane](pages/rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane.md)] — переезд как фон всей истории
-- [[oshchushchenie-doma](pages/oshchushchenie-doma.md)] — «у него уже была своя жизнь, которую он представлял себе определённым образом»
+- [[oshchushchenie-doma](pages/oshchushchenie-doma.md)] — переезд в четыре года ломает уже сложившееся представление о собственной жизни
 
 ## Relation to Other Wiki Pages
 
@@ -77,6 +77,6 @@ updated: 2026-09-03
 [^4]: [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] [00:05:25]-[00:08:04] [synthesis] — вопрос про самочувствие в школе и ответ про «ненавижу» утром и проект вечером, отказ забирать документы, отзывы классной руководительницы, «Всевышний посылает ситуации для удивления», перебор признаков и вывод «не вижу ни одной причины волноваться»
 [^5]: [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] [00:08:13]-[00:09:10] и [00:13:06]-[00:13:18] [synthesis] — различение ситуативного онемения и устойчивых сфер, отсылка к разговору про мальчика трёх с половиной лет и языки, «дома это одно, а в школе другое», отказ выдумывать признаки
 [^6]: [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] [00:12:29]-[00:13:00] [synthesis] — «кто вам сказал, что он себя сдерживает?», проверка на матери: разное поведение с мужем и с мамой вплоть до разницы темперамента
-[^7]: [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] [00:13:18]-[00:14:10] [synthesis] — возраст на момент переезда, «у него уже была своя жизнь», неизбежность влияния на всех детей, описание пристройки, принимающая среда и «а что я буду менять»
+[^7]: [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] [00:13:18]-[00:14:10] [synthesis] — возраст на момент переезда, наличие у четырёхлетнего сложившегося представления о своей жизни, неизбежность влияния на всех детей, описание пристройки, принимающая среда и «а что я буду менять»
 [^8]: [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] [00:09:16]-[00:11:06] [synthesis] — «перестаньте ему рассказывать, что это ненормально», возражение матери и ответ «но вы конечно это говорите», картина со стороны шестилетнего, родители как боги до семи лет, диалог про яркость и вывод «начинает нервничать»
 [^9]: [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] [00:11:09]-[00:11:20] и [00:14:23]-[00:14:41] [synthesis] — «давайте отступим на время», «поволноваться мы всегда успеем», срок в три месяца, проверка гипотезы про обиду матери и ответ, что в школе его как раз видят, финальное «отстаньте, дышите, не волнуйтесь»
