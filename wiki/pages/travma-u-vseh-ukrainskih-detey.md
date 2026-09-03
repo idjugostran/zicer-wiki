@@ -3,7 +3,7 @@ title: Травма у всех украинских детей
 category: Concepts
 summary: У ста процентов украинских детей — вне зависимости от того, в Украине они или уехали — произошёл слом личности, детства и системы координат; они заняты самовыживанием, и относиться к ним как к нетравмированным нельзя
 tags: [concept, voyna, ukraina, travma, obuchenie]
-sources: [kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-zabila-na-vse, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, mozhno-li-pomoch-rodnym-izdaleka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, mozhno-li-uberech-rebenka-ot-nenavisti, mamu-arestovali-na-glazah-dvuhletnego-syna, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, doch-6-let-nachala-zavidovat-i-vydumyvat, mama-day-mne-vremya, kuda-zhe-my-toropimsya]
+sources: [kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-zabila-na-vse, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, mozhno-li-pomoch-rodnym-izdaleka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, mozhno-li-uberech-rebenka-ot-nenavisti, mamu-arestovali-na-glazah-dvuhletnego-syna, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, doch-6-let-nachala-zavidovat-i-vydumyvat, mama-day-mne-vremya, kuda-zhe-my-toropimsya, kak-spasti-detey-ot-nenavisti]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[doch-6-let-nachala-zavidovat-i-vydumyvat](pages/doch-6-let-nachala-zavidovat-i-vydumyvat.md)] — «она дитя войны», но с прямой оговоркой: «если бы ты звонил не из Украины, я бы сказал то же самое»
 - [[mama-day-mne-vremya](pages/mama-day-mne-vremya.md)] — украинский случай приводится как более понятный пример той же логики «нужен ресурс»
 - [[kuda-zhe-my-toropimsya](pages/kuda-zhe-my-toropimsya.md)] — вывод про пропущенный год переносится с украинских семей на благополучный переезд
+- [[kak-spasti-detey-ot-nenavisti](pages/kak-spasti-detey-ot-nenavisti.md)] — «я ненавижу» как активная тема среди киевских одноклассников; фон называет сама звонящая
 
 ## Related Concepts
 

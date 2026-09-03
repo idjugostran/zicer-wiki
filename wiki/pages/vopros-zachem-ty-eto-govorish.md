@@ -36,3 +36,4 @@ updated: 2026-09-03
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — что именно обслуживает повторяющаяся реплика
 - [[pomoshch-bez-upreka](pages/pomoshch-bez-upreka.md)] — вопрос следующего витка
 - [[okno-v-desyat-let](pages/okno-v-desyat-let.md)] — соседний пример возрастной границы применимости приёма
+- [[chto-ty-hochesh-skazat-na-samom-dele](pages/chto-ty-hochesh-skazat-na-samom-dele.md)] — смежный вопрос, обращённый к содержанию, а не к причине высказывания

@@ -3,7 +3,7 @@ title: Вентиляция
 category: Concepts
 summary: С человеком в травме говорят, давая ему выговориться, а не разбирая сказанное по существу; при этом поддерживающий обязан фильтровать услышанное, иначе сломается его собственный вентилятор
 tags: [concept, travma, voyna, podderzhka, roditelskiy-resurs]
-sources: [mozhno-li-pomoch-rodnym-izdaleka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, chto-pomogaet-detyam-vyzhit-na-voyne]
+sources: [mozhno-li-pomoch-rodnym-izdaleka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, chto-pomogaet-detyam-vyzhit-na-voyne, kak-spasti-detey-ot-nenavisti]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 - [[mozhno-li-pomoch-rodnym-izdaleka](pages/mozhno-li-pomoch-rodnym-izdaleka.md)] — сформулировано впервые: тётя из Днепра поддерживает племянников и сестру в Германии
 - [[kak-uchitelyu-pomoch-uchenikam-iz-ukrainy](pages/kak-uchitelyu-pomoch-uchenikam-iz-ukrainy.md)] — первая задача группы: снова позволить себе сказать «я»
 - [[chto-pomogaet-detyam-vyzhit-na-voyne](pages/chto-pomogaet-detyam-vyzhit-na-voyne.md)] — «я боюсь», сказанное вслух, как работа, а не как слабость
+- [[kak-spasti-detey-ot-nenavisti](pages/kak-spasti-detey-ot-nenavisti.md)] — граница: «прокричать — это не инструмент ещё… я побил грушу — то я стал осознаннее? Нет»
 
 ## Related Concepts
 
