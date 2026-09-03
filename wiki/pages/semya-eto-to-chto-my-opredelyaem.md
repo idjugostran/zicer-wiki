@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[mama-ne-dolzhna-stradat](pages/mama-ne-dolzhna-stradat.md)] — снятие фоновой родительской вины
 - [[zhizn-na-dva-doma](pages/zhizn-na-dva-doma.md)] — семья, распределённая между двумя домами, тоже семья
 - [[prava-novogo-partnera-roditelya](pages/prava-novogo-partnera-roditelya.md)] — родство, определяемое отношениями, а не формальным статусом
+- [[obobshchestvlenie-lichnogo](pages/obobshchestvlenie-lichnogo.md)] — семья как единственная инстанция, где значение остаётся за теми, кто его переживает
 
 ## Footnotes
 

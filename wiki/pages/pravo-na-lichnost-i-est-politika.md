@@ -3,7 +3,7 @@ title: Право на личность и есть политика
 category: Concepts
 summary: Отнятие у человека права на себя устроено одинаково дома, в школе и в государстве; поэтому требование «не занимайтесь политикой» Зицер называет ложью, а собственную позицию — сознательно однополярной
 tags: [concept, politika, lichnost, fashizm, pedagogika, gosudarstvo]
-sources: [dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima]
+sources: [dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima](pages/dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima.md)] — сформулировано впервые: развёрнутый ответ зрителю, обвинившему Зицера в агитации
+- [[chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy](pages/chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy.md)] — государственный масштаб отнятия права сказать «я»: «это мой день, день моей семьи, не государства»
 
 ## Related Concepts
 

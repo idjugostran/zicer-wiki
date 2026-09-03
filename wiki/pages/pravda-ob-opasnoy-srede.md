@@ -37,3 +37,4 @@ updated: 2026-09-03
 - [[sohranit-rebenka-v-tselosti](pages/sohranit-rebenka-v-tselosti.md)] — охрана без требования измениться
 - [[usloviya-trudnogo-razgovora](pages/usloviya-trudnogo-razgovora.md)] — почему здесь не нужны обходные ходы
 - [[znakomstvo-snimaet-strakh](pages/znakomstvo-snimaet-strakh.md)] — обратное движение для несведущей, а не враждебной среды: дом открывают
+- [[bolshe-nikogda-protiv-mozhem-povtorit](pages/bolshe-nikogda-protiv-mozhem-povtorit.md)] — та же честность о страшном без смягчения, вынесенная за пределы разговора с ребёнком

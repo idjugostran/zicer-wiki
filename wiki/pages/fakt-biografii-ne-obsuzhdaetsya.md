@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[prosto-poprosit](pages/prosto-poprosit.md)] — второй ход, следующий за проведённой чертой
 - [[prava-novogo-partnera-roditelya](pages/prava-novogo-partnera-roditelya.md)] — смежный разбор появления нового партнёра в семье
 - [[mama-ne-dolzhna-stradat](pages/mama-ne-dolzhna-stradat.md)] — «я должна сохранить себя» как условие, а не как эгоизм
+- [[obobshchestvlenie-lichnogo](pages/obobshchestvlenie-lichnogo.md)] — тот же принцип на государственном масштабе: личная память не подлежит внешнему присвоению
 
 ## Footnotes
 
