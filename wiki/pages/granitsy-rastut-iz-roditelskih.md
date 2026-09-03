@@ -3,7 +3,7 @@ title: Границы появляются из наших границ
 category: Concepts
 summary: Рамка для ребёнка выводится не из педагогики, а из реального ресурса взрослого: у родителя есть своё время и свой предел, и это законное основание сказать «нет»
 tags: [concept, granitsy, roditelskiy-resurs, semya]
-sources: [kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu]
+sources: [kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-sdelat-chtoby-ona-slushalas-roditeley]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu](pages/kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu.md)] — сформулировано впервые: отец трёхлетнего Яна и вторая каша
+- [[kak-sdelat-chtoby-ona-slushalas-roditeley](pages/kak-sdelat-chtoby-ona-slushalas-roditeley.md)] — ответственность распределяется по ресурсу: у отца его в этот период больше, чем у матери младенца
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Игра «кто из нас самый несчастный»
 category: Concepts
 summary: Регулярная семейная игра вместо расспросов: все по кругу рассказывают правду о том, кого на этой неделе надо больше всех пожалеть, слегка подтрунивая; взрослые идут первыми и задают образец лёгкости, а ребёнок рассказывает изнутри игры
 tags: [concept, roditelstvo, igra, emotsii, semya]
-sources: [v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let]
+sources: [v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, kak-sdelat-chtoby-ona-slushalas-roditeley]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[aktualizatsiya-lyubopytstva](pages/aktualizatsiya-lyubopytstva.md)] — смежная регулярная технология с простыми правилами
 - [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] — ребёнок учится рассказывать, потому что видит, как это делают взрослые
 - [[obshchenie-cherez-igrushku](pages/obshchenie-cherez-igrushku.md)] — тот же принцип для четырёх-пяти лет: рассказывать легко внутри игры, а не в ответ на вопрос
+- [[povedenie-kak-semeynaya-traditsiya](pages/povedenie-kak-semeynaya-traditsiya.md)] — тот же принцип для раннего возраста: заменить ритуал, а не запретить поступок
 
 ## Footnotes
 

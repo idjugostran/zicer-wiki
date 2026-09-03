@@ -3,7 +3,7 @@ title: Взаимный обмен интересами
 category: Concepts
 summary: Отвлечь ребёнка от гаджетов запретом нельзя — работает встречное движение: попроситься в мир ребёнка, затем пригласить его в свой мир как в подарок, а не в обязанность
 tags: [concept, roditelstvo, kurs-12-urokov, gadzhety]
-sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-208, lnv-vypusk-164, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-250, lnv-vypusk-216, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, chto-takoe-dogovor-s-rebenkom, kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kto-ya-svoey-padcheritse, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let]
+sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-208, lnv-vypusk-164, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-250, lnv-vypusk-216, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, chto-takoe-dogovor-s-rebenkom, kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kto-ya-svoey-padcheritse, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, kak-sdelat-chtoby-ona-slushalas-roditeley]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -38,6 +38,7 @@ updated: 2026-09-03
 - [[kak-pomoch-rebenku-prinyat-novuyu-realnost](pages/kak-pomoch-rebenku-prinyat-novuyu-realnost.md)] — программа составляется для себя, и ребёнка приглашают в свой мир, а не отвлекают от его
 - [[kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu](pages/kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu.md)] — «если мы приготовили вместе, мы точно будем есть вместе»
 - [[kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let](pages/kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let.md)] — «а сейчас мы идём готовить борщ»: переключение через совместное следующее дело
+- [[kak-sdelat-chtoby-ona-slushalas-roditeley](pages/kak-sdelat-chtoby-ona-slushalas-roditeley.md)] — «модель работает в две стороны»: на просьбы ребёнка тоже отвечают
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Семейный спектакль как традиция
 category: Concepts
 summary: Повторяющаяся домашняя сцена с расспросами при уже известном ответе превращается в семейную традицию, которая эмоционально заряжает поступок и закрепляет его; выйти из этого круга сам ребёнок не может
 tags: [concept, roditelstvo, doshkolniki, modeli-povedeniya]
-sources: [syn-beret-chuzhie-veshchi, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu]
+sources: [syn-beret-chuzhie-veshchi, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-sdelat-chtoby-ona-slushalas-roditeley]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[izobretenie-instrumentov-v-igre](pages/izobretenie-instrumentov-v-igre.md)] — что строят после того, как традиция разрушена
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — почему поступок не прекращается от повторных разговоров
 - [[stop-slovo](pages/stop-slovo.md)] — смежный способ прервать повторяющуюся сцену изнутри
+- [[povedenie-kak-semeynaya-traditsiya](pages/povedenie-kak-semeynaya-traditsiya.md)] — обратный случай: традицией оказывается не праздник, а связка поступка и окрика
 
 ## Footnotes
 

@@ -3,7 +3,7 @@ title: Отказ от произвольного «нельзя»
 category: Concepts
 summary: Большинство родительских запретов не выдерживают прямой проверки; реальные опасности стоит устранять физически, а не превращать в бесконечный запрет — произвольные же «нельзя» держат в «тюрьме» и родителя, и ребёнка
 tags: [concept, roditelstvo, granitsy]
-sources: [svoboda-ot-vospitaniya-tedx, lnv-vypusk-248, kniga-lyubit-nelzya-vospityvat, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu]
+sources: [svoboda-ot-vospitaniya-tedx, lnv-vypusk-248, kniga-lyubit-nelzya-vospityvat, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-sdelat-chtoby-ona-slushalas-roditeley]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -22,6 +22,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-248](pages/lnv-vypusk-248.md)] — однодневный диагностический эксперимент: убрать нравоучения после детского «не хочу», заменить приказ реальным вопросом и проверить, поддерживалось ли сопротивление взрослой частью цикла
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — глава «О том, что можно и чего нельзя» даёт наиболее подробную версию концепта: эксперимент «перед любым нельзя спросить себя, что случится, если разрешить» и десяток альтернатив прямому запрету
 - [[kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu](pages/kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu.md)] — «нет» бывает разной интенсивности и формы; безличное «нельзя» заменяется на «я не могу тебе позволить»
+- [[kak-sdelat-chtoby-ona-slushalas-roditeley](pages/kak-sdelat-chtoby-ona-slushalas-roditeley.md)] — «а почему нет?»: часть запретов родители произносят просто так
 
 ## Related Concepts
 

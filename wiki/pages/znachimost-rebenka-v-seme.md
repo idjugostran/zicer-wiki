@@ -3,7 +3,7 @@ title: Значимость ребёнка в семье
 category: Concepts
 summary: Разрушительное поведение ребёнка часто вызвано не характером, а нехваткой ощущения собственной значимости в семье — решение не в наказании, а в реальном включении ребёнка в настоящие решения
 tags: [concept, roditelstvo]
-sources: [pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, lnv-vypusk-251, lnv-vypusk-208, lnv-vypusk-216, lnv-vypusk-211, syn-ne-uchityvaet-interesy-semi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya]
+sources: [pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, lnv-vypusk-251, lnv-vypusk-208, lnv-vypusk-216, lnv-vypusk-211, syn-ne-uchityvaet-interesy-semi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, kak-sdelat-chtoby-ona-slushalas-roditeley]
 created: 2026-08-29
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)] — реальная незаменимость ребёнка («без тебя ничего не произойдёт») вместо назначенной обязанности
 - [[lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya](pages/lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya.md)] — «что улучшилось в его жизни от рождения сестры»: выбирать книжки и питание для младшей как реальная роль
 - [[kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya](pages/kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya.md)] — просьба о буфете сразу после встречи с папой и трёхмесячной сестрой: попытка уравновесить
+- [[kak-sdelat-chtoby-ona-slushalas-roditeley](pages/kak-sdelat-chtoby-ona-slushalas-roditeley.md)] — прыжки на диване рядом с трёхмесячным братом
 
 ## Related Concepts
 
