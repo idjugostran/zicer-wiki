@@ -3,7 +3,7 @@ title: Родительская галлюцинация
 category: Concepts
 summary: Услышав от ребёнка одну фразу, взрослый мгновенно достраивает целое будущее и реагирует уже на него: ребёнок сказал «влюбился» — его уже женили; опоздал на полчаса — уже видят под самосвалом. Это происходит у всех, и это глюк родителя, а не ребёнка
 tags: [concept, roditelskiy-strakh, modeli-povedeniya, roditelstvo]
-sources: [kak-byt-esli-syn-vlyubilsya-v-druga, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-aktivnoy-mame-zhit-s-synom-introvertom, malchik-6-let-hochet-pomogat-ukraine, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, malchik-hochet-odevatsya-kak-devochka, mama-day-mne-vremya, kak-zhe-on-dolgo-sobiraetsya]
+sources: [kak-byt-esli-syn-vlyubilsya-v-druga, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-aktivnoy-mame-zhit-s-synom-introvertom, malchik-6-let-hochet-pomogat-ukraine, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, malchik-hochet-odevatsya-kak-devochka, mama-day-mne-vremya, kak-zhe-on-dolgo-sobiraetsya, kak-byt-esli-devochka-ne-hochet-zdorovatsya]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[malchik-hochet-odevatsya-kak-devochka](pages/malchik-hochet-odevatsya-kak-devochka.md)] — проверка в надежде услышать «нет, мама, я хочу быть боксёром»
 - [[mama-day-mne-vremya](pages/mama-day-mne-vremya.md)] — «он артистичный» — знание о доме: мать не видела сына в компании детей до пяти лет
 - [[kak-zhe-on-dolgo-sobiraetsya](pages/kak-zhe-on-dolgo-sobiraetsya.md)] — «все дети молодцы, а мой ребёнок…»: довод мужа «другие детишки делают сами» назван галлюцинацией
+- [[kak-byt-esli-devochka-ne-hochet-zdorovatsya](pages/kak-byt-esli-devochka-ne-hochet-zdorovatsya.md)] — «стеснительная», опровергнутая в прямом эфире: «я же верю тому, что я вижу»
 
 ## Related Concepts
 

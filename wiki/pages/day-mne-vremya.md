@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[ozhidat-chut-menshe](pages/ozhidat-chut-menshe.md)] — снижение требований как содержание принятия
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — условие, при котором ответ ребёнка вообще может прозвучать
 - [[rebenok-nazyvaet-prichinu-sam](pages/rebenok-nazyvaet-prichinu-sam.md)] — тот же приоритет сказанного ребёнком, но о причине поступка, а не о сроке
+- [[kupit-morozhenoe](pages/kupit-morozhenoe.md)] — добровольный переезд: вместо времени и ресурса на первый план выходит немедленная выгода ребёнка
 
 ## Appearances in Sources
 

@@ -3,7 +3,7 @@ title: Создать причину быть
 category: Concepts
 summary: Ребёнка не спрашивают, зачем он сюда приходит и чего ему не хватает, — взрослый создаёт конкретные поводы, ради которых сюда хочется приходить
 tags: [concept, otnosheniya, smeshannaya-semya, podrostki, instrumenty]
-sources: [kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka, kak-nam-nauchitsya-kontrolirovat-sebya]
+sources: [kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka, kak-nam-nauchitsya-kontrolirovat-sebya, kak-byt-esli-devochka-ne-hochet-zdorovatsya]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -22,6 +22,7 @@ updated: 2026-09-03
 
 - [[kto-ya-svoey-padcheritse](pages/kto-ya-svoey-padcheritse.md)] — сформулировано впервые: тринадцатилетняя падчерица, живущая на два дома
 - [[mozhno-li-pomoch-rodnym-izdaleka](pages/mozhno-li-pomoch-rodnym-izdaleka.md)] — тётя, с которой можно поболтать, против тёти-расследователя
+- [[kak-byt-esli-devochka-ne-hochet-zdorovatsya](pages/kak-byt-esli-devochka-ne-hochet-zdorovatsya.md)] — прикладные причины жить на новом месте: «красивая кроватка, вкусное мороженое… мамы больше на 2 часа»
 
 ## Related Concepts
 

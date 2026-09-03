@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[prava-novogo-partnera-roditelya](pages/prava-novogo-partnera-roditelya.md)] — смежный разбор появления нового партнёра в семье
 - [[mama-ne-dolzhna-stradat](pages/mama-ne-dolzhna-stradat.md)] — «я должна сохранить себя» как условие, а не как эгоизм
 - [[obobshchestvlenie-lichnogo](pages/obobshchestvlenie-lichnogo.md)] — тот же принцип на государственном масштабе: личная память не подлежит внешнему присвоению
+- [[rebenok-slyshit-razgovor-o-sebe](pages/rebenok-slyshit-razgovor-o-sebe.md)] — смежное правило: о ребёнке не говорят при ребёнке как об отсутствующем
 
 ## Footnotes
 

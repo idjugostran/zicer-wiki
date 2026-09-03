@@ -38,6 +38,7 @@ updated: 2026-09-03
 - [[podpole-sovesti](pages/podpole-sovesti.md)] — зеркальный сюжет: здесь скрывать себя вынужден ребёнок, а не взрослый
 - [[priznanie-roditelskoy-oshibki](pages/priznanie-roditelskoy-oshibki.md)] — что делать, когда расхождение между словами и происходящим уже возникло
 - [[chto-ty-hochesh-skazat-na-samom-dele](pages/chto-ty-hochesh-skazat-na-samom-dele.md)] — разбор обобщающего «ненавижу» как альтернатива вынужденному молчанию о своей позиции
+- [[kupit-morozhenoe](pages/kupit-morozhenoe.md)] — «приехали ради детей» при отказе купить мороженое как расхождение слов и поступков
 
 ## Footnotes
 

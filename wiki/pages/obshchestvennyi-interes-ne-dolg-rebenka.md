@@ -29,6 +29,7 @@ updated: 2026-09-03
 - [[korol-pomoshchi](pages/korol-pomoshchi.md)] — что делать вместо требования, если помощь всё-таки нужна
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — базисная забота не конвертируется в рычаг
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — то, что родитель делает для ребёнка, не создаёт долга
+- [[kupit-morozhenoe](pages/kupit-morozhenoe.md)] — переезд был решением взрослых, и благодарности за него ребёнок не должен
 
 ## Footnotes
 

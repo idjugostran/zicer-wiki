@@ -27,3 +27,4 @@ updated: 2026-09-03
 - [[kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey](pages/kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey.md)] — тот же принцип «сначала отступление к себе, потом разговор без требований»
 - [[ekzistentsialnyi-vopros-perehodnogo-vozrasta](pages/ekzistentsialnyi-vopros-perehodnogo-vozrasta.md)] — вопрос «зачем ему жить», заданный родителю, а не подростку, как диагностика тяжёлого случая
 - [[vse-pravy-vmesto-tsarya-solomona](pages/vse-pravy-vmesto-tsarya-solomona.md)] — «ты не миришься своим детям, ты мама своим детям»
+- [[rebenok-slyshit-razgovor-o-sebe](pages/rebenok-slyshit-razgovor-o-sebe.md)] — та же диагностика по речи взрослого, но в присутствии самого ребёнка
