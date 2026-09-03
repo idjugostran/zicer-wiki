@@ -5,7 +5,7 @@ summary: Разбор реального случая (звонок в эфир)
 tags: [source, transcript, konflikty, dima-zicer, lyubit-nelzya-vospityvat]
 sources: [nuzhno-li-uchit-detey-davat-sdachi]
 created: 2026-08-04
-updated: 2026-09-01
+updated: 2026-09-03
 ---
 
 # Нужно ли учить детей «давать сдачи»
@@ -46,7 +46,7 @@ updated: 2026-09-01
 
 ## Relation to Other Wiki Pages
 
-Продолжает сквозную тему сходства между [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] и другими формами силового/иерархического решения отношений: там — критика поощрения/наказания и псевдо-«договора», здесь — критика физического возмездия как «языка силы», подрывающего [[subyektnost](pages/subyektnost.md)] (равенство сторон, право на диалог вместо принуждения). Различие «жалоба vs. просьба о помощи» перекликается с формулировкой [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] («защита, помощь, присутствие, поддержка») — конкретизирует, что значит «помощь» на практике в конфликтной ситуации между детьми.
+Продолжает сквозную тему сходства между [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] и другими формами силового/иерархического решения отношений: там — критика поощрения/наказания и псевдо-«договора», здесь — критика физического возмездия как «языка силы», подрывающего [[subyektnost](pages/subyektnost.md)] (равенство сторон, право на диалог вместо принуждения). Различие «жалоба vs. просьба о помощи» перекликается с формулировкой [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] («защита, помощь, присутствие, поддержка») — конкретизирует, что значит «помощь» на практике в конфликтной ситуации между детьми. Редкий сюжет с обратной стороны разбирается в [[vashego-rebenka-schitayut-huliganom](pages/vashego-rebenka-schitayut-huliganom.md)]: отец, когда-то научивший сына «постоять за себя», позицию изменил, и Зицер просит сказать об этом сыну прямо ([[priznanie-roditelskoy-oshibki](pages/priznanie-roditelskoy-oshibki.md)]).
 
 ## Footnotes
 

@@ -3,7 +3,7 @@ title: Признание родительской ошибки
 category: Concepts
 summary: Когда решение было принято без ребёнка и объяснено ему неправдой, первым обязательным шагом становится извинение — без самоуничижения, но и без смягчения сути; без этой части ничего остальное не работает
 tags: [concept, roditelstvo, chestnost, podrostki, emigratsiya]
-sources: [kak-pomoch-rebenku-prinyat-novuyu-realnost]
+sources: [kak-pomoch-rebenku-prinyat-novuyu-realnost, vashego-rebenka-schitayut-huliganom]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-pomoch-rebenku-prinyat-novuyu-realnost](pages/kak-pomoch-rebenku-prinyat-novuyu-realnost.md)] — вводит концепт: две названные ошибки, условие разговора один на один, форма признания, «без этого всё остальное не сработает», реалистичные сроки
+- [[vashego-rebenka-schitayut-huliganom](pages/vashego-rebenka-schitayut-huliganom.md)] — просьба к отцу самому сказать сыну, что он поменял точку зрения, и что менять её — круто
 
 ## Related Concepts
 

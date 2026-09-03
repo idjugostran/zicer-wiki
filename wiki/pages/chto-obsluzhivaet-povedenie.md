@@ -3,7 +3,7 @@ title: «Что обслуживает» поведение
 category: Concepts
 summary: Вместо оценки самого поступка — искать эмоциональную «плату», которую он приносит: какое состояние или ощущение человек хочет получить, повторяя это поведение
 tags: [concept, samoregulyatsiya, podrostki]
-sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208, lnv-vypusk-250, lnv-vypusk-207, moy-syn-yabeda-ili-postupaet-pravilno, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru]
+sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208, lnv-vypusk-250, lnv-vypusk-207, moy-syn-yabeda-ili-postupaet-pravilno, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, vashego-rebenka-schitayut-huliganom]
 created: 2026-08-30
 updated: 2026-09-03
 ---
@@ -44,3 +44,4 @@ updated: 2026-09-03
 - [[libo-durochka-libo-umnaya](pages/libo-durochka-libo-umnaya.md)] — предшествующий шаг: если ребёнок неглуп, у поведения точно есть функция
 - [[pritcha-o-dvuh-monahah](pages/pritcha-o-dvuh-monahah.md)] — обратный ход разбора: за поведением ребёнка ищут не нужду, а здоровое качество
 - [[nichego-ne-byvaet-prosto-tak](pages/nichego-ne-byvaet-prosto-tak.md)] — тот же поиск функции поступка, сформулированный как родительская обязанность
+- [[dva-varianta-bes-ili-chto-to-meshaet](pages/dva-varianta-bes-ili-chto-to-meshaet.md)] — вилка, которой разговор переводится с «назло» на «что мешает»
