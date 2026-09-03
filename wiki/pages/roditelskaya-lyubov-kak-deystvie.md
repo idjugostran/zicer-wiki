@@ -3,7 +3,7 @@ title: Родительская любовь как действие
 category: Concepts
 summary: Любовь и забота — не эмоция-клише, а список конкретных действий, поддающихся описанию
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, kniga-lyubit-nelzya-vospityvat, kak-pomoch-docheri-vybrat-professiyu, kak-ne-perehvalit-rebenka]
+sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, kniga-lyubit-nelzya-vospityvat, kak-pomoch-docheri-vybrat-professiyu, kak-ne-perehvalit-rebenka, kak-nam-nauchitsya-kontrolirovat-sebya]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -39,3 +39,4 @@ updated: 2026-09-03
 - [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] — тот же ход, применённый к гендерным моделям из Урока 9
 - [[otkaz-ot-nelzya](pages/otkaz-ot-nelzya.md)] — тот же ход: абстрактное правило проверяется прямым вопросом, а не принимается на веру
 - [[obshchestvennyi-interes-ne-dolg-rebenka](pages/obshchestvennyi-interes-ne-dolg-rebenka.md)] — то, что родитель делает для ребёнка, не создаёт у ребёнка долга
+- [[lyubov-cherez-sobstvennye-deystviya](pages/lyubov-cherez-sobstvennye-deystviya.md)] — предельный случай: любовь, которой пока не отвечают

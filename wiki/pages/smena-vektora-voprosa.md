@@ -3,7 +3,7 @@ title: Смена вектора вопроса
 category: Concepts
 summary: Вместо «что тебе интересно?» — «о чём будем делать экскурсию?»: вопрос об общем деле вместо вопроса о собеседнике снимает допросную интонацию и получает тот же ответ
 tags: [concept, kommunikatsiya, pedagogika, podrostki]
-sources: [kak-provodit-klassnye-ekskursii-dlya-detey]
+sources: [kak-provodit-klassnye-ekskursii-dlya-detey, kak-nam-nauchitsya-kontrolirovat-sebya]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-provodit-klassnye-ekskursii-dlya-detey](pages/kak-provodit-klassnye-ekskursii-dlya-detey.md)] — вводит концепт целиком, как техническую часть приёма «сделать участников заказчиками»
+- [[kak-nam-nauchitsya-kontrolirovat-sebya](pages/kak-nam-nauchitsya-kontrolirovat-sebya.md)] — «как у тебя это получилось?» назван главным вопросом на свете
 
 ## Related Concepts
 

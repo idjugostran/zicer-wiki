@@ -3,7 +3,7 @@ title: Создать причину быть
 category: Concepts
 summary: Ребёнка не спрашивают, зачем он сюда приходит и чего ему не хватает, — взрослый создаёт конкретные поводы, ради которых сюда хочется приходить
 tags: [concept, otnosheniya, smeshannaya-semya, podrostki, instrumenty]
-sources: [kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka]
+sources: [kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka, kak-nam-nauchitsya-kontrolirovat-sebya]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -30,3 +30,4 @@ updated: 2026-09-03
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)] — общее дело как материал отношений
 - [[zhizn-na-dva-doma](pages/zhizn-na-dva-doma.md)] — ситуация, в которой приём особенно нужен
 - [[prava-novogo-partnera-roditelya](pages/prava-novogo-partnera-roditelya.md)] — до этого нужно ответить, кто вы ребёнку
+- [[lyubov-cherez-sobstvennye-deystviya](pages/lyubov-cherez-sobstvennye-deystviya.md)] — тот же принцип: работает то, что делает взрослый, а не то, чего он ждёт

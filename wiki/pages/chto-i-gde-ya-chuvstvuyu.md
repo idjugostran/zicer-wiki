@@ -3,7 +3,7 @@ title: Что и где я чувствую
 category: Concepts
 summary: Прежде чем учить ребёнка справляться с эмоциями, нужно вместе с ним назвать телесный сигнал конкретными словами и конкретным местом: крутит живот, потеют ладошки, сводит скулы
 tags: [concept, samoregulyatsiya, emotsii, telo, deti]
-sources: [kak-nauchitsya-spravlyatsya-s-emotsiyami]
+sources: [kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -31,3 +31,4 @@ updated: 2026-09-03
 - [[stop-slovo](pages/stop-slovo.md)] — что строится на найденном сигнале
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — заказ ребёнка как условие работы
 - [[ne-obyasnyat-chto-chuvstvovat](pages/ne-obyasnyat-chto-chuvstvovat.md)] — взрослый не называет чувство за ребёнка, а помогает найти его адрес
+- [[kak-nam-nauchitsya-kontrolirovat-sebya](pages/kak-nam-nauchitsya-kontrolirovat-sebya.md)] — тот же приём, применяемый взрослым к себе: заметить руки, ноги и челюсть за секунду до крика
