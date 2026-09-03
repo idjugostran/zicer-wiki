@@ -53,7 +53,7 @@ updated: 2026-09-03
 [^1]: [[tak-nazyvaemye-detskie-isteriki](pages/tak-nazyvaemye-detskie-isteriki.md)] [00:00:03]-[00:01:03] [synthesis] — вступление: продолжение серии, зрители попросили больше практики после предыдущего выпуска
 [^2]: [[tak-nazyvaemye-detskie-isteriki](pages/tak-nazyvaemye-detskie-isteriki.md)] [01:03]-[02:19] [synthesis] — тезис о неправомочности выделения детских истерик в отдельную категорию и о том, что это способ обвинить «слабых»
 [^3]: [[tak-nazyvaemye-detskie-isteriki](pages/tak-nazyvaemye-detskie-isteriki.md)] [02:00]-[02:19] [synthesis] — субъективность значимости обиды на примере «не купили игрушку» / разговора по телефону
-[^4]: [[tak-nazyvaemye-detskie-isteriki](pages/tak-nazyvaemye-detskie-isteriki.md)] [02:33]-[03:11] — «жалость это не унижение жалость это сострадание... это проявление нашей человечности»
+[^4]: [[tak-nazyvaemye-detskie-isteriki](pages/tak-nazyvaemye-detskie-isteriki.md)] [02:33]-[03:11] — «жалость не может унижать, жалость это сострадание… жалость это проявление нашей человечности»
 [^5]: [[tak-nazyvaemye-detskie-isteriki](pages/tak-nazyvaemye-detskie-isteriki.md)] [03:20]-[03:43] [synthesis] — цель проговаривания сострадания: не остановить истерику, а показать значимость человека
 [^6]: [[tak-nazyvaemye-detskie-isteriki](pages/tak-nazyvaemye-detskie-isteriki.md)] [03:43]-[04:04] [synthesis] — второй вид помощи: конкретные предложения (вода, умыться, прямой вопрос)
 [^7]: [[tak-nazyvaemye-detskie-isteriki](pages/tak-nazyvaemye-detskie-isteriki.md)] [04:13]-[04:40] [synthesis] — третий вид помощи: объяснение своего состояния, но не в моменте пика

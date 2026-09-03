@@ -43,7 +43,7 @@ updated: 2026-09-03
 ## Footnotes
 
 [^1]: [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] [00:00:00]-[00:02:12] [synthesis] — определение модели; примеры (транспорт, укладывание спать, школа)
-[^2]: [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] [00:02:12]-[00:04:34] [synthesis] — модель как «вторая натура»; реакция ощущается как характер
+[^2]: [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] [00:02:12]-[00:04:34] [synthesis] — модель как «это как будто становится нашим вторым я… это как будто моя натура»; реакция ощущается как характер
 [^3]: [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] [00:04:34]-[00:07:14] [synthesis] — модели во взрослых отношениях и у детей; пример неотвеченного вопроса
 [^4]: [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] [00:07:14]-[00:09:04] [synthesis] — практика «это я, или не я»; пример учительского тона
 [^5]: [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] [00:09:04]-[00:10:15] [synthesis] — модели не вредны сами по себе; опасность неосознанности в масштабе общества

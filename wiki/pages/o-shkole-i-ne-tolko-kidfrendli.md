@@ -62,7 +62,7 @@ updated: 2026-09-01
 ## Footnotes
 
 [^1]: [[o-shkole-i-ne-tolko-kidfrendli](pages/o-shkole-i-ne-tolko-kidfrendli.md)] [00:16:39]-[00:17:42] [synthesis] — принудительное молчание против живого разговора как модели обучения коммуникации
-[^2]: [[o-shkole-i-ne-tolko-kidfrendli](pages/o-shkole-i-ne-tolko-kidfrendli.md)] [00:13:41]-[00:14:00] [synthesis] — техника «напиши на бумаге, зачем ходить в школу»
+[^2]: [[o-shkole-i-ne-tolko-kidfrendli](pages/o-shkole-i-ne-tolko-kidfrendli.md)] [00:13:41]-[00:14:00] [synthesis] — техника «…ручку и бумажку, пишешь себе: зачем вообще в школу ходить»
 [^3]: [[o-shkole-i-ne-tolko-kidfrendli](pages/o-shkole-i-ne-tolko-kidfrendli.md)] [00:18:03]-[00:18:20] [synthesis] — школа как «камера хранения» для работающих родителей
 [^4]: [[o-shkole-i-ne-tolko-kidfrendli](pages/o-shkole-i-ne-tolko-kidfrendli.md)] [00:12:10]-[00:12:33] [synthesis] — единственный инструмент сравнения школ — спросить ребёнка
 [^5]: [[o-shkole-i-ne-tolko-kidfrendli](pages/o-shkole-i-ne-tolko-kidfrendli.md)] [00:20:01]-[00:21:00] [synthesis] — советское наследие как барьер для родительской рефлексии

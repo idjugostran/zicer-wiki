@@ -53,7 +53,7 @@ updated: 2026-09-03
 - [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] — забота усваивается моделью, а не инструкцией
 - [[znachimost-rebenka-v-seme](pages/znachimost-rebenka-v-seme.md)] — включение ребёнка в настоящие решения вместо требования
 - [[chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame](pages/chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame.md)] — смежный разбор домашних обязанностей
-- [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — «все остальные способы силовые»
+- [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — «все остальные насильственные, все остальные силовые»
 - [[subyektnost](pages/subyektnost.md)] — право отказаться сохраняется даже при эксклюзивной просьбе
 
 ## Relation to Other Wiki Pages
@@ -66,7 +66,7 @@ updated: 2026-09-03
 [^2]: [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)] [00:03:21]-[00:04:26] [synthesis] — встречный вопрос «а когда планировали рождение Даши, вы с ним советовались», Дед Мороз, вывод о том, что рождение младших ухудшает жизнь старших
 [^3]: [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)] [00:05:16]-[00:06:52] [synthesis] — «я не сказал, что нужно было», отсутствие таких разговоров у большинства родителей, тезис «ни он не должен, ни вы не должны», объединение семьёй как стопроцентное решение родителей, «вы пригласили его в этот мир»
 [^4]: [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)] [00:04:26]-[00:05:16], [00:08:15]-[00:08:44] [synthesis] — перечисление «комната, школа, лагеря, планшет» и его отвод как базисных вещей, отказ от логики благодарности, тезис «вы сами такую жизнь устроили — это ваша ответственность»
-[^5]: [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)] [00:08:50]-[00:09:14] [synthesis] — «есть способ», ребёнок как король этой помощи, признание заслуг потрясающего уровня, «все остальные способы силовые»
+[^5]: [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)] [00:08:50]-[00:09:14] [synthesis] — «есть способ», ребёнок как король этой помощи, признание заслуг потрясающего уровня, «все остальные насильственные, все остальные силовые»
 [^6]: [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)] [00:09:14]-[00:10:25] [synthesis] — оговорка про сравнение и оценки, «у тебя есть волшебные способности», признание права побыть одному, формула просьбы «дай мне десять минут» и важность конкретного времени
 [^7]: [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)] [00:10:25]-[00:11:58] [synthesis] — помощь начинается в разном возрасте, «мы учимся поддержке, потому что нас поддерживают», monkey see monkey do как упрощение, вывод про демонстрацию модели по отношению к самому ребёнку
 [^8]: [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)] [00:11:58]-[00:14:15] [synthesis] — отвод итога «со временем придёт», «говорить о том, какой он крутой, а не о том, как он не помогает», сохранённое право отказаться, совет про рубрикатор канала и финальная формула «он пришёл в семью для того, чтобы ему было круто»
