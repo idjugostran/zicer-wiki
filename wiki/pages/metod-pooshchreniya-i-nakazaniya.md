@@ -3,7 +3,7 @@ title: Метод поощрения и наказания
 category: Concepts
 summary: Заимствованный из дрессуры животных метод — Зицер считает его неприменимым к людям и подменяющим настоящие отношения
 tags: [concept, roditelstvo, pedagogika]
-sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219, lnv-vypusk-211, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, kak-sdelat-chtoby-ona-slushalas-roditeley, devochka-hochet-brosit-zanyatiya-peniem, kak-roditeli-perenosyat-na-detey-modeli, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-314, lnv-vypusk-247]
+sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219, lnv-vypusk-211, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, kak-sdelat-chtoby-ona-slushalas-roditeley, devochka-hochet-brosit-zanyatiya-peniem, kak-roditeli-perenosyat-na-detey-modeli, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-249]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -38,6 +38,7 @@ updated: 2026-09-03
 - [[kak-i-za-chto-ne-hvalit-rebenka](pages/kak-i-za-chto-ne-hvalit-rebenka.md)] — «убирать игрушки он будет в расчёте на похвалу»: перенос цели с дела на реакцию взрослого
 - [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — конфета за съеденный обед: «если человек начинает есть за что-то, вот это становится дефицитом»
 - [[lnv-vypusk-247](pages/lnv-vypusk-247.md)] — лишение общего мороженого за недоеденную рыбу на продлёнке как способ добиться выполнения чужой воли
+- [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — граница правила: балльная подготовка к ОГЭ не является оценкой, Зицер оговаривает, что здесь себе не противоречит
 
 ## Related Concepts
 
@@ -46,3 +47,4 @@ updated: 2026-09-03
 - [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — смежный концепт: механизм зависимости, стоящий за оценкой
 - [[modeli-povedeniya](pages/modeli-povedeniya.md)] — общая рамка: метод поощрения/наказания как частный случай унаследованной транзакционной модели
 - [[lyubov-kak-antipedagogicheskiy-instrument](pages/lyubov-kak-antipedagogicheskiy-instrument.md)] — ещё одна внешняя опора поведения, рушащаяся вместе с уходом взрослого
+- [[slozhnaya-obratnaya-svyaz-vmesto-otsenki](pages/slozhnaya-obratnaya-svyaz-vmesto-otsenki.md)] — граница правила: балльная система экзамена оценкой в этом смысле не является

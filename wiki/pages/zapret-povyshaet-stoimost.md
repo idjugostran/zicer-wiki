@@ -3,7 +3,7 @@ title: Запрет повышает стоимость
 category: Concepts
 summary: Железное правило: при блокировке дети всегда находят дырочку, а сам запрет резко повышает «стоимость продукта» — раз запрещено, значит дорого, значит нужно хотеть и искать
 tags: [concept, roditelstvo, zaprety, internet, gadzhety]
-sources: [rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, kak-aktivnoy-mame-zhit-s-synom-introvertom]
+sources: [rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, kak-aktivnoy-mame-zhit-s-synom-introvertom, lnv-vypusk-249]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[rebenok-v-8-let-smotrit-zapreshchennyi-kontent](pages/rebenok-v-8-let-smotrit-zapreshchennyi-kontent.md)] — вводит концепт: «всегда находят дырочку», повышение стоимости продукта, обучение поиску вместо блокировки
 - [[kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya](pages/kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya.md)] — «иначе это становится дефицитом, и цена резко повышается»
 - [[kak-aktivnoy-mame-zhit-s-synom-introvertom](pages/kak-aktivnoy-mame-zhit-s-synom-introvertom.md)] — обратная форма: каждым «выйди из дома» родитель удорожает выход из дома
+- [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — вылавливание курящего подростка превращается в игру в кошки-мышки, увлекательнее самого курения
 
 ## Related Concepts
 
@@ -34,6 +35,7 @@ updated: 2026-09-03
 - [[raskachivanie-kriticheskogo-myshleniya](pages/raskachivanie-kriticheskogo-myshleniya.md)] — обучение обращению с темой как единственная работающая защита
 - [[granitsa-intimnosti](pages/granitsa-intimnosti.md)] — содержание разговора, который заменяет блокировку
 - [[cheloveka-tuda-nuzhno-privesti](pages/cheloveka-tuda-nuzhno-privesti.md)] — смежный механизм: тяга к запрещённому не встроена, а производится
+- [[vzroslye-govoryat-nepravdu](pages/vzroslye-govoryat-nepravdu.md)] — вторая причина, по которой запрет не работает: обесцененный жанр
 
 ## Footnotes
 

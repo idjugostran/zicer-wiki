@@ -3,7 +3,7 @@ title: Эмоциональное подкрепление поведения
 category: Concepts
 summary: Реакция взрослого — топливо привычки: ребёнок нажимает кнопку, чтобы получить эмоцию, и чем ярче реакция, тем прочнее закрепляется поступок
 tags: [concept, rannii-vozrast, privychki, reaktsiya-vzroslogo]
-sources: [moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, doch-6-let-nachala-zavidovat-i-vydumyvat, mne-nravitsya-kak-papa-reagiruet, kak-byt-esli-devochka-ne-hochet-zdorovatsya, lnv-vypusk-314, lnv-vypusk-247]
+sources: [moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, doch-6-let-nachala-zavidovat-i-vydumyvat, mne-nravitsya-kak-papa-reagiruet, kak-byt-esli-devochka-ne-hochet-zdorovatsya, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-249]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[kak-byt-esli-devochka-ne-hochet-zdorovatsya](pages/kak-byt-esli-devochka-ne-hochet-zdorovatsya.md)] — «клавиша западает, и очень прикольно на эту клавишу жать»: ярлык, поддерживаемый репликами матери
 - [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — «кнопочка называется смерть»; и еда как способ «расковырять нервного родителя»
 - [[lnv-vypusk-247](pages/lnv-vypusk-247.md)] — два звонка на одном механизме — повторяющийся вопрос «ты меня заберёшь» у пятилетнего и швыряние игрушек у трёхлетнего; проверка гипотезы: ребёнок наедине с собой не швыряет
+- [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — двухлетняя девочка ест пластилин и фломастеры; «девяносто семь процентов гарантии», что дело в маминой реакции
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: «Человека туда нужно привести»
 category: Concepts
 summary: Представление, что тяга к саморазрушению встроена в каждого подростка и её надо сдерживать страхом, Зицер отвергает: к этому человека приводят — недоверием и внушением, что он «не человек, а скотинка»
 tags: [concept, podrostki, doverie, nakazanie, riski, roditelskiy-strakh]
-sources: [kak-roditeli-perenosyat-na-detey-modeli]
+sources: [kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-249]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -34,3 +34,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-roditeli-perenosyat-na-detey-modeli](pages/kak-roditeli-perenosyat-na-detey-modeli.md)] — сформулировано впервые: «не 100% людей хотели бы нажраться и заснуть под забором»
+- [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — неуверенность, которую подросток компенсирует курением, выводится из отрицательных оценок близких

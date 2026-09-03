@@ -3,7 +3,7 @@ title: Социализация не равна школе
 category: Concepts
 summary: Социализация не возникает автоматически из факта посещения школы — она строится через любой круг живого общения и может быть сознательно организована отдельно, если в школе не складывается
 tags: [concept, shkola, sotsializatsiya, obrazovanie]
-sources: [kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let]
+sources: [kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, lnv-vypusk-249]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -19,6 +19,7 @@ updated: 2026-09-03
 - [[kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine](pages/kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine.md)] — вводит концепт: единственный названный аргумент против онлайн-обучения (социализация) оспорен тем, что в очной школе ребёнок и так не социализируется; предложено сознательно построить сообщество через чат зрителей и оффлайн-встречи
 - [[kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov](pages/kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov.md)] — «куда ты торопишься»: ответ на страх не успеть социализировать
 - [[kak-borotsya-s-dvoemysliem-kogda-docheri-9-let](pages/kak-borotsya-s-dvoemysliem-kogda-docheri-9-let.md)] — «никакой социальной отчуждённости нет в городе Москва, вы наскребёте десяток детей»
+- [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — коммуникацию строят детско-родительские проекты и театральная студия, а не сад, школа или соревнования
 
 ## Related Concepts
 

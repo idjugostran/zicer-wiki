@@ -33,6 +33,7 @@ updated: 2026-09-03
 - [[chto-meshaet-docheri-izbavitsya-ot-nostalgii](pages/chto-meshaet-docheri-izbavitsya-ot-nostalgii.md)] — что происходит, когда прежняя жизнь остаётся единственной точкой отсчёта
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — способ найти новую рутину: пробовать, а не воспроизводить
 - [[mesto-v-dushe-dlya-yazyka](pages/mesto-v-dushe-dlya-yazyka.md)] — что даёт найденная заново рутина
+- [[dnevnoy-son-ne-vopros-zdorovya](pages/dnevnoy-son-ne-vopros-zdorovya.md)] — почему дневной сон не является медицинским требованием
 
 ## Footnotes
 
