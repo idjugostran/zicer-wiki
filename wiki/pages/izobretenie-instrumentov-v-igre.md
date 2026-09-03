@@ -3,7 +3,7 @@ title: Изобретение инструментов в игре
 category: Concepts
 summary: Ребёнок знает, что так делать нельзя, но не знает, что делать вместо; инструменты придумываются вместе в разыгранной сценке — убежать, рассмотреть и положить, позвать маму, — а после срыва вместе разбирают, какой из них не сработал
 tags: [concept, roditelstvo, doshkolniki, igra, samoregulyatsiya]
-sources: [syn-beret-chuzhie-veshchi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh]
+sources: [syn-beret-chuzhie-veshchi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -38,6 +38,7 @@ updated: 2026-09-03
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — почему инструменты телесные: занять руки, убежать, позвать
 - [[obshchenie-cherez-igrushku](pages/obshchenie-cherez-igrushku.md)] — частный случай: инструмент, изобретаемый вместе с ребёнком в роли персонажа
 - [[srezat-ugol-volshebnoy-skazkoy](pages/srezat-ugol-volshebnoy-skazkoy.md)] — граница между игрой как инструментом и срезанным углом
+- [[pomenyatsya-rolyami-v-igre](pages/pomenyatsya-rolyami-v-igre.md)] — соседний игровой метод: не изобрести инструмент, а найти слова из роли взрослого
 
 ## Footnotes
 

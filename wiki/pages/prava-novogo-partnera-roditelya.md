@@ -3,7 +3,7 @@ title: Права нового партнёра родителя нужно пр
 category: Concepts
 summary: Роль отчима или мачехи по отношению к ребёнку партнёра не возникает автоматически из совместного проживания — право немного воспитывать, обижаться, стоять на своём нужно отдельно проговорить и согласовать, иначе оно просто не работает
 tags: [concept, roditelstvo, smeshannaya-semya]
-sources: [kak-naladit-otnosheniya-s-docheryu-13-let, kto-ya-svoey-padcheritse]
+sources: [kak-naladit-otnosheniya-s-docheryu-13-let, kto-ya-svoey-padcheritse, otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -26,3 +26,4 @@ updated: 2026-09-03
 - [[lnv-vypusk-219](pages/lnv-vypusk-219.md)] — смежный, более ранний случай (пятилетний ребёнок): совет не пытаться командовать, а строить дружбу — тот же вопрос прав нового партнёра, но на более раннем возрасте и без явной формулировки необходимости переговоров
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — смежный, но иной механизм: там — угроза самоощущению взрослого при отклонении ребёнка от сценария, здесь — отсутствие согласованной роли как таковой
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — формулировка родительской функции (защита/помощь/присутствие/поддержка) не переносится на нового партнёра автоматически вместе с фактом совместного проживания
+- [[semya-eto-to-chto-my-opredelyaem](pages/semya-eto-to-chto-my-opredelyaem.md)] — родство определяется определением, а не статусом

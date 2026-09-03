@@ -3,7 +3,7 @@ title: Жизнь на два дома
 category: Concepts
 summary: График «неделя у мамы, неделя у папы» удобен взрослым и обычно неудобен ребёнку; главное здесь не сам развод, а то, что решение принималось без него
 tags: [concept, razvod, smeshannaya-semya, subyektnost, samopovrezhdenie]
-sources: [kto-ya-svoey-padcheritse]
+sources: [kto-ya-svoey-padcheritse, otnosheniya-s-4-letnim-synom-stali-uhudshatsya]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -31,3 +31,4 @@ updated: 2026-09-03
 - [[oshchushchenie-doma](pages/oshchushchenie-doma.md)] — «у человека обычно есть один дом»
 - [[sozdat-prichinu-byt](pages/sozdat-prichinu-byt.md)] — что делает взрослый, пока график не пересмотрен
 - [[prava-novogo-partnera-roditelya](pages/prava-novogo-partnera-roditelya.md)] — вторая линия того же разбора
+- [[semya-eto-to-chto-my-opredelyaem](pages/semya-eto-to-chto-my-opredelyaem.md)] — состав семьи задают отношения, а не формальная полнота
