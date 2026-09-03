@@ -3,7 +3,7 @@ title: Обсуждаем, а не решаем
 category: Concepts
 summary: В остром вопросе взрослый настаивает не на решении, а на самом обсуждении: решение не принимается вовсе, пока идёт разговор, — и рождается из него
 tags: [concept, reshenie, kommunikatsiya, podrostki, semya]
-sources: [syn-14-let-vlyubilsya-i-eto-opasno]
+sources: [syn-14-let-vlyubilsya-i-eto-opasno, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[subyektnost](pages/subyektnost.md)] — «он в любом случае часть решений, часть поиска»
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — вопросы как предмет, а не как вывод
 - [[semeynyi-dogovor](pages/semeynyi-dogovor.md)] — та же логика, доведённая до регулярной процедуры
+- [[otvetstvennost-za-reshenie-na-roditele](pages/otvetstvennost-za-reshenie-na-roditele.md)] — исключение: там, где речь о непосредственной сохранности, решение не передаётся
 
 ## Footnotes
 

@@ -3,7 +3,7 @@ title: «Как тебе это удалось?»
 category: Concepts
 summary: Вопрос-техника, задаваемый после удавшегося отказа: не похвалить результат, а вытащить и закрепить механизм — что именно ребёнок сделал, чтобы у него получилось
 tags: [concept, samoregulyatsiya, mladshie-shkolniki, tehnika, zakreplenie]
-sources: [9-letniy-malchik-beret-chuzhie-veshchi]
+sources: [9-letniy-malchik-beret-chuzhie-veshchi, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[9-letniy-malchik-beret-chuzhie-veshchi](pages/9-letniy-malchik-beret-chuzhie-veshchi.md)] — «вот это вопрос-техника»; показ и разыгрывание удавшегося отказа с ручкой
+- [[kak-borotsya-s-dvoemysliem-kogda-docheri-9-let](pages/kak-borotsya-s-dvoemysliem-kogda-docheri-9-let.md)] — собеседница ссылается на приём из предыдущего разговора, и Зицер отвечает, что здесь он не поможет
 
 ## Related Concepts
 

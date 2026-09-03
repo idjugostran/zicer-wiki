@@ -3,7 +3,7 @@ title: Двоемыслие у детей
 category: Concepts
 summary: Когда взрослые декларируют позицию, а поступками её опровергают — «мы не хотим иметь к этому отношения» и одновременно «можно приехать потусить», — ребёнок получает прямой путь к двоемыслию
 tags: [concept, chestnost, voyna, emigratsiya, roditelstvo]
-sources: [kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, doch-schitaet-sebya-kvadroberom, s-kem-druzhit-nashim-detyam, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima]
+sources: [kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, doch-schitaet-sebya-kvadroberom, s-kem-druzhit-nashim-detyam, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[doch-schitaet-sebya-kvadroberom](pages/doch-schitaet-sebya-kvadroberom.md)] — «политические взгляды мы в садике не обсуждаем» и маска котика, которую нельзя носить снаружи
 - [[s-kem-druzhit-nashim-detyam](pages/s-kem-druzhit-nashim-detyam.md)] — фоновая индоктринация, от которой семья уехала: переодевания в танки в детском саду
 - [[dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima](pages/dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima.md)] — урок, на котором требуют единственно возможного мнения, и запрет называть это политикой
+- [[kak-borotsya-s-dvoemysliem-kogda-docheri-9-let](pages/kak-borotsya-s-dvoemysliem-kogda-docheri-9-let.md)] — «когда человеку восемь лет, со всех сторон почти говорят: твоя мама дура»; двойной стандарт не только политический
 
 ## Related Concepts
 

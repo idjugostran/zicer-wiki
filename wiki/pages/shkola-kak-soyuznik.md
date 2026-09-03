@@ -3,7 +3,7 @@ title: Школа как союзник
 category: Concepts
 summary: На переговорах со школой ищут не правоту, а пересечение интересов: школа заинтересована погасить напряжение, сохранить ученика и не создавать волну — на этом и строится разговор, без перехода на личности
 tags: [concept, shkola, peregovory, roditelstvo]
-sources: [nam-popalas-plohaya-uchilka, moya-doch-zabila-na-vse, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi]
+sources: [nam-popalas-plohaya-uchilka, moya-doch-zabila-na-vse, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let]
 created: 2026-09-03
 updated: 2026-09-03
 ---
@@ -37,6 +37,7 @@ updated: 2026-09-03
 - [[soglasovanie-ozhidaniy](pages/soglasovanie-ozhidaniy.md)] — общая логика: договорённость строится на названных интересах сторон
 - [[kak-razreshit-konflikt-v-shkole](pages/kak-razreshit-konflikt-v-shkole.md)] — смежный разбор конфликта со школьным взрослым
 - [[kak-podderzhat-rebenka-vo-vremya-voyny](pages/kak-podderzhat-rebenka-vo-vremya-voyny.md)] — мягкая версия той же тактики в переписке с учителями: признать важность их работы и не вступать в спор
+- [[uhodit-otkuda-mozhno-uyti](pages/uhodit-otkuda-mozhno-uyti.md)] — обратный случай: со средой, которая гонит идеологию, договариваться не о чем
 
 ## Footnotes
 

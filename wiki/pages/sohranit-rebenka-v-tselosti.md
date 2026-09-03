@@ -3,7 +3,7 @@ title: Сохранить ребёнка в целости
 category: Concepts
 summary: После травмы приоритет смещается с успеваемости и требований на сохранность самого ребёнка — школьная нагрузка может быть снята вплоть до того, что родитель делает домашнее задание за него
 tags: [concept, travma, bezhentsy, shkola, roditelstvo]
-sources: [kak-oblegchit-shkolnuyu-zhizn-docheri, kak-podderzhat-rebenka-vo-vremya-voyny, doch-schitaet-sebya-kvadroberom]
+sources: [kak-oblegchit-shkolnuyu-zhizn-docheri, kak-podderzhat-rebenka-vo-vremya-voyny, doch-schitaet-sebya-kvadroberom, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let]
 created: 2026-09-02
 updated: 2026-09-03
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-03
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — отвергаемая альтернатива: отобранный телефон как рычаг, на который ребёнок отвечает равнодушием
 - [[subyektivnoe-vremya-rebenka](pages/subyektivnoe-vremya-rebenka.md)] — обоснование неспешного темпа: три-пять лет вхождения выглядят по-разному для взрослого и для ребёнка
 - [[mesto-v-dushe-dlya-yazyka](pages/mesto-v-dushe-dlya-yazyka.md)] — та же очерёдность в эмигрантском контексте: сначала покой, потом язык и требования
+- [[uhodit-otkuda-mozhno-uyti](pages/uhodit-otkuda-mozhno-uyti.md)] — тот же приоритет, применённый к выбору среды
 
 ## Footnotes
 
