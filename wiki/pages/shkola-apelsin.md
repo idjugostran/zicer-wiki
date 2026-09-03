@@ -3,9 +3,9 @@ title: Школа «Апельсин»
 category: Entities
 summary: Школа неформального образования в Санкт-Петербурге, основана Димой и Наташей Зицер в 2008 году
 tags: [entity, shkola, shkola-apelsin]
-sources: [apelsinovye-budni, urok-matematiki-v-shkole-apelsin, lnv-v-gostyah-u-zicera-chast-1, ii-v-shkole-zlo-ili-blagoslovenie, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami, kak-zhe-on-dolgo-sobiraetsya]
+sources: [apelsinovye-budni, urok-matematiki-v-shkole-apelsin, lnv-v-gostyah-u-zicera-chast-1, ii-v-shkole-zlo-ili-blagoslovenie, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami, kak-zhe-on-dolgo-sobiraetsya, chto-takoe-neformalnoe-obrazovanie]
 created: 2026-08-04
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Школа «Апельсин»
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[syn-beret-chuzhie-veshchi](pages/syn-beret-chuzhie-veshchi.md)] — случай из практики школы: младшая девочка, начавшая брать чужие вещи через две недели после раннего поступления
 - [[moya-doch-ne-delitsya-chuvstvami](pages/moya-doch-ne-delitsya-chuvstvami.md)] — фильм про «Апельсин» как отправная точка родительской установки на автономность ребёнка
 - [[kak-zhe-on-dolgo-sobiraetsya](pages/kak-zhe-on-dolgo-sobiraetsya.md)] — случай «ну так ты помоги мне, толстячок»: самокритичный пример, рассказанный коллегой на себя
+- [[chto-takoe-neformalnoe-obrazovanie](pages/chto-takoe-neformalnoe-obrazovanie.md)] — школа, на опыте которой строится ответ о том, как пять факторов работают в классе на 25 человек
 
 ## Related Concepts
 

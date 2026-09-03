@@ -3,9 +3,9 @@ title: «Мы», а не «он» — диагностика субъектно�
 category: Concepts
 summary: Родитель, рассказывающий о ребёнке только через «мы» («мы перевели», «мы вернули»), тем самым обнажает, что у ребёнка нет права голоса в собственной истории; репаративная техника — родитель наедине признаёт и оплакивает свою роль, прежде чем говорить с ребёнком, не требуя исправления, а сообщая «ты не один»
 tags: [concept, subyektnost, podrostki, vozrastnye-krizisy]
-sources: [kak-spasti-15-letnego-syna, kak-dobitsya-mira-so-svoimi-detmi]
+sources: [kak-spasti-15-letnego-syna, kak-dobitsya-mira-so-svoimi-detmi, chto-takoe-neformalnoe-obrazovanie]
 created: 2026-08-30
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # «Мы», а не «он» — диагностика субъектности
@@ -19,6 +19,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-spasti-15-letnego-syna](pages/kak-spasti-15-letnego-syna.md)] — вводит технику целиком, на тяжёлом случае 15-летнего сына
+- [[chto-takoe-neformalnoe-obrazovanie](pages/chto-takoe-neformalnoe-obrazovanie.md)] — взаимное «ты» между Зицером и учениками, с которого ведущий начинает выпуск, — тот же языковой тест субъектности
 
 ## Related Concepts
 
