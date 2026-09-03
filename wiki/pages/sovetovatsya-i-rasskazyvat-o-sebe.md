@@ -3,7 +3,7 @@ title: Рассказывать о себе и советоваться
 category: Concepts
 summary: «Золотое правило» Зицера для поддержания отношений — регулярно рассказывать о себе и спрашивать совета, а не только сообщать/требовать; работает и между родителем и ребёнком, и между сиблингами
 tags: [concept, lnv, roditelstvo, siblings]
-sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, kak-pomoch-nayti-otvet-na-vopros-kto-ya, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, moya-doch-ne-delitsya-chuvstvami, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, malchik-6-let-hochet-pomogat-ukraine, selfharm-trevoga-i-slezy, malchik-hochet-odevatsya-kak-devochka]
+sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, kak-pomoch-nayti-otvet-na-vopros-kto-ya, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, moya-doch-ne-delitsya-chuvstvami, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, malchik-6-let-hochet-pomogat-ukraine, selfharm-trevoga-i-slezy, malchik-hochet-odevatsya-kak-devochka, syn-14-let-vlyubilsya-i-eto-opasno]
 created: 2026-09-01
 updated: 2026-09-03
 ---
@@ -32,6 +32,7 @@ updated: 2026-09-03
 - [[malchik-6-let-hochet-pomogat-ukraine](pages/malchik-6-let-hochet-pomogat-ukraine.md)] — мать рассказывает о собственном желании помочь вместо вопроса «а что сделаешь ты»
 - [[selfharm-trevoga-i-slezy](pages/selfharm-trevoga-i-slezy.md)] — «включите её в свою личную жизнь»; честная калибровка: в семь лет гарантировал бы, в четырнадцать — нет
 - [[malchik-hochet-odevatsya-kak-devochka](pages/malchik-hochet-odevatsya-kak-devochka.md)] — «у меня такого не было, может, я тоже такое не помню — расскажи»
+- [[syn-14-let-vlyubilsya-i-eto-opasno](pages/syn-14-let-vlyubilsya-i-eto-opasno.md)] — «очень важно донести до него, про что ты волнуешься тоже»
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Субъектность
 category: Concepts
 summary: Равенство всех участников образовательного процесса как субъектов отношений вне зависимости от возраста и статуса
 tags: [concept, apelsin, pedagogika]
-sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-10, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kak-spasti-15-letnego-syna, o-shkole-i-ne-tolko-kidfrendli, mama-dorogaya-bulling, lnv-vypusk-201, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-219, kak-rastit-samostoyatelnogo-rebenka, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, syn-ne-uchityvaet-interesy-semi, syn-darit-tsennye-veshchi-drugim-detyam, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, moya-doch-ne-delitsya-chuvstvami, kto-ya-svoey-padcheritse, chto-delat-esli-rebenok-boitsya-vsego-novogo, s-kem-druzhit-nashim-detyam, chto-pomogaet-detyam-vyzhit-na-voyne, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, kak-pravilno-govorit-s-rebenkom-pro-dengi]
+sources: [apelsinovye-budni, konflikty-mezhdu-detmi-i-roditelyami, urok-matematiki-v-shkole-apelsin, kurs-12-urokov-urok-10, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-162, kak-spasti-15-letnego-syna, o-shkole-i-ne-tolko-kidfrendli, mama-dorogaya-bulling, lnv-vypusk-201, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-219, kak-rastit-samostoyatelnogo-rebenka, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, syn-ne-uchityvaet-interesy-semi, syn-darit-tsennye-veshchi-drugim-detyam, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, moya-doch-ne-delitsya-chuvstvami, kto-ya-svoey-padcheritse, chto-delat-esli-rebenok-boitsya-vsego-novogo, s-kem-druzhit-nashim-detyam, chto-pomogaet-detyam-vyzhit-na-voyne, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, kak-pravilno-govorit-s-rebenkom-pro-dengi, syn-14-let-vlyubilsya-i-eto-opasno]
 created: 2026-08-04
 updated: 2026-09-03
 ---
@@ -42,6 +42,7 @@ updated: 2026-09-03
 - [[chto-pomogaet-detyam-vyzhit-na-voyne](pages/chto-pomogaet-detyam-vyzhit-na-voyne.md)] — тринадцатилетний аргументированно отказывается уезжать, и его решение принимается
 - [[kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov](pages/kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov.md)] — граница снизу: «в четыре и восемь он не может взять на себя ответственность за такое решение»
 - [[dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima](pages/dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima.md)] — право на себя названо предметом и педагогики, и политики одновременно
+- [[syn-14-let-vlyubilsya-i-eto-opasno](pages/syn-14-let-vlyubilsya-i-eto-opasno.md)] — «ты ему ничего не должен предлагать, он часть семьи, часть решений, часть поиска»
 
 ## Related Concepts
 
