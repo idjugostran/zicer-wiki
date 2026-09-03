@@ -55,3 +55,4 @@ updated: 2026-09-04
 - [[slozhnaya-obratnaya-svyaz-vmesto-otsenki](pages/slozhnaya-obratnaya-svyaz-vmesto-otsenki.md)] — граница правила: балльная система экзамена оценкой в этом смысле не является
 - [[materialnyi-motivator-vytesnyaet-interes](pages/materialnyi-motivator-vytesnyaet-interes.md)] — частный случай на учебной мотивации, с подтверждающим экспериментом
 - [[test-perenosa-na-vzroslogo](pages/test-perenosa-na-vzroslogo.md)] — проверка, обнаруживающая, что метод держится на неравенстве
+- [[zapugivanie-otuchaet-ot-rechi](pages/zapugivanie-otuchaet-ot-rechi.md)] — чему на самом деле обучает работающая угроза

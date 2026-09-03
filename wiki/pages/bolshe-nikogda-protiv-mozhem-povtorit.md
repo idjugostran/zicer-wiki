@@ -3,9 +3,9 @@ title: «Больше никогда» против «можем повтори�
 category: Concepts
 summary: Единственным посланием переживших войну было «больше никогда»; лозунг «можем повторить» Зицер читает буквально — как пожелание детям того, что прошли их деды, — и именно поэтому считает его несовместимым с памятью, а не просто бестактным
 tags: [concept, voyna, pamyat, gosudarstvo, tsennosti]
-sources: [chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy, vstuplenie-k-lnv-10-oktyabrya-2023]
+sources: [chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy, vstuplenie-k-lnv-10-oktyabrya-2023, lnv-vypusk-217]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # «Больше никогда» против «можем повторить»
@@ -35,3 +35,4 @@ updated: 2026-09-03
 
 - [[chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy](pages/chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy.md)] — сформулировано впервые: ответ на письмо о том, уместно ли праздновать 9 мая весельем
 - [[vstuplenie-k-lnv-10-oktyabrya-2023](pages/vstuplenie-k-lnv-10-oktyabrya-2023.md)] — та же семейная история: «ровно половина семьи со стороны мамы и ровно половина со стороны папы»
+- [[lnv-vypusk-217](pages/lnv-vypusk-217.md)] — культ игрушечного оружия выводится из непрожитой боли Второй мировой; ругать за это бабушек и дедушек нельзя

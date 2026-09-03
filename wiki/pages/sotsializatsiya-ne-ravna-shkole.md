@@ -3,7 +3,7 @@ title: Социализация не равна школе
 category: Concepts
 summary: Социализация не возникает автоматически из факта посещения школы — она строится через любой круг живого общения и может быть сознательно организована отдельно, если в школе не складывается
 tags: [concept, shkola, sotsializatsiya, obrazovanie]
-sources: [kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, lnv-vypusk-249, lnv-vypusk-241, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-230, lnv-vypusk-226, lnv-vypusk-222]
+sources: [kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, lnv-vypusk-249, lnv-vypusk-241, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-230, lnv-vypusk-226, lnv-vypusk-222, lnv-vypusk-217]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — социализация как умение строить социальные связи; «делать это не обязательно в детском саду» — годятся песочница и студия
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — обсуждение индивидуального и домашнего обучения для четвероклассника, сидящего под партой
 - [[lnv-vypusk-222](pages/lnv-vypusk-222.md)] — переход на домашнее обучение вместо борьбы за место в классе
+- [[lnv-vypusk-217](pages/lnv-vypusk-217.md)] — запрос на социализацию трёхлетнего решается выбором среды общения — театральная студия, группы «вместе с мамой», — а не самой очевидной секцией
 
 ## Related Concepts
 

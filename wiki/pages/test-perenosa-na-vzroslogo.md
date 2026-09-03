@@ -26,6 +26,7 @@ updated: 2026-09-04
 - [[nesmotrya-a-ne-blagodarya](pages/nesmotrya-a-ne-blagodarya.md)] — соседний контраргумент, работающий на биографии
 - [[on-vernet-to-chemu-nauchilsya](pages/on-vernet-to-chemu-nauchilsya.md)] — тот же вывод, но через прогноз
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — метод, к которому тест применяется первым делом
+- [[argument-tak-vsegda-bylo](pages/argument-tak-vsegda-bylo.md)] — соседняя проверка апелляции к привычному
 
 ## Appearances in Sources
 

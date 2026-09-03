@@ -3,9 +3,9 @@ title: Жизнь на два дома
 category: Concepts
 summary: График «неделя у мамы, неделя у папы» удобен взрослым и обычно неудобен ребёнку; главное здесь не сам развод, а то, что решение принималось без него
 tags: [concept, razvod, smeshannaya-semya, subyektnost, samopovrezhdenie]
-sources: [kto-ya-svoey-padcheritse, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-249, lnv-vypusk-235, lnv-vypusk-232]
+sources: [kto-ya-svoey-padcheritse, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-249, lnv-vypusk-235, lnv-vypusk-232, lnv-vypusk-217]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Жизнь на два дома
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — два сюжета: отец, живущий отдельно от восьмилетнего сына, и папа Владимир с четырнадцатилетним
 - [[lnv-vypusk-235](pages/lnv-vypusk-235.md)] — рецепт одного взрослого разговора о разводе с шестилетним, с рамкой «защита»
 - [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — сын с двух лет живёт между матерью и её родителями, а с седьмого класса в интернате — конструкция, из которой вырастает отчуждение
+- [[lnv-vypusk-217](pages/lnv-vypusk-217.md)] — сын не хочет видеться с отцом через пять лет после развода, в котором не участвовал; исправление начинается с признания маминой ошибки
 
 ## Related Concepts
 

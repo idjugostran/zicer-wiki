@@ -31,6 +31,7 @@ updated: 2026-09-04
 - [[priznanie-roditelskoy-oshibki](pages/priznanie-roditelskoy-oshibki.md)] — что делают вместо самооправдания прошлым
 - [[dar-kak-roditelskiy-proekt](pages/dar-kak-roditelskiy-proekt.md)] — скрипка вместо живописи как цена родительского выбора
 - [[test-perenosa-na-vzroslogo](pages/test-perenosa-na-vzroslogo.md)] — соседний контраргумент, работающий на симметрии, а не на биографии
+- [[argument-tak-vsegda-bylo](pages/argument-tak-vsegda-bylo.md)] — тот же класс доводов, но на историческом материале
 
 ## Appearances in Sources
 

@@ -3,7 +3,7 @@ title: Взрослые говорят неправду
 category: Concepts
 summary: Прошлые несбывшиеся угрозы взрослых обесценили сам жанр запрета, поэтому и правдивый запрет не работает; условие разговора о реальном риске — сначала перестать врать себе и ребёнку в фактах
 tags: [concept, doverie, zaprety, podrostki, pravda]
-sources: [lnv-vypusk-249]
+sources: [lnv-vypusk-249, lnv-vypusk-217]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -27,7 +27,9 @@ updated: 2026-09-04
 - [[pravda-ob-opasnoy-srede](pages/pravda-ob-opasnoy-srede.md)] — правда как условие разговора, но про внешнюю среду
 - [[cheloveka-tuda-nuzhno-privesti](pages/cheloveka-tuda-nuzhno-privesti.md)] — что стоит за самим курением: компенсация неуверенности
 - [[roditel-ne-znaet-posledstviy](pages/roditel-ne-znaet-posledstviy.md)] — цена ложной точности в прогнозах, накопленная за годы
+- [[zapugivanie-otuchaet-ot-rechi](pages/zapugivanie-otuchaet-ot-rechi.md)] — второй механизм, которым слово взрослого теряет силу
 
 ## Appearances in Sources
 
 - [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — вводит концепт: курящая тринадцатилетняя дочь и обесцененный жанр запрета
+- [[lnv-vypusk-217](pages/lnv-vypusk-217.md)] — запугивание больницей в детском саду постепенно отучает ребёнка понимать обычную речь

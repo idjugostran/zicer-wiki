@@ -3,9 +3,9 @@ title: Личность вместо гендерной модели
 category: Concepts
 summary: Жёсткие гендерные сценарии («мальчик = твёрдая рука», «девочка = покорность») вредят обоим полам одинаково; личность и интересы ребёнка важнее культивирования «мальчиковости»/«девочковости»
 tags: [concept, roditelstvo, kurs-12-urokov, gender]
-sources: [kurs-12-urokov-urok-9, kak-spasti-15-letnego-syna, mama-dorogaya-bulling, o-malchikah-i-o-muzhikah, lnv-vypusk-220, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, syn-rasskazal-mame-chto-on-biseksual, kak-byt-esli-syn-vlyubilsya-v-druga, malchik-hochet-odevatsya-kak-devochka]
+sources: [kurs-12-urokov-urok-9, kak-spasti-15-letnego-syna, mama-dorogaya-bulling, o-malchikah-i-o-muzhikah, lnv-vypusk-220, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, syn-rasskazal-mame-chto-on-biseksual, kak-byt-esli-syn-vlyubilsya-v-druga, malchik-hochet-odevatsya-kak-devochka, lnv-vypusk-217]
 created: 2026-08-29
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Личность вместо гендерной модели
@@ -30,6 +30,7 @@ updated: 2026-09-03
 - [[syn-rasskazal-mame-chto-on-biseksual](pages/syn-rasskazal-mame-chto-on-biseksual.md)] — родители отказываются «менять» сына после его слов о бисексуальности
 - [[kak-byt-esli-syn-vlyubilsya-v-druga](pages/kak-byt-esli-syn-vlyubilsya-v-druga.md)] — «мальчик или девочка — это вообще всё равно» применительно к влюблённости шестилетки
 - [[malchik-hochet-odevatsya-kak-devochka](pages/malchik-hochet-odevatsya-kak-devochka.md)] — заколки, бант и костюм со стразами у одиннадцатилетнего: ответ не зависит от гендерной интерпретации
+- [[lnv-vypusk-217](pages/lnv-vypusk-217.md)] — бабушки дарят внукам автоматы с двух лет, «иначе они не мальчики»; ответ: мужественность не измеряется размером пистолета
 
 ## Related Concepts
 
@@ -37,3 +38,4 @@ updated: 2026-09-03
 - [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — тот же методологический ход: абстрактные «женственность»/«мужественность» раскладываются на конкретный список через домашнее задание
 - [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)] — та же историческая рамка «модель без альтернативных путей», применённая к неравенству полов, а не возрастов
 - [[kollektivizm-kak-pochva-dlya-bullinga](pages/kollektivizm-kak-pochva-dlya-bullinga.md)] — та же формула «право на себя», применённая здесь к гендерным ожиданиям, а не к буллингу
+- [[podarok-kak-provokatsiya](pages/podarok-kak-provokatsiya.md)] — почему выбор игрушки и есть выбор поведения
