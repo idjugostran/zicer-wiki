@@ -46,3 +46,4 @@ updated: 2026-09-03
 - [[proverka-masshtaba-trevogi](pages/proverka-masshtaba-trevogi.md)] — «докажите мне, что помощь нужна» как частный случай той же проверки
 - [[prosit-o-pomoshchi-eto-sila](pages/prosit-o-pomoshchi-eto-sila.md)] — просьба о поддержке в отличие от перекладывания проблемы
 - [[prinyat-sostoyanie-kak-normu](pages/prinyat-sostoyanie-kak-normu.md)] — почему инструменты предлагают только после того, как состояние объявлено нормой
+- [[kuda-on-opazdyvaet](pages/kuda-on-opazdyvaet.md)] — требование назвать конкретный срок вместо общего «времени маловато»
