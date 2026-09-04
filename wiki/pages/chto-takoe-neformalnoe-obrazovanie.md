@@ -3,7 +3,7 @@ title: Что такое Неформальное образование
 category: Sources
 summary: Короткое программное выступление в передаче «Правила жизни» — Зицер даёт определение неформального образования через пять факторов (субъектность, личный интерес, выбор, личное взаимодействие, исследование) и отвечает на два возражения: про размер класса и про то, что этому не учат в педвузах
 tags: [source, transcript, dima-zicer, neformalnoe-obrazovanie, obrazovanie, pedagogika, uchitel]
-sources: [chto-takoe-neformalnoe-obrazovanie]
+sources: [chto-takoe-neformalnoe-obrazovanie, isra-campus-2010]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -70,7 +70,7 @@ updated: 2026-09-04
 
 Все прочие источники по этой теме работают как приложения этого определения к частным случаям: [[kak-provodit-klassnye-ekskursii-dlya-detey](pages/kak-provodit-klassnye-ekskursii-dlya-detey.md)] и [[kak-organizovat-poezdku-dlya-detey](pages/kak-organizovat-poezdku-dlya-detey.md)] разворачивают фактор «личный интерес» вне школьного урока, [[kak-uchitelyu-stroit-atmosferu-uroka](pages/kak-uchitelyu-stroit-atmosferu-uroka.md)] — внутри урока. Ответ на возражение о размере класса (работа группами-лабораториями) — прямое практическое дополнение к [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)], где описано устройство отдельного занятия.
 
-Отдельная линия, слабо представленная в корпусе до сих пор, — учитель как адресат. Здесь Зицер говорит не с родителем и не с ребёнком, а о профессии: о её приравнивании к искусству, о подготовке в педвузах и о неизбежности перемен из-за назревающего конфликта между учеником и учителем. Ближе всего к этому [[kak-uchitelyu-stroit-atmosferu-uroka](pages/kak-uchitelyu-stroit-atmosferu-uroka.md)] и [[kak-uchitelyu-pomoch-uchenikam-iz-ukrainy](pages/kak-uchitelyu-pomoch-uchenikam-iz-ukrainy.md)], но там речь о конкретных приёмах, а не о профессии как таковой.
+Отдельная линия, слабо представленная в корпусе до сих пор, — учитель как адресат. Здесь Зицер говорит не с родителем и не с ребёнком, а о профессии: о её приравнивании к искусству, о подготовке в педвузах и о неизбежности перемен из-за назревающего конфликта между учеником и учителем. Ближе всего к этому [[kak-uchitelyu-stroit-atmosferu-uroka](pages/kak-uchitelyu-stroit-atmosferu-uroka.md)] и [[kak-uchitelyu-pomoch-uchenikam-iz-ukrainy](pages/kak-uchitelyu-pomoch-uchenikam-iz-ukrainy.md)], но там речь о конкретных приёмах, а не о профессии как таковой. Практика, стоящая за этим определением, документирована репортажами о лагере Isra-Campus: [[isra-campus-2010](pages/isra-campus-2010.md)] показывает то же устройство за годы до словесной формулировки, [[isra-campus-2015](pages/isra-campus-2015.md)] — что содержание факультета вторично, а задача преподавателя в навыках взаимодействия с миром.
 
 ## Footnotes
 
