@@ -3,9 +3,9 @@ title: Король этой помощи
 category: Concepts
 summary: Единственный ненасильственный способ получить помощь ребёнка — просить у него эксклюзивное, то, что умеет только он, с названным сроком, признанием его превосходства в этой области и сохранённым правом отказаться
 tags: [concept, roditelstvo, semya, pomoshch-po-domu]
-sources: [syn-ne-uchityvaet-interesy-semi, lnv-vypusk-241]
+sources: [syn-ne-uchityvaet-interesy-semi, lnv-vypusk-241, lnv-vypusk-192]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Король этой помощи
@@ -22,6 +22,7 @@ updated: 2026-09-03
 
 - [[syn-ne-uchityvaet-interesy-semi](pages/syn-ne-uchityvaet-interesy-semi.md)] — вводит концепт целиком: «король этой помощи», волшебные способности, форма просьбы и сохранённое право отказаться
 - [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — с шестнадцатилетней про выгул собаки — просьба и иногда твёрдое требование вместо апелляции к прошлому желанию
+- [[lnv-vypusk-192](pages/lnv-vypusk-192.md)] — просьба к шестилетнему помочь с укладыванием младшего
 
 ## Related Concepts
 

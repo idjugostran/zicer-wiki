@@ -3,7 +3,7 @@ title: Плавающие границы
 category: Concepts
 summary: Продавливание просьбами и физическое насилие — симптомы одного и того же: границ, которые ребёнок раз за разом успешно продавливает; лечится не уговорами, а решением, которое не меняется от усталости взрослого
 tags: [concept, granitsy, roditelstvo, nasilie, mladshie-shkolniki]
-sources: [kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-226, lnv-vypusk-218]
+sources: [kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-192]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-04
 - [[kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu](pages/kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu.md)] — общий стол обязателен или нет в зависимости от культурного кода конкретной семьи
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — «он не чувствует границы»: хватание за руку вместо сказанного словами «нет»
 - [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — гипотеза о домашних рамках как источнике нарушения границ на занятиях и в саду, проверяемая коротким опросом матери
+- [[lnv-vypusk-192](pages/lnv-vypusk-192.md)] — почему ребёнок бьёт второй и третий раз: рамки, которая не меняется, ещё нет
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Проблема принадлежит тому, кому она меш�
 category: Concepts
 summary: Прежде чем исправлять поведение ребёнка, нужно различить его собственную трудность и неудобство взрослого; последнему следует назвать свою конкретную потребность и просить помощи, а не объявлять ребёнка проблемой
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [lnv-vypusk-214, lnv-vypusk-220, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, mama-ne-dolzhna-stradat, kak-oblegchit-shkolnuyu-zhizn-docheri, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, moy-rebenok-sovsem-nichego-ne-est, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-dobitsya-mira-so-svoimi-detmi, mama-day-mne-vremya, devochka-hochet-brosit-zanyatiya-peniem, kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-241, lnv-vypusk-229, lnv-vypusk-227, lnv-vypusk-226]
+sources: [lnv-vypusk-214, lnv-vypusk-220, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, mama-ne-dolzhna-stradat, kak-oblegchit-shkolnuyu-zhizn-docheri, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, moy-rebenok-sovsem-nichego-ne-est, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-dobitsya-mira-so-svoimi-detmi, mama-day-mne-vremya, devochka-hochet-brosit-zanyatiya-peniem, kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-241, lnv-vypusk-229, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-192]
 created: 2026-08-30
 updated: 2026-09-04
 ---
@@ -35,6 +35,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — вопрос «нужна ли ему помощь» звучит дважды; в случае Ксении честное «нет» показывает, что помощь нужна маме
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — «спрашивайте его о том, самому ему это мешает или нет» в ответе про «путь сопротивления»
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — прежде чем чинить обидчивость одиннадцатилетнего, у него самого спрашивают, мешает ли она ему
+- [[lnv-vypusk-192](pages/lnv-vypusk-192.md)] — беспорядок на столе: страдает папа, ему и предложено убрать
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Забывает только одно
 category: Concepts
 summary: Если общей забывчивости нет, а «забывается» ровно одно дело, значит человек хочет забыть именно это — чаще всего собственную болезнь; вывод снимает обвинение, но не отменяет необходимости напоминать
 tags: [concept, bolezn, otvetstvennost, diagnostika, podrostki]
-sources: [lnv-vypusk-204]
+sources: [lnv-vypusk-204, lnv-vypusk-192]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -37,3 +37,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-204](pages/lnv-vypusk-204.md)] — звонок Елены об ингаляциях: избирательная забывчивость как указание на непринятую болезнь
+- [[lnv-vypusk-192](pages/lnv-vypusk-192.md)] — дочь Феликса «забывает» ровно один звонок учительнице

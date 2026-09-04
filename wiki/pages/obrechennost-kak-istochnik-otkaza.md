@@ -3,9 +3,9 @@ title: Обречённость как источник отказа
 category: Concepts
 summary: Подросток отказывается ходить в школу не из-за конкретной школы, а из-за предопределённой траектории, на которую он не влиял; лечится не сменой места, а картбланшем — открытыми возможностями и собственным решением
 tags: [concept, podrostki, shkola, subyektnost]
-sources: [devochka-otkazyvaetsya-hodit-v-shkolu, lnv-vypusk-244]
+sources: [devochka-otkazyvaetsya-hodit-v-shkolu, lnv-vypusk-244, lnv-vypusk-192]
 created: 2026-09-02
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Обречённость как источник отказа
@@ -24,6 +24,7 @@ updated: 2026-09-03
 
 - [[devochka-otkazyvaetsya-hodit-v-shkolu](pages/devochka-otkazyvaetsya-hodit-v-shkolu.md)] — вводит концепт целиком: 15-летняя Соня во Франции, ненависть к колледжу, отсутствие друзей и выбор лицея
 - [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — восьмилетний отказник: сначала собрать его собственный запрос, потом взвешивать другую школу
+- [[lnv-vypusk-192](pages/lnv-vypusk-192.md)] — десятилетняя не хочет в школу: разбор до того, как решать, настаивать или нет
 
 ## Related Concepts
 
