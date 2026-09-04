@@ -3,7 +3,7 @@ title: Защита от учительского оскорбления
 category: Concepts
 summary: Когда взрослый в школе оскорбляет ребёнка, вставать на защиту должен родитель, а не сам ребёнок: детский ответ мгновенно переквалифицируют в дерзость и раскручивают конфликт; ребёнку остаётся уйти от хама, родителю — позвонить в школу и заявить, что он этого не позволяет
 tags: [concept, shkola, zashchita, roditelskaya-funktsiya, konflikt]
-sources: [lnv-vypusk-246, lnv-vypusk-245, lnv-vypusk-233, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-210, lnv-vypusk-212, lnv-vypusk-203, lnv-vypusk-205, lnv-vypusk-196, lnv-vypusk-191, lnv-vypusk-193]
+sources: [lnv-vypusk-246, lnv-vypusk-245, lnv-vypusk-233, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-210, lnv-vypusk-212, lnv-vypusk-203, lnv-vypusk-205, lnv-vypusk-196, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-194]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -42,3 +42,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-196](pages/lnv-vypusk-196.md)] — случай расширен: Зицер требует увольнения физрука и обращается к администрации и директорам школ города
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — публичное замечание про обгрызенные ручки: говорить учителю должен родитель
 - [[lnv-vypusk-193](pages/lnv-vypusk-193.md)] — учительница третий год публично унижает детей; принцип развёрнут в план: письмо в департамент, уход, «обратная прививка» ребёнку
+- [[lnv-vypusk-194](pages/lnv-vypusk-194.md)] — «неадекватные дети» в родительском чате: «это не делает чести вашей учительнице»

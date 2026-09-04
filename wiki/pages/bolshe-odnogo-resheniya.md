@@ -3,7 +3,7 @@ title: Есть больше одного решения
 category: Concepts
 summary: Острота выбора сжимает поле до двух вариантов; ставить ребёнка перед такой развилкой — упрощение, и работа взрослого в том, чтобы вернуть в обсуждение третьи страны, промежуточные форматы и самих участников ситуации
 tags: [concept, reshenie, podrostki, emigratsiya, konflikt]
-sources: [syn-14-let-vlyubilsya-i-eto-opasno, doch-hochet-vybrosit-staruyu-kuklu, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-240, lnv-vypusk-241, lnv-vypusk-226]
+sources: [syn-14-let-vlyubilsya-i-eto-opasno, doch-hochet-vybrosit-staruyu-kuklu, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-240, lnv-vypusk-241, lnv-vypusk-226, lnv-vypusk-194]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -31,6 +31,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — хоккейная секция с грубым тренером: минимум две, а на деле три возможности — сменить тренера, принять устройство, уйти
 - [[lnv-vypusk-241](pages/lnv-vypusk-241.md)] — веер решений для не идущего в школу: другой класс, другая школа, индивидуальное расписание, математический класс
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — «мы очень много чего придумываем заранее»: невозможность оплатить тьютора проверяют, а не принимают как данность
+- [[lnv-vypusk-194](pages/lnv-vypusk-194.md)] — четыре варианта развития разговора с тринадцатилетним вместо развилки «настаивать или бросить»
 
 ## Related Concepts
 

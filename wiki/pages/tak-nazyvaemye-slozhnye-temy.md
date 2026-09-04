@@ -3,7 +3,7 @@ title: Так называемые «сложные темы»
 category: Concepts
 summary: Секс, смерть, дурные привычки — не сложны сами по себе; сложность создаёт телесный блок родителя, который ребёнок считывает и начинает защитно избегать темы
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-8, lnv-vypusk-164, lnv-vypusk-250, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-245, lnv-vypusk-237, lnv-vypusk-229, lnv-vypusk-213, lnv-vypusk-212, lnv-vypusk-203, lnv-vypusk-191]
+sources: [kurs-12-urokov-urok-8, lnv-vypusk-164, lnv-vypusk-250, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-245, lnv-vypusk-237, lnv-vypusk-229, lnv-vypusk-213, lnv-vypusk-212, lnv-vypusk-203, lnv-vypusk-191, lnv-vypusk-194]
 created: 2026-08-29
 updated: 2026-09-04
 ---
@@ -32,6 +32,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-212](pages/lnv-vypusk-212.md)] — «язык прилипает к нёбу» как описание родительского блока
 - [[lnv-vypusk-203](pages/lnv-vypusk-203.md)] — разговор с почти четырёхлетней о предстоящей смерти кошки: правда в обёртке по возрасту и ограниченным объёмом
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — тяжесть темы названа унаследованной: она была непростой и для родителей звонящих
+- [[lnv-vypusk-194](pages/lnv-vypusk-194.md)] — неловкость взрослого объясняется тем, как он сам о теме узнал; тема не менее увлекательна, чем вращение Земли вокруг Солнца
 
 ## Related Concepts
 

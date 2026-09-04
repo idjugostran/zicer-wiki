@@ -3,7 +3,7 @@ title: Телесная реакция предшествует поступку
 category: Concepts
 summary: Реактивные действия (крик, удар) вызываются телесным сигналом (сжатые кулаки, сухость во рту), возникающим за секунды до поступка, а не осознанным решением
 tags: [concept, samoregulyatsiya, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-ponimat-signaly-tela, lnv-vypusk-253, lnv-vypusk-215, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kniga-lyubit-nelzya-vospityvat, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, kak-ponyat-14-letnyuyu-doch, kak-byt-esli-syn-vlyubilsya-v-druga, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-spasti-detey-ot-nenavisti, pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov, lnv-vypusk-245, lnv-vypusk-230, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-196]
+sources: [kurs-12-urokov-urok-3, konflikty-mezhdu-detmi-i-roditelyami, sravnenie-100-shagov-v-ad, o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-4, kurs-12-urokov-urok-5, kak-ponimat-signaly-tela, lnv-vypusk-253, lnv-vypusk-215, svoboda-ot-vospitaniya-tedx, kurs-12-urokov-urok-8, otkuda-berutsya-modeli-povedeniya, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kniga-lyubit-nelzya-vospityvat, proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, kak-ponyat-14-letnyuyu-doch, kak-byt-esli-syn-vlyubilsya-v-druga, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-spasti-detey-ot-nenavisti, pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov, lnv-vypusk-245, lnv-vypusk-230, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-196, lnv-vypusk-194]
 created: 2026-08-04
 updated: 2026-09-04
 ---
@@ -51,6 +51,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — «волшебный» третий шаг: расслабить руки и выпить воды вместо мысли о выступлении
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — поиск спускового крючка обиды и разбор того, что происходит в теле
 - [[lnv-vypusk-196](pages/lnv-vypusk-196.md)] — тем же объясняется импульсивность подростка в конфликте с одноклассником
+- [[lnv-vypusk-194](pages/lnv-vypusk-194.md)] — кулачки, которые можно научиться разжимать, и сигнал за полминуты до вспышки
 
 ## Related Concepts
 

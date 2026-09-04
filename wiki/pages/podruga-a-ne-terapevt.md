@@ -3,7 +3,7 @@ title: Подруга, а не терапевт
 category: Concepts
 summary: Другу человека с психиатрическим диагнозом не следует брать на себя роль специалиста: честное «хочу тебя поддержать» и вопрос «что я могу сделать» и есть помощь
 tags: [concept, druzhba, podrostki, psihoterapiya, granitsy]
-sources: [lnv-vypusk-202]
+sources: [lnv-vypusk-202, lnv-vypusk-194]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -35,3 +35,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-202](pages/lnv-vypusk-202.md)] — звонок пятнадцатилетней Кати о подруге с диагнозом
+- [[lnv-vypusk-194](pages/lnv-vypusk-194.md)] — шестнадцатилетняя Дарья и одноклассник с депрессией; Зицер оговаривает, что он педагог, а не психиатр

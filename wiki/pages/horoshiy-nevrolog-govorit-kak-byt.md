@@ -3,7 +3,7 @@ title: Хороший невролог говорит, как быть
 category: Concepts
 summary: Критерий специалиста: обследование, закончившееся словами «патологий нет», не является ответом — хороший врач говорит не что всё в порядке, а как быть в конкретной ситуации
 tags: [concept, spetsialisty, sdvg, diagnostika, roditelstvo]
-sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom, lnv-vypusk-245, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-238, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-233, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-217, lnv-vypusk-210, lnv-vypusk-199, lnv-vypusk-189, lnv-vypusk-191]
+sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom, lnv-vypusk-245, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-238, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-233, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-217, lnv-vypusk-210, lnv-vypusk-199, lnv-vypusk-189, lnv-vypusk-191, lnv-vypusk-194]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -37,6 +37,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-199](pages/lnv-vypusk-199.md)] — психолог, посоветовавший гомеопата и успокоительные, ответом не является — нужен специалист с акцентом в детскую психотерапию
 - [[lnv-vypusk-189](pages/lnv-vypusk-189.md)] — совет сходить к неврологу мотивируется прямо: не потому, что ребёнок болен, а чтобы понять, что ему мешает изнутри
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — оговорка к обоим направлениям к неврологу: врач говорит, как быть, а не что ребёнок болен
+- [[lnv-vypusk-194](pages/lnv-vypusk-194.md)] — к неврологу идут убедиться, что изнутри ничего не мешает, а не за вердиктом о нормальности
 
 ## Related Concepts
 
