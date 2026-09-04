@@ -3,7 +3,7 @@ title: Педагогика как исследование себя
 category: Concepts
 summary: Единственная причина взрослому заниматься педагогикой — исследование самого себя; отсюда педагогика ближе к искусству, чем к науке
 tags: [concept, pedagogika, motiv, iskusstvo, vzroslyi]
-sources: [dima-zicer-v-programme-pro-iskusstvo, dima-zicer-drugie-v-gorode, dima-zicer-sovremennyy-pedagog]
+sources: [dima-zicer-v-programme-pro-iskusstvo, dima-zicer-drugie-v-gorode, dima-zicer-sovremennyy-pedagog, dima-zicer-o-sovremennoy-pedagogike]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -41,3 +41,4 @@ updated: 2026-09-04
 - [[dima-zicer-v-programme-pro-iskusstvo](pages/dima-zicer-v-programme-pro-iskusstvo.md)] — ответ на вопрос, зачем взрослому педагогика
 - [[dima-zicer-drugie-v-gorode](pages/dima-zicer-drugie-v-gorode.md)] — урок про переписку Онегина и Татьяны в сорок пятый раз оживает, когда учительница исследует на нём себя
 - [[dima-zicer-sovremennyy-pedagog](pages/dima-zicer-sovremennyy-pedagog.md)] — формула «иду туда исследовать себя» звучит уже в 2014 году
+- [[dima-zicer-o-sovremennoy-pedagogike](pages/dima-zicer-o-sovremennoy-pedagogike.md)] — ранний, необобщённый ход: «может, я хочу что-то понять про себя» — формулы о единственной причине ещё нет

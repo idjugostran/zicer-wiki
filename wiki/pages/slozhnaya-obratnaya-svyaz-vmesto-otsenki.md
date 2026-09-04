@@ -3,7 +3,7 @@ title: Сложная обратная связь вместо оценки
 category: Concepts
 summary: Граница критики оценок: балльная шкала экзамена оценкой в критикуемом смысле не является — при подготовке к ОГЭ и ЕГЭ она обязательна как «сложная» обратная связь в отличие от «простой» пятибалльной, а объективность ей даёт не письменная работа, а личная беседа-коллоквиум
 tags: [concept, otsenki, obratnaya-svyaz, shkola, granitsa-pravila]
-sources: [lnv-vypusk-249, lnv-vypusk-233, lnv-vypusk-185]
+sources: [lnv-vypusk-249, lnv-vypusk-233, lnv-vypusk-185, dima-zicer-o-sovremennoy-pedagogike]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -33,3 +33,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — вводит границу: учитель физики, ОГЭ и коллоквиумы раз в месяц
 - [[lnv-vypusk-233](pages/lnv-vypusk-233.md)] — базовый тезис, который эта граница ограничивает, сформулирован здесь: оценка как штамп против обратной связи
 - [[lnv-vypusk-185](pages/lnv-vypusk-185.md)] — «чем больше баллов тем более гибкой является обратная связь» — стобалльная шкала как компромисс
+- [[dima-zicer-o-sovremennoy-pedagogike](pages/dima-zicer-o-sovremennoy-pedagogike.md)] — ранний компромисс: учитель ставит оценку для себя и для передачи коллеге, не делая её инструментом в классе

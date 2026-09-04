@@ -3,7 +3,7 @@ title: Госстандарт как профессиональный обман
 category: Concepts
 summary: Ссылку учителя на ГОСы, отчётность и департамент Зицер называет одним из самых больших профессиональных обманов: стандарты существуют, но за закрытой дверью класса урок целиком на стороне учителя
 tags: [concept, uchitel, sistema, subyektnost, strakh]
-sources: [dima-zicer-o-roli-uchitelya, lnv-vypusk-191, dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii, dima-zicer-uchitel-kotoromu-prikolno, dima-zicer-v-programme-pro-iskusstvo]
+sources: [dima-zicer-o-roli-uchitelya, lnv-vypusk-191, dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii, dima-zicer-uchitel-kotoromu-prikolno, dima-zicer-v-programme-pro-iskusstvo, dima-zicer-o-sovremennoy-pedagogike]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -41,3 +41,4 @@ updated: 2026-09-04
 - [[dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii](pages/dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii.md)] — автономия школы существует на уровне закона, и Зицер требует подтвердить её вслух
 - [[dima-zicer-uchitel-kotoromu-prikolno](pages/dima-zicer-uchitel-kotoromu-prikolno.md)] — самая ранняя редакция тезиса, январь 2018: класс за закрытой дверью — сцена учителя, но ГОСы ещё не названы обманом
 - [[dima-zicer-v-programme-pro-iskusstvo](pages/dima-zicer-v-programme-pro-iskusstvo.md)] — здесь требование отдать учителю и сам выбор произведений
+- [[dima-zicer-o-sovremennoy-pedagogike](pages/dima-zicer-o-sovremennoy-pedagogike.md)] — мягкая ранняя версия: система жёстче, но на своём уроке учителю не запрещено ни творчество, ни отказ от оценок

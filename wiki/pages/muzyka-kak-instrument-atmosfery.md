@@ -3,9 +3,9 @@ title: Музыка как инструмент атмосферы
 category: Concepts
 summary: Музыка внутри занятия работает как невербальный договор: на её громкость и характер реагируют все, тогда как голосом того же не добиться; вместо требования тишины — фортепианный джаз в пол-звука
 tags: [concept, pedagogika, atmosfera-uroka, muzyka, gruppa]
-sources: [kak-uchitelyu-stroit-atmosferu-uroka]
+sources: [kak-uchitelyu-stroit-atmosferu-uroka, dima-zicer-o-sovremennoy-pedagogike]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Музыка как инструмент атмосферы
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-uchitelyu-stroit-atmosferu-uroka](pages/kak-uchitelyu-stroit-atmosferu-uroka.md)] — вводит концепт: джаз в пол-звука вместо требования тишины, аналогия с кафе, музыка как содержание занятия, граница с дрессировкой
+- [[dima-zicer-o-sovremennoy-pedagogike](pages/dima-zicer-o-sovremennoy-pedagogike.md)] — музыка в начале урока — первое, что предлагалось попробовать учителям на семинарах
 
 ## Related Concepts
 

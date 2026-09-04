@@ -3,7 +3,7 @@ title: Пять факторов неформального образовани
 category: Concepts
 summary: Структурированный ответ Зицера на вопрос «можно ли обойтись без школы» — субъектность, выбор, личный интерес, субъектное взаимодействие, учение как исследование
 tags: [concept, obrazovanie, shkola-apelsin]
-sources: [lnv-v-gostyah-u-zicera-chast-1, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-223, lnv-vypusk-250, ii-v-shkole-zlo-ili-blagoslovenie, kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine, kak-organizovat-poezdku-dlya-detey, kak-provodit-klassnye-ekskursii-dlya-detey, kak-uchitelyu-stroit-atmosferu-uroka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, chto-takoe-neformalnoe-obrazovanie, dima-zicer-o-roli-uchitelya, dima-zicer-v-programme-pravila-zhizni-2018, isra-campus-2012, isra-campus-2010, isra-campus-2015, novosti-o-lektsii-zicera-2012, dima-zicer-sovremennyy-pedagog, dima-zicer-o-shkole-apelsin]
+sources: [lnv-v-gostyah-u-zicera-chast-1, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-223, lnv-vypusk-250, ii-v-shkole-zlo-ili-blagoslovenie, kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine, kak-organizovat-poezdku-dlya-detey, kak-provodit-klassnye-ekskursii-dlya-detey, kak-uchitelyu-stroit-atmosferu-uroka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, chto-takoe-neformalnoe-obrazovanie, dima-zicer-o-roli-uchitelya, dima-zicer-v-programme-pravila-zhizni-2018, isra-campus-2012, isra-campus-2010, isra-campus-2015, novosti-o-lektsii-zicera-2012, dima-zicer-sovremennyy-pedagog, dima-zicer-o-shkole-apelsin, dima-zicer-o-sovremennoy-pedagogike]
 created: 2026-08-30
 updated: 2026-09-04
 ---
@@ -41,6 +41,19 @@ updated: 2026-09-04
 - [[novosti-o-lektsii-zicera-2012](pages/novosti-o-lektsii-zicera-2012.md)] — стороннее наблюдение за двумя факторами в действии: личный интерес и субъектное взаимодействие
 - [[dima-zicer-sovremennyy-pedagog](pages/dima-zicer-sovremennyy-pedagog.md)] — завершающая сводка лекции почти совпадает со списком: взаимодействие, субъектность, выбор, интерес, «здесь и сейчас»
 - [[dima-zicer-o-shkole-apelsin](pages/dima-zicer-o-shkole-apelsin.md)] — факторы названы поимённо, но ещё не сведены в список
+- [[dima-zicer-o-sovremennoy-pedagogike](pages/dima-zicer-o-sovremennoy-pedagogike.md)] — самая ранняя версия структуры: факторов четыре, а не пять — взаимодействие отдельным пунктом ещё не выделено
+
+## Ранняя форма: четыре фактора
+
+В самом раннем содержательном источнике корпуса — онлайн-лекции октября 2013 года — Зицер
+перечисляет факторы по пунктам, но их **четыре, а не пять**: субъектность, выбор, личный интерес и
+исследование. Субъектное взаимодействие отдельным пунктом ещё не выделено — взаимодействие проходит
+сквозным ответом на вопрос, чему учить: «учить и учиться взаимодействовать со знанием с
+действительностью» [00:26:18].
+
+Уже и выбор в 2013 году понимается у́же позднейшего: речь только о выборе пути к предмету и
+материала внутри предмета; ни индивидуального учебного плана, ни школьного парламента в этой
+редакции нет. См. [[dima-zicer-o-sovremennoy-pedagogike](pages/dima-zicer-o-sovremennoy-pedagogike.md)].
 
 ## Related Concepts
 

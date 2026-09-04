@@ -3,7 +3,7 @@ title: Сдать экзамен — отдельный навык
 category: Concepts
 summary: Знание предмета и умение сдавать экзамен — разные вещи: оформление работы устроено не проще самого материала, и подготовку к самостоятельной сдаче начинают именно с него
 tags: [concept, ekzamen, navyk, shkola, podgotovka]
-sources: [lnv-vypusk-230, lnv-vypusk-197, lnv-vypusk-196, lnv-vypusk-168, dima-zicer-v-programme-pro-iskusstvo]
+sources: [lnv-vypusk-230, lnv-vypusk-197, lnv-vypusk-196, lnv-vypusk-168, dima-zicer-v-programme-pro-iskusstvo, dima-zicer-o-sovremennoy-pedagogike]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -34,3 +34,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-196](pages/lnv-vypusk-196.md)] — цели разводятся в звонке восьмиклассника: сдать ОГЭ или выучить правила — разные задачи
 - [[lnv-vypusk-168](pages/lnv-vypusk-168.md)] — «не сдаст» названо самым страшным исходом и тут же переопределено как переживаемое и иногда продуктивное
 - [[dima-zicer-v-programme-pro-iskusstvo](pages/dima-zicer-v-programme-pro-iskusstvo.md)] — «я за ЕГЭ»: к форме экзамена готовятся месяц-другой, многолетняя подготовка названа чепухой
+- [[dima-zicer-o-sovremennoy-pedagogike](pages/dima-zicer-o-sovremennoy-pedagogike.md)] — к ЕГЭ применён тот же метод: что в нём есть интересного и что можно исследовать
