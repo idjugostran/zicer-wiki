@@ -3,7 +3,7 @@ title: Инклюзия не за счёт других
 category: Concepts
 summary: Инклюзия правильна как подход, но особые потребности одного ребёнка не отменяют права других на безопасность и комфорт; выход не исключение ребёнка, а сопровождающий специалист и работа взрослых
 tags: [concept, inklyuziya, bezopasnost, detskiy-sad, tyutor]
-sources: [lnv-vypusk-179]
+sources: [lnv-vypusk-179, dima-zicer-drugie-v-gorode]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -41,3 +41,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-179](pages/lnv-vypusk-179.md)] — звонок Оксаны из Костромы об инклюзии и безопасности в саду
+- [[dima-zicer-drugie-v-gorode](pages/dima-zicer-drugie-v-gorode.md)] — другая сторона инклюзии: отказ смотреть на работу с особыми участниками как на социальный проект

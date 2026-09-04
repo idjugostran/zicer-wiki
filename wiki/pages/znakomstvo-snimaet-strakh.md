@@ -3,7 +3,7 @@ title: Знакомство снимает страх
 category: Concepts
 summary: Детский страх перед тем, кто выглядит иначе, питается непониманием, а не враждебностью; поэтому дом не закрывают, а открывают — но приглашение никогда не идёт против воли самого ребёнка
 tags: [concept, inklyuziya, autizm, strakh, druzhba, granitsy]
-sources: [8-letniy-malchik-stesnyaetsya-starshego-brata, lnv-vypusk-244, lnv-vypusk-234, lnv-vypusk-227, lnv-vypusk-213, lnv-vypusk-179]
+sources: [8-letniy-malchik-stesnyaetsya-starshego-brata, lnv-vypusk-244, lnv-vypusk-234, lnv-vypusk-227, lnv-vypusk-213, lnv-vypusk-179, dima-zicer-drugie-v-gorode]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -40,3 +40,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — принятие непохожего одноклассника через обнаружение особенностей у всех
 - [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — знакомый стоматолог приходит в гости пить чай и заодно смотрит зубы
 - [[lnv-vypusk-179](pages/lnv-vypusk-179.md)] — довод о том, что пятилетние способны понять непохожесть, если рядом работает взрослый
+- [[dima-zicer-drugie-v-gorode](pages/dima-zicer-drugie-v-gorode.md)] — смежный заход: в Упсала-цирке страх перед непохожими снимается качеством художественного результата

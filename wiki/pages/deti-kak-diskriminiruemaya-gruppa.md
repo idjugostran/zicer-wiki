@@ -3,7 +3,7 @@ title: Дети как «последняя дискриминируемая г�
 category: Concepts
 summary: Историческая рамка Зицера — неравенство детей и взрослых сопоставимо с историческим бесправием женщин и расовой дискриминацией
 tags: [concept, subyektnost, roditelstvo]
-sources: [konflikty-mezhdu-detmi-i-roditelyami, pochemu-vzroslye-unizhayut-detey, nablyudatel-o-podrostkah, lnv-v-gostyah-u-zicera-chast-1, o-diskriminatsii-detey-vzroslymi, mama-dorogaya-bulling, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, obysk-desyatiklassnikov-v-orske, vstuplenie-k-efiru-11-04-2023, lnv-vypusk-212, dima-zicer-o-shkolnoy-travle, dima-zicer-printsip-lyubvi]
+sources: [konflikty-mezhdu-detmi-i-roditelyami, pochemu-vzroslye-unizhayut-detey, nablyudatel-o-podrostkah, lnv-v-gostyah-u-zicera-chast-1, o-diskriminatsii-detey-vzroslymi, mama-dorogaya-bulling, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, obysk-desyatiklassnikov-v-orske, vstuplenie-k-efiru-11-04-2023, lnv-vypusk-212, dima-zicer-o-shkolnoy-travle, dima-zicer-printsip-lyubvi, dima-zicer-drugie-v-gorode]
 created: 2026-08-04
 updated: 2026-09-04
 ---
@@ -38,6 +38,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-212](pages/lnv-vypusk-212.md)] — монолог о Дне защиты детей и сравнение споров о школьной форме с доводами о праве женщины носить брюки
 - [[dima-zicer-o-shkolnoy-travle](pages/dima-zicer-o-shkolnoy-travle.md)] — механизм вытеснения другого описан прямо, через «каким способом выдавливание»
 - [[dima-zicer-printsip-lyubvi](pages/dima-zicer-printsip-lyubvi.md)] — ранняя формулировка 2014 года: возраст и размер перечислены в одном ряду с цветом кожи и национальностью
+- [[dima-zicer-drugie-v-gorode](pages/dima-zicer-drugie-v-gorode.md)] — «любить детей» переформулировано в «взаимодействовать с людьми»: дискриминация по возрасту в самой постановке вопроса
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Педагогика как исследование себя
 category: Concepts
 summary: Единственная причина взрослому заниматься педагогикой — исследование самого себя; отсюда педагогика ближе к искусству, чем к науке
 tags: [concept, pedagogika, motiv, iskusstvo, vzroslyi]
-sources: [dima-zicer-v-programme-pro-iskusstvo]
+sources: [dima-zicer-v-programme-pro-iskusstvo, dima-zicer-drugie-v-gorode]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -39,3 +39,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[dima-zicer-v-programme-pro-iskusstvo](pages/dima-zicer-v-programme-pro-iskusstvo.md)] — ответ на вопрос, зачем взрослому педагогика
+- [[dima-zicer-drugie-v-gorode](pages/dima-zicer-drugie-v-gorode.md)] — урок про переписку Онегина и Татьяны в сорок пятый раз оживает, когда учительница исследует на нём себя

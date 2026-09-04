@@ -3,7 +3,7 @@ title: Создание условий, а не заинтересовывани
 category: Concepts
 summary: «Заинтересовать» и «создать условия для интереса» — противоположные векторы, а не два способа одного: заинтересовать незнакомого человека нельзя, можно построить рамку, в которой интерес возникает сам
 tags: [concept, interes, uchitel, ramki, urok]
-sources: [dima-zicer-v-programme-pravila-zhizni-2018, isra-campus-2012]
+sources: [dima-zicer-v-programme-pravila-zhizni-2018, isra-campus-2012, dima-zicer-drugie-v-gorode]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -40,3 +40,4 @@ updated: 2026-09-04
 
 - [[dima-zicer-v-programme-pravila-zhizni-2018](pages/dima-zicer-v-programme-pravila-zhizni-2018.md)] — спор с формулировкой «учитель должен заинтересовать»
 - [[isra-campus-2012](pages/isra-campus-2012.md)] — лагерь как выстроенная рамка, внутри которой интерес возникает сам
+- [[dima-zicer-drugie-v-gorode](pages/dima-zicer-drugie-v-gorode.md)] — инструмент учителя: «построить поле, в котором тебе станет это важно и интересно»

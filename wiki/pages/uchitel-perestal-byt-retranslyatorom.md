@@ -3,7 +3,7 @@ title: Учитель перестал быть ретранслятором
 category: Concepts
 summary: Монополия учителя на знание кончилась: двадцать пять лет назад он был главным ретранслятором, сегодня знание добывается за минуту — и его функция сместилась к построению рамок
 tags: [concept, uchitel, znanie, funktsiya, sovremennost]
-sources: [dima-zicer-v-programme-pravila-zhizni-2018]
+sources: [dima-zicer-v-programme-pravila-zhizni-2018, dima-zicer-drugie-v-gorode]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -40,3 +40,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[dima-zicer-v-programme-pravila-zhizni-2018](pages/dima-zicer-v-programme-pravila-zhizni-2018.md)] — ответ на возражение о программе и сорока пяти минутах
+- [[dima-zicer-drugie-v-gorode](pages/dima-zicer-drugie-v-gorode.md)] — педагог строит рамки; харизму предлагается заменить мотивацией, любовью и набором инструментов

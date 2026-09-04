@@ -3,7 +3,7 @@ title: Зачем ходить в школу
 category: Concepts
 summary: Единственная причина ходить в школу — понять себя, других людей и устройство мира; отсюда следует, что базисом саморазвития может быть любой предмет, и что врать про незаменимость предмета нельзя
 tags: [concept, shkola, smysl, predmety, obrazovanie]
-sources: [lnv-vypusk-191, dima-zicer-uchitel-kotoromu-prikolno, dima-zicer-v-programme-pro-iskusstvo]
+sources: [lnv-vypusk-191, dima-zicer-uchitel-kotoromu-prikolno, dima-zicer-v-programme-pro-iskusstvo, dima-zicer-drugie-v-gorode]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -43,3 +43,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — звонок Елены, учительницы химии из Екатеринбурга
 - [[dima-zicer-uchitel-kotoromu-prikolno](pages/dima-zicer-uchitel-kotoromu-prikolno.md)] — тот же смысл школы, адресованный учителю, а не родителю
 - [[dima-zicer-v-programme-pro-iskusstvo](pages/dima-zicer-v-programme-pro-iskusstvo.md)] — тот же ответ в первом лице: исследовать себя, других и мир
+- [[dima-zicer-drugie-v-gorode](pages/dima-zicer-drugie-v-gorode.md)] — тот же вопрос задан про учителя: нет ни одной причины идти в школу, если это не способ взаимодействия с действительностью

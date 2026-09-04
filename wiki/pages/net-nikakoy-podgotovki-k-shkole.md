@@ -3,7 +3,7 @@ title: Нет никакой подготовки к школе
 category: Concepts
 summary: Требование «подготовить» ребёнка к школе Зицер называет враньём: единственная подготовка — спокойное детство и стабильное состояние, с которым человек в школу приходит
 tags: [concept, shkola, doshkolniki, mify, stabilnost]
-sources: [kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-byt-esli-devochka-ne-hochet-zdorovatsya, lnv-vypusk-241, lnv-vypusk-231, lnv-vypusk-230, lnv-vypusk-213, lnv-vypusk-191, lnv-vypusk-194, lnv-vypusk-166, dima-zicer-chitayu-s-udovolstviem]
+sources: [kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-byt-esli-devochka-ne-hochet-zdorovatsya, lnv-vypusk-241, lnv-vypusk-231, lnv-vypusk-230, lnv-vypusk-213, lnv-vypusk-191, lnv-vypusk-194, lnv-vypusk-166, dima-zicer-chitayu-s-udovolstviem, dima-zicer-drugie-v-gorode]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -32,6 +32,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-194](pages/lnv-vypusk-194.md)] — дети, готовые к школе в шесть, не более умные и не более развитые
 - [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — цепочка «готовимся к саду, к школе, к университету, к работе — а жить когда»
 - [[dima-zicer-chitayu-s-udovolstviem](pages/dima-zicer-chitayu-s-udovolstviem.md)] — «зачем мне к концу первого класса знать материал четвёртого»
+- [[dima-zicer-drugie-v-gorode](pages/dima-zicer-drugie-v-gorode.md)] — частный случай общей критики подготовки вместо жизни
 
 ## Related Concepts
 
