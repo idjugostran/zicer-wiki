@@ -3,7 +3,7 @@ title: Школа как союзник
 category: Concepts
 summary: На переговорах со школой ищут не правоту, а пересечение интересов: школа заинтересована погасить напряжение, сохранить ученика и не создавать волну — на этом и строится разговор, без перехода на личности
 tags: [concept, shkola, peregovory, roditelstvo]
-sources: [nam-popalas-plohaya-uchilka, moya-doch-zabila-na-vse, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, 8-letniy-malchik-stesnyaetsya-starshego-brata, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-238, lnv-vypusk-240, lnv-vypusk-241, lnv-vypusk-233, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-203, lnv-vypusk-197, lnv-vypusk-193, lnv-vypusk-195, lnv-vypusk-176, lnv-vypusk-178, lnv-vypusk-183, lnv-vypusk-173]
+sources: [nam-popalas-plohaya-uchilka, moya-doch-zabila-na-vse, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, 8-letniy-malchik-stesnyaetsya-starshego-brata, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-238, lnv-vypusk-240, lnv-vypusk-241, lnv-vypusk-233, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-203, lnv-vypusk-197, lnv-vypusk-193, lnv-vypusk-195, lnv-vypusk-176, lnv-vypusk-178, lnv-vypusk-183, lnv-vypusk-173, lnv-vypusk-163]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -49,6 +49,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-178](pages/lnv-vypusk-178.md)] — просьба к школе о снисхождении до конца учебного года для ребёнка, потерявшего отца
 - [[lnv-vypusk-183](pages/lnv-vypusk-183.md)] — «треугольник» взаимной помощи детей, родителей и учителей и школьная конференция как форма общего решения
 - [[lnv-vypusk-173](pages/lnv-vypusk-173.md)] — с заключением специалиста мать идёт к учителям за месяцем совместной работы
+- [[lnv-vypusk-163](pages/lnv-vypusk-163.md)] — порядок разговора с завучем: выслушать, обменяться позициями, предложить помощь
 
 ## Related Concepts
 

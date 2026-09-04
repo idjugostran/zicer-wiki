@@ -3,7 +3,7 @@ title: Интерес как крючок
 category: Concepts
 summary: Интерес — крючок, которым человек цепляется за школу и за жизнь; если ребёнка всё время занимал взрослый, собственный крючок не образуется, главным инструментом становится мама, и в школе зацепиться не за что — чинят возвращением к прямому интересу, а не давлением
 tags: [concept, interes, motivatsiya, shkola, samostoyatelnost]
-sources: [lnv-vypusk-234, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-226, lnv-vypusk-217, lnv-vypusk-198, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-187, lnv-vypusk-186, lnv-vypusk-180, lnv-vypusk-183, lnv-vypusk-185, lnv-vypusk-165]
+sources: [lnv-vypusk-234, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-226, lnv-vypusk-217, lnv-vypusk-198, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-187, lnv-vypusk-186, lnv-vypusk-180, lnv-vypusk-183, lnv-vypusk-185, lnv-vypusk-165, lnv-vypusk-163]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -44,3 +44,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-183](pages/lnv-vypusk-183.md)] — интерес возвращают не давлением, а списком «что я люблю делать сам по себе», который пишут вдвоём
 - [[lnv-vypusk-185](pages/lnv-vypusk-185.md)] — довод против соревновательности: учатся потому, что прёт, а не потому, что рядом мальчик Ваня
 - [[lnv-vypusk-165](pages/lnv-vypusk-165.md)] — четырёхлетнюю поддерживают в том, что она любит, вместо принуждения ходить в студии
+- [[lnv-vypusk-163](pages/lnv-vypusk-163.md)] — четвероклассница рвалась в школу, пока взрослые не научили её не рваться

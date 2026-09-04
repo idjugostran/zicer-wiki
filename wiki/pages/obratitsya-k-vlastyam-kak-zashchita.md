@@ -3,7 +3,7 @@ title: Обратиться к властям как защита
 category: Concepts
 summary: Когда травля продолжается, а взрослые с другой стороны отказываются вмешиваться, защиту ищут в полиции и социальных службах; недопустим только один исход — тот, при котором ребёнка не защищают
 tags: [concept, travlya, bulling, zashchita, protsedura, vzroslye]
-sources: [kak-zashchitit-7-letnego-syna-ot-travli, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245, lnv-vypusk-218, lnv-vypusk-213, lnv-vypusk-210, lnv-vypusk-212, lnv-vypusk-196, lnv-vypusk-188, lnv-vypusk-193, lnv-vypusk-187, lnv-vypusk-180, lnv-vypusk-174]
+sources: [kak-zashchitit-7-letnego-syna-ot-travli, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245, lnv-vypusk-218, lnv-vypusk-213, lnv-vypusk-210, lnv-vypusk-212, lnv-vypusk-196, lnv-vypusk-188, lnv-vypusk-193, lnv-vypusk-187, lnv-vypusk-180, lnv-vypusk-174, lnv-vypusk-163]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -41,6 +41,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-187](pages/lnv-vypusk-187.md)] — звонок из Твери и сообщение Оксаны из Белгорода: домашнее насилие как предмет закона
 - [[lnv-vypusk-180](pages/lnv-vypusk-180.md)] — Зицер намеренно не произносит «опека», но называет психологов и службы поддержки
 - [[lnv-vypusk-174](pages/lnv-vypusk-174.md)] — удары воспитательницы по голове: «вам надо в прокуратуру бежать бегом»
+- [[lnv-vypusk-163](pages/lnv-vypusk-163.md)] — свидетельница обращается к руководству бассейна, а не спорит с матерью девочки
 
 ## Related Concepts
 

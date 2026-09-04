@@ -3,7 +3,7 @@ title: Наказание как унижение
 category: Concepts
 summary: Наказание по составу всегда сводится к отъёму принадлежащего, лишению свободы или лишению любимого — то есть к применению силы сильным против слабого, и потому есть унижение
 tags: [concept, nakazanie, unizhenie, sila, granitsy]
-sources: [lnv-vypusk-188, lnv-vypusk-177, lnv-vypusk-184, lnv-vypusk-185]
+sources: [lnv-vypusk-188, lnv-vypusk-177, lnv-vypusk-184, lnv-vypusk-185, lnv-vypusk-163]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -42,3 +42,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-177](pages/lnv-vypusk-177.md)] — на вопрос «лишить мультиков»: любое наказание есть унижение, а ребёнок с твёрдым характером найдёт, чем наказать в ответ
 - [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — отобранный стул и стояние весь урок
 - [[lnv-vypusk-185](pages/lnv-vypusk-185.md)] — возрастной довод в дополнение к этическому: до одиннадцати причинная связь ещё не сложилась
+- [[lnv-vypusk-163](pages/lnv-vypusk-163.md)] — сто пятьдесят предложений всему классу за одного и одиночная парта как наказание
