@@ -3,7 +3,7 @@ title: Интерес как крючок
 category: Concepts
 summary: Интерес — крючок, которым человек цепляется за школу и за жизнь; если ребёнка всё время занимал взрослый, собственный крючок не образуется, главным инструментом становится мама, и в школе зацепиться не за что — чинят возвращением к прямому интересу, а не давлением
 tags: [concept, interes, motivatsiya, shkola, samostoyatelnost]
-sources: [lnv-vypusk-234, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-226, lnv-vypusk-217, lnv-vypusk-198, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-187, lnv-vypusk-186, lnv-vypusk-180, lnv-vypusk-183, lnv-vypusk-185, lnv-vypusk-165, lnv-vypusk-163, dima-zicer-uchitel-kotoromu-prikolno, dima-zicer-chitayu-s-udovolstviem]
+sources: [lnv-vypusk-234, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-226, lnv-vypusk-217, lnv-vypusk-198, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-187, lnv-vypusk-186, lnv-vypusk-180, lnv-vypusk-183, lnv-vypusk-185, lnv-vypusk-165, lnv-vypusk-163, dima-zicer-uchitel-kotoromu-prikolno, dima-zicer-chitayu-s-udovolstviem, dima-zicer-v-programme-pravila-zhizni-2018]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -47,3 +47,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-163](pages/lnv-vypusk-163.md)] — четвероклассница рвалась в школу, пока взрослые не научили её не рваться
 - [[dima-zicer-uchitel-kotoromu-prikolno](pages/dima-zicer-uchitel-kotoromu-prikolno.md)] — «желание учиться это любопытство, иначе нет другой причины» — со стороны учителя, который любопытство убивает
 - [[dima-zicer-chitayu-s-udovolstviem](pages/dima-zicer-chitayu-s-udovolstviem.md)] — «меня зажигает чужое удовольствие, меня зажигает чужой интерес»
+- [[dima-zicer-v-programme-pravila-zhizni-2018](pages/dima-zicer-v-programme-pravila-zhizni-2018.md)] — обратная сторона темы: учитель строит рамку, а не забрасывает удочку наугад

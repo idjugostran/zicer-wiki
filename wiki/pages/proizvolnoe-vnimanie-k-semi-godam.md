@@ -3,7 +3,7 @@ title: Произвольное внимание к семи годам
 category: Concepts
 summary: Способность заставить себя заниматься неинтересным появляется к семи, очень редко к шести годам, поэтому требовать сосредоточения от четырёхлетки бессмысленно — увлекать, а не апеллировать к будущей школе
 tags: [concept, vnimanie, vozrast, detskiy-sad, argument]
-sources: [lnv-vypusk-166]
+sources: [lnv-vypusk-166, dima-zicer-v-programme-pravila-zhizni-2018]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -40,3 +40,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — звонок Ирины из Москвы: аргумент для разговора с воспитателями
+- [[dima-zicer-v-programme-pravila-zhizni-2018](pages/dima-zicer-v-programme-pravila-zhizni-2018.md)] — смежное: возраст открытия закона тяготения против школьного возраста

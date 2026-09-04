@@ -3,7 +3,7 @@ title: Пять факторов неформального образовани
 category: Concepts
 summary: Структурированный ответ Зицера на вопрос «можно ли обойтись без школы» — субъектность, выбор, личный интерес, субъектное взаимодействие, учение как исследование
 tags: [concept, obrazovanie, shkola-apelsin]
-sources: [lnv-v-gostyah-u-zicera-chast-1, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-223, lnv-vypusk-250, ii-v-shkole-zlo-ili-blagoslovenie, kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine, kak-organizovat-poezdku-dlya-detey, kak-provodit-klassnye-ekskursii-dlya-detey, kak-uchitelyu-stroit-atmosferu-uroka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, chto-takoe-neformalnoe-obrazovanie, dima-zicer-o-roli-uchitelya]
+sources: [lnv-v-gostyah-u-zicera-chast-1, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-223, lnv-vypusk-250, ii-v-shkole-zlo-ili-blagoslovenie, kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine, kak-organizovat-poezdku-dlya-detey, kak-provodit-klassnye-ekskursii-dlya-detey, kak-uchitelyu-stroit-atmosferu-uroka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, chto-takoe-neformalnoe-obrazovanie, dima-zicer-o-roli-uchitelya, dima-zicer-v-programme-pravila-zhizni-2018]
 created: 2026-08-30
 updated: 2026-09-04
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-04
 - [[kak-uchitelyu-pomoch-uchenikam-iz-ukrainy](pages/kak-uchitelyu-pomoch-uchenikam-iz-ukrainy.md)] — неформальный украинский клуб внутри школы как рабочая форма
 - [[chto-takoe-neformalnoe-obrazovanie](pages/chto-takoe-neformalnoe-obrazovanie.md)] — единственный источник, где Зицер сам перечисляет все пять факторов по номерам как определение неформального образования, а не выводит их из разбора случая; добавляет обоснование выбора через нелинейность современного знания и взаимодействие с самим собой
 - [[dima-zicer-o-roli-uchitelya](pages/dima-zicer-o-roli-uchitelya.md)] — субъектное взаимодействие показано с позиции учителя
+- [[dima-zicer-v-programme-pravila-zhizni-2018](pages/dima-zicer-v-programme-pravila-zhizni-2018.md)] — создание условий как один из тех же факторов
 
 ## Related Concepts
 

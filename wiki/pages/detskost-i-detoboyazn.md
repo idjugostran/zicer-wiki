@@ -3,9 +3,9 @@ title: Детскость и детобоязнь
 category: Concepts
 summary: Взрослые подавляют спонтанное, шумное, дерзкое поведение ребёнка («детскость») из страха увидеть в нём зеркало собственных утраченных свобод — Зицер приравнивает это подавление к дискриминации
 tags: [concept, roditelstvo, subyektnost]
-sources: [kniga-lyubit-nelzya-vospityvat]
+sources: [kniga-lyubit-nelzya-vospityvat, dima-zicer-v-programme-pravila-zhizni-2018]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-04
 ---
 
 # Детскость и детобоязнь
@@ -19,6 +19,7 @@ updated: 2026-09-02
 ## Appearances in Sources
 
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — вводит концепт целиком: определение через песню о черепахе Тортиле, аналогия с голым королём, разграничение с реальной опасностью на примере красного света
+- [[dima-zicer-v-programme-pravila-zhizni-2018](pages/dima-zicer-v-programme-pravila-zhizni-2018.md)] — «подавление» в том же перечне
 
 ## Related Concepts
 
