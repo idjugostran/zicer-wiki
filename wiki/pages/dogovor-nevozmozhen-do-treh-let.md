@@ -3,7 +3,7 @@ title: Договор невозможен до трёх лет
 category: Concepts
 summary: До трёх лет договора с ребёнком не существует по устройству: договор предполагает две равные стороны, а годовалому можно предложить, навязать, обхитрить или порадовать
 tags: [concept, dogovor, vozrast, malyshi, granitsy]
-sources: [lnv-vypusk-184]
+sources: [lnv-vypusk-184, lnv-vypusk-166]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -39,3 +39,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — разбор «мы договариваемся» с ребёнком года и восьми месяцев
+- [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — возрастной аргумент против воспитательной боли: ни в год, ни в три причинная связь так не работает

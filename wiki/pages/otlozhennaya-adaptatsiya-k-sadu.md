@@ -3,7 +3,7 @@ title: Отложенная адаптация к саду
 category: Concepts
 summary: Если сад не даёт родителю быть рядом и отрыв гарантированно травматичен, старт осознанно откладывают: паузу тратят на опыт общения с другими взрослыми, а начинать за неделю до каникул бессмысленно — привыкать придётся дважды
 tags: [concept, detskiy-sad, adaptatsiya, otsrochka, rannii-vozrast]
-sources: [lnv-vypusk-244, lnv-vypusk-237, lnv-vypusk-181, lnv-vypusk-178, lnv-vypusk-182]
+sources: [lnv-vypusk-244, lnv-vypusk-237, lnv-vypusk-181, lnv-vypusk-178, lnv-vypusk-182, lnv-vypusk-166]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -34,3 +34,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-181](pages/lnv-vypusk-181.md)] — обратная сторона: ребёнок уже ходит, работа идёт с устройством утра и входа в группу
 - [[lnv-vypusk-178](pages/lnv-vypusk-178.md)] — граница концепта: сад, куда пускают в гости, требует не отсрочки, а постепенного вхождения
 - [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — отрыв ребёнка от родителя как источник проблемы в двух звонках
+- [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — соседний ход при истериках перед садом: вместо отсрочки родитель входит внутрь группы

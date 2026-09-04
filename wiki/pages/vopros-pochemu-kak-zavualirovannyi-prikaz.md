@@ -3,7 +3,7 @@ title: Вопрос «почему» как завуалированный пр�
 category: Concepts
 summary: Вопрос «почему», обращённый взрослым к ребёнку, чаще всего не запрос информации, а замаскированный приказ; поток таких вопросов вырабатывает привычку увиливать и отшучиваться — в том числе там, где вопрос настоящий
 tags: [concept, yazyk, manipulyatsiya, vopros, shkola]
-sources: [lnv-vypusk-237, lnv-vypusk-197, dima-zicer-o-roli-uchitelya]
+sources: [lnv-vypusk-237, lnv-vypusk-197, dima-zicer-o-roli-uchitelya, lnv-vypusk-166]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -34,3 +34,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — вводит разбор: восьмилетний Лев, увиливающий от вопросов учителей
 - [[lnv-vypusk-197](pages/lnv-vypusk-197.md)] — «почему ты не убираешь» — вопрос, на который нельзя ответить; его снимают полностью
 - [[dima-zicer-o-roli-uchitelya](pages/dima-zicer-o-roli-uchitelya.md)] — граница: «почему» и «зачем», обращённые к чужому запрету и к собственному действию, — профессиональный инструмент учителя
+- [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — «я совершенно не спрашиваю почему» — отказ выслушивать оправдания в момент просьбы

@@ -3,7 +3,7 @@ title: Дистант обнажил проблемы
 category: Concepts
 summary: Дистанционное обучение ничего не сломало, а проявило то, что было и раньше: у хорошего учителя уроки остались хорошими и на дистанции, поэтому требование «вернуть как было» лечит не ту проблему
 tags: [concept, distant, shkola, krizis, diagnostika]
-sources: [lnv-vypusk-183]
+sources: [lnv-vypusk-183, lnv-vypusk-166]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -36,3 +36,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-183](pages/lnv-vypusk-183.md)] — сквозная мысль выпуска, повторённая Зицером дважды
+- [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — развёрнутый монолог: онлайн назван не форматом, а инструментом; система при переходе не меняется

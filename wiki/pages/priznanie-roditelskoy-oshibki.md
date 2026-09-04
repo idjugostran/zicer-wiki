@@ -3,7 +3,7 @@ title: Признание родительской ошибки
 category: Concepts
 summary: Когда решение было принято без ребёнка и объяснено ему неправдой, первым обязательным шагом становится извинение — без самоуничижения, но и без смягчения сути; без этой части ничего остальное не работает
 tags: [concept, roditelstvo, chestnost, podrostki, emigratsiya]
-sources: [kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, lnv-vypusk-314, lnv-vypusk-246, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-233, lnv-vypusk-224, lnv-vypusk-203, lnv-vypusk-178, lnv-vypusk-182]
+sources: [kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, lnv-vypusk-314, lnv-vypusk-246, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-233, lnv-vypusk-224, lnv-vypusk-203, lnv-vypusk-178, lnv-vypusk-182, lnv-vypusk-166]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-203](pages/lnv-vypusk-203.md)] — та же механика для педагога: после срыва сказать, что сожалеешь, без валяния в ногах
 - [[lnv-vypusk-178](pages/lnv-vypusk-178.md)] — обратная сторона: учительнице «хорошо бы извиниться», но право на ошибку и второй шанс остаются за ней
 - [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — «раз ты врёшь, значит я наверное тоже вёл себя не так»
+- [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — извинение матери за прежние наказания за правду как обязательный первый шаг
 
 ## Related Concepts
 

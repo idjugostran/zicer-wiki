@@ -3,7 +3,7 @@ title: Сначала норма, потом инструменты
 category: Concepts
 summary: Пока над ребёнком висит, что он «не окей», никакие способы вернуть его к жизни не работают; первый ход — объявить его состояние нормальным, и только на следующем витке искать инструменты
 tags: [concept, emigratsiya, shkolnyi-otkaz, prinyatie, poryadok-deystviy]
-sources: [devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mamu-arestovali-na-glazah-dvuhletnego-syna, lnv-vypusk-238, lnv-vypusk-226, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-182]
+sources: [devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mamu-arestovali-na-glazah-dvuhletnego-syna, lnv-vypusk-238, lnv-vypusk-226, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-182, lnv-vypusk-166]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — первый ход: скучать за уроками и не справляться объявляется нормальным
 - [[lnv-vypusk-193](pages/lnv-vypusk-193.md)] — четырнадцатилетняя плачет без причины: сначала объявить состояние нормальным, потом искать инструменты
 - [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — тревога за болеющих названа прекрасным качеством
+- [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — страх дочери за болевшую маму назван реакцией доброго любящего человека, а не травмой
 
 ## Related Concepts
 

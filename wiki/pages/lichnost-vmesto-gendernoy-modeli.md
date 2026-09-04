@@ -3,7 +3,7 @@ title: Личность вместо гендерной модели
 category: Concepts
 summary: Жёсткие гендерные сценарии («мальчик = твёрдая рука», «девочка = покорность») вредят обоим полам одинаково; личность и интересы ребёнка важнее культивирования «мальчиковости»/«девочковости»
 tags: [concept, roditelstvo, kurs-12-urokov, gender]
-sources: [kurs-12-urokov-urok-9, kak-spasti-15-letnego-syna, mama-dorogaya-bulling, o-malchikah-i-o-muzhikah, lnv-vypusk-220, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, syn-rasskazal-mame-chto-on-biseksual, kak-byt-esli-syn-vlyubilsya-v-druga, malchik-hochet-odevatsya-kak-devochka, lnv-vypusk-217, lnv-vypusk-176]
+sources: [kurs-12-urokov-urok-9, kak-spasti-15-letnego-syna, mama-dorogaya-bulling, o-malchikah-i-o-muzhikah, lnv-vypusk-220, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, syn-rasskazal-mame-chto-on-biseksual, kak-byt-esli-syn-vlyubilsya-v-druga, malchik-hochet-odevatsya-kak-devochka, lnv-vypusk-217, lnv-vypusk-176, lnv-vypusk-166]
 created: 2026-08-29
 updated: 2026-09-04
 ---
@@ -32,6 +32,7 @@ updated: 2026-09-04
 - [[malchik-hochet-odevatsya-kak-devochka](pages/malchik-hochet-odevatsya-kak-devochka.md)] — заколки, бант и костюм со стразами у одиннадцатилетнего: ответ не зависит от гендерной интерпретации
 - [[lnv-vypusk-217](pages/lnv-vypusk-217.md)] — бабушки дарят внукам автоматы с двух лет, «иначе они не мальчики»; ответ: мужественность не измеряется размером пистолета
 - [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — ярлык «мужская модель» отброшен
+- [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — отказ делать старшего сына твёрже, а младшего мягче: «получайте удовольствие от их разности»
 
 ## Related Concepts
 
