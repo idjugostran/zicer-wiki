@@ -3,7 +3,7 @@ title: Просить о помощи — это сила
 category: Concepts
 summary: Просьба о поддержке — решительный поступок, на который слабый не способен; она отличается от перекладывания тем, что не требует решить проблему за просящего, и укрепляет тех, к кому обращена
 tags: [concept, podderzhka, sila, semya, otnosheniya]
-sources: [chto-pomogaet-detyam-vyzhit-na-voyne, lnv-vypusk-247, lnv-vypusk-231]
+sources: [chto-pomogaet-detyam-vyzhit-na-voyne, lnv-vypusk-247, lnv-vypusk-231, lnv-vypusk-206]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-04
 - [[chto-pomogaet-detyam-vyzhit-na-voyne](pages/chto-pomogaet-detyam-vyzhit-na-voyne.md)] — сформулировано впервые: мать из Украины, скрывающая страх от мужа и старшего сына
 - [[lnv-vypusk-247](pages/lnv-vypusk-247.md)] — «помоги мне успокоиться» как рабочая форма родительского страха
 - [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — «мама, помоги» трёхлетнего становится опорой всей работы над голосом
+- [[lnv-vypusk-206](pages/lnv-vypusk-206.md)] — умение просить помощь не воспитывается требованием, а появляется из опыта полученной поддержки
 
 ## Related Concepts
 

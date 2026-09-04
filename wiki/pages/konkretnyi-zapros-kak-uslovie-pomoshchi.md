@@ -3,7 +3,7 @@ title: Конкретный запрос как условие помощи
 category: Concepts
 summary: Помочь человеку против его воли или без сформулированной цели невозможно; прежде чем советовать, нужно добиться от просящего конкретного запроса, а не позволять ему просто изливать эмоции
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-219, kak-byt-esli-rebenok-ne-uveren-v-sebe, kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-organizovat-poezdku-dlya-detey, devochka-otkazyvaetsya-hodit-v-shkolu, chego-boitsya-syn-i-chto-s-etim-delat, kak-podderzhat-rebenka-vo-vremya-voyny, kak-ponyat-14-letnyuyu-doch, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami, kto-ya-svoey-padcheritse, kak-nauchitsya-spravlyatsya-s-emotsiyami, chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, kak-byt-esli-vashego-rebenka-schitayut-huliganom, doch-6-let-nachala-zavidovat-i-vydumyvat, lnv-vypusk-245, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-236, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-225, lnv-vypusk-226, lnv-vypusk-213]
+sources: [lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-219, kak-byt-esli-rebenok-ne-uveren-v-sebe, kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-organizovat-poezdku-dlya-detey, devochka-otkazyvaetsya-hodit-v-shkolu, chego-boitsya-syn-i-chto-s-etim-delat, kak-podderzhat-rebenka-vo-vremya-voyny, kak-ponyat-14-letnyuyu-doch, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami, kto-ya-svoey-padcheritse, kak-nauchitsya-spravlyatsya-s-emotsiyami, chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, kak-byt-esli-vashego-rebenka-schitayut-huliganom, doch-6-let-nachala-zavidovat-i-vydumyvat, lnv-vypusk-245, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-236, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-225, lnv-vypusk-226, lnv-vypusk-213, lnv-vypusk-206]
 created: 2026-08-30
 updated: 2026-09-04
 ---
@@ -46,6 +46,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-225](pages/lnv-vypusk-225.md)] — Зицер полразговора отказывается работать с обобщением «подросток всё забросил и курит» и добивается конкретики, показывая, что сама мать в нарисованную картину не верит
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — «в вашем идеале что должно произойти» как вопрос, без ответа на который разбор не идёт
 - [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — отказ разбирать чужого ребёнка, пока не позвонили его собственные родители
+- [[lnv-vypusk-206](pages/lnv-vypusk-206.md)] — Зицер отказывается советовать Светлане, пока она не назовёт цель: вернуть вещи, вывести на чистую воду или сохранить отношения
 
 ## Related Concepts
 

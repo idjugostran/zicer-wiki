@@ -3,7 +3,7 @@ title: Бранные слова как дары
 category: Concepts
 summary: Притча о Будде: брань — такой же дар, как миска риса, и адресат волен его не принять; обижаемся мы на то, что у нас в голове, а открытого человека обидеть трудно
 tags: [concept, obida, pritcha, ustoychivost, instrument]
-sources: [lnv-vypusk-226]
+sources: [lnv-vypusk-226, lnv-vypusk-206]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -30,3 +30,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — вводит притчу: одиннадцатилетний, вспыхивающий на любое слово
+- [[lnv-vypusk-206](pages/lnv-vypusk-206.md)] — соседний, но другой случай: не обида на адресованную брань, а страх перед чужим матом как предвестником нападения

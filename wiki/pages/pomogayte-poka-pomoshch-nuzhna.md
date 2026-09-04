@@ -3,9 +3,9 @@ title: Помогайте, пока ваша помощь нужна
 category: Concepts
 summary: На жалобу «он не делает сам» Зицер отвечает одним словом — помогайте; довод не в безвредности помощи, а в сроке: через несколько лет ребёнку понадобится помощь других людей, и о днях, когда он просил родителя, будут скучать
 tags: [concept, samostoyatelnost, doshkolniki, roditelstvo, vremya]
-sources: [kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-233, lnv-vypusk-231]
+sources: [kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-233, lnv-vypusk-231, lnv-vypusk-206]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Помогайте, пока ваша помощь нужна
@@ -39,3 +39,4 @@ updated: 2026-09-03
 - [[kak-zhe-on-dolgo-sobiraetsya](pages/kak-zhe-on-dolgo-sobiraetsya.md)] — сформулировано впервые: четырёхлетний, который не одевается сам
 - [[lnv-vypusk-233](pages/lnv-vypusk-233.md)] — «сядьте рядом» звучит дважды: четырнадцатилетнему с тройками и четверокласснику
 - [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — граница правила: семнадцатилетнему с диабетом помощь предлагают, но не навязывают; постоянные предложения уменьшают шанс, что за ней придут
+- [[lnv-vypusk-206](pages/lnv-vypusk-206.md)] — семилетний сын не просит помощи; ответ матери: помогать везде, куда можно дотянуться, не делая за него

@@ -3,9 +3,9 @@ title: Помощь без упрёка
 category: Concepts
 summary: Из фразы «чем тебе помочь, если ты мне ничего не говоришь» убирается вторая половина: она совмещает предложение помощи с обвинением ребёнка в том, что помощь не получается
 tags: [concept, roditelstvo, kommunikatsiya, podrostki]
-sources: [kak-ponyat-14-letnyuyu-doch, moya-doch-zabila-na-vse, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, lnv-vypusk-245, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-231]
+sources: [kak-ponyat-14-letnyuyu-doch, moya-doch-zabila-na-vse, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, lnv-vypusk-245, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-231, lnv-vypusk-206]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Помощь без упрёка
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — та же форма вопроса в момент, когда ребёнок прибегает обиженным
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — ночной режим подростка: «давай мы с тобой подумаем, как это поменять» и «я волнуюсь, успокой меня» вместо требования перестроиться
 - [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — на встрече с учителем разговор возвращают к «чем я могу помочь» и «что нужно сделать, чтобы это изменилось»
+- [[lnv-vypusk-206](pages/lnv-vypusk-206.md)] — перенастройка ребёнка, который боится расстроить мать: «я не буду тебя ругать, скажи мне, давай я тебе помогу»
 
 ## Related Concepts
 

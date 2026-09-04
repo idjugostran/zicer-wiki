@@ -3,9 +3,9 @@ title: «Зачем ты это говоришь»
 category: Concepts
 summary: Вопрос, запускающий рефлексию у подростка: обращённый к тому, что человек произносит по привычке, он сдвигает горы — но только при неоценивающем тоне и в возрасте, когда ответ вообще возможен
 tags: [concept, refleksiya, podrostki, kommunikatsiya, vopros]
-sources: [kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, doch-6-let-nachala-zavidovat-i-vydumyvat, lnv-vypusk-229, lnv-vypusk-230, lnv-vypusk-227]
+sources: [kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, doch-6-let-nachala-zavidovat-i-vydumyvat, lnv-vypusk-229, lnv-vypusk-230, lnv-vypusk-227, lnv-vypusk-206]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # «Зачем ты это говоришь»
@@ -31,6 +31,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — цепочка «зачем — что это значит — что ты в этот момент чувствуешь», которой мама включает у восьмилетней анализ
 - [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — «хороший вопрос инструмент в педагогике зачем» — в разговоре с четырнадцатилетней о мате и порно, при неоценивающем тоне
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — «зачем ты победил» как вопрос, приглашающий к размышлению, а не требующий ответа
+- [[lnv-vypusk-206](pages/lnv-vypusk-206.md)] — вопрос «зачем» как рецепт рефлексии: сначала себе, потом отцу и сыну (Моника), сначала матери, потом дочери (Олеся)
 
 ## Related Concepts
 
