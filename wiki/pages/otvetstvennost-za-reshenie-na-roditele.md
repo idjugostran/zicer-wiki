@@ -3,7 +3,7 @@ title: Ответственность за решение — на родите�
 category: Concepts
 summary: Граница субъектности: решения, спасающие личность, ребёнку не передаются — предложить девятилетней выбрать форму обучения значит взвалить на неё родительскую ответственность
 tags: [concept, otvetstvennost, subyektnost, granitsy, bezopasnost, shkola]
-sources: [kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, lnv-vypusk-176, lnv-vypusk-184]
+sources: [kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, lnv-vypusk-176, lnv-vypusk-184, lnv-vypusk-185]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-04
 - [[kak-borotsya-s-dvoemysliem-kogda-docheri-9-let](pages/kak-borotsya-s-dvoemysliem-kogda-docheri-9-let.md)] — «это вообще не её решение, это решение мамы и папы»; образ человека на подоконнике
 - [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — ответственность за опоздания семилетней названа родительской
 - [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — решение о культпоходе принимают родители; «идут все или никто» неэтично
+- [[lnv-vypusk-185](pages/lnv-vypusk-185.md)] — та же граница с другой стороны: решение остаётся на взрослом, но обсуждение делается общим
 
 ## Related Concepts
 
@@ -37,6 +38,7 @@ updated: 2026-09-04
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — «в первую очередь мы говорим о безопасности»
 - [[uhodit-otkuda-mozhno-uyti](pages/uhodit-otkuda-mozhno-uyti.md)] — что именно решает родитель в этом случае
 - [[sohranit-rebenka-v-tselosti](pages/sohranit-rebenka-v-tselosti.md)] — тот же приоритет сохранности над образованием
+- [[vzyat-v-krug-reshayushchikh](pages/vzyat-v-krug-reshayushchikh.md)] — что делать вместо передачи решения: назвать неизменяемое и придумывать облегчение вместе
 
 ## Footnotes
 

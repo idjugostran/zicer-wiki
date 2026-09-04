@@ -3,9 +3,9 @@ title: Место в душе для языка
 category: Concepts
 summary: Язык нового места осваивается после того, как человеку стало спокойно и он понял, что здесь делает, а не до того; форсированная ассимиляция откладывает результат, а не приближает его
 tags: [concept, emigratsiya, adaptatsiya, yazyk, shkola]
-sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, kak-podderzhat-rebenka-vo-vremya-voyny, kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy]
+sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, kak-podderzhat-rebenka-vo-vremya-voyny, kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, lnv-vypusk-185]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Место в душе для языка
@@ -24,6 +24,7 @@ updated: 2026-09-03
 - [[kak-podderzhat-rebenka-vo-vremya-voyny](pages/kak-podderzhat-rebenka-vo-vremya-voyny.md)] — тот же тезис про английский: выучит, когда в душе освободится частичка для этого
 - [[kak-pomoch-rebenku-prinyat-novuyu-realnost](pages/kak-pomoch-rebenku-prinyat-novuyu-realnost.md)] — язык не идёт два года, потому что отец сам сообщил картину мира, в которой учить его незачем
 - [[kak-uchitelyu-pomoch-uchenikam-iz-ukrainy](pages/kak-uchitelyu-pomoch-uchenikam-iz-ukrainy.md)] — подростки «делают вид, что не понимают» немецкий; подгонять их к языку Зицер отказывается
+- [[lnv-vypusk-185](pages/lnv-vypusk-185.md)] — зеркальный случай: русский язык у пятилетнего француза в Ницце
 
 ## Related Concepts
 

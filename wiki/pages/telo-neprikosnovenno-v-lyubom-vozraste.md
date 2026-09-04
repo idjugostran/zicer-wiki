@@ -3,7 +3,7 @@ title: Тело неприкосновенно в любом возрасте
 category: Concepts
 summary: Чужие взрослые не имеют права брать на руки, трогать и пересаживать ребёнка «из умиления»: касаются другого только по его согласию, и возраст этого правила не отменяет; если после прямого разговора среда не меняется, меняют не ребёнка, а место
 tags: [concept, granitsy, telo, soglasie, doshkolniki]
-sources: [lnv-vypusk-246, lnv-vypusk-218, lnv-vypusk-199, lnv-vypusk-189, lnv-vypusk-176, lnv-vypusk-180, lnv-vypusk-182]
+sources: [lnv-vypusk-246, lnv-vypusk-218, lnv-vypusk-199, lnv-vypusk-189, lnv-vypusk-176, lnv-vypusk-180, lnv-vypusk-182, lnv-vypusk-185]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -35,3 +35,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — неприкосновенность тела действует и против собственного родителя: семнадцатилетняя и татуировка
 - [[lnv-vypusk-180](pages/lnv-vypusk-180.md)] — Елена летом сказала девочке, что бить её нельзя; Зицер называет эти слова важными
 - [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — основание отпора: со взрослым поступили бы так же
+- [[lnv-vypusk-185](pages/lnv-vypusk-185.md)] — трёхлетний исследует собственное тело — снимать механически, без разговоров о приличиях

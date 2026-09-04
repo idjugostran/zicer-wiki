@@ -3,7 +3,7 @@ title: Интерес как крючок
 category: Concepts
 summary: Интерес — крючок, которым человек цепляется за школу и за жизнь; если ребёнка всё время занимал взрослый, собственный крючок не образуется, главным инструментом становится мама, и в школе зацепиться не за что — чинят возвращением к прямому интересу, а не давлением
 tags: [concept, interes, motivatsiya, shkola, samostoyatelnost]
-sources: [lnv-vypusk-234, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-226, lnv-vypusk-217, lnv-vypusk-198, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-187, lnv-vypusk-186, lnv-vypusk-180, lnv-vypusk-183]
+sources: [lnv-vypusk-234, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-226, lnv-vypusk-217, lnv-vypusk-198, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-187, lnv-vypusk-186, lnv-vypusk-180, lnv-vypusk-183, lnv-vypusk-185]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -42,3 +42,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-186](pages/lnv-vypusk-186.md)] — звонок Юли: увлечённый человек реализуется независимо от школы; собственная биография Зицера как иллюстрация
 - [[lnv-vypusk-180](pages/lnv-vypusk-180.md)] — развёрнутый случай утраты крючка: интерес был у младенца и «стал рассасываться»
 - [[lnv-vypusk-183](pages/lnv-vypusk-183.md)] — интерес возвращают не давлением, а списком «что я люблю делать сам по себе», который пишут вдвоём
+- [[lnv-vypusk-185](pages/lnv-vypusk-185.md)] — довод против соревновательности: учатся потому, что прёт, а не потому, что рядом мальчик Ваня

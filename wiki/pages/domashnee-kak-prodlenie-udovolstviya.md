@@ -3,7 +3,7 @@ title: Домашнее как продление удовольствия
 category: Concepts
 summary: Домашнее задание оправдано только как продолжение удовольствия от урока; первый признак готовности класса — когда ученик впервые скажет, что жаль, что урок закончился, а спрашивать потом надо расспросом по-дружески, не на оценку
 tags: [concept, domashnee-zadanie, shkola, interes, uchitel]
-sources: [lnv-vypusk-235, lnv-vypusk-224, lnv-vypusk-204, lnv-vypusk-191, lnv-vypusk-187, lnv-vypusk-177]
+sources: [lnv-vypusk-235, lnv-vypusk-224, lnv-vypusk-204, lnv-vypusk-191, lnv-vypusk-187, lnv-vypusk-177, lnv-vypusk-185]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -35,3 +35,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — уроки не должны быть мучением, поэтому делать их за ребёнка — не решение
 - [[lnv-vypusk-187](pages/lnv-vypusk-187.md)] — тот же звонок со стороны родителя: искать в задании то, что мальчика лично цепляет
 - [[lnv-vypusk-177](pages/lnv-vypusk-177.md)] — «хорошее образование не связано с домашними заданиями»; опыт Липецкой области
+- [[lnv-vypusk-185](pages/lnv-vypusk-185.md)] — максимально жёсткая формулировка: домашка не нужна никакая; закрепление названо профессионализмом учителя

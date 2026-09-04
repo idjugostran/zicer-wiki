@@ -3,9 +3,9 @@ title: На ушко об интимном
 category: Concepts
 summary: Замечание о чём-то интимном делается шёпотом на ухо, а не вслух: сама форма сообщает ребёнку, что тема относится к интимной сфере, о которой вслух не говорят, и не создаёт вокруг неё эмоциональной ловушки
 tags: [concept, intimnoe, forma, granitsy, doshkolniki]
-sources: [lnv-vypusk-229]
+sources: [lnv-vypusk-229, lnv-vypusk-185]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # На ушко об интимном
@@ -32,3 +32,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — вводит приём: сообщение о шестилетней дочери
+- [[lnv-vypusk-185](pages/lnv-vypusk-185.md)] — та же форма в другом применении: поднять игрушку вместе и шепнуть на ушко просьбу так не делать
