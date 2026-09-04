@@ -3,9 +3,9 @@ title: Стоп-слово
 category: Concepts
 summary: Общий тормоз для близких людей: заранее выбранное (лучше смешное) слово, которым любой из двоих сигналит «ещё шаг — и скандал»; ответственность остановиться остаётся на том, кто говорит лишнее
 tags: [concept, roditelstvo, kommunikatsiya, samoregulyatsiya]
-sources: [proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, kak-nauchitsya-spravlyatsya-s-emotsiyami, mne-nravitsya-kak-papa-reagiruet, lnv-vypusk-239]
+sources: [proklyataya-chelka-ili-kak-perestat-delat-zamechaniya, kak-nauchitsya-spravlyatsya-s-emotsiyami, mne-nravitsya-kak-papa-reagiruet, lnv-vypusk-239, lnv-vypusk-199]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Стоп-слово
@@ -24,6 +24,7 @@ updated: 2026-09-03
 - [[kak-nauchitsya-spravlyatsya-s-emotsiyami](pages/kak-nauchitsya-spravlyatsya-s-emotsiyami.md)] — «Чебурашка» для одиннадцатилетней: слово выбивает из ситуации, выбирает его сам ребёнок, приём репетируется в игре
 - [[mne-nravitsya-kak-papa-reagiruet](pages/mne-nravitsya-kak-papa-reagiruet.md)] — «поставить руку вперёд и сказать стоп», введённое родителями до обращения в программу
 - [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — «я не знаю инструмента, как сказать себе стоп»: тот же класс инструментов остановки, но для самого ребёнка
+- [[lnv-vypusk-199](pages/lnv-vypusk-199.md)] — то же слово в роли сигнала поддержки: мама и четырёхлетний сын договариваются о слове, по которому откликаются друг другу при чужих
 
 ## Related Concepts
 

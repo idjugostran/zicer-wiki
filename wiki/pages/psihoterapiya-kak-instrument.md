@@ -3,7 +3,7 @@ title: Психотерапия как инструмент
 category: Concepts
 summary: Психотерапия — не признание слабости и не приговор, а специальный инструмент вроде таблетки от гриппа; слово «травма» лучше не произносить, а само переживание назвать человеческим качеством, которое бывает у кого угодно
 tags: [concept, roditelstvo, psihoterapiya, strah]
-sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, devochka-13-let-poteryala-vkus-k-zhizni, kak-nam-nauchitsya-kontrolirovat-sebya, selfharm-trevoga-i-slezy, 9-letniy-malchik-beret-chuzhie-veshchi, lnv-vypusk-234, lnv-vypusk-226]
+sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, devochka-13-let-poteryala-vkus-k-zhizni, kak-nam-nauchitsya-kontrolirovat-sebya, selfharm-trevoga-i-slezy, 9-letniy-malchik-beret-chuzhie-veshchi, lnv-vypusk-234, lnv-vypusk-226, lnv-vypusk-199]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -31,6 +31,7 @@ updated: 2026-09-04
 - [[9-letniy-malchik-beret-chuzhie-veshchi](pages/9-letniy-malchik-beret-chuzhie-veshchi.md)] — «известная проблема, на тему которой написаны монографии, с этим можно справиться»
 - [[lnv-vypusk-234](pages/lnv-vypusk-234.md)] — страх собак у восьмилетнего: пара сеансов детского психотерапевта; обращение к специалисту — признак взрослости, а не болезни
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — граница: занятия с психологом остаются инструментом, пока ребёнку в них хорошо; обязательность — только там, где жизнь и здоровье
+- [[lnv-vypusk-199](pages/lnv-vypusk-199.md)] — дважды: детский терапевт для дочери с навязчивыми состояниями и несколько визитов для тревожной мамы трёхлетнего
 
 ## Related Concepts
 

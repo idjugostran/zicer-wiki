@@ -3,9 +3,9 @@ title: Граница интимности
 category: Concepts
 summary: Есть вещи, которые человек хранит только для себя, включая собственные интересы; эту границу нарушают сразу с нескольких сторон — тот, кто показывает, тот, кто пересылает дальше, и тот, кто демонстрирует, — а в принуждении смотреть есть элемент насилия
 tags: [concept, granitsy, seksualnoe-prosveshchenie, internet, bezopasnost]
-sources: [rebenok-v-8-let-smotrit-zapreshchennyi-kontent, mozhet-li-rebenka-razvratit-nagota-roditeley, obysk-desyatiklassnikov-v-orske, lnv-vypusk-239, lnv-vypusk-233]
+sources: [rebenok-v-8-let-smotrit-zapreshchennyi-kontent, mozhet-li-rebenka-razvratit-nagota-roditeley, obysk-desyatiklassnikov-v-orske, lnv-vypusk-239, lnv-vypusk-233, lnv-vypusk-199]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Граница интимности
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[obysk-desyatiklassnikov-v-orske](pages/obysk-desyatiklassnikov-v-orske.md)] — «они нарушили границу человеческого тела»: досмотр как насилие независимо от цели
 - [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — просьба четырнадцатилетнего удалить его детские фотографии из соцсетей
 - [[lnv-vypusk-233](pages/lnv-vypusk-233.md)] — там же: оговорка «не рыскал по ящикам» и отказ говорить с обоими сразу
+- [[lnv-vypusk-199](pages/lnv-vypusk-199.md)] — граница объясняется семилетнему через несовпадение «мне нравится» и «нравится другому», и её же соблюдает родитель, стучась в комнату к одиннадцатилетнему
 
 ## Related Concepts
 
