@@ -3,7 +3,7 @@ title: Игровая рамка против скуки
 category: Concepts
 summary: Детская скука лечится не содержанием, а формой: рутину разбивают структурно — тематическим днём, походом, квестом; от самого лучшего содержания дети могут скучать
 tags: [concept, skuka, forma, igra, doshkolniki]
-sources: [lnv-vypusk-191, lnv-vypusk-176, lnv-vypusk-180, lnv-vypusk-184, lnv-vypusk-185, dima-zicer-karantin-vremya-vozmozhnostey]
+sources: [lnv-vypusk-191, lnv-vypusk-176, lnv-vypusk-180, lnv-vypusk-184, lnv-vypusk-185, dima-zicer-karantin-vremya-vozmozhnostey, isra-campus-2010]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -42,3 +42,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — десяток способов наполнить хождение в паре содержанием вместо приказа
 - [[lnv-vypusk-185](pages/lnv-vypusk-185.md)] — квесты и секретные походы как форма, в которую упаковывается русский язык
 - [[dima-zicer-karantin-vremya-vozmozhnostey](pages/dima-zicer-karantin-vremya-vozmozhnostey.md)] — карантин предлагается прожить как приключение, по модели игры
+- [[isra-campus-2010](pages/isra-campus-2010.md)] — рамка «города» держит двенадцать дней лагеря: настоящая деятельность внутри объявленной условной формы
