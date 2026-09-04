@@ -3,7 +3,7 @@ title: Родитель как заказчик образования
 category: Concepts
 summary: Клиент образования — ребёнок и родители, а не государство; без сформулированного конкретного «заказа» к школе система неизбежно деградирует, как ресторан без заказов посетителей
 tags: [concept, roditelstvo, kurs-12-urokov, shkola]
-sources: [kurs-12-urokov-urok-7, lnv-vypusk-221, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, kak-provodit-klassnye-ekskursii-dlya-detey, nam-popalas-plohaya-uchilka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-233, lnv-vypusk-234, lnv-vypusk-226, lnv-vypusk-222]
+sources: [kurs-12-urokov-urok-7, lnv-vypusk-221, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, kak-provodit-klassnye-ekskursii-dlya-detey, nam-popalas-plohaya-uchilka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-233, lnv-vypusk-234, lnv-vypusk-226, lnv-vypusk-222, lnv-vypusk-191]
 created: 2026-08-29
 updated: 2026-09-04
 ---
@@ -33,6 +33,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-234](pages/lnv-vypusk-234.md)] — клиент тренера назван поимённо: сам ребёнок трёх с половиной лет; вектор «ребёнок для тренера» объявлен перепутанным
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — «мы не заказывали такую педагогическую услугу» как аргумент в конфликте с учителем, а не только при выборе школы
 - [[lnv-vypusk-222](pages/lnv-vypusk-222.md)] — обратная связь американской школе о ротации мест и повторный разговор с директором в Ростове
+- [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — семья как заказчик у учителя танцев: плохо выполняющего заказ меняют
 
 ## Related Concepts
 

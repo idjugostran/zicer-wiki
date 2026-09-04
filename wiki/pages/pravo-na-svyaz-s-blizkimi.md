@@ -3,9 +3,9 @@ title: Право на связь с близкими
 category: Concepts
 summary: Возможность связаться с родителями — базисное право ребёнка в любой поездке («он не на зону уехал») и такое же право родителя; лагерь, отнимающий эту связь, превращает обычный испуг в устойчивый страх
 tags: [concept, pedagogika, poezdki, bezopasnost, lager]
-sources: [chego-boitsya-syn-i-chto-s-etim-delat, mozhno-li-pomoch-rodnym-izdaleka]
+sources: [chego-boitsya-syn-i-chto-s-etim-delat, mozhno-li-pomoch-rodnym-izdaleka, lnv-vypusk-191]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Право на связь с близкими
@@ -22,6 +22,7 @@ updated: 2026-09-03
 
 - [[chego-boitsya-syn-i-chto-s-etim-delat](pages/chego-boitsya-syn-i-chto-s-etim-delat.md)] — вводит концепт целиком: базисное право на связь, критика логики лагеря, механизм закрепления страха и норма «мы не жалуемся родителям»
 - [[mozhno-li-pomoch-rodnym-izdaleka](pages/mozhno-li-pomoch-rodnym-izdaleka.md)] — старший сын, из чьей жизни вытеснили отца, снова начал с ним разговаривать
+- [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — связь с уехавшими родителями как инструкция к ежедневным разговорам
 
 ## Related Concepts
 

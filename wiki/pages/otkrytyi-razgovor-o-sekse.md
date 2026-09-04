@@ -3,7 +3,7 @@ title: Открытый разговор с детьми о сексе
 category: Concepts
 summary: Секс — обычная интересная тема для ребёнка, а не опасная; неловкость при разговоре о ней — унаследованная взрослыми модель, а не реакция на реальный риск
 tags: [concept, seks, roditelstvo]
-sources: [kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-8, lnv-vypusk-252, lnv-vypusk-201, lnv-vypusk-250, kniga-lyubit-nelzya-vospityvat, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-233, lnv-vypusk-229, lnv-vypusk-226, lnv-vypusk-222, lnv-vypusk-212, lnv-vypusk-202, lnv-vypusk-199]
+sources: [kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-8, lnv-vypusk-252, lnv-vypusk-201, lnv-vypusk-250, kniga-lyubit-nelzya-vospityvat, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-233, lnv-vypusk-229, lnv-vypusk-226, lnv-vypusk-222, lnv-vypusk-212, lnv-vypusk-202, lnv-vypusk-199, lnv-vypusk-191]
 created: 2026-08-29
 updated: 2026-09-04
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-212](pages/lnv-vypusk-212.md)] — четыре разговора по возрастам — пять, девять, тринадцать лет и возражение слушательницы
 - [[lnv-vypusk-202](pages/lnv-vypusk-202.md)] — мать говорит с четырнадцатилетней дочерью о первом разе и о контрацепции; альтернатива названа прямо
 - [[lnv-vypusk-199](pages/lnv-vypusk-199.md)] — мать застала одиннадцатилетнего за мастурбацией: явление нормально, разговор возможен, но не обязателен
+- [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — семь лет как критически подходящий возраст; перечень тем и книга Питера Мейла
 
 ## Related Concepts
 

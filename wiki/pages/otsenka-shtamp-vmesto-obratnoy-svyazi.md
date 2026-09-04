@@ -3,7 +3,7 @@ title: Оценка — штамп вместо обратной связи
 category: Concepts
 summary: Оценка — штамп, за которым либо ничего не стоит, либо стоят субъективные факторы; замена ей не нужна, потому что естественная форма — обратная связь, то, с чем человек может работать и меняться, а умение дать её тридцати детям и есть профессионализм учителя
 tags: [concept, otsenki, obratnaya-svyaz, shkola, uchitel]
-sources: [lnv-vypusk-233, lnv-vypusk-225, lnv-vypusk-226, lnv-vypusk-217, lnv-vypusk-206, lnv-vypusk-198, lnv-vypusk-196, dima-zicer-o-roli-uchitelya]
+sources: [lnv-vypusk-233, lnv-vypusk-225, lnv-vypusk-226, lnv-vypusk-217, lnv-vypusk-206, lnv-vypusk-198, lnv-vypusk-196, dima-zicer-o-roli-uchitelya, lnv-vypusk-191]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -40,3 +40,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — неоценивающий разговор о рисунке (цвет, поворот, летящая лошадь) как замена вердикту
 - [[lnv-vypusk-196](pages/lnv-vypusk-196.md)] — предельный случай: тройка проигравшей команде на физкультуре
 - [[dima-zicer-o-roli-uchitelya](pages/dima-zicer-o-roli-uchitelya.md)] — обратная связь в обратную сторону: возможность ученика сказать учителю, что непонятно, названа высочайшей ценностью
+- [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — обратная связь без отрицательного зачина: сразу «смотри, как у тебя получилось»

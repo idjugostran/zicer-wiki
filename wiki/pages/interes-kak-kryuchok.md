@@ -3,7 +3,7 @@ title: Интерес как крючок
 category: Concepts
 summary: Интерес — крючок, которым человек цепляется за школу и за жизнь; если ребёнка всё время занимал взрослый, собственный крючок не образуется, главным инструментом становится мама, и в школе зацепиться не за что — чинят возвращением к прямому интересу, а не давлением
 tags: [concept, interes, motivatsiya, shkola, samostoyatelnost]
-sources: [lnv-vypusk-234, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-226, lnv-vypusk-217, lnv-vypusk-198, lnv-vypusk-190]
+sources: [lnv-vypusk-234, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-226, lnv-vypusk-217, lnv-vypusk-198, lnv-vypusk-190, lnv-vypusk-191]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -36,3 +36,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-217](pages/lnv-vypusk-217.md)] — четырнадцатилетняя не отдаёт гаджет, потому что остальное вокруг неё не доставляет удовольствия
 - [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — «заниматься с упоением тем, что влечёт» как основа будущего пути
 - [[lnv-vypusk-190](pages/lnv-vypusk-190.md)] — перечень того, ради чего девочки ходят в гимнастику: элементы, музыка, владение телом, общение
+- [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — программа перестраивается так, чтобы сформировать запрос детей и на него ответить
