@@ -3,7 +3,7 @@ title: Навык учителя важнее размера класса
 category: Concepts
 summary: Число учеников в классе и учебная программа вторичны — качество работы зависит от навыков учителя; двадцать и тридцать при этом разные числа, но подход остаётся тем же, а есть форматы, где и пятнадцати не хватает по объёму взаимодействия
 tags: [concept, shkola, uchitel, vybor-shkoly, klass]
-sources: [lnv-vypusk-213, dima-zicer-o-roli-uchitelya]
+sources: [lnv-vypusk-213, dima-zicer-o-roli-uchitelya, dima-zicer-uchitel-kotoromu-prikolno]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -31,3 +31,4 @@ updated: 2026-09-04
 
 - [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — вводит тезис: вопрос Дмитрия о наполняемости классов
 - [[dima-zicer-o-roli-uchitelya](pages/dima-zicer-o-roli-uchitelya.md)] — Зицер называет границу собственного навыка: вести ежедневную постановку руки в начальной школе он не умеет
+- [[dima-zicer-uchitel-kotoromu-prikolno](pages/dima-zicer-uchitel-kotoromu-prikolno.md)] — качество работы объясняется не программой и не условиями, а тем, задаёт ли учитель себе вопросы

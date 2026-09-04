@@ -3,7 +3,7 @@ title: Педагог не привязывает самооценку к себ
 category: Concepts
 summary: Педагог существует, чтобы ребёнку было понятно, зачем он делает то, что делает; влияющий на самооценку и ставящий её в зависимость от собственного мнения назван непрофессиональным
 tags: [concept, pedagog, samootsenka, zavisimost, professionalizm]
-sources: [lnv-vypusk-170, lnv-vypusk-163]
+sources: [lnv-vypusk-170, lnv-vypusk-163, dima-zicer-uchitel-kotoromu-prikolno]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -42,3 +42,4 @@ updated: 2026-09-04
 
 - [[lnv-vypusk-170](pages/lnv-vypusk-170.md)] — звонок Юли из Петербурга о гимнастике и позиции тренера
 - [[lnv-vypusk-163](pages/lnv-vypusk-163.md)] — сын рисует ради маминой оценки и плачет при недостаточной похвале
+- [[dima-zicer-uchitel-kotoromu-prikolno](pages/dima-zicer-uchitel-kotoromu-prikolno.md)] — «понятно, зачем» должно быть и ученику, и самому учителю; второе оказывается условием первого

@@ -3,7 +3,7 @@ title: Авторитет учителя дан авансом
 category: Concepts
 summary: Авторитет учителя не зарабатывается, а даётся автоматически в первый школьный день — «столько, сколько ты можешь нести»; трудиться приходится только чтобы его разрушить
 tags: [concept, uchitel, avtoritet, shkola, otvetstvennost]
-sources: [dima-zicer-o-roli-uchitelya, lnv-vypusk-193, lnv-vypusk-195, lnv-vypusk-180, lnv-vypusk-183, lnv-vypusk-166, lnv-vypusk-175]
+sources: [dima-zicer-o-roli-uchitelya, lnv-vypusk-193, lnv-vypusk-195, lnv-vypusk-180, lnv-vypusk-183, lnv-vypusk-166, lnv-vypusk-175, dima-zicer-uchitel-kotoromu-prikolno]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -42,3 +42,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-183](pages/lnv-vypusk-183.md)] — предупреждение матери первоклассника: в первые дни учительница окажется большим авторитетом, чем мама, и это хорошо
 - [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — отцовский авторитет теряют не от детской дерзости, а от собственной неправды
 - [[lnv-vypusk-175](pages/lnv-vypusk-175.md)] — разговор с учительницей: вопрос не в том, хороший вы учитель или плохой, а в рамках
+- [[dima-zicer-uchitel-kotoromu-prikolno](pages/dima-zicer-uchitel-kotoromu-prikolno.md)] — граница: в 2018-м слово «авторитет» не звучит вовсе, его место занимает знание ответа на «зачем»

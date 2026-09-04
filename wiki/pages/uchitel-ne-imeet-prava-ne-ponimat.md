@@ -3,7 +3,7 @@ title: Учитель не имеет права не понимать
 category: Concepts
 summary: Есть вещи, которых профессионал не имеет права не понимать: учитель обязан понимать, что такое профессиональная этика — и звонки другим родителям с рассказами о чужом ребёнке её нарушают
 tags: [concept, uchitel, professionalnaya-etika, shkola, granitsy]
-sources: [lnv-vypusk-180]
+sources: [lnv-vypusk-180, dima-zicer-uchitel-kotoromu-prikolno]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -39,3 +39,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-180](pages/lnv-vypusk-180.md)] — звонок Дмитрия: классный руководитель обзванивает родителей класса
+- [[dima-zicer-uchitel-kotoromu-prikolno](pages/dima-zicer-uchitel-kotoromu-prikolno.md)] — расширение принципа на предметное содержание: не знать, зачем учить логарифмы и Пушкина, учитель не имеет права

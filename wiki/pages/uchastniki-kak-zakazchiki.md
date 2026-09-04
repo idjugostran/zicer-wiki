@@ -3,7 +3,7 @@ title: Участники как заказчики
 category: Concepts
 summary: Каждый присутствующий — включая подростка, которого никто не спрашивал, — делается заказчиком процесса, вплоть до деления времени занятия на равные части по числу заказов
 tags: [concept, pedagogika, neformalnoe-obrazovanie, subyektnost]
-sources: [kak-provodit-klassnye-ekskursii-dlya-detey, kak-uchitelyu-stroit-atmosferu-uroka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, lnv-vypusk-227, lnv-vypusk-226]
+sources: [kak-provodit-klassnye-ekskursii-dlya-detey, kak-uchitelyu-stroit-atmosferu-uroka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, lnv-vypusk-227, lnv-vypusk-226, dima-zicer-uchitel-kotoromu-prikolno]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-04
 - [[kak-uchitelyu-pomoch-uchenikam-iz-ukrainy](pages/kak-uchitelyu-pomoch-uchenikam-iz-ukrainy.md)] — принять их не говорящими на немецком и не готовыми интегрироваться
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — стратегия поведения в школе изобретается вместе с девятилетним
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — «давай придумаем» вместо решения за двух-трёх невключённых учеников
+- [[dima-zicer-uchitel-kotoromu-prikolno](pages/dima-zicer-uchitel-kotoromu-prikolno.md)] — заказ формулирует каждый участник, включая ребёнка
 
 ## Related Concepts
 
