@@ -35,6 +35,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-174](pages/lnv-vypusk-174.md)] — «он хочет победы» названо догадкой отца, который с сыном об этом не говорил
 - [[dima-zicer-mogut-li-chuzhie-sovety-pomoch](pages/dima-zicer-mogut-li-chuzhie-sovety-pomoch.md)] — тот же запрет на заранее известный результат, перенесённый на разговор педагога с аудиторией
 - [[rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane](pages/rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane.md)] — тот же запрет отвечать за ребёнка
+- [[malchik-hochet-odevatsya-kak-devochka](pages/malchik-hochet-odevatsya-kak-devochka.md)] — мать ведёт разговор из позиции исследователя, проверяя в надежде услышать «нет, мама»; взамен предложено настоящее незнание — «вау, да ладно, расскажи»
 
 ## Related Concepts
 

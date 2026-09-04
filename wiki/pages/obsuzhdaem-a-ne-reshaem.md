@@ -3,7 +3,7 @@ title: Обсуждаем, а не решаем
 category: Concepts
 summary: В остром вопросе взрослый настаивает не на решении, а на самом обсуждении: решение не принимается вовсе, пока идёт разговор, — и рождается из него
 tags: [concept, reshenie, kommunikatsiya, podrostki, semya]
-sources: [syn-14-let-vlyubilsya-i-eto-opasno, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let]
+sources: [syn-14-let-vlyubilsya-i-eto-opasno]
 created: 2026-09-03
 updated: 2026-09-03
 ---

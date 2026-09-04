@@ -27,6 +27,7 @@ updated: 2026-09-04
 - [[kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya](pages/kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya.md)] — договориться о покупке до входа, а не спорить внутри магазина
 - [[lnv-vypusk-210](pages/lnv-vypusk-210.md)] — ответ слушателю Андрею: правила поведения в школе принимаются вместе с детьми и родителями, и тогда на них можно ссылаться
 - [[kak-provodit-klassnye-ekskursii-dlya-detey](pages/kak-provodit-klassnye-ekskursii-dlya-detey.md)] — тот же принцип на многодневной поездке: цели формулируют участники заранее
+- [[kak-dobitsya-mira-so-svoimi-detmi](pages/kak-dobitsya-mira-so-svoimi-detmi.md)] — правила семейного договора формулируют все четверо заранее; нарушение означает не «кто-то плохой», а что правило сформулировано недостаточно точно, и его переформулируют
 
 ## Related Concepts
 

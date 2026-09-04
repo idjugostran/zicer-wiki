@@ -3,7 +3,7 @@ title: Семейный договор
 category: Concepts
 summary: Двухнедельная процедура: каждый формулирует, что ему нужно и где его красные линии, затем короткий эксперимент, разбор и переформулировка — нарушенное правило означает неточную формулировку, а не плохого человека
 tags: [concept, dogovor, granitsy, semya, protsedura]
-sources: [kak-dobitsya-mira-so-svoimi-detmi, kak-pravilno-govorit-s-rebenkom-pro-dengi, syn-14-let-vlyubilsya-i-eto-opasno, kuda-zhe-my-toropimsya, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-244, lnv-vypusk-213, lnv-vypusk-192, lnv-vypusk-170, dima-zicer-karantin-vremya-vozmozhnostey]
+sources: [kak-dobitsya-mira-so-svoimi-detmi, kak-pravilno-govorit-s-rebenkom-pro-dengi, kuda-zhe-my-toropimsya, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-244, lnv-vypusk-213, lnv-vypusk-192, lnv-vypusk-170, dima-zicer-karantin-vremya-vozmozhnostey]
 created: 2026-09-03
 updated: 2026-09-04
 ---

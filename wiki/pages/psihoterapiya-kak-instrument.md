@@ -3,7 +3,7 @@ title: Психотерапия как инструмент
 category: Concepts
 summary: Психотерапия — не признание слабости и не приговор, а специальный инструмент вроде таблетки от гриппа; слово «травма» лучше не произносить, а само переживание назвать человеческим качеством, которое бывает у кого угодно
 tags: [concept, roditelstvo, psihoterapiya, strah]
-sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, devochka-13-let-poteryala-vkus-k-zhizni, kak-nam-nauchitsya-kontrolirovat-sebya, selfharm-trevoga-i-slezy, 9-letniy-malchik-beret-chuzhie-veshchi, lnv-vypusk-234, lnv-vypusk-226, lnv-vypusk-199, lnv-vypusk-198, lnv-vypusk-191, lnv-vypusk-182, lnv-vypusk-166]
+sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kto-ya-svoey-padcheritse, mozhno-li-pomoch-rodnym-izdaleka, kak-nauchitsya-spravlyatsya-s-emotsiyami, devochka-13-let-poteryala-vkus-k-zhizni, kak-nam-nauchitsya-kontrolirovat-sebya, selfharm-trevoga-i-slezy, 9-letniy-malchik-beret-chuzhie-veshchi, lnv-vypusk-234, lnv-vypusk-226, lnv-vypusk-199, lnv-vypusk-198, lnv-vypusk-191, lnv-vypusk-182, lnv-vypusk-166]
 created: 2026-09-03
 updated: 2026-09-04
 ---

@@ -30,6 +30,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-180](pages/lnv-vypusk-180.md)] — ответ, которого Зицер ждал от Ивана — «я же так хотел с ней встретить Новый год»; просьба названа его любимым методом
 - [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — единственный инструмент по поводу вейпа
 - [[lnv-vypusk-169](pages/lnv-vypusk-169.md)] — просьба к трёхлетней не говорить «не люблю маму»; после рекламы Зицер возвращается к ней отдельно
+- [[chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — просьбу про обувь Зицер сохраняет и меняет только её градус: вместо «сколько раз я тебя просила» — спокойное «Максим, помочь тебе ботиночки снять»
 
 ## Related Concepts
 

@@ -35,6 +35,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-170](pages/lnv-vypusk-170.md)] — реплика «я тоже буду командовать» как индикатор того, что дома командуют
 - [[kak-dobitsya-mira-so-svoimi-detmi](pages/kak-dobitsya-mira-so-svoimi-detmi.md)] — чем договор отличается от объявленного правила
 - [[kak-nauchit-rebenka-uvazhat-chuzhie-granitsy](pages/kak-nauchit-rebenka-uvazhat-chuzhie-granitsy.md)] — как выглядит настоящее решение, в которое ребёнок включён
+- [[kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let](pages/kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let.md)] — «планшет просыпается и уходит спать» — правило, объявленное под видом факта; Зицер называет это срезанным углом и не советует раскручивать обратно
 
 ## Related Concepts
 

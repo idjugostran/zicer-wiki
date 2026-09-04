@@ -3,7 +3,7 @@ title: Личность, а не поведение
 category: Concepts
 summary: Личность присутствует с рождения независимо от возраста и способностей; мы часто путаем конкретное поведение (проявление) с личностным содержанием (желанием) за ним, и «чиним» не ту причину
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-10, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, syn-beret-chuzhie-veshchi, moy-rebenok-sovsem-nichego-ne-est, kak-byt-esli-vashego-rebenka-schitayut-huliganom, kak-dobitsya-mira-so-svoimi-detmi, kak-byt-esli-devochka-ne-hochet-zdorovatsya, lnv-vypusk-239, lnv-vypusk-226, dima-zicer-o-shkolnoy-travle, dima-zicer-drugie-v-gorode]
+sources: [kurs-12-urokov-urok-10, chego-boitsya-syn-i-chto-s-etim-delat, syn-darit-tsennye-veshchi-drugim-detyam, syn-beret-chuzhie-veshchi, moy-rebenok-sovsem-nichego-ne-est, kak-byt-esli-vashego-rebenka-schitayut-huliganom, kak-byt-esli-devochka-ne-hochet-zdorovatsya, lnv-vypusk-239, lnv-vypusk-226, dima-zicer-o-shkolnoy-travle, dima-zicer-drugie-v-gorode]
 created: 2026-08-29
 updated: 2026-09-04
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — «неудобному» ребёнку некомфортно самому раньше, чем окружающим
 - [[dima-zicer-o-shkolnoy-travle](pages/dima-zicer-o-shkolnoy-travle.md)] — личность противопоставлена общности как основание отношений в классе
 - [[dima-zicer-drugie-v-gorode](pages/dima-zicer-drugie-v-gorode.md)] — основание, по которому диагноз и репутация не заслоняют человека на сцене
+- [[kak-byt-esli-vashego-rebenka-schitayut-huliganom](pages/kak-byt-esli-vashego-rebenka-schitayut-huliganom.md)] — вилка «либо бес, либо что-то мешает изнутри» отсекает чтение поступка как выбора: «не потому, что выбрал бить, а потому что не может остановиться»
 
 ## Related Concepts
 

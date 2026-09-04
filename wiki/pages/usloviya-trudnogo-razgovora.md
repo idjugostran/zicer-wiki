@@ -3,7 +3,7 @@ title: Условия трудного разговора
 category: Concepts
 summary: Канал, место и момент разговора решают его судьбу раньше содержания: серьёзную тему нельзя вести по телефону (нет возможности взять паузу), на территории собеседника и с порога встречи
 tags: [concept, kommunikatsiya, podrostki, roditelstvo]
-sources: [kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, doch-schitaet-sebya-kvadroberom, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-236, lnv-vypusk-233, lnv-vypusk-202, lnv-vypusk-190]
+sources: [kak-pomoch-nayti-otvet-na-vopros-kto-ya, doch-schitaet-sebya-kvadroberom, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-236, lnv-vypusk-233, lnv-vypusk-202, lnv-vypusk-190]
 created: 2026-09-02
 updated: 2026-09-04
 ---

@@ -24,6 +24,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — сказать матери, что вы слышите её лучше без жёстких слов
 - [[lnv-vypusk-175](pages/lnv-vypusk-175.md)] — та же практика в исполнении четырёхлетних: «я обижена», «я злюсь» вместо «я тебя не люблю»
 - [[kak-pomenyatsya-mame-chtoby-dochke-bylo-legche](pages/kak-pomenyatsya-mame-chtoby-dochke-bylo-legche.md)] — концепт из первой части того же разговора, зеркальная сторона от лица родителя
+- [[kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu](pages/kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu.md)] — формула из чата, которую Зицер называет точной: «я тебя люблю и не могу позволить тебе заболеть» — граница названа вслух, и из этой точки обсуждается всё остальное
 
 ## Related Concepts
 

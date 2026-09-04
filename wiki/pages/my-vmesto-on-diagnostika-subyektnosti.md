@@ -3,7 +3,7 @@ title: «Мы», а не «он» — диагностика субъектно�
 category: Concepts
 summary: Родитель, рассказывающий о ребёнке только через «мы» («мы перевели», «мы вернули»), тем самым обнажает, что у ребёнка нет права голоса в собственной истории; репаративная техника — родитель наедине признаёт и оплакивает свою роль, прежде чем говорить с ребёнком, не требуя исправления, а сообщая «ты не один»
 tags: [concept, subyektnost, podrostki, vozrastnye-krizisy]
-sources: [kak-spasti-15-letnego-syna, kak-dobitsya-mira-so-svoimi-detmi, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-194]
+sources: [kak-spasti-15-letnego-syna, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-194]
 created: 2026-08-30
 updated: 2026-09-04
 ---

@@ -3,7 +3,7 @@ title: Пристройка
 category: Concepts
 summary: Индивидуальный способ, которым человек приспосабливается к невыносимым обстоятельствам; пристройки бывают очень разными и странными на вид, и отнимать найденную — значит лишать опоры
 tags: [concept, voyna, travma, adaptatsiya, deti]
-sources: [chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mozhno-li-uberech-rebenka-ot-nenavisti, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, kak-dobitsya-mira-so-svoimi-detmi, malchik-hochet-odevatsya-kak-devochka]
+sources: [chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mozhno-li-uberech-rebenka-ot-nenavisti, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, kak-dobitsya-mira-so-svoimi-detmi]
 created: 2026-09-03
 updated: 2026-09-03
 ---

@@ -3,7 +3,7 @@ title: Плавающие границы
 category: Concepts
 summary: Продавливание просьбами и физическое насилие — симптомы одного и того же: границ, которые ребёнок раз за разом успешно продавливает; лечится не уговорами, а решением, которое не меняется от усталости взрослого
 tags: [concept, granitsy, roditelstvo, nasilie, mladshie-shkolniki]
-sources: [kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-192, lnv-vypusk-176, lnv-vypusk-184, lnv-vypusk-175]
+sources: [kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-192, lnv-vypusk-176, lnv-vypusk-184, lnv-vypusk-175]
 created: 2026-09-03
 updated: 2026-09-04
 ---
