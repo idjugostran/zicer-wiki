@@ -3,7 +3,7 @@ title: Свободная библиотека вернула чтение
 category: Concepts
 summary: Эксперимент «Апельсина»: уроки чтения отменили, библиотеку сделали свободной с единственным правилом входить с пустыми руками — и дети зачитали, потому что чтение перестало быть принуждением
 tags: [concept, chtenie, shkola-apelsin, eksperiment, prostranstvo]
-sources: [dima-zicer-v-programme-pro-iskusstvo]
+sources: [dima-zicer-v-programme-pro-iskusstvo, dima-zicer-o-shkole-apelsin]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -38,3 +38,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[dima-zicer-v-programme-pro-iskusstvo](pages/dima-zicer-v-programme-pro-iskusstvo.md)] — рассказ об отмене уроков чтения и свободной библиотеке
+- [[dima-zicer-o-shkole-apelsin](pages/dima-zicer-o-shkole-apelsin.md)] — тот же эксперимент на восемь месяцев раньше, с другой причиной отмены

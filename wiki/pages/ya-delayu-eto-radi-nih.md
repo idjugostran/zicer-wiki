@@ -3,7 +3,7 @@ title: «Я делаю это ради них»
 category: Concepts
 summary: Кричащий на детей учитель на вопрос «зачем» отвечает «ради них» — Зицер называет это обманом: честный ответ звучал бы «мне страшно, я не умею иначе»
 tags: [concept, samoopravdanie, uchitel, privychka, chestnost]
-sources: [dima-zicer-v-programme-pro-iskusstvo]
+sources: [dima-zicer-v-programme-pro-iskusstvo, dima-zicer-o-shkole-apelsin]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -38,3 +38,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[dima-zicer-v-programme-pro-iskusstvo](pages/dima-zicer-v-programme-pro-iskusstvo.md)] — разбор ответа, который Зицер слышит от учителей в 99 случаях из 100
+- [[dima-zicer-o-shkole-apelsin](pages/dima-zicer-o-shkole-apelsin.md)] — учитель математики, которого спросили, зачем нужна таблица умножения, начинает нервничать

@@ -3,7 +3,7 @@ title: Участники как заказчики
 category: Concepts
 summary: Каждый присутствующий — включая подростка, которого никто не спрашивал, — делается заказчиком процесса, вплоть до деления времени занятия на равные части по числу заказов
 tags: [concept, pedagogika, neformalnoe-obrazovanie, subyektnost]
-sources: [kak-provodit-klassnye-ekskursii-dlya-detey, kak-uchitelyu-stroit-atmosferu-uroka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, lnv-vypusk-227, lnv-vypusk-226, dima-zicer-uchitel-kotoromu-prikolno, isra-campus-2015]
+sources: [kak-provodit-klassnye-ekskursii-dlya-detey, kak-uchitelyu-stroit-atmosferu-uroka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, lnv-vypusk-227, lnv-vypusk-226, dima-zicer-uchitel-kotoromu-prikolno, isra-campus-2015, dima-zicer-o-shkole-apelsin]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — «давай придумаем» вместо решения за двух-трёх невключённых учеников
 - [[dima-zicer-uchitel-kotoromu-prikolno](pages/dima-zicer-uchitel-kotoromu-prikolno.md)] — заказ формулирует каждый участник, включая ребёнка
 - [[isra-campus-2015](pages/isra-campus-2015.md)] — правила и законы пребывания в кампусе определяют сами участники через выбранное правление
+- [[dima-zicer-o-shkole-apelsin](pages/dima-zicer-o-shkole-apelsin.md)] — заказчик признаётся, но заказ на «построже» отклоняется как употребление инструмента не по назначению
 
 ## Related Concepts
 

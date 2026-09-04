@@ -3,7 +3,7 @@ title: Еда как базисное право
 category: Concepts
 summary: Решать, что и когда я ем, — базисное право человека; насильное кормление есть насилие, а закрытый рот оказывается единственным доступным ребёнку способом это право отстоять
 tags: [concept, eda, nasilie, telo, granitsy]
-sources: [lnv-vypusk-189, lnv-vypusk-179, lnv-vypusk-182]
+sources: [lnv-vypusk-189, lnv-vypusk-179, lnv-vypusk-182, dima-zicer-o-shkole-apelsin]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -37,3 +37,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-189](pages/lnv-vypusk-189.md)] — звонок Ольги из Липецка о насильном докармливании пятилетней
 - [[lnv-vypusk-179](pages/lnv-vypusk-179.md)] — обратная сторона: не принуждение, а ограничение, выстроенное взрослыми, заставляет ребёнка охотиться за едой — промежутки между приёмами пищи не больше четырёх часов
 - [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — два подряд звонка про еду: подросток, считающий калории, и отец, требующий доесть борщ
+- [[dima-zicer-o-shkole-apelsin](pages/dima-zicer-o-shkole-apelsin.md)] — «ем не потому, что хочу, а потому что время обеда» в ряду отнятых базисных прав

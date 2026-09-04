@@ -3,7 +3,7 @@ title: Разная глубина одного предмета
 category: Concepts
 summary: Один предмет преподаётся на нескольких глубинах одновременно: потоки разделяются по запросу учеников, а число часов варьируется по согласованию с ними и родителями
 tags: [concept, shkola, raspisanie, vybor, predmety]
-sources: [lnv-vypusk-191]
+sources: [lnv-vypusk-191, dima-zicer-o-shkole-apelsin]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -37,3 +37,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — углублённая литература с восьмого класса и три или семь часов математики по выбору ученика
+- [[dima-zicer-o-shkole-apelsin](pages/dima-zicer-o-shkole-apelsin.md)] — ранняя точка: индивидуального плана ещё нет, есть только выборные уроки
