@@ -3,7 +3,7 @@ title: Закон об образовании как инструмент род
 category: Concepts
 summary: Федеральный закон об образовании — рабочий довод родителя, а не декларация: он называет родителей и обучающихся важнейшими участниками образовательных отношений и запрещает оценки и домашние задания в первом классе, поэтому в разговоре со школой на него ссылаются наравне с педагогическим аргументом
 tags: [concept, shkola, pravo, zakon, roditelskaya-pozitsiya]
-sources: [lnv-vypusk-233, lnv-vypusk-212, lnv-vypusk-206, lnv-vypusk-191, lnv-vypusk-183, lnv-vypusk-184]
+sources: [lnv-vypusk-233, lnv-vypusk-212, lnv-vypusk-206, lnv-vypusk-191, lnv-vypusk-183, lnv-vypusk-184, dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -36,3 +36,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — тот же закон как довод учителя перед директором при разделении потоков
 - [[lnv-vypusk-183](pages/lnv-vypusk-183.md)] — совет написать в департамент образования: даже в первом классе оценки уже не ставят
 - [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — довод в разговоре с директором об отобранном стуле
+- [[dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii](pages/dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii.md)] — тот же закон как право выйти из системы: домашнее обучение, наём учителя несколькими семьями

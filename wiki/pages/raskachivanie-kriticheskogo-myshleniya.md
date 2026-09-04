@@ -3,9 +3,9 @@ title: Раскачивание критического мышления
 category: Concepts
 summary: Единственный механизм защиты, доступный взрослым, — и включается он не инструктажем, а тем, что взрослый делится с ребёнком собственными сомнениями по поводу своих контактов и советуется с ним
 tags: [concept, bezopasnost, profilaktika, kommunikatsiya, roditelstvo]
-sources: [kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, kak-spasti-detey-ot-nenavisti, vstuplenie-k-programme-16-01-24, vstuplenie-k-efiru-11-04-2023, lnv-vypusk-237, lnv-vypusk-230]
+sources: [kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, kak-spasti-detey-ot-nenavisti, vstuplenie-k-programme-16-01-24, vstuplenie-k-efiru-11-04-2023, lnv-vypusk-237, lnv-vypusk-230, dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Раскачивание критического мышления
@@ -28,6 +28,7 @@ updated: 2026-09-03
 - [[vstuplenie-k-efiru-11-04-2023](pages/vstuplenie-k-efiru-11-04-2023.md)] — «лишить права на критическое мышление» как названная цель; цена цензуры мира
 - [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — «предупреждён значит вооружён»: единственный работающий фильтр контента — отношения, в которых родитель не «машинка для запретов»
 - [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — родительская задача сформулирована как «научить наших детей отбирать контент», а не изъять гаджет
+- [[dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii](pages/dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii.md)] — критическое мышление поставлено выше нравственных координат: готовность осмыслить, а не позиция отрицания
 
 ## Related Concepts
 

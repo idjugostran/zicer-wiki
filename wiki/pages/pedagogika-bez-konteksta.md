@@ -3,9 +3,9 @@ title: Педагогика вне контекста ничего не стои
 category: Concepts
 summary: Ответ Зицера коллегам, требующим «профессионального анализа без эмоционального фона»: в школу ходят, чтобы познавать себя и мир, поэтому отцензурированный мир делает образование бессмысленным и растит людей без памяти, эмпатии и критического мышления
 tags: [concept, pedagogika, metodologiya, obrazovanie, kontekst, propaganda]
-sources: [vstuplenie-k-efiru-11-04-2023]
+sources: [vstuplenie-k-efiru-11-04-2023, dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Педагогика вне контекста ничего не стоит
@@ -36,3 +36,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[vstuplenie-k-efiru-11-04-2023](pages/vstuplenie-k-efiru-11-04-2023.md)] — сформулировано впервые: ответ педагогу, просившему «анализ без эмоционального фона»
+- [[dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii](pages/dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii.md)] — смежная полемика: там о цензуре мира, здесь об идеологии в законе
