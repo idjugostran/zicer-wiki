@@ -36,5 +36,43 @@ class TestNumerals(unittest.TestCase):
             self.assertIn(w, audit_quotes.NUMERALS, w)
 
 
+class TestCitedInConcepts(unittest.TestCase):
+    """В Concept-страницах проверяются только цитаты, помеченные локатором."""
+
+    def find(self, text):
+        return audit_quotes.CITED.findall(text)
+
+    def test_quote_with_locator_is_picked_up(self):
+        self.assertEqual(
+            self.find('он сказал «мы становимся цензорами этого мира» [00:12:34]'),
+            ['мы становимся цензорами этого мира'])
+
+    def test_locator_may_follow_after_words(self):
+        self.assertEqual(
+            self.find('«эта тема одна из самых интересных» — говорит он [01:02:03]'),
+            ['эта тема одна из самых интересных'])
+
+    def test_quote_without_locator_is_ignored(self):
+        self.assertEqual(self.find('приём назван «второй натурой» и работает'), [])
+
+    def test_paraphrase_marks_are_ignored(self):
+        self.assertEqual(self.find('позиция «взрослый прав по умолчанию» здесь снята'), [])
+
+    def test_locator_of_a_later_quote_does_not_capture_earlier_one(self):
+        text = ('«термин без локатора», а дальше совсем другая мысль, и ещё одна, '
+                'и третья, и только потом «настоящая цитата» [00:01:02]')
+        self.assertEqual(self.find(text), ['настоящая цитата'])
+
+
+class TestTranscriptResolution(unittest.TestCase):
+    def test_body_strips_frontmatter(self):
+        body = audit_quotes.body_of('---\ntitle: X\nsummary: «пересказ»\n---\n\nтело «цитата»')
+        self.assertNotIn('пересказ', body)
+        self.assertIn('цитата', body)
+
+    def test_body_of_page_without_frontmatter_is_whole_text(self):
+        self.assertEqual(audit_quotes.body_of('просто текст'), 'просто текст')
+
+
 if __name__ == '__main__':
     unittest.main()

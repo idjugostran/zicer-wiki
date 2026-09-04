@@ -5,6 +5,14 @@
 его тем же способом, что config/youtube-transcript.md, и сверяет каждую цитату из
 секции ## Footnotes.
 
+Concept-страницы проверяются тоже, но только те цитаты, что помечены локатором:
+    «дословная цитата» [00:12:34]
+Без локатора цитата не проверяется — в теле концептов кавычки несут две разные
+функции, обрамляя то настоящую цитату, то термин или пересказ («вторая натура»,
+«взрослый прав по умолчанию»), и различить их машинно нельзя. Локатор и есть
+признак, которым автор заявляет: это дословно. Источники берутся из frontmatter
+`sources:`, дорожки склеиваются. Frontmatter не сканируется.
+
 Что считается допустимым (и потому не сообщается):
   пунктуация и регистр; «ё»; числительные словами вместо цифр; склейка слов,
   которые распознавание разорвало; редакторские вставки в квадратных скобках;
@@ -27,6 +35,10 @@ PAGES = os.path.join(ROOT, 'wiki', 'pages')
 RAW = os.path.join(ROOT, 'raw')
 
 VID = re.compile(r'watch\?v=([\w-]{11})')
+SOURCES = re.compile(r'^sources:\s*\[(.*?)\]', re.M | re.S)
+# Цитата в Concept-странице проверяется, только если помечена локатором.
+CITED = re.compile(r'«([^»]{12,300})»(?=[^«»]{0,60}\[\d\d:\d\d:\d\d\])')
+CATEGORY = re.compile(r'^category:\s*(\w+)', re.M)
 QUOTE = re.compile(r'«([^»]{12,300})»')
 CUE = re.compile(r'^(\d\d:\d\d:\d\d)\.\d\d\d -->')
 TAG = re.compile(r'<[^>]+>')
@@ -113,6 +125,44 @@ def check_quote(quote, haystack, hay_letters):
     return char_coverage(quote, hay_letters) >= 0.92
 
 
+def page_text(slug):
+    path = os.path.join(PAGES, '%s.md' % slug)
+    if not os.path.exists(path):
+        return ''
+    return open(path, encoding='utf-8').read()
+
+
+def body_of(text):
+    """Тело страницы без frontmatter."""
+    if text.startswith('---'):
+        parts = text.split('---', 2)
+        if len(parts) == 3:
+            return parts[2]
+    return text
+
+
+def transcripts_for(text):
+    """Пути к дорожкам: у Source — своя, у Concept — дорожки всех её источников."""
+    cat = CATEGORY.search(text)
+    cat = cat.group(1) if cat else ''
+    ids = []
+    if cat == 'Sources':
+        m = VID.search(text)
+        if m:
+            ids.append(m.group(1))
+    elif cat == 'Concepts':
+        m = SOURCES.search(text)
+        if m:
+            for slug in (x.strip() for x in m.group(1).split(',')):
+                if not slug:
+                    continue
+                mv = VID.search(page_text(slug))
+                if mv:
+                    ids.append(mv.group(1))
+    paths = [os.path.join(RAW, '%s.ru.vtt' % i) for i in ids]
+    return [p for p in paths if os.path.exists(p)]
+
+
 def main(argv):
     strict = '--strict' in argv
     wanted = [a for a in argv if not a.startswith('--')]
@@ -124,16 +174,25 @@ def main(argv):
         if wanted and slug not in wanted:
             continue
         text = open(os.path.join(PAGES, name), encoding='utf-8').read()
-        m = VID.search(text)
-        if not m or '\n## Footnotes' not in text:
+        vtts = transcripts_for(text)
+        if not vtts:
             continue
-        vtt = os.path.join(RAW, '%s.ru.vtt' % m.group(1))
-        if not os.path.exists(vtt):
+        cat = CATEGORY.search(text)
+        cat = cat.group(1) if cat else ''
+        if cat == 'Sources':
+            if '\n## Footnotes' not in text:
+                continue
+            scope = text[text.index('\n## Footnotes'):]
+            quotes = QUOTE.findall(scope)
+        else:
+            scope = body_of(text)
+            quotes = CITED.findall(scope)
+        if not quotes:
             continue
         pages += 1
-        plain = dedupe_vtt(vtt)
+        plain = ' '.join(dedupe_vtt(v) for v in vtts)
         hay, hay_letters = stems(plain), letters(plain)
-        for quote in QUOTE.findall(text[text.index('\n## Footnotes'):]):
+        for quote in quotes:
             if 'synthesis' in quote:
                 continue
             checked += 1

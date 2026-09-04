@@ -353,6 +353,14 @@ Analyses
   every skill reads it before writing or scanning links
 - YouTube video sources are downloaded and deduplicated per `config/youtube-transcript.md`
   before `wiki-ingest` reads them — same yt-dlp command and VTT-cleanup script every time
+- Цитата в Concept-странице, которую автор заявляет как дословную, помечается
+  локатором сразу после неё: `«дословная цитата» [00:12:34]`. Только такие цитаты
+  проверяет `bin/audit-quotes.py`. Без локатора кавычки в теле концепта считаются
+  обрамлением термина или пересказа («вторая натура», «взрослый прав по умолчанию»),
+  и гейт их не трогает — различить два употребления машинно нельзя, поэтому признак
+  ставит автор. Правило действует вперёд: старые страницы без локаторов не нарушают
+  его, но и не проверяются.
+
 - `**Published:**` on a Source page takes the date from `upload_date` in
   `raw/<ID>.info.json` — never the date written in the video title. The two differ:
   a broadcast aired in the evening is usually uploaded the next day, and for some
