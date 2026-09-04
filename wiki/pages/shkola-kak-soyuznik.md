@@ -3,7 +3,7 @@ title: Школа как союзник
 category: Concepts
 summary: На переговорах со школой ищут не правоту, а пересечение интересов: школа заинтересована погасить напряжение, сохранить ученика и не создавать волну — на этом и строится разговор, без перехода на личности
 tags: [concept, shkola, peregovory, roditelstvo]
-sources: [nam-popalas-plohaya-uchilka, moya-doch-zabila-na-vse, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, 8-letniy-malchik-stesnyaetsya-starshego-brata, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-238, lnv-vypusk-240, lnv-vypusk-241, lnv-vypusk-233, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-203, lnv-vypusk-197]
+sources: [nam-popalas-plohaya-uchilka, moya-doch-zabila-na-vse, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, 8-letniy-malchik-stesnyaetsya-starshego-brata, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-238, lnv-vypusk-240, lnv-vypusk-241, lnv-vypusk-233, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-203, lnv-vypusk-197, lnv-vypusk-193]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -43,6 +43,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — «мы со школой на одной стороне», но союзничество не отменяет защиты ребёнка; инструмент — родительское собрание как разговор родителей друг с другом
 - [[lnv-vypusk-203](pages/lnv-vypusk-203.md)] — граница приёма: когда директор защищает категорию и стаж учителя, союзника ищут в департаменте образования и среди других родителей
 - [[lnv-vypusk-197](pages/lnv-vypusk-197.md)] — после жалобы учительницы родитель спрашивает, зачем она звонила и чем можно помочь
+- [[lnv-vypusk-193](pages/lnv-vypusk-193.md)] — предложенный Ильдару тон разговора вместо коллективной жалобы
 
 ## Related Concepts
 

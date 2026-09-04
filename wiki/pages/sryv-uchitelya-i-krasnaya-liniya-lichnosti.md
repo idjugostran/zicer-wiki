@@ -3,7 +3,7 @@ title: Срыв учителя и красная линия личности
 category: Concepts
 summary: Учитель — живой человек и может сорваться, но переход на личные оскорбления недопустим в любом случае; до срыва работает пауза, после срыва — прямо выраженное сожаление без самоуничижения
 tags: [concept, uchitel, professionalnaya-etika, granitsy, izvinenie]
-sources: [lnv-vypusk-203]
+sources: [lnv-vypusk-203, lnv-vypusk-193]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -36,3 +36,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-203](pages/lnv-vypusk-203.md)] — ответ учительнице, сорвавшейся на класс: срыв допустим, переход на личности — нет
+- [[lnv-vypusk-193](pages/lnv-vypusk-193.md)] — систематический, а не разовый переход на личность

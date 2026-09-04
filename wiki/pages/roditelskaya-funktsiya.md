@@ -3,7 +3,7 @@ title: Родительская функция
 category: Concepts
 summary: Формулировка Зицера — защита, помощь, присутствие, поддержка
 tags: [concept, parenting]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kto-ya-svoey-padcheritse, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-246, lnv-vypusk-235, lnv-vypusk-218, lnv-vypusk-210, lnv-vypusk-212, lnv-vypusk-205, lnv-vypusk-190, lnv-vypusk-191]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kto-ya-svoey-padcheritse, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-246, lnv-vypusk-235, lnv-vypusk-218, lnv-vypusk-210, lnv-vypusk-212, lnv-vypusk-205, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-193]
 created: 2026-08-04
 updated: 2026-09-04
 ---
@@ -49,6 +49,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-205](pages/lnv-vypusk-205.md)] — защита и присутствие как то, что в разных звонках подменяется воспитанием и предупреждением
 - [[lnv-vypusk-190](pages/lnv-vypusk-190.md)] — «я ни в коем случае не дам тебя в обиду» перед приходом нового воспитателя
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — ребёнок должен слышать, что его любят и готовы оказать любую поддержку
+- [[lnv-vypusk-193](pages/lnv-vypusk-193.md)] — защита и поддержка как содержание совета Олесе и, в обратную сторону, Вере
 
 ## Related Concepts
 
