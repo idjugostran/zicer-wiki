@@ -36,6 +36,7 @@ updated: 2026-09-04
 
 - [[materialnyi-motivator-vytesnyaet-interes](pages/materialnyi-motivator-vytesnyaet-interes.md)] — соседний механизм вытеснения интереса, но через награду, а не через состязание
 - [[vopros-zachem-ty-eto-govorish](pages/vopros-zachem-ty-eto-govorish.md)] — рефлексивный вопрос, которым взрослый проверяет собственную соревновательную реплику
+- [[otkaz-ot-konkursa-kak-suzhdenie](pages/otkaz-ot-konkursa-kak-suzhdenie.md)] — та же рамка, но отвергнутая самим ребёнком
 
 ## Appearances in Sources
 

@@ -3,7 +3,7 @@ title: Разговор отдельно от ситуации
 category: Concepts
 summary: Разговор об изменении поведения ведут не в момент эпизода, а спустя недели, вне ситуации: сказанное по горячим следам читается ребёнком как продолжение реакции взрослого и подкрепляет ровно то, что взрослый хочет убрать
 tags: [concept, razgovor, timing, emotsionalnoe-podkreplenie, doshkolniki]
-sources: [lnv-vypusk-247, lnv-vypusk-233, lnv-vypusk-229, lnv-vypusk-232, lnv-vypusk-202]
+sources: [lnv-vypusk-247, lnv-vypusk-233, lnv-vypusk-229, lnv-vypusk-232, lnv-vypusk-202, lnv-vypusk-198]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -34,3 +34,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — «нужно разговаривать один раз, но очень хорошо и вне зависимости от этого случая»
 - [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — отдельный урок про выбор вместо реакции по горячим следам у доски
 - [[lnv-vypusk-202](pages/lnv-vypusk-202.md)] — к обидчикам подходят не в момент конфликта, а когда «никто никуда не бежит»
+- [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — разговор назначается спустя время после эпизода, а не сразу

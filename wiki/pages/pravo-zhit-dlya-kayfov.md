@@ -3,7 +3,7 @@ title: Право жить для кайфов
 category: Concepts
 summary: В 14–15 лет человек имеет право жить ради сиюминутных удовольствий, а не ради определения судьбы; родитель может прямо снять с подростка груз профориентации и помогать искать эти удовольствия
 tags: [concept, podrostki, udovolstvie, professiya]
-sources: [devochka-otkazyvaetsya-hodit-v-shkolu, moya-doch-zabila-na-vse, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, kak-aktivnoy-mame-zhit-s-synom-introvertom, lnv-vypusk-249, lnv-vypusk-225]
+sources: [devochka-otkazyvaetsya-hodit-v-shkolu, moya-doch-zabila-na-vse, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, kak-aktivnoy-mame-zhit-s-synom-introvertom, lnv-vypusk-249, lnv-vypusk-225, lnv-vypusk-198]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-04
 - [[kak-aktivnoy-mame-zhit-s-synom-introvertom](pages/kak-aktivnoy-mame-zhit-s-synom-introvertom.md)] — «не нужно стараться изменять жизнь счастливого человека»
 - [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — выбор профиля в восьмом классе предлагается делать по тому, где учиться будет в кайф, а не по расчёту поступления
 - [[lnv-vypusk-225](pages/lnv-vypusk-225.md)] — граница расширена: четырнадцатилетняя сама выбрала предельно плотный график, и это признаётся её собственной жизнью, а не родительским проектом — тот же плотный график у шестилетней был бы поводом разбираться
+- [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — отказ обсуждать профориентацию семиклассников: «пусть они спокойно получают удовольствие от жизни»
 
 ## Related Concepts
 

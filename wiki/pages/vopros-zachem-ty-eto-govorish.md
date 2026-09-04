@@ -3,7 +3,7 @@ title: «Зачем ты это говоришь»
 category: Concepts
 summary: Вопрос, запускающий рефлексию у подростка: обращённый к тому, что человек произносит по привычке, он сдвигает горы — но только при неоценивающем тоне и в возрасте, когда ответ вообще возможен
 tags: [concept, refleksiya, podrostki, kommunikatsiya, vopros]
-sources: [kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, doch-6-let-nachala-zavidovat-i-vydumyvat, lnv-vypusk-229, lnv-vypusk-230, lnv-vypusk-227, lnv-vypusk-206, lnv-vypusk-205]
+sources: [kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, doch-6-let-nachala-zavidovat-i-vydumyvat, lnv-vypusk-229, lnv-vypusk-230, lnv-vypusk-227, lnv-vypusk-206, lnv-vypusk-205, lnv-vypusk-198]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -33,6 +33,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — «зачем ты победил» как вопрос, приглашающий к размышлению, а не требующий ответа
 - [[lnv-vypusk-206](pages/lnv-vypusk-206.md)] — вопрос «зачем» как рецепт рефлексии: сначала себе, потом отцу и сыну (Моника), сначала матери, потом дочери (Олеся)
 - [[lnv-vypusk-205](pages/lnv-vypusk-205.md)] — приём применён к поступку первоклассника, наябедничавшего учительнице; ценность вопроса — отсутствие оценки в обе стороны
+- [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — вопросы «зачем и почему» на тренинге для педагогов, считающих травлю нормой
 
 ## Related Concepts
 

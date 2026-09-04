@@ -3,7 +3,7 @@ title: Выбор через пробы
 category: Concepts
 summary: Смена детских увлечений — не каприз, а нормальный механизм выбора через пробу; принуждение «доводить до конца» учит подчинению, а не решительности
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-248, lnv-vypusk-250, lnv-vypusk-216, lnv-vypusk-211, kak-rastit-samostoyatelnogo-rebenka, kak-pomoch-docheri-vybrat-professiyu, devochka-otkazyvaetsya-hodit-v-shkolu, nam-popalas-plohaya-uchilka, kak-uchitelyu-stroit-atmosferu-uroka, chto-delat-esli-rebenok-boitsya-vsego-novogo, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, malchik-6-let-hochet-pomogat-ukraine, syn-14-let-vlyubilsya-i-eto-opasno, devochka-hochet-brosit-zanyatiya-peniem, lnv-vypusk-245, lnv-vypusk-246, lnv-vypusk-241, lnv-vypusk-236, lnv-vypusk-234, lnv-vypusk-232, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-225, lnv-vypusk-222]
+sources: [kurs-12-urokov-urok-5, lnv-vypusk-171, lnv-v-gostyah-u-zicera-chast-1, lnv-vypusk-248, lnv-vypusk-250, lnv-vypusk-216, lnv-vypusk-211, kak-rastit-samostoyatelnogo-rebenka, kak-pomoch-docheri-vybrat-professiyu, devochka-otkazyvaetsya-hodit-v-shkolu, nam-popalas-plohaya-uchilka, kak-uchitelyu-stroit-atmosferu-uroka, chto-delat-esli-rebenok-boitsya-vsego-novogo, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, malchik-6-let-hochet-pomogat-ukraine, syn-14-let-vlyubilsya-i-eto-opasno, devochka-hochet-brosit-zanyatiya-peniem, lnv-vypusk-245, lnv-vypusk-246, lnv-vypusk-241, lnv-vypusk-236, lnv-vypusk-234, lnv-vypusk-232, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-225, lnv-vypusk-222, lnv-vypusk-198]
 created: 2026-08-29
 updated: 2026-09-04
 ---
@@ -43,6 +43,7 @@ updated: 2026-09-04
 - [[chto-takoe-neformalnoe-obrazovanie](pages/chto-takoe-neformalnoe-obrazovanie.md)] — выбор обоснован состоянием мира: знания перестали быть линейными и малочисленными, поэтому навык выбора обязателен
 - [[lnv-vypusk-225](pages/lnv-vypusk-225.md)] — айкидо из-за певицы, фехтование из-за «Пиратов Карибского моря», робототехника из-за бумажных роботов — Зицер защищает такие смены как норму пяти-шести лет
 - [[lnv-vypusk-222](pages/lnv-vypusk-222.md)] — «не заставлять человека заниматься чем она не хочет», особенно когда собственный интерес уже назван
+- [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — пятилетний имеет право отказаться от бассейна; личная история Зицера о тренере с палкой
 
 ## Related Concepts
 

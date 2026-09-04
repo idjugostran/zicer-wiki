@@ -3,9 +3,9 @@ title: Аплодисменты как радость, а не оценка
 category: Concepts
 summary: Чтобы похвала перестала быть допингом, её не убирают, а расширяют: если хлопают и просто так, аплодисменты перестают означать «ты заслужил»
 tags: [concept, pohvala, otsenka, rannii-vozrast, motivatsiya]
-sources: [kak-ne-perehvalit-rebenka, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-231, lnv-vypusk-227]
+sources: [kak-ne-perehvalit-rebenka, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-231, lnv-vypusk-227, lnv-vypusk-198]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Аплодисменты как радость, а не оценка
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[kak-i-za-chto-ne-hvalit-rebenka](pages/kak-i-za-chto-ne-hvalit-rebenka.md)] — «как мы с тобой быстро управились»: реплика о происшедшем вместо оценки ребёнка
 - [[lnv-vypusk-231](pages/lnv-vypusk-231.md)] — дозу признания увеличивают в самые неподходящие моменты; формула из Драгунского «я скачу, что ты мой папа»
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — совместное изобретение того, как ещё круче веселиться, вместо удовольствия от чужого проигрыша
+- [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — утешительное «для меня твои рисунки самые лучшие» названо оценкой, а не поддержкой
 
 ## Related Concepts
 
