@@ -3,7 +3,7 @@ title: Отстать, чтобы началось подражание
 category: Concepts
 summary: Бытовой навык, от которого ребёнок отказывается под нажимом, возвращается не уговорами, а полным отступлением: взрослый делает это при нём для себя и перестаёт предлагать
 tags: [concept, podrazhanie, byt, davlenie, malyshi]
-sources: [lnv-vypusk-193, lnv-vypusk-180]
+sources: [lnv-vypusk-193, lnv-vypusk-180, dima-zicer-chitayu-s-udovolstviem]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -39,3 +39,4 @@ updated: 2026-09-04
 
 - [[lnv-vypusk-193](pages/lnv-vypusk-193.md)] — звонок Ники о двухлетнем сыне и чистке зубов
 - [[lnv-vypusk-180](pages/lnv-vypusk-180.md)] — зубы четырёхлетнего: отстать и чистить свои рядом
+- [[dima-zicer-chitayu-s-udovolstviem](pages/dima-zicer-chitayu-s-udovolstviem.md)] — «ну читайте»: единственная альтернатива принуждению — читать самому и на глазах

@@ -3,7 +3,7 @@ title: Материальный мотиватор вытесняет интер
 category: Concepts
 summary: Награда за учение вытесняет собственную мотивацию: если долго учить, что учатся за приз, то без приза учение прекращается — как в австралийском эксперименте, где детям платили за посещение школы, а когда платить перестали, они перестали ходить
 tags: [concept, motivatsiya, pooshchrenie, ucheba, podarki]
-sources: [lnv-vypusk-241, lnv-vypusk-230, lnv-vypusk-206, lnv-vypusk-197, lnv-vypusk-183, lnv-vypusk-184]
+sources: [lnv-vypusk-241, lnv-vypusk-230, lnv-vypusk-206, lnv-vypusk-197, lnv-vypusk-183, lnv-vypusk-184, dima-zicer-chitayu-s-udovolstviem]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -35,3 +35,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-197](pages/lnv-vypusk-197.md)] — шоколадки за победу в турнире заменяются шоколадками просто так в начале урока
 - [[lnv-vypusk-183](pages/lnv-vypusk-183.md)] — деньги за выученные стихи: «я боюсь денег», потому что они вмешаются в личные отношения
 - [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — поход в кино как приз за то, что мальчики научатся ходить парами
+- [[dima-zicer-chitayu-s-udovolstviem](pages/dima-zicer-chitayu-s-udovolstviem.md)] — «прочтёшь от сих до сих, иначе не получишь мороженое»: награда подпирает удовольствие и обесценивает его

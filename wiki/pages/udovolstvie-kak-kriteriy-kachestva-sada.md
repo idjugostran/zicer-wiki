@@ -3,7 +3,7 @@ title: Удовольствие как критерий качества сад�
 category: Concepts
 summary: Единственное надёжное мерило качества сада или школы — идёт ли туда ребёнок с удовольствием; это результат педагогической работы, а не данность, и он конфликтует с задачей раннего развития
 tags: [concept, detskiy-sad, kriteriy, rannee-razvitie, udovolstvie]
-sources: [lnv-vypusk-181, lnv-vypusk-170, lnv-vypusk-166, lnv-vypusk-163, dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii]
+sources: [lnv-vypusk-181, lnv-vypusk-170, lnv-vypusk-166, lnv-vypusk-163, dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii, dima-zicer-chitayu-s-udovolstviem]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -42,3 +42,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — «если ей в кайф — не лезьте» как критерий вмешательства в занятия в саду
 - [[lnv-vypusk-163](pages/lnv-vypusk-163.md)] — тот же критерий приложен к кружку продлёнки и к первому классу
 - [[dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii](pages/dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii.md)] — то же мерило противопоставлено отложенной оценке
+- [[dima-zicer-chitayu-s-udovolstviem](pages/dima-zicer-chitayu-s-udovolstviem.md)] — тот же критерий удовольствия, приложенный к книге
