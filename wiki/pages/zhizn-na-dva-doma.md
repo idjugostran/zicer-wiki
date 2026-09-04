@@ -3,7 +3,7 @@ title: Жизнь на два дома
 category: Concepts
 summary: График «неделя у мамы, неделя у папы» удобен взрослым и обычно неудобен ребёнку; главное здесь не сам развод, а то, что решение принималось без него
 tags: [concept, razvod, smeshannaya-semya, subyektnost, samopovrezhdenie]
-sources: [kto-ya-svoey-padcheritse, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-249, lnv-vypusk-235, lnv-vypusk-232, lnv-vypusk-217, lnv-vypusk-205]
+sources: [kto-ya-svoey-padcheritse, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-249, lnv-vypusk-235, lnv-vypusk-232, lnv-vypusk-217, lnv-vypusk-205, lnv-vypusk-196]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — сын с двух лет живёт между матерью и её родителями, а с седьмого класса в интернате — конструкция, из которой вырастает отчуждение
 - [[lnv-vypusk-217](pages/lnv-vypusk-217.md)] — сын не хочет видеться с отцом через пять лет после развода, в котором не участвовал; исправление начинается с признания маминой ошибки
 - [[lnv-vypusk-205](pages/lnv-vypusk-205.md)] — сын одиннадцати лет приезжает к отцу раз в две недели и ведёт себя как гость у неблизкого человека
+- [[lnv-vypusk-196](pages/lnv-vypusk-196.md)] — схема двух домов разбирается до развода: критерий — сможет ли трёхлетняя дочь ответить на вопрос «где ты живёшь»
 
 ## Related Concepts
 

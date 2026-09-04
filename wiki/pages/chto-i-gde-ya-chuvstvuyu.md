@@ -3,7 +3,7 @@ title: Что и где я чувствую
 category: Concepts
 summary: Прежде чем учить ребёнка справляться с эмоциями, нужно вместе с ним назвать телесный сигнал конкретными словами и конкретным местом: крутит живот, потеют ладошки, сводит скулы
 tags: [concept, samoregulyatsiya, emotsii, telo, deti]
-sources: [kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-spasti-detey-ot-nenavisti, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-230, lnv-vypusk-227, lnv-vypusk-226]
+sources: [kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-spasti-detey-ot-nenavisti, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-230, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-196]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — то же задание адресовано самой матери вместо погружения в комплекс вины
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — «вы рассказываете мне о чувствах, а я спрашиваю вас о физических ощущениях»
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — двухчастная конструкция «найти триггер, потом сменить физическую форму», с внешней опорой в притче о Будде
+- [[lnv-vypusk-196](pages/lnv-vypusk-196.md)] — телесный сигнал назван для детской ревности: скрипят зубы, сжимаются кулачки, слёзы на глазах
 
 ## Related Concepts
 

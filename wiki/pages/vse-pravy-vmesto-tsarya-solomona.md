@@ -3,9 +3,9 @@ title: Все правы вместо царя Соломона
 category: Concepts
 summary: Родитель в конфликте детей отказывается от роли арбитра: вопрос «кто прав и кто виноват» заменяется заходом со стороны каждого — правых и виноватых нет, и взрослый становится стороной, а не судьёй
 tags: [concept, konflikt, bratya-i-sestry, roditelstvo, dogovor]
-sources: [kak-dobitsya-mira-so-svoimi-detmi, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-227]
+sources: [kak-dobitsya-mira-so-svoimi-detmi, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-227, lnv-vypusk-196]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Все правы вместо царя Соломона
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[kak-dobitsya-mira-so-svoimi-detmi](pages/kak-dobitsya-mira-so-svoimi-detmi.md)] — прямой отказ от роли царя Соломона в конфликте четырнадцатилетних близнецов
 - [[kogda-starshiy-brat-koshmarit-mladshego](pages/kogda-starshiy-brat-koshmarit-mladshego.md)] — «вы не должны превращаться в третейского судью или в царя Соломона и рулить отношения между ними»
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — отец отказывается от роли разнимающего и садится за общий стол с обоими детьми
+- [[lnv-vypusk-196](pages/lnv-vypusk-196.md)] — та же притча используется противоположно: не как отказ судить, а как критерий, показывающий родителям, что они делят ребёнка в свою пользу
 
 ## Related Concepts
 

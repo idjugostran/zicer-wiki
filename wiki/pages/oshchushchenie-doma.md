@@ -3,9 +3,9 @@ title: Ощущение дома
 category: Concepts
 summary: Ощущение дома складывается из конкретных мелочей и знакомых деталей, а не из гражданства, языка или «привычности» страны; ребёнок формирует его быстро, если взрослый сам определился со своим ответом
 tags: [concept, roditelstvo, pereezd]
-sources: [chto-meshaet-docheri-izbavitsya-ot-nostalgii, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, rebenok-v-shkole-ne-razgovarivaet, kto-ya-svoey-padcheritse, devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-239]
+sources: [chto-meshaet-docheri-izbavitsya-ot-nostalgii, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, rebenok-v-shkole-ne-razgovarivaet, kto-ya-svoey-padcheritse, devochka-13-let-poteryala-vkus-k-zhizni, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-239, lnv-vypusk-196]
 created: 2026-09-02
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Ощущение дома
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov](pages/kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov.md)] — «нет той реальности» и «дома и стены лечат»
 - [[chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — ночник, вывезенный из Херсона в рюкзаке с подгузниками как «маячок»
 - [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — до полутора-двух лет «папа и мама — это и есть его дом», и дом перемещается вместе с ребёнком
+- [[lnv-vypusk-196](pages/lnv-vypusk-196.md)] — ощущение дома сведено к операциональной проверке: есть ли у ребёнка ответ на вопрос «где ты живёшь»
 
 ## Related Concepts
 
