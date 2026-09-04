@@ -3,7 +3,7 @@ title: Тест переноса на взрослого
 category: Concepts
 summary: Педагогический довод проверяется переносом на взрослого: приём, который взрослый применяет к ребёнку, подставляется в отношения между взрослыми — и его абсурдность в этой подстановке становится аргументом
 tags: [concept, argument, proverka, subyektnost, ritorika]
-sources: [lnv-vypusk-222, lnv-vypusk-187, lnv-vypusk-181, lnv-vypusk-184]
+sources: [lnv-vypusk-222, lnv-vypusk-187, lnv-vypusk-181, lnv-vypusk-184, lnv-vypusk-170]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -34,3 +34,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-187](pages/lnv-vypusk-187.md)] — звонок из Твери: «пусть его кто-нибудь шлёпнет по лицу» как проверка довода
 - [[lnv-vypusk-181](pages/lnv-vypusk-181.md)] — мужа, не желающего ехать к бабушке, не одевают силой
 - [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — проверка границ подстановкой взрослой ситуации
+- [[lnv-vypusk-170](pages/lnv-vypusk-170.md)] — «пойдём хвостиком» проверяется подстановкой в отношения между взрослыми

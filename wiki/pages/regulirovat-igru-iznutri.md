@@ -3,9 +3,9 @@ title: Регулировать игру изнутри
 category: Concepts
 summary: Содержание детской игры меняют не запретом снаружи, а из собственной роли внутри неё: взрослый играет вместе с ребёнком и предлагает повороты сюжета как участник, а не как судья
 tags: [concept, igra, doshkolniki, instrumenty, roli]
-sources: [chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, malchik-6-let-hochet-pomogat-ukraine, lnv-vypusk-230]
+sources: [chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, malchik-6-let-hochet-pomogat-ukraine, lnv-vypusk-230, lnv-vypusk-170]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Регулировать игру изнутри
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh](pages/chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh.md)] — сформулировано впервые: четырёхлетний Лев, всегда выбирающий роль охотника
 - [[malchik-6-let-hochet-pomogat-ukraine](pages/malchik-6-let-hochet-pomogat-ukraine.md)] — «человек шести лет имеет право играть во что угодно»: форма игры не оценивается
 - [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — воспитательница, которая садится играть с шестилетками и сплетает их конкурирующие сюжеты в общий
+- [[lnv-vypusk-170](pages/lnv-vypusk-170.md)] — выход из образа котёнка через предложение сыграть в обезьянок и собачек
 
 ## Related Concepts
 

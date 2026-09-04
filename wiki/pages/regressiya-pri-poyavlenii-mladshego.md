@@ -3,7 +3,7 @@ title: Откат при появлении младшего
 category: Concepts
 summary: После рождения второго ребёнка старший как будто теряет уже освоенные умения — говорить, есть, одеваться; Зицер называет это известным синдромом, обязательным в той или иной мере у всех детей, и предлагает искать его прежде, чем объяснять поведение характером
 tags: [concept, siblingi, doshkolniki, razvitie, diagnostika]
-sources: [kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-231, lnv-vypusk-230, lnv-vypusk-225, lnv-vypusk-226, lnv-vypusk-195]
+sources: [kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-231, lnv-vypusk-230, lnv-vypusk-225, lnv-vypusk-226, lnv-vypusk-195, lnv-vypusk-170]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -40,3 +40,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-225](pages/lnv-vypusk-225.md)] — трёхлетний хочет быть малышом и атакует годовалого; объяснение «невзлюбил маленького» отводится, речь о потраченных силах
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — энкопрез у пятилетнего после рождения второго и возврат четырёхлетней к моделям младшего брата
 - [[lnv-vypusk-195](pages/lnv-vypusk-195.md)] — четырёхлетняя после рождения сестры перестала здороваться, отказалась от бассейна и косички
+- [[lnv-vypusk-170](pages/lnv-vypusk-170.md)] — образ котёнка у четырёхлетней при годовалом брате как возможная регрессия

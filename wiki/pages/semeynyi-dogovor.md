@@ -3,7 +3,7 @@ title: Семейный договор
 category: Concepts
 summary: Двухнедельная процедура: каждый формулирует, что ему нужно и где его красные линии, затем короткий эксперимент, разбор и переформулировка — нарушенное правило означает неточную формулировку, а не плохого человека
 tags: [concept, dogovor, granitsy, semya, protsedura]
-sources: [kak-dobitsya-mira-so-svoimi-detmi, kak-pravilno-govorit-s-rebenkom-pro-dengi, syn-14-let-vlyubilsya-i-eto-opasno, kuda-zhe-my-toropimsya, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-244, lnv-vypusk-213, lnv-vypusk-192]
+sources: [kak-dobitsya-mira-so-svoimi-detmi, kak-pravilno-govorit-s-rebenkom-pro-dengi, syn-14-let-vlyubilsya-i-eto-opasno, kuda-zhe-my-toropimsya, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-244, lnv-vypusk-213, lnv-vypusk-192, lnv-vypusk-170]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -42,6 +42,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — входные шаги процедуры без её цикла: спросить по-честному, как человек хочет жить, затем родитель формулирует своё, и обе картины сопоставляются — «придумываем заново нашу жизнь»
 - [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — правила школы вырабатываются вместе с детьми: «это их правило»
 - [[lnv-vypusk-192](pages/lnv-vypusk-192.md)] — квота пропусков школы названа договором прямо, с проверкой «тёмных углов» и числом, которое называет сам ребёнок
+- [[lnv-vypusk-170](pages/lnv-vypusk-170.md)] — общее правило как договор с красными чертами у каждого, включая отца
 
 ## Related Concepts
 

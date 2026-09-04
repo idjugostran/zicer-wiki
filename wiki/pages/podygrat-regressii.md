@@ -3,7 +3,7 @@ title: Подыграть регрессии
 category: Concepts
 summary: Регрессию старшего не пресекают и не «перерастают», а сознательно подыгрывают ей ограниченными дозами — взять на ручки, поиграть в маленькую, но не круглосуточно; раздражение взрослого от этого проходит за двадцать секунд
 tags: [concept, regressiya, starshiy-rebenok, ustupka, doza]
-sources: [lnv-vypusk-226]
+sources: [lnv-vypusk-226, lnv-vypusk-170]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -32,3 +32,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — вводит приём: четырёхлетняя, вернувшаяся к моделям младшего брата
+- [[lnv-vypusk-170](pages/lnv-vypusk-170.md)] — матери советуют подыгрывать образу, а не убирать его по совету бабушек и воспитателей

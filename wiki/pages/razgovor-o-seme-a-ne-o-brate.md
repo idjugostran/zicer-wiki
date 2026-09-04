@@ -3,7 +3,7 @@ title: Разговор о семье, а не об отношениях с бр
 category: Concepts
 summary: Спрашивая ребёнка, каких отношений он хочет с братом, взрослый сообщает ему свои ожидания; вопрос «как бы ты хотел, чтобы была устроена наша семья» тех же ожиданий не несёт и потому оказывается для ребёнка зоной безопасности
 tags: [concept, siblingi, semya, vopros, granitsy, kommunikatsiya]
-sources: [kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-249, lnv-vypusk-239, lnv-vypusk-235, lnv-vypusk-229, lnv-vypusk-227, lnv-vypusk-186]
+sources: [kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-249, lnv-vypusk-239, lnv-vypusk-235, lnv-vypusk-229, lnv-vypusk-227, lnv-vypusk-186, lnv-vypusk-170]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -42,3 +42,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — отцу двух дочерей предлагается спросить старшую не про сестру, а «как бы ты хотела, чтобы была устроена наша жизнь общая»
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — вместо объяснений младшему брату предлагается общий разговор о том, у кого в семье когда бывают моменты «лучше не трогать»
 - [[lnv-vypusk-186](pages/lnv-vypusk-186.md)] — звонок Евгении: разговор со старшим ведут не про брата, а про то, что вообще в нём изменилось
+- [[lnv-vypusk-170](pages/lnv-vypusk-170.md)] — с шестилетней говорят не про брата, а про то, кто что даёт друг другу в семье
