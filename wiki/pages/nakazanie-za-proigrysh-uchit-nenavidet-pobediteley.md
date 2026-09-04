@@ -3,7 +3,7 @@ title: Наказание за проигрыш учит ненавидеть п
 category: Concepts
 summary: Оценка-наказание за поражение лишает детей удовольствия от игры и производит людей, которые не умеют проигрывать и ненавидят победителей; молчать в такой ситуации родитель права не имеет
 tags: [concept, shkola, otsenka, sorevnovatelnost, fizkultura]
-sources: [lnv-vypusk-196]
+sources: [lnv-vypusk-196, lnv-vypusk-172]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -35,3 +35,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-196](pages/lnv-vypusk-196.md)] — липецкий случай: тройка проигравшей команде на физкультуре, обращение к администрации прямо в эфире
+- [[lnv-vypusk-172](pages/lnv-vypusk-172.md)] — соревнование в пятом классе названо мотором, который тянет за собой агрессию
