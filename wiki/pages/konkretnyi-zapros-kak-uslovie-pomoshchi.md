@@ -3,7 +3,7 @@ title: Конкретный запрос как условие помощи
 category: Concepts
 summary: Помочь человеку против его воли или без сформулированной цели невозможно; прежде чем советовать, нужно добиться от просящего конкретного запроса, а не позволять ему просто изливать эмоции
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-219, kak-byt-esli-rebenok-ne-uveren-v-sebe, kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-organizovat-poezdku-dlya-detey, devochka-otkazyvaetsya-hodit-v-shkolu, chego-boitsya-syn-i-chto-s-etim-delat, kak-podderzhat-rebenka-vo-vremya-voyny, kak-ponyat-14-letnyuyu-doch, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami, kto-ya-svoey-padcheritse, kak-nauchitsya-spravlyatsya-s-emotsiyami, chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, kak-byt-esli-vashego-rebenka-schitayut-huliganom, doch-6-let-nachala-zavidovat-i-vydumyvat, lnv-vypusk-245, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-236, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-225, lnv-vypusk-226, lnv-vypusk-213, lnv-vypusk-206, lnv-vypusk-205, lnv-vypusk-199, lnv-vypusk-197]
+sources: [lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-219, kak-byt-esli-rebenok-ne-uveren-v-sebe, kak-pomoch-nayti-otvet-na-vopros-kto-ya, kak-organizovat-poezdku-dlya-detey, devochka-otkazyvaetsya-hodit-v-shkolu, chego-boitsya-syn-i-chto-s-etim-delat, kak-podderzhat-rebenka-vo-vremya-voyny, kak-ponyat-14-letnyuyu-doch, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami, kto-ya-svoey-padcheritse, kak-nauchitsya-spravlyatsya-s-emotsiyami, chto-pomogaet-detyam-vyzhit-na-voyne, devochka-13-let-poteryala-vkus-k-zhizni, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, kak-byt-esli-vashego-rebenka-schitayut-huliganom, doch-6-let-nachala-zavidovat-i-vydumyvat, lnv-vypusk-245, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-236, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-225, lnv-vypusk-226, lnv-vypusk-213, lnv-vypusk-206, lnv-vypusk-205, lnv-vypusk-199, lnv-vypusk-197, lnv-vypusk-187]
 created: 2026-08-30
 updated: 2026-09-04
 ---
@@ -50,6 +50,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-205](pages/lnv-vypusk-205.md)] — Зицер по нескольку раз возвращает Любу и Дениса к формулировке вопроса, прежде чем отвечать
 - [[lnv-vypusk-199](pages/lnv-vypusk-199.md)] — развёрнутый разбор на случае четырнадцатилетнего: силой можно проломить, но не помочь
 - [[lnv-vypusk-197](pages/lnv-vypusk-197.md)] — Зицер требует от преподавателя го и от Полины сформулировать вопрос, прежде чем отвечать
+- [[lnv-vypusk-187](pages/lnv-vypusk-187.md)] — тот же звонок: два вопроса дочери — «зачем ты туда ходишь» и «нужна ли тебе помощь»
 
 ## Related Concepts
 

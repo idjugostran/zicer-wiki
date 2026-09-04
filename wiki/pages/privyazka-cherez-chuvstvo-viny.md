@@ -3,9 +3,9 @@ title: Привязка через чувство вины
 category: Concepts
 summary: Терзания родителя дают ребёнку простую, почти примитивную форму эмоциональной связи и подтверждение, что он ценен; кнопка «комплекс вины» известна и нажимается, хотя лучше от этого не становится никому
 tags: [concept, roditelstvo, podrostki, vina, otnosheniya]
-sources: [doch-revnuet-i-ustraivaet-skandaly, v-poslednee-vremya-syn-ochen-grustit, moya-doch-deretsya-i-plyuetsya, rebenok-v-shkole-ne-razgovarivaet, lnv-vypusk-236, lnv-vypusk-227]
+sources: [doch-revnuet-i-ustraivaet-skandaly, v-poslednee-vremya-syn-ochen-grustit, moya-doch-deretsya-i-plyuetsya, rebenok-v-shkole-ne-razgovarivaet, lnv-vypusk-236, lnv-vypusk-227, lnv-vypusk-187]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Привязка через чувство вины
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] — материнский намёк читается шестилетним как оценка от бога, и нервничать он начинает от неё
 - [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — «комплекс вины» в двенадцать лет объясняет, почему девочка сама отказалась менять школу
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — запрет грузить четырёхлетнего материнским комплексом вины
+- [[lnv-vypusk-187](pages/lnv-vypusk-187.md)] — звонок Ани из Москвы: двухлетний сын исследует мамино чувство вины
 
 ## Related Concepts
 

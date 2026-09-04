@@ -3,7 +3,7 @@ title: Метод поощрения и наказания
 category: Concepts
 summary: Заимствованный из дрессуры животных метод — Зицер считает его неприменимым к людям и подменяющим настоящие отношения
 tags: [concept, roditelstvo, pedagogika]
-sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219, lnv-vypusk-211, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, kak-sdelat-chtoby-ona-slushalas-roditeley, devochka-hochet-brosit-zanyatiya-peniem, kak-roditeli-perenosyat-na-detey-modeli, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-241, lnv-vypusk-234, lnv-vypusk-230, lnv-vypusk-227, lnv-vypusk-222, lnv-vypusk-188, lnv-vypusk-192]
+sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219, lnv-vypusk-211, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, kak-sdelat-chtoby-ona-slushalas-roditeley, devochka-hochet-brosit-zanyatiya-peniem, kak-roditeli-perenosyat-na-detey-modeli, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-241, lnv-vypusk-234, lnv-vypusk-230, lnv-vypusk-227, lnv-vypusk-222, lnv-vypusk-188, lnv-vypusk-192, lnv-vypusk-187]
 created: 2026-08-04
 updated: 2026-09-04
 ---
@@ -46,6 +46,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-222](pages/lnv-vypusk-222.md)] — отец восьмилетней спрашивает, как наказать; ответ «никак»: наказание делает родителя начальником и исключает человеческие отношения
 - [[lnv-vypusk-188](pages/lnv-vypusk-188.md)] — на прямой вопрос «стоит ли наказывать» Зицер разбирает наказание по составу: отъём вещи, лишение свободы, лишение любимого
 - [[lnv-vypusk-192](pages/lnv-vypusk-192.md)] — наказания сливаются у ребёнка в одну линию и перестают различать поступки
+- [[lnv-vypusk-187](pages/lnv-vypusk-187.md)] — звонок Радика: давление голосом и лишением как единственный работающий рычаг
 
 ## Related Concepts
 

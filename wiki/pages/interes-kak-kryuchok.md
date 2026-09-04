@@ -3,7 +3,7 @@ title: Интерес как крючок
 category: Concepts
 summary: Интерес — крючок, которым человек цепляется за школу и за жизнь; если ребёнка всё время занимал взрослый, собственный крючок не образуется, главным инструментом становится мама, и в школе зацепиться не за что — чинят возвращением к прямому интересу, а не давлением
 tags: [concept, interes, motivatsiya, shkola, samostoyatelnost]
-sources: [lnv-vypusk-234, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-226, lnv-vypusk-217, lnv-vypusk-198, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-193]
+sources: [lnv-vypusk-234, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-226, lnv-vypusk-217, lnv-vypusk-198, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-187]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -38,3 +38,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-190](pages/lnv-vypusk-190.md)] — перечень того, ради чего девочки ходят в гимнастику: элементы, музыка, владение телом, общение
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — программа перестраивается так, чтобы сформировать запрос детей и на него ответить
 - [[lnv-vypusk-193](pages/lnv-vypusk-193.md)] — право на интересную жизнь в любом возрасте и обязанность профессионала её устроить
+- [[lnv-vypusk-187](pages/lnv-vypusk-187.md)] — звонок Дениса: сын-третьеклассник делает работу за пятнадцать минут, если интересно; вопрос переносится на взрослых

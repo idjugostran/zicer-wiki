@@ -3,7 +3,7 @@ title: Запугивание отучает от речи
 category: Concepts
 summary: Запугивание — больницей, лишением сказки — не дисциплинирует, а обучает противоположному: реагировать только на испуг, из-за чего через какое-то время ребёнок перестаёт понимать обычную человеческую речь
 tags: [concept, zapugivanie, rech, detskiy-sad, posledstviya]
-sources: [lnv-vypusk-217]
+sources: [lnv-vypusk-217, lnv-vypusk-187]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -32,3 +32,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-217](pages/lnv-vypusk-217.md)] — вводит разбор: воспитатель, пугающий детей больницей
+- [[lnv-vypusk-187](pages/lnv-vypusk-187.md)] — звонок Радика: пятилетний сын и «разболтавшийся» пятый класс как один механизм — реакция только на давление
