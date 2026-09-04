@@ -3,7 +3,7 @@ title: Просто попросить
 category: Concepts
 summary: Самое пропускаемое решение: сказать ребёнку «мне от этого больно, я прошу тебя этого не делать»; изнутри ситуации простые ходы не видны, а ребёнок этой просьбы часто попросту не слышал
 tags: [concept, roditelstvo, kommunikatsiya, podrostki]
-sources: [doch-revnuet-i-ustraivaet-skandaly, kak-pomoch-rebenku-prinyat-novuyu-realnost, chto-pomogaet-detyam-vyzhit-na-voyne, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-233, lnv-vypusk-232, lnv-vypusk-198, lnv-vypusk-197, lnv-vypusk-188]
+sources: [doch-revnuet-i-ustraivaet-skandaly, kak-pomoch-rebenku-prinyat-novuyu-realnost, chto-pomogaet-detyam-vyzhit-na-voyne, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-233, lnv-vypusk-232, lnv-vypusk-198, lnv-vypusk-197, lnv-vypusk-188, lnv-vypusk-180]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — «самый прямой путь» с восьмилетним, который ругает себя: признание любви плюс просьба этого не делать
 - [[lnv-vypusk-197](pages/lnv-vypusk-197.md)] — вместо давления на семнадцатилетнюю дочь — прямая просьба в тёплом контакте
 - [[lnv-vypusk-188](pages/lnv-vypusk-188.md)] — и своему ребёнку про конфету «для гостей», и чужому мальчику, шарящему по шкафам: «мне это неприятно, я прошу тебя этого не делать»
+- [[lnv-vypusk-180](pages/lnv-vypusk-180.md)] — ответ, которого Зицер ждал от Ивана — «я же так хотел с ней встретить Новый год»; просьба названа его любимым методом
 
 ## Related Concepts
 

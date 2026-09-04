@@ -3,7 +3,7 @@ title: Защита от учительского оскорбления
 category: Concepts
 summary: Когда взрослый в школе оскорбляет ребёнка, вставать на защиту должен родитель, а не сам ребёнок: детский ответ мгновенно переквалифицируют в дерзость и раскручивают конфликт; ребёнку остаётся уйти от хама, родителю — позвонить в школу и заявить, что он этого не позволяет
 tags: [concept, shkola, zashchita, roditelskaya-funktsiya, konflikt]
-sources: [lnv-vypusk-246, lnv-vypusk-245, lnv-vypusk-233, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-210, lnv-vypusk-212, lnv-vypusk-203, lnv-vypusk-205, lnv-vypusk-196, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-194, lnv-vypusk-195, lnv-vypusk-178]
+sources: [lnv-vypusk-246, lnv-vypusk-245, lnv-vypusk-233, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-210, lnv-vypusk-212, lnv-vypusk-203, lnv-vypusk-205, lnv-vypusk-196, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-194, lnv-vypusk-195, lnv-vypusk-178, lnv-vypusk-180]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -45,3 +45,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-194](pages/lnv-vypusk-194.md)] — «неадекватные дети» в родительском чате: «это не делает чести вашей учительнице»
 - [[lnv-vypusk-195](pages/lnv-vypusk-195.md)] — учительница публично заявила классу, что мальчик ей «не ученик»; идти разбираться должен родитель, и сразу к директору
 - [[lnv-vypusk-178](pages/lnv-vypusk-178.md)] — мать звонит завучу сама; вмешательство не обесценивает учителя в глазах пятиклассника
+- [[lnv-vypusk-180](pages/lnv-vypusk-180.md)] — защищает родитель, а не четырнадцатилетняя девочка

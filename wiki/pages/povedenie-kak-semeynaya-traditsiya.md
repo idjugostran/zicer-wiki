@@ -3,7 +3,7 @@ title: Поведение как семейная традиция
 category: Concepts
 summary: Повторяющаяся связка «поступок ребёнка — реакция родителя» — это не непослушание, а сложившийся ритуал; его не запрещают, а заменяют другим, столь же конкретным
 tags: [concept, rannii-vozrast, traditsii, poslushanie, ritual]
-sources: [kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-237, lnv-vypusk-229, lnv-vypusk-226, lnv-vypusk-176]
+sources: [kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-237, lnv-vypusk-229, lnv-vypusk-226, lnv-vypusk-176, lnv-vypusk-180]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -30,6 +30,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — вечерние страхи семилетнего разбираются как сложившаяся вечерняя традиция; предлагается стать инициатором новой
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — история с курткой как случайно сложившийся ритуал «поступок — реакция»
 - [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — укусы объяснены сложившейся традицией: нарушаем традицию и изобретаем новую
+- [[lnv-vypusk-180](pages/lnv-vypusk-180.md)] — «покривляйся, когда маме важно» разобрано как сложившийся ритуал
 
 ## Related Concepts
 

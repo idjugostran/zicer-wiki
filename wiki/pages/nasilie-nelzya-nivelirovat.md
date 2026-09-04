@@ -3,7 +3,7 @@ title: Насилие нельзя нивелировать
 category: Concepts
 summary: Насилие второго родителя над ребёнком не компенсируется поведением первого — побитый уже побит; смягчающее «шлёпает» отбрасывается, а разговор с бьющим упирается в закон
 tags: [concept, nasilie, semya, yazyk, zakon]
-sources: [lnv-vypusk-187]
+sources: [lnv-vypusk-187, lnv-vypusk-180]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -38,3 +38,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-187](pages/lnv-vypusk-187.md)] — звонок из Твери: отказ от компенсации и от эвфемизма
+- [[lnv-vypusk-180](pages/lnv-vypusk-180.md)] — побои соседской девочки названы уголовным преступлением
