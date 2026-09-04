@@ -3,7 +3,7 @@ title: Помощь без упрёка
 category: Concepts
 summary: Из фразы «чем тебе помочь, если ты мне ничего не говоришь» убирается вторая половина: она совмещает предложение помощи с обвинением ребёнка в том, что помощь не получается
 tags: [concept, roditelstvo, kommunikatsiya, podrostki]
-sources: [kak-ponyat-14-letnyuyu-doch, moya-doch-zabila-na-vse, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, lnv-vypusk-245, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-231, lnv-vypusk-206, lnv-vypusk-204, lnv-vypusk-178]
+sources: [kak-ponyat-14-letnyuyu-doch, moya-doch-zabila-na-vse, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, lnv-vypusk-245, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-231, lnv-vypusk-206, lnv-vypusk-204, lnv-vypusk-178, lnv-vypusk-173]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -30,6 +30,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-206](pages/lnv-vypusk-206.md)] — перенастройка ребёнка, который боится расстроить мать: «я не буду тебя ругать, скажи мне, давай я тебе помогу»
 - [[lnv-vypusk-204](pages/lnv-vypusk-204.md)] — звонок Евгения: «я же тебе говорил» разобрано как механизм, который через несколько лет отменит сами звонки дочери
 - [[lnv-vypusk-178](pages/lnv-vypusk-178.md)] — вопрос «чем тебе помочь» в чистом виде: без стыда и без манипуляции памятью отца
+- [[lnv-vypusk-173](pages/lnv-vypusk-173.md)] — вместо выяснения, кто кого обидел, мать садится рядом и спрашивает сына, чем помочь
 
 ## Related Concepts
 
