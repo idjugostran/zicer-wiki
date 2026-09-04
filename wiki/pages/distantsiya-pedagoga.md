@@ -3,9 +3,9 @@ title: Дистанция педагога
 category: Concepts
 summary: Обожание в глазах учеников — не любовь, а часть профессии; обнять коллегу окей, обнять ученика не окей, даже если ты ничего не имел в виду, и ответственность за эту границу целиком лежит на взрослом
 tags: [concept, pedagogicheskaya-etika, shkola, bezopasnost, professiya]
-sources: [kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, dolzhen-li-uchitel-lyubit-detey, obysk-desyatiklassnikov-v-orske, lnv-vypusk-240]
+sources: [kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, dolzhen-li-uchitel-lyubit-detey, obysk-desyatiklassnikov-v-orske, lnv-vypusk-240, dima-zicer-o-roli-uchitelya]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Дистанция педагога
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[dolzhen-li-uchitel-lyubit-detey](pages/dolzhen-li-uchitel-lyubit-detey.md)] — «уважает — это другое слово, это не любит»; возражение против «отношусь как к собственным детям»
 - [[obysk-desyatiklassnikov-v-orske](pages/obysk-desyatiklassnikov-v-orske.md)] — институциональный случай: ответственность за телесную границу не снимается служебной целью
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — бесстрастность названа профессиональным достоинством, а учительское «я люблю детей» — тем, к чему Зицер относится осторожно
+- [[dima-zicer-o-roli-uchitelya](pages/dima-zicer-o-roli-uchitelya.md)] — эмпатия как рабочее обязательство и «соблазн огромный воспользоваться вот этим самым статусом»
 
 ## Related Concepts
 

@@ -3,9 +3,9 @@ title: Своего ребёнка учит коллега
 category: Concepts
 summary: Невозможность учить собственного ребёнка по своему предмету — не профессиональная деформация, а следствие того, что бесстрастность и есть рабочее условие педагогики; своего ребёнка отдают коллеге
 tags: [concept, pedagog, distantsiya, semya, professiya]
-sources: [lnv-vypusk-240]
+sources: [lnv-vypusk-240, dima-zicer-o-roli-uchitelya]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Своего ребёнка учит коллега
@@ -29,3 +29,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — вводит правило: учительница английского и «профессиональная деформация»
+- [[dima-zicer-o-roli-uchitelya](pages/dima-zicer-o-roli-uchitelya.md)] — та же рамка: профессия описывается через конкретный навык и рабочее условие, а не через призвание
