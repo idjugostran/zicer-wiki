@@ -3,7 +3,7 @@ title: Аргумент «так всегда было»
 category: Concepts
 summary: «Так всегда было» — слабейший из доводов: перечисление отменённых практик показывает, что человечество регулярно отменяет то, что «всегда было», становясь более рефлексивным
 tags: [concept, argument, traditsiya, ritorika, istoriya]
-sources: [lnv-vypusk-217]
+sources: [lnv-vypusk-217, lnv-vypusk-197]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -30,3 +30,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-217](pages/lnv-vypusk-217.md)] — вводит приём: спор об игрушечном оружии
+- [[lnv-vypusk-197](pages/lnv-vypusk-197.md)] — «одна запись в трудовой книжке» разобрано как аргумент из другого времени

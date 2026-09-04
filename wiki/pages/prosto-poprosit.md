@@ -3,7 +3,7 @@ title: Просто попросить
 category: Concepts
 summary: Самое пропускаемое решение: сказать ребёнку «мне от этого больно, я прошу тебя этого не делать»; изнутри ситуации простые ходы не видны, а ребёнок этой просьбы часто попросту не слышал
 tags: [concept, roditelstvo, kommunikatsiya, podrostki]
-sources: [doch-revnuet-i-ustraivaet-skandaly, kak-pomoch-rebenku-prinyat-novuyu-realnost, chto-pomogaet-detyam-vyzhit-na-voyne, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-233, lnv-vypusk-232, lnv-vypusk-198]
+sources: [doch-revnuet-i-ustraivaet-skandaly, kak-pomoch-rebenku-prinyat-novuyu-realnost, chto-pomogaet-detyam-vyzhit-na-voyne, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-233, lnv-vypusk-232, lnv-vypusk-198, lnv-vypusk-197]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-233](pages/lnv-vypusk-233.md)] — вторая часть совета Майе: попросить об одном конкретном, назвав, что от этого неприятно
 - [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — «звякни мне во вторник» вместо завуалированного предложения помощи шестнадцатилетнему сыну
 - [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — «самый прямой путь» с восьмилетним, который ругает себя: признание любви плюс просьба этого не делать
+- [[lnv-vypusk-197](pages/lnv-vypusk-197.md)] — вместо давления на семнадцатилетнюю дочь — прямая просьба в тёплом контакте
 
 ## Related Concepts
 

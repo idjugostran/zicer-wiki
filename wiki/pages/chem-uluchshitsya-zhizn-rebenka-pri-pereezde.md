@@ -3,9 +3,9 @@ title: Чем улучшится жизнь ребёнка при переезд
 category: Concepts
 summary: Решение о переезде проверяется не вопросом «что изменится», а вопросом «чем улучшится жизнь ребёнка» — и если честный ответ «ничего», улучшение организуют до переезда, а не после
 tags: [concept, pereezd, reshenie, proverochnyi-vopros, roditelstvo]
-sources: [lnv-vypusk-239]
+sources: [lnv-vypusk-239, lnv-vypusk-197]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Чем улучшится жизнь ребёнка при переезде
@@ -29,3 +29,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[lnv-vypusk-239](pages/lnv-vypusk-239.md)] — вводит вопрос и повторяет его в двух звонках подряд, уточняя формулировку
+- [[lnv-vypusk-197](pages/lnv-vypusk-197.md)] — та же проверка применена к смене детского сада и дала ответ «не менять»
