@@ -3,7 +3,7 @@ title: Вечерний листок: чем улучшил, чем ухудши
 category: Concepts
 summary: Ежедневная «домашняя работа» родителя — листок с двумя колонками: чем я улучшил жизнь ребёнка и чем ухудшил, без оправдания «это я любя», а потом вопрос, надо ли было это делать
 tags: [concept, refleksiya, praktika, lyubov, samoproverka]
-sources: [lnv-vypusk-218]
+sources: [lnv-vypusk-218, lnv-vypusk-184]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -32,3 +32,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — вводит практику: финальный ответ о родительской любви
+- [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — вечерняя проверка «я сегодня сделал её жизнь лучше»

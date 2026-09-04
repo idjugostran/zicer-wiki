@@ -3,7 +3,7 @@ title: Игровая рамка против скуки
 category: Concepts
 summary: Детская скука лечится не содержанием, а формой: рутину разбивают структурно — тематическим днём, походом, квестом; от самого лучшего содержания дети могут скучать
 tags: [concept, skuka, forma, igra, doshkolniki]
-sources: [lnv-vypusk-191, lnv-vypusk-176, lnv-vypusk-180]
+sources: [lnv-vypusk-191, lnv-vypusk-176, lnv-vypusk-180, lnv-vypusk-184]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -39,3 +39,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — звонок Лизы из Лондона о скучающих детях
 - [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — экзамен в музыкальной школе переупакован в роль разведчика
 - [[lnv-vypusk-180](pages/lnv-vypusk-180.md)] — соседний ответ на скуку: исследование с блокнотом сыщика
+- [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — десяток способов наполнить хождение в паре содержанием вместо приказа

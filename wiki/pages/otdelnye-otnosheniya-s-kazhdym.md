@@ -3,7 +3,7 @@ title: Отдельные отношения с каждым
 category: Concepts
 summary: Родственник, наблюдающий чужой конфликт, не мирит стороны и не передаёт сообщения — он строит с каждым свои собственные отношения, ценные сами по себе
 tags: [concept, rodstvenniki, konflikt, podderzhka, na-rasstoyanii]
-sources: [mozhno-li-pomoch-rodnym-izdaleka, lnv-vypusk-213, lnv-vypusk-186, lnv-vypusk-179, lnv-vypusk-182]
+sources: [mozhno-li-pomoch-rodnym-izdaleka, lnv-vypusk-213, lnv-vypusk-186, lnv-vypusk-179, lnv-vypusk-182, lnv-vypusk-184]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-186](pages/lnv-vypusk-186.md)] — последний звонок: бабушка не мирит стороны, а строит разговор с дочерью отдельно
 - [[lnv-vypusk-179](pages/lnv-vypusk-179.md)] — зеркальный случай: Зицер отказывается мирить деда с внуком за них и адресует шаг самой стороне
 - [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — сын перезванивает, чувствуя, что мать надо защитить
+- [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — позиция тёти в первом и последнем звонках
 
 ## Related Concepts
 

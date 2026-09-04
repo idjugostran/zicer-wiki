@@ -3,7 +3,7 @@ title: Ответственность за решение — на родите�
 category: Concepts
 summary: Граница субъектности: решения, спасающие личность, ребёнку не передаются — предложить девятилетней выбрать форму обучения значит взвалить на неё родительскую ответственность
 tags: [concept, otvetstvennost, subyektnost, granitsy, bezopasnost, shkola]
-sources: [kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, lnv-vypusk-176]
+sources: [kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, lnv-vypusk-176, lnv-vypusk-184]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-04
 
 - [[kak-borotsya-s-dvoemysliem-kogda-docheri-9-let](pages/kak-borotsya-s-dvoemysliem-kogda-docheri-9-let.md)] — «это вообще не её решение, это решение мамы и папы»; образ человека на подоконнике
 - [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — ответственность за опоздания семилетней названа родительской
+- [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — решение о культпоходе принимают родители; «идут все или никто» неэтично
 
 ## Related Concepts
 
