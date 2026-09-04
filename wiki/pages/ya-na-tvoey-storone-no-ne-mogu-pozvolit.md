@@ -3,7 +3,7 @@ title: Я на твоей стороне, но не могу тебе этого
 category: Concepts
 summary: Формула запрета, которая не разрывает отношения: граница называется как своя, ребёнок остаётся союзником, и из этой точки обсуждается всё остальное
 tags: [concept, granitsy, otkaz, formulirovki, bezopasnost]
-sources: [kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, mne-nravitsya-kak-papa-reagiruet, lnv-vypusk-247, lnv-vypusk-236, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-210, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-192, lnv-vypusk-195, lnv-vypusk-176, lnv-vypusk-178, lnv-vypusk-182, lnv-vypusk-170]
+sources: [kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, mne-nravitsya-kak-papa-reagiruet, lnv-vypusk-247, lnv-vypusk-236, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-210, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-192, lnv-vypusk-195, lnv-vypusk-176, lnv-vypusk-178, lnv-vypusk-182, lnv-vypusk-170, lnv-vypusk-168]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -39,6 +39,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-178](pages/lnv-vypusk-178.md)] — «я не согласна, чтобы так меня называл, я тебя очень люблю» пятилетнему сыну
 - [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — «нет, я не позволю тебе меня бить» твёрдым тоном
 - [[lnv-vypusk-170](pages/lnv-vypusk-170.md)] — формула прямой просьбы к шестилетнему, не разрывающая отношения
+- [[lnv-vypusk-168](pages/lnv-vypusk-168.md)] — формула продиктована почти дословно трёхлетнему: защищать будем, обижать брата не позволим
 
 ## Related Concepts
 

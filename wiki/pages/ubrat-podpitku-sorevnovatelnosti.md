@@ -3,7 +3,7 @@ title: Убрать подпитку соревновательности
 category: Concepts
 summary: Неумение проигрывать не врождённое — у него есть подпитка во взрослых; работает не разговор с ребёнком, а полное изъятие соревновательной рамки из домашнего быта
 tags: [concept, sorevnovatelnost, motivatsiya, semya, igra]
-sources: [lnv-vypusk-206, lnv-vypusk-190, lnv-vypusk-187, lnv-vypusk-179, lnv-vypusk-185, lnv-vypusk-170]
+sources: [lnv-vypusk-206, lnv-vypusk-190, lnv-vypusk-187, lnv-vypusk-179, lnv-vypusk-185, lnv-vypusk-170, lnv-vypusk-169]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -46,3 +46,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-179](pages/lnv-vypusk-179.md)] — прямая инструкция: исключить соревновательные игры дома, а на принесённую победу отвечать вопросом «а зачем»
 - [[lnv-vypusk-185](pages/lnv-vypusk-185.md)] — школьная сторона того же приёма: источник подпитки учитель, а не дом
 - [[lnv-vypusk-170](pages/lnv-vypusk-170.md)] — соревновательная рамка снимается не с девятилетней гимнастки, а с матери и тренера
+- [[lnv-vypusk-169](pages/lnv-vypusk-169.md)] — подпитка в чистом виде: мама кричит четырёхлетнему «беги быстрее всех», и мальчик отвечает «это я сделал для тебя»

@@ -3,7 +3,7 @@ title: Свобода воли растёт с возрастом
 category: Concepts
 summary: Наказание не работает примерно до одиннадцати лет, потому что причинно-следственная связь ещё не сложилась; следствие — на четырёхлетнего нельзя обижаться и нельзя давать ему инструкцию, требующую этой свободы
 tags: [concept, vozrast, nakazanie, prichinnost, doshkolniki]
-sources: [lnv-vypusk-185]
+sources: [lnv-vypusk-185, lnv-vypusk-168]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -40,3 +40,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-185](pages/lnv-vypusk-185.md)] — звонок Виктории из Петербурга о наказании за брошенную игрушку
+- [[lnv-vypusk-168](pages/lnv-vypusk-168.md)] — рассчитывать, что четырёхлетние сами договорятся об очерёдности, названо неправильным

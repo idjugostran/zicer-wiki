@@ -3,7 +3,7 @@ title: Родительская функция
 category: Concepts
 summary: Формулировка Зицера — защита, помощь, присутствие, поддержка
 tags: [concept, parenting]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kto-ya-svoey-padcheritse, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-246, lnv-vypusk-235, lnv-vypusk-218, lnv-vypusk-210, lnv-vypusk-212, lnv-vypusk-205, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-166]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kto-ya-svoey-padcheritse, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-246, lnv-vypusk-235, lnv-vypusk-218, lnv-vypusk-210, lnv-vypusk-212, lnv-vypusk-205, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-166, lnv-vypusk-168]
 created: 2026-08-04
 updated: 2026-09-04
 ---
@@ -51,6 +51,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — ребёнок должен слышать, что его любят и готовы оказать любую поддержку
 - [[lnv-vypusk-193](pages/lnv-vypusk-193.md)] — защита и поддержка как содержание совета Олесе и, в обратную сторону, Вере
 - [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — поддержка объявлена первичной по отношению к качеству отдельного урока на дистанте
+- [[lnv-vypusk-168](pages/lnv-vypusk-168.md)] — в семнадцать лет от родительской роли остаются помощь и присутствие
 
 ## Related Concepts
 

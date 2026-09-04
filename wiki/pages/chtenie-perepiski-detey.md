@@ -3,7 +3,7 @@ title: Чтение переписки ребёнка
 category: Concepts
 summary: Тайное чтение переписки/сообщений ребёнка не защищает от опасности, а разрушает доверие; путь к тому, чтобы реально быть «в курсе», лежит через взаимную открытость с раннего возраста, а не через слежку
 tags: [concept, roditelstvo, doverie]
-sources: [lnv-vypusk-201, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-249, lnv-vypusk-244, lnv-vypusk-229, lnv-vypusk-194]
+sources: [lnv-vypusk-201, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-249, lnv-vypusk-244, lnv-vypusk-229, lnv-vypusk-194, lnv-vypusk-168]
 created: 2026-08-30
 updated: 2026-09-04
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — прочитанная год назад переписка двенадцатилетней с интернет-другом как значимая часть её нынешнего состояния
 - [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — мачеха четырнадцатилетнего Феди прочитала его переписки с друзьями; Зицер прямо не рекомендует читать соцсети сына
 - [[lnv-vypusk-194](pages/lnv-vypusk-194.md)] — ответ Григорию из Петербурга и фон истории Марины, заглянувшей в телефон сына
+- [[lnv-vypusk-168](pages/lnv-vypusk-168.md)] — матери, тайно прочитавшей переписку десятилетней, Зицер отказывает в самом разговоре о прочитанном
 
 ## Related Concepts
 

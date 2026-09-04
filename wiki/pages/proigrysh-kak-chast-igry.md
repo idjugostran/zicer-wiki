@@ -3,7 +3,7 @@ title: Проигрыш как часть игры
 category: Concepts
 summary: Выигрыш и проигрыш — часть процесса игры, а не её цель; проигрыш даёт отдельный опыт, недоступный победителю, поэтому из детских турниров убирают места и награды за победу
 tags: [concept, igra, sorevnovatelnost, proigrysh, opyt]
-sources: [lnv-vypusk-197]
+sources: [lnv-vypusk-197, lnv-vypusk-169]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -38,3 +38,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-197](pages/lnv-vypusk-197.md)] — звонок Антона, преподавателя го: предложение убрать из детских турниров места и награды
+- [[lnv-vypusk-169](pages/lnv-vypusk-169.md)] — граница: спорт как профессия и «прикольно посоревноваться» из-под критики выведены
