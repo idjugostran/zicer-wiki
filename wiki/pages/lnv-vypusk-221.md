@@ -50,11 +50,11 @@ updated: 2026-08-31
 - [[programma-lyubit-nelzya-vospityvat](pages/programma-lyubit-nelzya-vospityvat.md)]
 - [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)]
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)]
-- [[problema-prinadlezhit-tomu-komu-ona-meshaet](pages/problema-prinadlezhit-tomu-komu-ona-meshaet.md)]
-- [[subyektnost](pages/subyektnost.md)]
-- [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]
+- [[problema-prinadlezhit-tomu-komu-ona-meshaet](pages/problema-prinadlezhit-tomu-komu-ona-meshaet.md)] — семилетнему приписывают избалованность: корректировка нужна не когда ребёнок неудобен, а когда он вмешивается в свободу другого
+- [[subyektnost](pages/subyektnost.md)] — двенадцатилетняя просит не контролировать домашние задания и держит обещание — заставить захотеть уроки невозможно, можно быть рядом
+- [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — одиннадцатилетнего, молчащего со взрослыми, родители защищают от публичного принуждения, а не присоединяются к требованию «поздоровайся»
 - [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)]
-- [[davat-sdachi](pages/davat-sdachi.md)]
+- [[davat-sdachi](pages/davat-sdachi.md)] — ссора и угрозы одноклассников третьекласснику: ребёнок не обязан отвечать насилием, безопасность обеспечивают взрослые
 
 ## Relation to Other Wiki Pages
 

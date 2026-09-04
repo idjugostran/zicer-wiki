@@ -56,7 +56,7 @@ updated: 2026-08-31
 - [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)]
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)]
 - [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)]
-- [[subyektnost](pages/subyektnost.md)]
+- [[subyektnost](pages/subyektnost.md)] — телефон, оставленный умершей матерью, отдают семилетней как её вещь, а не удерживают из-за стоимости и «взрослости» устройства
 - [[manipulyatsiya](pages/manipulyatsiya.md)]
 
 ## Relation to Other Wiki Pages

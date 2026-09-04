@@ -37,7 +37,7 @@ updated: 2026-09-03
 - [[dima-zicer](pages/dima-zicer.md)]
 - [[programma-lyubit-nelzya-vospityvat](pages/programma-lyubit-nelzya-vospityvat.md)]
 - [[bezopasnost-rebenka-v-shkole](pages/bezopasnost-rebenka-v-shkole.md)]
-- [[davat-sdachi](pages/davat-sdachi.md)]
+- [[davat-sdachi](pages/davat-sdachi.md)] — Зицер жёстко спорит с советом «дать сдачи»: ответ насилием против более сильной группы запускает эскалацию и уже воспроизводится в семье
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]
 - [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)]
 

@@ -32,7 +32,7 @@ updated: 2026-08-30
 
 - [[dima-zicer](pages/dima-zicer.md)]
 - [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)]
-- [[roditelskiy-strakh](pages/roditelskiy-strakh.md)]
+- [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — за требованием «не плачь как девчонка» стоит взрослый страх, что сын окажется «не мужиком»; запрет на чувства лишает его доступа к эмпатии
 
 ## Relation to Other Wiki Pages
 

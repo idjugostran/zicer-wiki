@@ -31,12 +31,12 @@ updated: 2026-09-01
 
 - [[dima-zicer](pages/dima-zicer.md)]
 - [[kurs-12-urokov-dlya-prodvinutyh-roditeley](pages/kurs-12-urokov-dlya-prodvinutyh-roditeley.md)]
-- [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)]
-- [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)]
-- [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)]
-- [[roditelskiy-strakh](pages/roditelskiy-strakh.md)]
-- [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)]
-- [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]
+- [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — итоговое повторение курса: вопрос «воспринимается ли это моим ребёнком как проявление любви» назван первым из инструментов
+- [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] — итоговое повторение курса: вопрос «зачем» вместо технического «надо»
+- [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — итоговое повторение курса: глубокий вдох и внимание к телу как «код доступа» к ситуации
+- [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — итоговое повторение курса: страх не оправдание брать другого в заложники, а материал для проработки — «я боюсь, помоги мне»
+- [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — итоговое повторение курса: письменная практика и собственные увлечения родителя как условие воспитания личным примером
+- [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — финальная формула курса: быть единственным, кто всегда на стороне ребёнка, «даже тогда, когда я считаю его неправым»
 
 ## Relation to Other Wiki Pages
 

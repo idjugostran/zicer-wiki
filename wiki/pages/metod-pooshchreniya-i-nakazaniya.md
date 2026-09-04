@@ -3,7 +3,7 @@ title: Метод поощрения и наказания
 category: Concepts
 summary: Заимствованный из дрессуры животных метод — Зицер считает его неприменимым к людям и подменяющим настоящие отношения
 tags: [concept, roditelstvo, pedagogika]
-sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219, lnv-vypusk-211, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, kak-sdelat-chtoby-ona-slushalas-roditeley, devochka-hochet-brosit-zanyatiya-peniem, kak-roditeli-perenosyat-na-detey-modeli, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-241, lnv-vypusk-234, lnv-vypusk-230, lnv-vypusk-227, lnv-vypusk-222, lnv-vypusk-188, lnv-vypusk-192, lnv-vypusk-187, lnv-vypusk-185, lnv-vypusk-166, dima-zicer-o-shkole-apelsin, moy-syn-yabeda-ili-postupaet-pravilno]
+sources: [pochemu-nelzya-dressirovat-blizkih, apelsinovye-budni, kurs-12-urokov-urok-2, nuzhno-li-uchit-detey-davat-sdachi, sravnenie-100-shagov-v-ad, lnv-vypusk-253, otkuda-berutsya-modeli-povedeniya, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-219, lnv-vypusk-211, kniga-lyubit-nelzya-vospityvat, syn-ne-uchityvaet-interesy-semi, kak-podderzhat-rebenka-vo-vremya-voyny, moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, kak-sdelat-chtoby-ona-slushalas-roditeley, devochka-hochet-brosit-zanyatiya-peniem, kak-roditeli-perenosyat-na-detey-modeli, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-241, lnv-vypusk-234, lnv-vypusk-230, lnv-vypusk-227, lnv-vypusk-222, lnv-vypusk-188, lnv-vypusk-192, lnv-vypusk-187, lnv-vypusk-185, lnv-vypusk-166, dima-zicer-o-shkole-apelsin, moy-syn-yabeda-ili-postupaet-pravilno, lnv-vypusk-216, lnv-vypusk-207]
 created: 2026-08-04
 updated: 2026-09-04
 ---
@@ -51,6 +51,8 @@ updated: 2026-09-04
 - [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — ограничение: подарок от феи приносится в любом случае, а не за хорошее поведение
 - [[dima-zicer-o-shkole-apelsin](pages/dima-zicer-o-shkole-apelsin.md)] — «вот тебе конфетка» назван инструментом дрессировки и приобретением условного рефлекса
 - [[moy-syn-yabeda-ili-postupaet-pravilno](pages/moy-syn-yabeda-ili-postupaet-pravilno.md)] — контекст критики внешнего подкрепления поведения
+- [[lnv-vypusk-216](pages/lnv-vypusk-216.md)] — публичная двойка и «приговор» двум четвероклассникам в первые дни сентября названы унижением
+- [[lnv-vypusk-207](pages/lnv-vypusk-207.md)] — оставлять третьеклассника на перемене как наказание — значит дополнительно связать учёбу со стыдом
 
 ## Related Concepts
 

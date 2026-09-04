@@ -46,7 +46,7 @@ updated: 2026-08-31
 - [[znachimost-rebenka-v-seme](pages/znachimost-rebenka-v-seme.md)]
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)]
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)]
-- [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]
+- [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — мать отказывается выполнять требование школы проверять детские телефоны: тревога взрослого не даёт права брать ребёнка в заложники
 - [[mama-narushaet-lichnye-granitsy](pages/mama-narushaet-lichnye-granitsy.md)]
 
 ## Relation to Other Wiki Pages

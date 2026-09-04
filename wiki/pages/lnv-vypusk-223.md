@@ -58,7 +58,7 @@ updated: 2026-08-31
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]
 - [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)]
 - [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)]
-- [[davat-sdachi](pages/davat-sdachi.md)]
+- [[davat-sdachi](pages/davat-sdachi.md)] — шестиклассник, которого запирают в шкафчике: родитель не решает травлю силой и не оставляет ребёнка «разбираться самому»
 
 ## Relation to Other Wiki Pages
 

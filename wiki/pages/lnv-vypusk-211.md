@@ -46,13 +46,13 @@ updated: 2026-08-31
 
 - [[dima-zicer](pages/dima-zicer.md)]
 - [[programma-lyubit-nelzya-vospityvat](pages/programma-lyubit-nelzya-vospityvat.md)]
-- [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)]
+- [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)] — сад меняют, если увиденное подтверждается: заказчик услуги — семья, а не наоборот
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)]
-- [[subyektnost](pages/subyektnost.md)]
+- [[subyektnost](pages/subyektnost.md)] — пятнадцатилетняя и чужие олимпиады: упорство имеет смысл только в собственной задаче ребёнка
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)]
 - [[znachimost-rebenka-v-seme](pages/znachimost-rebenka-v-seme.md)]
-- [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]
-- [[tak-nazyvaemye-slozhnye-temy](pages/tak-nazyvaemye-slozhnye-temy.md)]
+- [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — берлинский сад: взрослый идёт смотреть своими глазами, потому что удобство и репутация учреждения не важнее безопасности ребёнка
+- [[tak-nazyvaemye-slozhnye-temy](pages/tak-nazyvaemye-slozhnye-temy.md)] — после новости о стрельбе четверокласснице дают право бояться и подробно говорить о пережитом вместо «ничего не случится»
 
 ## Relation to Other Wiki Pages
 

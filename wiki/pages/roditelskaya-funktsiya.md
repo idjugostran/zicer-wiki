@@ -3,7 +3,7 @@ title: Родительская функция
 category: Concepts
 summary: Формулировка Зицера — защита, помощь, присутствие, поддержка
 tags: [concept, parenting]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kto-ya-svoey-padcheritse, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-246, lnv-vypusk-235, lnv-vypusk-218, lnv-vypusk-210, lnv-vypusk-212, lnv-vypusk-205, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-166, lnv-vypusk-168, lnv-vypusk-172, dima-zicer-drugie-v-gorode]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-1, nuzhno-li-uchit-detey-davat-sdachi, konflikty-mezhdu-detmi-i-roditelyami, kurs-12-urokov-urok-5, mozhet-li-rebenok-bullit-mamu, kak-vyzhit-ryadom-s-podrostkom, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, kurs-12-urokov-urok-11, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-251, lnv-vypusk-200, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kto-ya-svoey-padcheritse, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-246, lnv-vypusk-235, lnv-vypusk-218, lnv-vypusk-210, lnv-vypusk-212, lnv-vypusk-205, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-166, lnv-vypusk-168, lnv-vypusk-172, dima-zicer-drugie-v-gorode, kurs-12-urokov-urok-12, lnv-vypusk-211, lnv-vypusk-221, lnv-vypusk-207, lnv-vypusk-220, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-208]
 created: 2026-08-04
 updated: 2026-09-04
 ---
@@ -54,6 +54,13 @@ updated: 2026-09-04
 - [[lnv-vypusk-168](pages/lnv-vypusk-168.md)] — в семнадцать лет от родительской роли остаются помощь и присутствие
 - [[lnv-vypusk-172](pages/lnv-vypusk-172.md)] — «пожалею, обниму, посижу с тобой вечером» как прямое исполнение поддержки и присутствия
 - [[dima-zicer-drugie-v-gorode](pages/dima-zicer-drugie-v-gorode.md)] — второй аспект ответа про страх: функция, которую пафосно называют словом любовь
+- [[kurs-12-urokov-urok-12](pages/kurs-12-urokov-urok-12.md)] — финальная формула курса: быть единственным, кто всегда на стороне ребёнка, «даже тогда, когда я считаю его неправым»
+- [[lnv-vypusk-211](pages/lnv-vypusk-211.md)] — берлинский сад: взрослый идёт смотреть своими глазами, потому что удобство и репутация учреждения не важнее безопасности ребёнка
+- [[lnv-vypusk-221](pages/lnv-vypusk-221.md)] — одиннадцатилетнего, молчащего со взрослыми, родители защищают от публичного принуждения, а не присоединяются к требованию «поздоровайся»
+- [[lnv-vypusk-207](pages/lnv-vypusk-207.md)] — первоклассник получает удар и в школе, и дома — у него не остаётся места, где можно отдохнуть от постоянной оценки
+- [[lnv-vypusk-220](pages/lnv-vypusk-220.md)] — мать одиннадцатилетней, стесняющейся её внешнего вида, не меняет себя ради дочерней неловкости, но помогает дочери пережить это чувство
+- [[lnv-v-gostyah-u-zicera-chast-2](pages/lnv-v-gostyah-u-zicera-chast-2.md)] — формула родительства: использовать неизбежную зависимость ребёнка так, чтобы он становился независимее, а не послушнее
+- [[lnv-vypusk-208](pages/lnv-vypusk-208.md)] — мать отказывается выполнять требование школы проверять детские телефоны: тревога взрослого не даёт права брать ребёнка в заложники
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: «Что обслуживает» поведение
 category: Concepts
 summary: Вместо оценки самого поступка — искать эмоциональную «плату», которую он приносит: какое состояние или ощущение человек хочет получить, повторяя это поведение
 tags: [concept, samoregulyatsiya, podrostki]
-sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208, lnv-vypusk-250, lnv-vypusk-207, moy-syn-yabeda-ili-postupaet-pravilno, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-byt-esli-vashego-rebenka-schitayut-huliganom, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-314, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-236, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-175]
+sources: [lnv-vypusk-252, mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-200, lnv-vypusk-208, lnv-vypusk-250, lnv-vypusk-207, moy-syn-yabeda-ili-postupaet-pravilno, syn-beret-chuzhie-veshchi, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, kak-byt-esli-syn-chasto-noet-i-obizhaet-sestru, kak-byt-esli-vashego-rebenka-schitayut-huliganom, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-314, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-236, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-175, kurs-12-urokov-urok-12]
 created: 2026-08-30
 updated: 2026-09-04
 ---
@@ -47,6 +47,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — вместо запрета толкать выясняется, чего ребёнок хотел добиться толчком
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — разбор мотива обидчика: «мальчик хочет и не знает чего»
 - [[lnv-vypusk-175](pages/lnv-vypusk-175.md)] — самостимуляция у двухлетней объясняется случайно открытым удовольствием
+- [[kurs-12-urokov-urok-12](pages/kurs-12-urokov-urok-12.md)] — итоговое повторение курса: вопрос «зачем» вместо технического «надо»
 
 ## Related Concepts
 

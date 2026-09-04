@@ -45,11 +45,11 @@ updated: 2026-08-31
 
 - [[dima-zicer](pages/dima-zicer.md)]
 - [[programma-lyubit-nelzya-vospityvat](pages/programma-lyubit-nelzya-vospityvat.md)]
-- [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)]
-- [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)]
-- [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)]
+- [[roditel-kak-zakazchik-obrazovaniya](pages/roditel-kak-zakazchik-obrazovaniya.md)] — избиения первоклассников: родители идут к директору, затем в комитет по образованию, к уполномоченному, в прокуратуру; перевод — законный способ защиты
+- [[sravnenie-kak-zavisimost](pages/sravnenie-kak-zavisimost.md)] — давление «надо быть лучшим» порождает агрессию и неуверенность; уверенность возвращают тем, что ребёнок делает хорошо сам по себе, а не лучше остальных
+- [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — оставлять третьеклассника на перемене как наказание — значит дополнительно связать учёбу со стыдом
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)]
-- [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]
+- [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — первоклассник получает удар и в школе, и дома — у него не остаётся места, где можно отдохнуть от постоянной оценки
 
 ## Relation to Other Wiki Pages
 

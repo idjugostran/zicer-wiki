@@ -55,7 +55,7 @@ updated: 2026-09-03
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)]
 - [[samopovrezhdenie-kak-signal](pages/samopovrezhdenie-kak-signal.md)]
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]
-- [[subyektnost](pages/subyektnost.md)]
+- [[subyektnost](pages/subyektnost.md)] — шестнадцатилетней прямо разрешают не учиться ради мамы и спрашивают, какая помощь нужна ей самой
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)]
 - [[otkaz-ot-nelzya](pages/otkaz-ot-nelzya.md)]
 

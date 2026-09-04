@@ -48,9 +48,9 @@ updated: 2026-08-31
 - [[programma-lyubit-nelzya-vospityvat](pages/programma-lyubit-nelzya-vospityvat.md)]
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)]
 - [[problema-prinadlezhit-tomu-komu-ona-meshaet](pages/problema-prinadlezhit-tomu-komu-ona-meshaet.md)]
-- [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)]
-- [[subyektnost](pages/subyektnost.md)]
-- [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]
+- [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — няня видит гиперопеку, но без запроса матери вмешательство неэтично: менять модель возможно, лишь когда сама мать захочет помощи
+- [[subyektnost](pages/subyektnost.md)] — девятилетний, который подолгу собирается: если он сам хочет успевать — ищут инструменты вместе, если нет — задача принадлежит матери
+- [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — мать одиннадцатилетней, стесняющейся её внешнего вида, не меняет себя ради дочерней неловкости, но помогает дочери пережить это чувство
 - [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)]
 
 ## Relation to Other Wiki Pages

@@ -45,11 +45,11 @@ updated: 2026-08-31
 - [[dima-zicer](pages/dima-zicer.md)]
 - [[programma-lyubit-nelzya-vospityvat](pages/programma-lyubit-nelzya-vospityvat.md)]
 - [[znachimost-rebenka-v-seme](pages/znachimost-rebenka-v-seme.md)]
-- [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)]
-- [[subyektnost](pages/subyektnost.md)]
-- [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)]
+- [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)] — четырёхлетнего старшего не «привлекают к уходу» за младенцем, а дают ему собственную роль в общей жизни семьи
+- [[subyektnost](pages/subyektnost.md)] — пятилетний отвергает одежду: вместо выбора из готовых вариантов его делают соавтором гардероба
+- [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — публичная двойка и «приговор» двум четвероклассникам в первые дни сентября названы унижением
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)]
-- [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)]
+- [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — семилетняя сама хочет меньше сидеть в телефоне — помощь строится вокруг её собственной просьбы, а не таймера и запрета
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)]
 
 ## Relation to Other Wiki Pages

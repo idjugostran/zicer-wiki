@@ -3,7 +3,7 @@ title: Партнёрские, а не функциональные отноше
 category: Concepts
 summary: Унижение возникает, когда родитель относится к ребёнку как к обязанности («функции»), а не как к человеку — в партнёрских отношениях любое отклонение переносимо, в функциональных — угрожает самоощущению взрослого
 tags: [concept, roditelstvo, unizhenie]
-sources: [pochemu-vzroslye-unizhayut-detey, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, nablyudatel-o-podrostkah, lnv-vypusk-214, lnv-vypusk-219, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame, kak-aktivnoy-mame-zhit-s-synom-introvertom, lnv-vypusk-230, lnv-vypusk-203, lnv-vypusk-165, dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah, lnv-vypusk-192]
+sources: [pochemu-vzroslye-unizhayut-detey, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, nablyudatel-o-podrostkah, lnv-vypusk-214, lnv-vypusk-219, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame, kak-aktivnoy-mame-zhit-s-synom-introvertom, lnv-vypusk-230, lnv-vypusk-203, lnv-vypusk-165, dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah, lnv-vypusk-192, lnv-vypusk-216]
 created: 2026-08-29
 updated: 2026-09-04
 ---
@@ -31,6 +31,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-165](pages/lnv-vypusk-165.md)] — отметки сына перестают быть условием его ценности для семьи
 - [[dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah](pages/dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah.md)] — единственный инструмент родителя четырнадцатилетнего; в четырнадцать не устанавливается, если не начал раньше
 - [[lnv-vypusk-192](pages/lnv-vypusk-192.md)] — упрёк Марине: о дочери она говорит как о собачке, которую кормят и обеспечивают
+- [[lnv-vypusk-216](pages/lnv-vypusk-216.md)] — четырёхлетнего старшего не «привлекают к уходу» за младенцем, а дают ему собственную роль в общей жизни семьи
 
 ## Related Concepts
 

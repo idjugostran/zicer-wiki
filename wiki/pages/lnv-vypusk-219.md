@@ -47,13 +47,13 @@ updated: 2026-08-31
 
 - [[dima-zicer](pages/dima-zicer.md)]
 - [[programma-lyubit-nelzya-vospityvat](pages/programma-lyubit-nelzya-vospityvat.md)]
-- [[manipulyatsiya](pages/manipulyatsiya.md)]
+- [[manipulyatsiya](pages/manipulyatsiya.md)] — «не будешь есть — мама не заберёт» от воспитательницы: не приём, а манипуляция страхом потери близкого
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)]
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)]
 - [[subyektnost](pages/subyektnost.md)]
 - [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)]
 - [[samopovrezhdenie-kak-signal](pages/samopovrezhdenie-kak-signal.md)]
-- [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)]
+- [[ramki-a-ne-distsiplina](pages/ramki-a-ne-distsiplina.md)] — зелёные и красные карточки в амстердамской школе: автоматическая оценка вместо разбора учит страху наказания, а не коммуникации
 - [[prava-novogo-partnera-roditelya](pages/prava-novogo-partnera-roditelya.md)] — более поздний, развёрнутый случай (13-летняя падчерица) на ту же тему прав нового партнёра родителя
 
 ## Relation to Other Wiki Pages

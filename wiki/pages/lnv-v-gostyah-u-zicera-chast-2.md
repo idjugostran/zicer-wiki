@@ -50,11 +50,11 @@ updated: 2026-08-31
 
 - [[dima-zicer](pages/dima-zicer.md)]
 - [[programma-lyubit-nelzya-vospityvat](pages/programma-lyubit-nelzya-vospityvat.md)]
-- [[modeli-povedeniya](pages/modeli-povedeniya.md)]
+- [[modeli-povedeniya](pages/modeli-povedeniya.md)] — эмоциональная вовлечённость запускает усвоенные модели — потому внутри своей ситуации решение не видно, а со стороны очевидно
 - [[subyektnost](pages/subyektnost.md)]
 - [[vzaimnyi-obmen-interesami](pages/vzaimnyi-obmen-interesami.md)]
-- [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)]
-- [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]
+- [[konkretnyi-zapros-kak-uslovie-pomoshchi](pages/konkretnyi-zapros-kak-uslovie-pomoshchi.md)] — метод ведущего: не отвечать на технический вопрос «как вернуть в школу», пока не услышан настоящий запрос говорящего
+- [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — формула родительства: использовать неизбежную зависимость ребёнка так, чтобы он становился независимее, а не послушнее
 
 ## Relation to Other Wiki Pages
 
