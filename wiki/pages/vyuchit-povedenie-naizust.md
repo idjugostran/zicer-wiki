@@ -3,9 +3,9 @@ title: Выучить поведение наизусть
 category: Concepts
 summary: Ребёнок, не владеющий каким-то поведением, усваивает его не через объяснение, а выучив наизусть по раз за разом транслируемой модели; из выученного затем рождается естественное
 tags: [concept, modeli-povedeniya, obuchenie, autizm, privychki]
-sources: [kak-nam-nauchitsya-kontrolirovat-sebya]
+sources: [kak-nam-nauchitsya-kontrolirovat-sebya, lnv-vypusk-178]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Выучить поведение наизусть
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-nam-nauchitsya-kontrolirovat-sebya](pages/kak-nam-nauchitsya-kontrolirovat-sebya.md)] — сформулировано впервые: двое приёмных братьев с аутизмом и СДВГ
+- [[lnv-vypusk-178](pages/lnv-vypusk-178.md)] — тренировка «не мешать» с пятилетней: положительная обратная связь на первые три минуты
 
 ## Related Concepts
 

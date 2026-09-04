@@ -3,9 +3,9 @@ title: Отступление к собственному удовольстви
 category: Concepts
 summary: Когда контроль над ребёнком перестал работать, вместо вмешательства — заранее подготовленный список из 10 личных удовольствий; примирение начинается только после того, как этот цикл сломан
 tags: [concept, samoregulyatsiya, podrostki]
-sources: [kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-214, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, kak-spasti-15-letnego-syna, lnv-vypusk-251, kak-aktivnoy-mame-zhit-s-synom-introvertom, mama-day-mne-vremya]
+sources: [kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-214, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, kak-spasti-15-letnego-syna, lnv-vypusk-251, kak-aktivnoy-mame-zhit-s-synom-introvertom, mama-day-mne-vremya, lnv-vypusk-178]
 created: 2026-08-30
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Отступление к собственному удовольствию
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[lnv-vypusk-251](pages/lnv-vypusk-251.md)] — два лёгких случая того же принципа: заранее назвать три вещи, которые готов делать («я имею право чего-то не делать»); занять себя собственным хобби вместо попытки переубедить взрослеющую дочь
 - [[kak-aktivnoy-mame-zhit-s-synom-introvertom](pages/kak-aktivnoy-mame-zhit-s-synom-introvertom.md)] — структурный вариант того же: не список на момент срыва, а второе и третье хобби как постоянная часть жизни матери
 - [[mama-day-mne-vremya](pages/mama-day-mne-vremya.md)] — балет, рисование и совместное изучение Дании: «изучайте, молодцы… и хвалю»
+- [[lnv-vypusk-178](pages/lnv-vypusk-178.md)] — тот же список из десяти наименований, применённый к синдрому опустевшего гнезда
 
 ## Related Concepts
 
