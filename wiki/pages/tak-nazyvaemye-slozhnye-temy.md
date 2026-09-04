@@ -3,7 +3,7 @@ title: Так называемые «сложные темы»
 category: Concepts
 summary: Секс, смерть, дурные привычки — не сложны сами по себе; сложность создаёт телесный блок родителя, который ребёнок считывает и начинает защитно избегать темы
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-8, lnv-vypusk-164, lnv-vypusk-250, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-245, lnv-vypusk-237, lnv-vypusk-229, lnv-vypusk-213, lnv-vypusk-212, lnv-vypusk-203, lnv-vypusk-191, lnv-vypusk-194, lnv-vypusk-184, lnv-vypusk-168, lnv-vypusk-172, lnv-vypusk-211]
+sources: [kurs-12-urokov-urok-8, lnv-vypusk-164, lnv-vypusk-250, syn-rasskazal-mame-chto-on-biseksual, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-245, lnv-vypusk-237, lnv-vypusk-229, lnv-vypusk-213, lnv-vypusk-212, lnv-vypusk-203, lnv-vypusk-191, lnv-vypusk-194, lnv-vypusk-184, lnv-vypusk-168, lnv-vypusk-172, lnv-vypusk-211]
 created: 2026-08-29
 updated: 2026-09-04
 ---

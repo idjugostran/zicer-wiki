@@ -3,7 +3,7 @@ title: Семейный спектакль как традиция
 category: Concepts
 summary: Повторяющаяся домашняя сцена с расспросами при уже известном ответе превращается в семейную традицию, которая эмоционально заряжает поступок и закрепляет его; выйти из этого круга сам ребёнок не может
 tags: [concept, roditelstvo, doshkolniki, modeli-povedeniya]
-sources: [syn-beret-chuzhie-veshchi, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-sdelat-chtoby-ona-slushalas-roditeley, s-kem-druzhit-nashim-detyam]
+sources: [syn-beret-chuzhie-veshchi, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, s-kem-druzhit-nashim-detyam]
 created: 2026-09-03
 updated: 2026-09-04
 ---

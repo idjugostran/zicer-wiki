@@ -3,7 +3,7 @@ title: Родитель как заказчик образования
 category: Concepts
 summary: Клиент образования — ребёнок и родители, а не государство; без сформулированного конкретного «заказа» к школе система неизбежно деградирует, как ресторан без заказов посетителей
 tags: [concept, roditelstvo, kurs-12-urokov, shkola]
-sources: [kurs-12-urokov-urok-7, lnv-vypusk-221, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, kak-provodit-klassnye-ekskursii-dlya-detey, nam-popalas-plohaya-uchilka, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-233, lnv-vypusk-234, lnv-vypusk-226, lnv-vypusk-222, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-187, lnv-vypusk-185, lnv-vypusk-166, dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii, dima-zicer-karantin-vremya-vozmozhnostey, dima-zicer-uchitel-kotoromu-prikolno, dima-zicer-v-programme-pravila-zhizni-2018, lnv-vypusk-211, lnv-vypusk-207]
+sources: [kurs-12-urokov-urok-7, lnv-vypusk-221, lnv-vypusk-332, kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, kak-provodit-klassnye-ekskursii-dlya-detey, nam-popalas-plohaya-uchilka, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-233, lnv-vypusk-234, lnv-vypusk-226, lnv-vypusk-222, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-187, lnv-vypusk-185, lnv-vypusk-166, dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii, dima-zicer-karantin-vremya-vozmozhnostey, dima-zicer-uchitel-kotoromu-prikolno, dima-zicer-v-programme-pravila-zhizni-2018, lnv-vypusk-211, lnv-vypusk-207]
 created: 2026-08-29
 updated: 2026-09-04
 ---

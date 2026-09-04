@@ -3,7 +3,7 @@ title: Защищать ценности силой
 category: Concepts
 summary: Гуманистические убеждения не отменяются войной и не превращаются в запрет сопротивляться: «не обижай слабых» остаётся в силе именно потому, что за него сражаются
 tags: [concept, voyna, gumanizm, tsennosti, soprotivlenie]
-sources: [mozhno-li-uberech-rebenka-ot-nenavisti, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy, vstuplenie-k-lnv-10-oktyabrya-2023, lnv-vypusk-213]
+sources: [mozhno-li-uberech-rebenka-ot-nenavisti, chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy, vstuplenie-k-lnv-10-oktyabrya-2023, lnv-vypusk-213]
 created: 2026-09-03
 updated: 2026-09-04
 ---

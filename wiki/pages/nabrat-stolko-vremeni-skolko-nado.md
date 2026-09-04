@@ -3,7 +3,7 @@ title: Набрать столько времени, сколько нужно
 category: Concepts
 summary: Ребёнку, который не готов войти в новое, дают присутствовать без участия: он сидит рядом, смотрит на других, никто его не провоцирует и не строит вокруг него опасений — и через какое-то время он входит сам
 tags: [concept, strah, novizna, doshkolniki, shkola, terpenie]
-sources: [chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mamu-arestovali-na-glazah-dvuhletnego-syna, mama-day-mne-vremya, kuda-zhe-my-toropimsya, lnv-vypusk-240, lnv-vypusk-244]
+sources: [chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, mama-day-mne-vremya, kuda-zhe-my-toropimsya, lnv-vypusk-240, lnv-vypusk-244]
 created: 2026-09-03
 updated: 2026-09-03
 ---
