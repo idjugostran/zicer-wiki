@@ -3,7 +3,7 @@ title: Демонстрация собственных границ
 category: Concepts
 summary: Родитель признаёт чувство ребёнка, но всё равно называет и осуществляет своё намерение — способ показать ребёнку, что родитель тоже отдельный, живой человек со своими нуждами
 tags: [concept, granitsy, vozrastnye-krizisy, roditelstvo]
-sources: [chto-delat-esli-3-letniy-syn-komanduet-mamoy, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-dobitsya-mira-so-svoimi-detmi, kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-244, lnv-vypusk-224]
+sources: [chto-delat-esli-3-letniy-syn-komanduet-mamoy, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-dobitsya-mira-so-svoimi-detmi, kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-244, lnv-vypusk-224, lnv-vypusk-205]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-04
 - [[kogda-starshiy-brat-koshmarit-mladshego](pages/kogda-starshiy-brat-koshmarit-mladshego.md)] — «чтобы вы и мама сказали о своих границах» на общем семейном разговоре
 - [[lnv-vypusk-244](pages/lnv-vypusk-244.md)] — форма настоятельной просьбы вместо приказа: «для меня это очень-очень важно»
 - [[lnv-vypusk-224](pages/lnv-vypusk-224.md)] — два звонка подряд с одним ходом: «мне неприятно, я прошу этого не делать» без объяснений
+- [[lnv-vypusk-205](pages/lnv-vypusk-205.md)] — «ты можешь мне сказать всё, но в этом состоянии я разговаривать не буду»
 
 ## Related Concepts
 

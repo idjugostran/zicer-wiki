@@ -3,7 +3,7 @@ title: «Тыл» для ребёнка
 category: Concepts
 summary: Главное правило Зицера для родителей подростков — создать дома «тыл», пространство, где можно побыть слабым и отдохнуть от внешнего давления, а не продолжение воспитательного контроля
 tags: [concept, roditelstvo, podrostki]
-sources: [kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, chto-pomogaet-detyam-vyzhit-na-voyne, mamu-arestovali-na-glazah-dvuhletnego-syna, lnv-vypusk-240, lnv-vypusk-237, lnv-vypusk-232, lnv-vypusk-222, lnv-vypusk-213, lnv-vypusk-204]
+sources: [kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, chto-pomogaet-detyam-vyzhit-na-voyne, mamu-arestovali-na-glazah-dvuhletnego-syna, lnv-vypusk-240, lnv-vypusk-237, lnv-vypusk-232, lnv-vypusk-222, lnv-vypusk-213, lnv-vypusk-204, lnv-vypusk-205]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -30,6 +30,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-222](pages/lnv-vypusk-222.md)] — семнадцатилетний сын сам приходит к матери с интимной темой: она адресат поддержки, а не контролёр
 - [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — «родители — это люди, которые говорят: мы тебе поможем» в споре со слушателем
 - [[lnv-vypusk-204](pages/lnv-vypusk-204.md)] — роль старшей сестры у Варвары описана как тыл, который пригодится младшим через годы
+- [[lnv-vypusk-205](pages/lnv-vypusk-205.md)] — предельный случай: дом, из которого выгоняют, тылом быть перестаёт
 
 ## Related Concepts
 

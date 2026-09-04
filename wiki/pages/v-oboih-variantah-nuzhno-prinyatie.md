@@ -3,9 +3,9 @@ title: В обоих вариантах нужно принятие
 category: Concepts
 summary: Родитель не обязан сначала понять, что с ребёнком происходит: исследование это или устойчивая тенденция — ответ одинаков, а во втором случае поддержка нужна тем более
 tags: [concept, prinyatie, gender, podrostki, neopredelennost]
-sources: [malchik-hochet-odevatsya-kak-devochka]
+sources: [malchik-hochet-odevatsya-kak-devochka, lnv-vypusk-205]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # В обоих вариантах нужно принятие
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[malchik-hochet-odevatsya-kak-devochka](pages/malchik-hochet-odevatsya-kak-devochka.md)] — «я понятия не имею, это исследование или тенденция, и вы понятия не имеете… в обоих вариантах ему надо, чтобы его принимали»
+- [[lnv-vypusk-205](pages/lnv-vypusk-205.md)] — задание отцу принимать сына на сто процентов два-три месяца, не разбираясь предварительно в причинах поведения
 
 ## Related Concepts
 
