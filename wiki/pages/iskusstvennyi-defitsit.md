@@ -3,7 +3,7 @@ title: Искусственный дефицит
 category: Concepts
 summary: Спрятанное и выдаваемое по разрешению превращается в дефицит, созданный самим взрослым; поведение, с которым он борется, порождено этим дефицитом, и снимается оно договорённостью, а не запретом
 tags: [concept, sladkoe, zapret, granitsy, povedenie]
-sources: [lnv-vypusk-188]
+sources: [lnv-vypusk-188, lnv-vypusk-182]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -37,3 +37,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-188](pages/lnv-vypusk-188.md)] — сквозная тема выпуска: спрятанные конфеты в четырёх обращениях подряд
+- [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — сладкое, выдаваемое по разрешению, само порождает поведение, пугающее отца

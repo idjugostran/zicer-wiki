@@ -3,7 +3,7 @@ title: Старшая сестра, а не воспитательница
 category: Concepts
 summary: Старший ребёнок не может и не должен перевоспитывать младших вопреки родителю — это их только запутает; его задача быть таким старшим, чтобы у младших остался канал, по которому можно прийти
 tags: [concept, sibling, semya, nasilie, tyl]
-sources: [lnv-vypusk-204]
+sources: [lnv-vypusk-204, lnv-vypusk-182]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -35,3 +35,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-204](pages/lnv-vypusk-204.md)] — звонок Варвары о младших: контрвоспитание запрещено, роль старшей сестры описана как канал на будущее
+- [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — граница той же техники

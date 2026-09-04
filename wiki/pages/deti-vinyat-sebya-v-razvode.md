@@ -3,7 +3,7 @@ title: Дети винят себя в разводе
 category: Concepts
 summary: Ребёнок, которому не объяснили расставание родителей, объясняет его сам — и чаще всего решает, что виноват он; молчание «он ещё не понимает» и есть источник новых поведенческих проявлений
 tags: [concept, razvod, vina, razgovor, doshkolniki]
-sources: [lnv-vypusk-189]
+sources: [lnv-vypusk-189, lnv-vypusk-182]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -37,3 +37,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-189](pages/lnv-vypusk-189.md)] — звонок Олега о пятилетнем сыне после развода
+- [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — с точки зрения сына что-то произошло, объяснения он не получил

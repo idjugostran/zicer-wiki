@@ -3,7 +3,7 @@ title: Пригласить в роль владеющего
 category: Concepts
 summary: Жалующегося ребёнка не утешают и не решают за него: спрашивают «чем тебе помочь» и просят у него совета — и он переходит из роли жалующегося в роль сопричастного
 tags: [concept, pomoshch, subyektnost, razgovor, rol]
-sources: [lnv-vypusk-190]
+sources: [lnv-vypusk-190, lnv-vypusk-182]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -39,3 +39,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-190](pages/lnv-vypusk-190.md)] — звонок о жалующемся ребёнке: «чем тебе помочь» и просьба о совете
+- [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — «чем тебе помочь» и «давай поруководи нами» в ответе Юле

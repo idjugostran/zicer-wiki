@@ -3,9 +3,9 @@ title: Смотреть спорный контент вместе
 category: Concepts
 summary: Спорный фильм или сериал не запрещают, потому что подросток всё равно найдёт способ посмотреть; единственный инструмент взрослого — посмотреть два-три момента только вместе, обязательно их обсудить и лишь после этого принимать решение
 tags: [concept, kontent, zaprety, sovmestnost, podrostki]
-sources: [lnv-vypusk-229]
+sources: [lnv-vypusk-229, lnv-vypusk-182]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Смотреть спорный контент вместе
@@ -32,3 +32,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — вводит приём: одиннадцатилетний и «Игра в кальмара»
+- [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — мультики смотрят вместе, а не запрещают

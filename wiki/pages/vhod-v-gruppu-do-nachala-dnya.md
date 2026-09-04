@@ -3,7 +3,7 @@ title: Вход в группу до начала дня
 category: Concepts
 summary: В сад приходят до начала дня: опоздавшему тяжело войти в группу, где жизнь без него уже пошла, поэтому все прощальные и слёзные минуты должны укладываться до старта
 tags: [concept, detskiy-sad, utro, sbory, doshkolniki]
-sources: [lnv-vypusk-181]
+sources: [lnv-vypusk-181, lnv-vypusk-182]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -36,3 +36,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-181](pages/lnv-vypusk-181.md)] — звонок Марии из Новосибирска о долгом уходе в группу
+- [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — тот же совет в другом выпуске: «он должен быть обязательно в саду за 10 минут до начала действа»

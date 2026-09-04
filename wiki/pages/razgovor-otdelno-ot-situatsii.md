@@ -3,7 +3,7 @@ title: Разговор отдельно от ситуации
 category: Concepts
 summary: Разговор об изменении поведения ведут не в момент эпизода, а спустя недели, вне ситуации: сказанное по горячим следам читается ребёнком как продолжение реакции взрослого и подкрепляет ровно то, что взрослый хочет убрать
 tags: [concept, razgovor, timing, emotsionalnoe-podkreplenie, doshkolniki]
-sources: [lnv-vypusk-247, lnv-vypusk-233, lnv-vypusk-229, lnv-vypusk-232, lnv-vypusk-202, lnv-vypusk-198, lnv-vypusk-197, lnv-vypusk-189, lnv-vypusk-192]
+sources: [lnv-vypusk-247, lnv-vypusk-233, lnv-vypusk-229, lnv-vypusk-232, lnv-vypusk-202, lnv-vypusk-198, lnv-vypusk-197, lnv-vypusk-189, lnv-vypusk-192, lnv-vypusk-182]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -38,3 +38,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-197](pages/lnv-vypusk-197.md)] — разговор о помощи по дому с двенадцатилетней — в момент дружеского разговора, без вытребованных обещаний
 - [[lnv-vypusk-189](pages/lnv-vypusk-189.md)] — разговор о вспышках назначается на следующий день и проигрывается в лицах прямо в эфире
 - [[lnv-vypusk-192](pages/lnv-vypusk-192.md)] — разговор с дочерью-подростком назначается на спокойный день, не в момент конфликта из-за телефона
+- [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — реплику «не пойду в садик» разбирают отдельно от эпизода

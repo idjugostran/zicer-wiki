@@ -3,9 +3,9 @@ title: Предсказуемость как безопасность
 category: Concepts
 summary: Когда обстоятельства изменить нельзя, взрослый даёт ребёнку не утешение, а точное описание: куда идём, где стоит сумка, что мы там будем делать
 tags: [concept, voyna, bezopasnost, trevoga, rutina]
-sources: [kak-vo-vremya-voyny-uspokaivat-sebya-i-detey]
+sources: [kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, lnv-vypusk-182]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Предсказуемость как безопасность
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-vo-vremya-voyny-uspokaivat-sebya-i-detey](pages/kak-vo-vremya-voyny-uspokaivat-sebya-i-detey.md)] — сформулировано впервые: семья под обстрелами в Хайфе
+- [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — точное описание предстоящего дня как условие спокойного входа в сад
 
 ## Related Concepts
 

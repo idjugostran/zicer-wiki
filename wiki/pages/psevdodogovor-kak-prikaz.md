@@ -3,7 +3,7 @@ title: Псевдодоговор как приказ
 category: Concepts
 summary: Произнесённое слово «договорились?» договора не создаёт: настоящий договор — сопоставление позиций и компромисс, он не может касаться только другого человека, а согласие ребёнка без выхода — это подчинение приказу
 tags: [concept, roditelstvo, dogovor, granitsy, gadzhety]
-sources: [chto-takoe-dogovor-s-rebenkom, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, kak-dobitsya-mira-so-svoimi-detmi, lnv-vypusk-241, lnv-vypusk-237, lnv-vypusk-217, lnv-vypusk-205, lnv-vypusk-199, lnv-vypusk-196, lnv-vypusk-192]
+sources: [chto-takoe-dogovor-s-rebenkom, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, kak-dobitsya-mira-so-svoimi-detmi, lnv-vypusk-241, lnv-vypusk-237, lnv-vypusk-217, lnv-vypusk-205, lnv-vypusk-199, lnv-vypusk-196, lnv-vypusk-192, lnv-vypusk-182]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -30,6 +30,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-199](pages/lnv-vypusk-199.md)] — «договорились?» без выхода — это условие; договором назван торг о 15 и 25 минутах, сошедшийся на 20
 - [[lnv-vypusk-196](pages/lnv-vypusk-196.md)] — почти лабораторный случай: трёхлетняя София физически не может ответить «не договорились», поэтому «договорились» равно «я тебе приказываю»
 - [[lnv-vypusk-192](pages/lnv-vypusk-192.md)] — два отказа назвать договором придуманное одним взрослым
+- [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — «скажешь правду — не накажу» разобрано как не-договор
 
 ## Related Concepts
 
