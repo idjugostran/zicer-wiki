@@ -3,7 +3,7 @@ title: Родительская любовь как действие
 category: Concepts
 summary: Любовь и забота — не эмоция-клише, а список конкретных действий, поддающихся описанию
 tags: [concept, roditelstvo, kurs-12-urokov]
-sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, kniga-lyubit-nelzya-vospityvat, kak-pomoch-docheri-vybrat-professiyu, kak-ne-perehvalit-rebenka, kak-nam-nauchitsya-kontrolirovat-sebya, lnv-vypusk-218, lnv-vypusk-186]
+sources: [kurs-12-urokov-urok-1, kurs-12-urokov-urok-2, kurs-12-urokov-urok-7, kurs-12-urokov-urok-9, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, kniga-lyubit-nelzya-vospityvat, kak-pomoch-docheri-vybrat-professiyu, kak-ne-perehvalit-rebenka, kak-nam-nauchitsya-kontrolirovat-sebya, lnv-vypusk-218, lnv-vypusk-186, dima-zicer-printsip-lyubvi]
 created: 2026-08-04
 updated: 2026-09-04
 ---
@@ -31,6 +31,7 @@ updated: 2026-09-04
 - [[kak-ne-perehvalit-rebenka](pages/kak-ne-perehvalit-rebenka.md)] — «я тебя люблю» в самых неожиданных ситуациях, чтобы не быть наградой за заслугу
 - [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — «любовь это действие», проверяемое вечерним листком с двумя колонками
 - [[lnv-vypusk-186](pages/lnv-vypusk-186.md)] — блок про запятую в названии программы: любить значит делать жизнь любимого человека приятнее, интереснее, ярче и теплее
+- [[dima-zicer-printsip-lyubvi](pages/dima-zicer-printsip-lyubvi.md)] — «принцип любви» назван собственным именем подхода и разворачивается в поведение: помогаем, идём рядом, взаимодействуем
 
 ## Related Concepts
 
