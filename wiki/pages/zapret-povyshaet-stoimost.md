@@ -3,7 +3,7 @@ title: Запрет повышает стоимость
 category: Concepts
 summary: Железное правило: при блокировке дети всегда находят дырочку, а сам запрет резко повышает «стоимость продукта» — раз запрещено, значит дорого, значит нужно хотеть и искать
 tags: [concept, roditelstvo, zaprety, internet, gadzhety]
-sources: [rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, kak-aktivnoy-mame-zhit-s-synom-introvertom, lnv-vypusk-249, lnv-vypusk-237, lnv-vypusk-230, lnv-vypusk-225, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-182]
+sources: [rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, kak-aktivnoy-mame-zhit-s-synom-introvertom, lnv-vypusk-249, lnv-vypusk-237, lnv-vypusk-230, lnv-vypusk-225, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-182, lnv-vypusk-165]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -32,6 +32,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — отбирание гаджетов после найденных порнозапросов отклоняется прямо
 - [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — «разговоры и запреты ничего не дают»: запрет только переводит занятие в скрытую форму
 - [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — запрещённая еда становится вкусной, обязательная — невкусной
+- [[lnv-vypusk-165](pages/lnv-vypusk-165.md)] — «рубильник» отвергнут по сроку: выключенное в тринадцать включат в четырнадцать
 
 ## Related Concepts
 

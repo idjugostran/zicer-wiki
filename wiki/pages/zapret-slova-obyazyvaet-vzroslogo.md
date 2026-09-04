@@ -3,7 +3,7 @@ title: Запрет слова обязывает взрослого
 category: Concepts
 summary: Право сказать ребёнку «я не согласна, чтобы ты меня так называл» появляется только вместе с обязательством самому никогда не произносить в его адрес подобных слов
 tags: [concept, granitsy, rech, modeli-povedeniya, simmetriya]
-sources: [lnv-vypusk-178]
+sources: [lnv-vypusk-178, lnv-vypusk-165]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -36,3 +36,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-178](pages/lnv-vypusk-178.md)] — звонок Ольги из Нижнего Тагила: запрет обзывать и его цена для взрослого
+- [[lnv-vypusk-165](pages/lnv-vypusk-165.md)] — правило о брани в доме связывает мать наравне с дочерью

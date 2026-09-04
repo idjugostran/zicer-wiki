@@ -3,7 +3,7 @@ title: СДВГ как особенность, а не диагноз
 category: Concepts
 summary: СДВГ переформулируется как личностная особенность, а не диагноз-приговор; взятая под контроль через положительную обратную связь, она превращается из проблемы в преимущество — способность воспринимать больше и выбирать реакцию из гораздо большего числа вариантов
 tags: [concept, sdvg, roditelstvo]
-sources: [u-nego-sdvg-ili-my-ego-razbalovali, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kniga-lyubit-nelzya-vospityvat, kak-naladit-otnosheniya-s-docheryu-13-let, kak-zashchitit-7-letnego-syna-ot-travli, kak-nam-nauchitsya-kontrolirovat-sebya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-314, lnv-vypusk-244, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-186, lnv-vypusk-179, lnv-vypusk-183]
+sources: [u-nego-sdvg-ili-my-ego-razbalovali, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kniga-lyubit-nelzya-vospityvat, kak-naladit-otnosheniya-s-docheryu-13-let, kak-zashchitit-7-letnego-syna-ot-travli, kak-nam-nauchitsya-kontrolirovat-sebya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-314, lnv-vypusk-244, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-186, lnv-vypusk-179, lnv-vypusk-183, lnv-vypusk-165]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -35,6 +35,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-186](pages/lnv-vypusk-186.md)] — последний звонок: особенность внука названа отдельной историей, не отменяющей разговора
 - [[lnv-vypusk-179](pages/lnv-vypusk-179.md)] — та же переформулировка на подозрении в дислексии: говорить о трудностях и помощи, а не о диагнозе
 - [[lnv-vypusk-183](pages/lnv-vypusk-183.md)] — практическая развёртка: коврик, большой мяч, разрешение выйти побегать и положительная обратная связь
+- [[lnv-vypusk-165](pages/lnv-vypusk-165.md)] — тот же механизм: сильная сторона как инструмент и положительная обратная связь на малейший успех
 
 ## Related Concepts
 

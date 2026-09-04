@@ -3,9 +3,9 @@ title: Права нового партнёра родителя нужно пр
 category: Concepts
 summary: Роль отчима или мачехи по отношению к ребёнку партнёра не возникает автоматически из совместного проживания — право немного воспитывать, обижаться, стоять на своём нужно отдельно проговорить и согласовать, иначе оно просто не работает
 tags: [concept, roditelstvo, smeshannaya-semya]
-sources: [kak-naladit-otnosheniya-s-docheryu-13-let, kto-ya-svoey-padcheritse, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-229]
+sources: [kak-naladit-otnosheniya-s-docheryu-13-let, kto-ya-svoey-padcheritse, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-229, lnv-vypusk-165]
 created: 2026-09-02
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Права нового партнёра родителя нужно проговорить
@@ -21,6 +21,7 @@ updated: 2026-09-03
 - [[kak-naladit-otnosheniya-s-docheryu-13-let](pages/kak-naladit-otnosheniya-s-docheryu-13-let.md)] — вводит концепт целиком на примере трёхлетнего совместного проживания с неопределённой ролью отчима
 - [[kto-ya-svoey-padcheritse](pages/kto-ya-svoey-padcheritse.md)] — тот же вопрос «а вы ей кто» задан мачехе тринадцатилетней девочки и снова остаётся без ответа
 - [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — Зицер называет редкой удачей то, что пасынок приходит к мачехе с почти интимными темами, и строит совет вокруг этой близости
+- [[lnv-vypusk-165](pages/lnv-vypusk-165.md)] — новый друг матери не становится ни родственником, ни «новым папой» автоматически
 
 ## Related Concepts
 

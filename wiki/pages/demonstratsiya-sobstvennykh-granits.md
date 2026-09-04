@@ -3,7 +3,7 @@ title: Демонстрация собственных границ
 category: Concepts
 summary: Родитель признаёт чувство ребёнка, но всё равно называет и осуществляет своё намерение — способ показать ребёнку, что родитель тоже отдельный, живой человек со своими нуждами
 tags: [concept, granitsy, vozrastnye-krizisy, roditelstvo]
-sources: [chto-delat-esli-3-letniy-syn-komanduet-mamoy, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-dobitsya-mira-so-svoimi-detmi, kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-244, lnv-vypusk-224, lnv-vypusk-205, lnv-vypusk-177]
+sources: [chto-delat-esli-3-letniy-syn-komanduet-mamoy, doch-revnuet-i-ustraivaet-skandaly, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, moya-doch-deretsya-i-plyuetsya, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-dobitsya-mira-so-svoimi-detmi, kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-244, lnv-vypusk-224, lnv-vypusk-205, lnv-vypusk-177, lnv-vypusk-165]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -30,6 +30,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-224](pages/lnv-vypusk-224.md)] — два звонка подряд с одним ходом: «мне неприятно, я прошу этого не делать» без объяснений
 - [[lnv-vypusk-205](pages/lnv-vypusk-205.md)] — «ты можешь мне сказать всё, но в этом состоянии я разговаривать не буду»
 - [[lnv-vypusk-177](pages/lnv-vypusk-177.md)] — бабушка ставит границу внучке: «я тебя очень люблю… но я не согласна»
+- [[lnv-vypusk-165](pages/lnv-vypusk-165.md)] — мать сообщает пятнадцатилетней дочери, как будет устроена её жизнь, ставя точку вместо вопроса о разрешении
 
 ## Related Concepts
 

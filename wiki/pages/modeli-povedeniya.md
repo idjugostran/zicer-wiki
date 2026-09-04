@@ -3,7 +3,7 @@ title: Модели поведения
 category: Concepts
 summary: Модель поведения — рамка, закрепившаяся через повторение похожих ситуаций; безвредна, пока осознаётся, и опасна, когда становится незаметной «второй натурой», ощущаемой как характер
 tags: [concept, roditelstvo, samoregulyatsiya]
-sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-201, lnv-vypusk-200, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, pochemu-ona-mne-vret, chto-meshaet-docheri-izbavitsya-ot-nostalgii, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, syn-beret-chuzhie-veshchi, kak-byt-esli-syn-vlyubilsya-v-druga, moya-doch-deretsya-i-plyuetsya, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, kak-roditeli-perenosyat-na-detey-modeli, pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-245, lnv-vypusk-240, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-204, lnv-vypusk-188, lnv-vypusk-176, lnv-vypusk-178]
+sources: [otkuda-berutsya-modeli-povedeniya, pochemu-rebenok-v-5-let-tak-uzhasno-sebya-vedet, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, nablyudatel-o-podrostkah, lnv-vypusk-252, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-201, lnv-vypusk-200, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, pochemu-ona-mne-vret, chto-meshaet-docheri-izbavitsya-ot-nostalgii, kniga-lyubit-nelzya-vospityvat, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, syn-beret-chuzhie-veshchi, kak-byt-esli-syn-vlyubilsya-v-druga, moya-doch-deretsya-i-plyuetsya, kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, kak-roditeli-perenosyat-na-detey-modeli, pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov, kak-i-za-chto-ne-hvalit-rebenka, lnv-vypusk-245, lnv-vypusk-240, lnv-vypusk-231, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-204, lnv-vypusk-188, lnv-vypusk-176, lnv-vypusk-178, lnv-vypusk-165]
 created: 2026-08-29
 updated: 2026-09-04
 ---
@@ -52,6 +52,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-188](pages/lnv-vypusk-188.md)] — семилетний, которому приказывают, считывает не правило, а модель «прав сильный»
 - [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — подножки семилетнего как усвоенная модель «мне плохо — я сделаю тебе плохо»
 - [[lnv-vypusk-178](pages/lnv-vypusk-178.md)] — ребёнок выражает обиду теми же механизмами, что и взрослые дома
+- [[lnv-vypusk-165](pages/lnv-vypusk-165.md)] — девятилетней модели поведения строят намеренно и заучивают наизусть вместо ожидания эмпатии
 
 ## Related Concepts
 
@@ -66,3 +67,4 @@ updated: 2026-09-04
 - [[stop-slovo](pages/stop-slovo.md)] — внешний сигнал, прерывающий модель до того, как она развернётся
 - [[variativnost-v-igre](pages/variativnost-v-igre.md)] — средство расшатать модель «путь только один»
 - [[zapret-slova-obyazyvaet-vzroslogo](pages/zapret-slova-obyazyvaet-vzroslogo.md)] — следствие: запрет слова обязывает взрослого к тому же ограничению
+- [[zauchit-reaktsii-vmesto-ozhidaniya-chuvstva](pages/zauchit-reaktsii-vmesto-ozhidaniya-chuvstva.md)] — граница: намеренно возводимая модель как рабочий протез там, где чувства нет

@@ -3,7 +3,7 @@ title: Взять в круг решающих
 category: Concepts
 summary: Когда ребёнку плохо из-за обстоятельства, которое взрослый менять не намерен, он не решает за него в одиночку и не перекладывает решение, а честно называет неизменяемое и зовёт придумывать облегчение вместе
 tags: [concept, reshenie, sovmestnost, chestnost, roditelstvo]
-sources: [lnv-vypusk-185]
+sources: [lnv-vypusk-185, lnv-vypusk-165]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -40,3 +40,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-185](pages/lnv-vypusk-185.md)] — звонок Марии из Петербурга о командировках и восьмилетней дочери
+- [[lnv-vypusk-165](pages/lnv-vypusk-165.md)] — тринадцатилетнего зовут решать проблему сонливости самому, а не обслуживают его

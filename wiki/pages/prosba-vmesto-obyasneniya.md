@@ -3,7 +3,7 @@ title: Просьба вместо объяснения
 category: Concepts
 summary: Родитель имеет право не объяснять и не аргументировать, а прямо назвать своё «мне неприятно» и попросить этого не делать — короткая честная просьба вместо длинного объяснения и вместо неправды о равной любви ко всем
 tags: [concept, granitsy, prosba, chestnost, formulirovka]
-sources: [lnv-vypusk-224, lnv-vypusk-202, lnv-vypusk-205, lnv-vypusk-198, lnv-vypusk-180, lnv-vypusk-184]
+sources: [lnv-vypusk-224, lnv-vypusk-202, lnv-vypusk-205, lnv-vypusk-198, lnv-vypusk-180, lnv-vypusk-184, lnv-vypusk-165]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -37,3 +37,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — тот же ход в детской версии: вместо объяснения — просьба не ругать себя
 - [[lnv-vypusk-180](pages/lnv-vypusk-180.md)] — третья часть новогоднего «заклинания» отцу: не обоснование запрета, а прямая просьба
 - [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — «мне это неприятно, пожалуйста, не говори таким тоном» вместо воспитательного разговора
+- [[lnv-vypusk-165](pages/lnv-vypusk-165.md)] — отец подростка вместо изобретения поводов прямо просит и говорит о своём чувстве
