@@ -3,7 +3,7 @@ title: Рассказывать о себе и советоваться
 category: Concepts
 summary: «Золотое правило» Зицера для поддержания отношений — регулярно рассказывать о себе и спрашивать совета, а не только сообщать/требовать; работает и между родителем и ребёнком, и между сиблингами
 tags: [concept, lnv, roditelstvo, siblingi]
-sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, kak-pomoch-nayti-otvet-na-vopros-kto-ya, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, moya-doch-ne-delitsya-chuvstvami, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, malchik-6-let-hochet-pomogat-ukraine, selfharm-trevoga-i-slezy, malchik-hochet-odevatsya-kak-devochka, syn-14-let-vlyubilsya-i-eto-opasno, kak-spasti-detey-ot-nenavisti, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-246, lnv-vypusk-236, lnv-vypusk-229, lnv-vypusk-227, lnv-vypusk-225, lnv-vypusk-210, lnv-vypusk-194, lnv-vypusk-195]
+sources: [kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, kak-pomenyatsya-mame-chtoby-dochke-bylo-legche, chto-delat-esli-mama-ochen-pristaet, kak-pomoch-nayti-otvet-na-vopros-kto-ya, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, moya-doch-ne-delitsya-chuvstvami, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, malchik-6-let-hochet-pomogat-ukraine, selfharm-trevoga-i-slezy, malchik-hochet-odevatsya-kak-devochka, syn-14-let-vlyubilsya-i-eto-opasno, kak-spasti-detey-ot-nenavisti, kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-246, lnv-vypusk-236, lnv-vypusk-229, lnv-vypusk-227, lnv-vypusk-225, lnv-vypusk-210, lnv-vypusk-194, lnv-vypusk-195, lnv-vypusk-177]
 created: 2026-09-01
 updated: 2026-09-04
 ---
@@ -43,6 +43,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-210](pages/lnv-vypusk-210.md)] — «необычное средство» для матери закрывшегося подростка: попросить совета у его близкого друга, не за спиной сына
 - [[lnv-vypusk-194](pages/lnv-vypusk-194.md)] — «начинайте рассказывать о том, как устроена ваша жизнь» как альтернатива слежке
 - [[lnv-vypusk-195](pages/lnv-vypusk-195.md)] — приём применён между сиблингами: мать советуется со старшим о судьбе младшей и покупает выбранное им
+- [[lnv-vypusk-177](pages/lnv-vypusk-177.md)] — приём применён к пятилетнему: мать не воспитывает, а просит совета, как ей поступить
 
 ## Related Concepts
 
