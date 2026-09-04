@@ -5,7 +5,7 @@ summary: 10-летняя Мая спрашивает, как разговари�
 tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, modeli-povedeniya]
 sources: [chto-delat-esli-mama-ochen-pristaet]
 created: 2026-09-02
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Что делать, если "МАМА ОЧЕНЬ ПРИСТАЕТ"?
@@ -44,6 +44,8 @@ updated: 2026-09-03
 - [[programma-lyubit-nelzya-vospityvat](pages/programma-lyubit-nelzya-vospityvat.md)] — программа, в которой прозвучал звонок
 - [[modeli-povedeniya](pages/modeli-povedeniya.md)] — неработающий чек-лист против работающей замены мамину напоминанию (экран блокировки), тот же принцип, что и в продолжении разговора
 - [[govorit-nepriyatnoe-i-byt-uslyshannym](pages/govorit-nepriyatnoe-i-byt-uslyshannym.md)] — новый концепт: главный секрет — называть неприятное вслух и слышать в ответ, что тебя услышали
+- [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — тот же принцип «сказать вслух вместо требования», примененный не к страху, а к детскому раздражению на придирки (см. новый концепт [[govorit-nepriyatnoe-i-byt-uslyshannym](pages/govorit-nepriyatnoe-i-byt-uslyshannym.md)])
+- [[sovetovatsya-i-rasskazyvat-o-sebe](pages/sovetovatsya-i-rasskazyvat-o-sebe.md)] — смежная формула из первой части того же разговора: говорить неприятное вслух и быть услышанным как условие для содержательного обмена, а не только регулярности
 
 ## Relation to Other Wiki Pages
 

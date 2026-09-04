@@ -3,7 +3,7 @@ title: Человечность
 category: Concepts
 summary: Человечность по Зицеру — забота о том, чтобы совет или серьёзные слова не ранили адресата, а были восприняты как шанс, а не как обвинение
 tags: [concept, chelovechnost, ii]
-sources: [ii-v-shkole-zlo-ili-blagoslovenie, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, mozhno-li-uberech-rebenka-ot-nenavisti, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, lnv-vypusk-314, lnv-vypusk-234, lnv-vypusk-195]
+sources: [ii-v-shkole-zlo-ili-blagoslovenie, kak-segodnya-byt-chestnym-s-detmi-i-samim-soboy, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, mozhno-li-uberech-rebenka-ot-nenavisti, dima-zicer-o-patriotizme-otvetstvennosti-i-demonizatsii-rezhima, lnv-vypusk-314, lnv-vypusk-234, lnv-vypusk-195, dima-zicer-v-programme-pro-iskusstvo]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — «сам этот вопрос, заданный самому себе, есть самое главное лекарство от бесчеловечности»
 - [[lnv-vypusk-234](pages/lnv-vypusk-234.md)] — критерий проверки отказа: ранит адресата или нет
 - [[lnv-vypusk-195](pages/lnv-vypusk-195.md)] — развилка на животный и человеческий путь в точке зависти: позавидовать может любой, человечность — не взять
+- [[dima-zicer-v-programme-pro-iskusstvo](pages/dima-zicer-v-programme-pro-iskusstvo.md)] — здесь слово употреблено шире: человечность и в страхе перемены, и в способности менять мнение
 
 ## Related Concepts
 

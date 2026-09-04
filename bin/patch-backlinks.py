@@ -13,6 +13,9 @@ Sources» и «## Related Concepts», а у Source-страниц их нет �
   # в Concept/Entity: пункт в Related Concepts
   python3 bin/patch-backlinks.py <slug> rel "- [[c](pages/c.md)] — как связано"
 
+  # в Source: пункт в Entities & Concepts
+  python3 bin/patch-backlinks.py <slug> ec "- [[c](pages/c.md)] — чем концепт здесь занят"
+
   # в Source: предложение в Relation to Other Wiki Pages (секция выбирается сама,
   # если у страницы нет Appearances/Related — режим можно не указывать)
   python3 bin/patch-backlinks.py <slug> rel "Текст предложения." --src src
@@ -28,7 +31,8 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PAGES = os.path.join(ROOT, 'wiki', 'pages')
-HEADS = {'app': '## Appearances in Sources', 'rel': '## Related Concepts'}
+HEADS = {'app': '## Appearances in Sources', 'rel': '## Related Concepts',
+         'ec': '## Entities & Concepts'}
 RELATION = '## Relation to Other Wiki Pages'
 
 
@@ -57,7 +61,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('slug')
-    ap.add_argument('mode', choices=['app', 'rel'], nargs='?', default='rel')
+    ap.add_argument('mode', choices=['app', 'rel', 'ec'], nargs='?', default='rel')
     ap.add_argument('text')
     ap.add_argument('--src', default=None)
     ap.add_argument('--date', default=datetime.date.today().isoformat())

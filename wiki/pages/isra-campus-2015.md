@@ -39,6 +39,7 @@ updated: 2026-09-04
 - [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)] — выбор факультета и проба разных областей жизни как рабочая иллюстрация выбора и личного интереса.[^9][^11]
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — формула «пробуют самые разные части жизни на вкус» описывает ровно этот механизм.[^9]
 - [[chto-takoe-neformalnoe-obrazovanie](pages/chto-takoe-neformalnoe-obrazovanie.md)] — лагерь как площадка неформального образования, где содержание вторично по отношению к способу взаимодействия.[^11]
+- [[svoboda-kak-vklad-v-obshchuyu-zhizn](pages/svoboda-kak-vklad-v-obshchuyu-zhizn.md)] — то же устройство пять лет спустя: печать президента и законы смены, определяемые правлением
 
 ## Relation to Other Wiki Pages
 

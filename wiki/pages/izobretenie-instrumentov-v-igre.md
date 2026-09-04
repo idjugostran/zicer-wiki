@@ -43,6 +43,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-170](pages/lnv-vypusk-170.md)] — драки брата и сестры объясняются нехваткой инструментов, которые перебирают вместе
 - [[lnv-vypusk-169](pages/lnv-vypusk-169.md)] — инструменты проговаривают и проигрывают в мини-ролевой игре, но не на этом случае, а на другом
 - [[lnv-vypusk-172](pages/lnv-vypusk-172.md)] — инструменты для раздражения проходят по шагам и не в момент конфликта
+- [[chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — соседний игровой метод
 
 ## Related Concepts
 

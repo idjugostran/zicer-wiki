@@ -3,7 +3,7 @@ title: Никто не вправе предсказывать неудачу
 category: Concepts
 summary: Ни врач, ни педагог, ни родитель не вправе говорить человеку, что у него не получится, и решать, какая у него будет мечта: гуманитарная профессия существует, чтобы помочь обрести крылья, а не обрезать их
 tags: [concept, mechta, spetsialist, professionalnaya-etika, podrostki]
-sources: [lnv-vypusk-189]
+sources: [lnv-vypusk-189, lnv-vypusk-176]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -36,3 +36,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-189](pages/lnv-vypusk-189.md)] — первый звонок: врач сказал подростку «у тебя не получится»
+- [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — прогноз собственной неуспешности у десятилетнего разбирается, а не подтверждается

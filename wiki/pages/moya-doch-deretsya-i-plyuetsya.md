@@ -5,7 +5,7 @@ summary: Двухлетняя Маша начала драться и плева
 tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, rannii-vozrast, privychki, manipulyatsiya, podkreplenie]
 sources: [moya-doch-deretsya-i-plyuetsya]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # моя дочь дерется и плюется
@@ -56,6 +56,7 @@ updated: 2026-09-03
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — возрастная граница применимости объяснений («после трёх лет»)
 - [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — почему запрет, крик и угроза заклеить рот дали рост, а не спад
 - [[demonstratsiya-sobstvennykh-granits](pages/demonstratsiya-sobstvennykh-granits.md)] — «мне неприятно», сказанное шёпотом и без эмоции
+- [[isterika](pages/isterika.md)] — «всё добивается слезами»: мать уступает сладкое и мультик, подкармливая силовой ход
 
 ## Relation to Other Wiki Pages
 

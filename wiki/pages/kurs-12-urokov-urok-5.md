@@ -5,7 +5,7 @@ summary: Пятый урок курса — возрастные кризисы 
 tags: [source, transcript, kurs-12-urokov, roditelstvo, dima-zicer, podrostki]
 sources: [kurs-12-urokov-urok-5]
 created: 2026-08-29
-updated: 2026-09-01
+updated: 2026-09-04
 ---
 
 # Курс «Двенадцать уроков для продвинутых родителей» — Урок 5
@@ -46,6 +46,7 @@ updated: 2026-09-01
 - [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — концепт из примера про смену увлечений
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — «дом как тыл» получает здесь развёрнутую формулировку
 - [[manipulyatsiya](pages/manipulyatsiya.md)] — тот же пример (принуждение доедать кашу) независимо использован как иллюстрация усвоения манипулятивных моделей до 7 лет
+- [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — пример принудительного доедания каши: ребёнок теряет собственный телесный ориентир (голод) под давлением родительского авторитета
 
 ## Relation to Other Wiki Pages
 

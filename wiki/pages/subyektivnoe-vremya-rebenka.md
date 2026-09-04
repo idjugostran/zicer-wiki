@@ -3,7 +3,7 @@ title: Субъективное время ребёнка и взрослого
 category: Concepts
 summary: Три года для взрослого — миг, для шестилетнего ребёнка — большая часть сознательной жизни; парадигма «подготовки к жизни» (детский сад готовит к школе, школа — к вузу) игнорирует эту разницу и подменяет текущую жизнь ребёнка ожиданием будущей
 tags: [concept, roditelstvo, kniga]
-sources: [kniga-lyubit-nelzya-vospityvat, chto-takoe-dogovor-s-rebenkom, v-poslednee-vremya-syn-ochen-grustit, kuda-zhe-my-toropimsya, kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-229, lnv-vypusk-224, lnv-vypusk-189, lnv-vypusk-191, lnv-vypusk-181, dima-zicer-chitayu-s-udovolstviem]
+sources: [kniga-lyubit-nelzya-vospityvat, chto-takoe-dogovor-s-rebenkom, v-poslednee-vremya-syn-ochen-grustit, kuda-zhe-my-toropimsya, kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-229, lnv-vypusk-224, lnv-vypusk-189, lnv-vypusk-191, lnv-vypusk-181, dima-zicer-chitayu-s-udovolstviem, dima-zicer-uchitel-kotoromu-prikolno, doch-6-let-nachala-zavidovat-i-vydumyvat]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -27,6 +27,8 @@ updated: 2026-09-04
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — упрёк матери: прыгнула на два года вперёд и не живёт в настоящем пятилетнего сына
 - [[lnv-vypusk-181](pages/lnv-vypusk-181.md)] — двухлетний не понимает, что такое «полчаса» и «меня ждут»; сборы начинают с ребёнка, а не с себя
 - [[dima-zicer-chitayu-s-udovolstviem](pages/dima-zicer-chitayu-s-udovolstviem.md)] — «постепенно познавать мир в своём темпе» против форсирования возраста
+- [[dima-zicer-uchitel-kotoromu-prikolno](pages/dima-zicer-uchitel-kotoromu-prikolno.md)] — семнадцатилетний, который «большую часть жизни ходил в школу», чтобы отсидеть срок
+- [[doch-6-let-nachala-zavidovat-i-vydumyvat](pages/doch-6-let-nachala-zavidovat-i-vydumyvat.md)] — соседний механизм разного устройства времени у ребёнка и взрослого
 
 ## Related Concepts
 

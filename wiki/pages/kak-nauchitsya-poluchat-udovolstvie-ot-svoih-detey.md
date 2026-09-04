@@ -5,7 +5,7 @@ summary: Развёрнутый выпуск «Любить нельзя вос�
 tags: [source, video, lnv, samoregulyatsiya, podrostki]
 sources: [kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-04
 ---
 
 # Как научиться получать удовольствие от своих детей
@@ -41,6 +41,7 @@ updated: 2026-08-30
 - [[samopovrezhdenie-kak-signal](pages/samopovrezhdenie-kak-signal.md)]
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)]
 - [[partnerskie-a-ne-funktsionalnye-otnosheniya](pages/partnerskie-a-ne-funktsionalnye-otnosheniya.md)]
+- [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — та же техника в сценарии примирения: мама первой признаёт собственную трудность, а не требует от сына соответствия
 
 ## Relation to Other Wiki Pages
 

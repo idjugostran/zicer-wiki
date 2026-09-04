@@ -111,6 +111,7 @@ updated: 2026-09-04
 - [[otsenka-shtamp-vmesto-obratnoy-svyazi](pages/otsenka-shtamp-vmesto-obratnoy-svyazi.md)] — поток двоек по математике за оформление и невнимательность как случай, где отметка не сообщает ничего о знании
 - [[zapret-povyshaet-stoimost](pages/zapret-povyshaet-stoimost.md)] — отбирание гаджетов после найденных запросов отклоняется прямо
 - [[otkrytyi-razgovor-o-sekse](pages/otkrytyi-razgovor-o-sekse.md)] — «мы опоздали на несколько лет с этим разговором», и вернуться к нему предлагается через месяц
+- [[lichnost-a-ne-povedenie](pages/lichnost-a-ne-povedenie.md)] — «неудобному» ребёнку некомфортно самому раньше, чем окружающим
 
 ## Relation to Other Wiki Pages
 

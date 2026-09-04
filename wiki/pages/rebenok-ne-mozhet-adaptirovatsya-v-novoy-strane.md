@@ -5,7 +5,7 @@ summary: Год спустя после переезда в Нови-Сад 13-�
 tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, emigratsiya, adaptatsiya, serbiya, podrostki, chastnaya-shkola]
 sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Ребенок НЕ МОЖЕТ АДАПТИРОВАТЬСЯ В НОВОЙ СТРАНЕ. КАК ПОМОЧЬ?
@@ -62,6 +62,7 @@ updated: 2026-09-03
 - [[shkola-apelsin](pages/shkola-apelsin.md)] — опыт Зицера как директора частной школы, из которого он говорит о скидках
 - [[shkola-v-talline](pages/shkola-v-talline.md)] — упомянутая новая частная школа
 - [[razgovor-bez-zaranee-izvestnogo-otveta](pages/razgovor-bez-zaranee-izvestnogo-otveta.md)] — тот же запрет отвечать за ребёнка
+- [[subyektnost](pages/subyektnost.md)] — «мы за ассимиляцию» как решение родителей; примерка переезда «за тебя» на самого отца
 
 ## Relation to Other Wiki Pages
 

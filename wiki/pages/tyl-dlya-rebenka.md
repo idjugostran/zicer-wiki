@@ -3,7 +3,7 @@ title: «Тыл» для ребёнка
 category: Concepts
 summary: Главное правило Зицера для родителей подростков — создать дома «тыл», пространство, где можно побыть слабым и отдохнуть от внешнего давления, а не продолжение воспитательного контроля
 tags: [concept, roditelstvo, podrostki]
-sources: [kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, chto-pomogaet-detyam-vyzhit-na-voyne, mamu-arestovali-na-glazah-dvuhletnego-syna, lnv-vypusk-240, lnv-vypusk-237, lnv-vypusk-232, lnv-vypusk-222, lnv-vypusk-213, lnv-vypusk-204, lnv-vypusk-205, lnv-vypusk-190, lnv-vypusk-194, lnv-vypusk-186, lnv-vypusk-180, dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah, dima-zicer-drugie-v-gorode]
+sources: [kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, chto-pomogaet-detyam-vyzhit-na-voyne, mamu-arestovali-na-glazah-dvuhletnego-syna, lnv-vypusk-240, lnv-vypusk-237, lnv-vypusk-232, lnv-vypusk-222, lnv-vypusk-213, lnv-vypusk-204, lnv-vypusk-205, lnv-vypusk-190, lnv-vypusk-194, lnv-vypusk-186, lnv-vypusk-180, dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah, dima-zicer-drugie-v-gorode, lnv-vypusk-192]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -37,6 +37,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-180](pages/lnv-vypusk-180.md)] — дочь должна получить сообщение, что её защитят в любом случае
 - [[dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah](pages/dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah.md)] — довод против запрета строится через тыл: запрет губит эту историю, тыл исчезает
 - [[dima-zicer-drugie-v-gorode](pages/dima-zicer-drugie-v-gorode.md)] — в сложной ситуации ребёнок не идёт к родителям, потому что ждёт лекции вместо возможности поплакать
+- [[lnv-vypusk-192](pages/lnv-vypusk-192.md)] — «ты можешь обратиться ко мне с любой просьбой за любой поддержкой» как содержание разговора с дочерью-подростком
 
 ## Related Concepts
 

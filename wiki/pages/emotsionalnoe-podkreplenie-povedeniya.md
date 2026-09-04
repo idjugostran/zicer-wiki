@@ -48,6 +48,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-178](pages/lnv-vypusk-178.md)] — «эмоциональная ловушечка» вокруг горшка и соски; родительский напор удлиняет срок
 - [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — ноющий тон закрепился на эмоциональной реакции взрослого
 - [[lnv-vypusk-168](pages/lnv-vypusk-168.md)] — выдача игрушки в момент истерики названа прямым закреплением модели
+- [[kak-ne-perehvalit-rebenka](pages/kak-ne-perehvalit-rebenka.md)] — та же механика с обратным знаком: реакция взрослого как топливо
 
 ## Related Concepts
 

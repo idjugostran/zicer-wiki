@@ -3,9 +3,9 @@ title: Дома можно всё, снаружи бережём
 category: Concepts
 summary: Когда среда становится враждебной к тому, что ребёнок любит, ему говорят прямую правду — период гадкий, люди не понимают, — и отделяют дом, где по-прежнему можно всё, от улицы, где его будут беречь
 tags: [concept, chestnost, bezopasnost, travlya, sreda, dvoemyslie]
-sources: [doch-schitaet-sebya-kvadroberom, s-kem-druzhit-nashim-detyam]
+sources: [doch-schitaet-sebya-kvadroberom, s-kem-druzhit-nashim-detyam, 8-letniy-malchik-stesnyaetsya-starshego-brata]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Дома можно всё, снаружи бережём
@@ -28,6 +28,7 @@ updated: 2026-09-03
 
 - [[doch-schitaet-sebya-kvadroberom](pages/doch-schitaet-sebya-kvadroberom.md)] — сформулировано впервые: семилетнюю девочку в маске котика обозвали чучелом у продлёнки
 - [[s-kem-druzhit-nashim-detyam](pages/s-kem-druzhit-nashim-detyam.md)] — «мы не можем бывать у них в доме, мы с ними не согласны», сказанное словами в четыре-пять лет
+- [[8-letniy-malchik-stesnyaetsya-starshego-brata](pages/8-letniy-malchik-stesnyaetsya-starshego-brata.md)] — противоположный случай: там дом закрывают от среды, здесь открывают
 
 ## Related Concepts
 

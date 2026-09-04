@@ -5,7 +5,7 @@ summary: Повторяющаяся домашняя сцена с расспр�
 tags: [concept, roditelstvo, doshkolniki, modeli-povedeniya]
 sources: [syn-beret-chuzhie-veshchi, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-sdelat-chtoby-ona-slushalas-roditeley, s-kem-druzhit-nashim-detyam]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Семейный спектакль как традиция
@@ -24,6 +24,7 @@ updated: 2026-09-03
 
 - [[syn-beret-chuzhie-veshchi](pages/syn-beret-chuzhie-veshchi.md)] — вводит концепт: описание спектакля, образ центрифуги, требование сначала разрядить ситуацию
 - [[kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu](pages/kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu.md)] — бабушка Зицера и стол как культурный код, который не отменяют, а помогают выдержать
+- [[s-kem-druzhit-nashim-detyam](pages/s-kem-druzhit-nashim-detyam.md)] — из чего складывается семейный уклад
 
 ## Related Concepts
 

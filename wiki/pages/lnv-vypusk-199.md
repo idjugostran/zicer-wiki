@@ -5,7 +5,7 @@ summary: ЛНВ #199 — десять обращений: интимное и е
 tags: [source, transcript, lnv, roditelstvo, trevoga, intimnoe, shkola, podrostki]
 sources: [lnv-vypusk-199]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Любить нельзя воспитывать, выпуск #199 от 10.03.2021
@@ -85,6 +85,7 @@ updated: 2026-09-03
 
 - [[otkaz-otvechat-vne-svoey-kompetentsii](pages/otkaz-otvechat-vne-svoey-kompetentsii.md)] — ответ Кириллу: предел компетенции назван вслух, вопрос передан детскому психотерапевту.
 - [[snizit-aktivnost-posle-ischerpannogo-konflikta](pages/snizit-aktivnost-posle-ischerpannogo-konflikta.md)] — продолжение разговора с Ритой: взрослая часть закрыта, дальше родителю нужно остановиться.
+- [[podoyti-k-obidchiku-vne-konflikta](pages/podoyti-k-obidchiku-vne-konflikta.md)] — вариант для взрослого: на площадке он сам обращается с просьбой к чужому ребёнку, по возможности в игровой форме, вместо претензии его родителю
 
 ## Relation to Other Wiki Pages
 

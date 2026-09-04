@@ -79,6 +79,7 @@ updated: 2026-09-04
 
 - [[nasilie-nelzya-nivelirovat](pages/nasilie-nelzya-nivelirovat.md)] — звонок из Твери: компенсировать насилие невозможно, а «шлёпает» — эвфемизм.
 - [[mozhet-ya-chego-to-ne-ponimayu](pages/mozhet-ya-chego-to-ne-ponimayu.md)] — полемика с Владимиром: первый вопрос о непонятном искусстве взрослый задаёт себе.
+- [[metod-pooshchreniya-i-nakazaniya](pages/metod-pooshchreniya-i-nakazaniya.md)] — звонок Радика: давление голосом и лишением как единственный работающий рычаг
 
 ## Relation to Other Wiki Pages
 

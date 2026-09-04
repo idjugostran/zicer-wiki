@@ -5,7 +5,7 @@ summary: ЛНВ №201 (17.03.2021) — девять звонков; центр�
 tags: [source, transcript, lnv, roditelstvo, doverie]
 sources: [lnv-vypusk-201]
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-09-04
 ---
 
 # Любить нельзя воспитывать, выпуск №201
@@ -56,6 +56,7 @@ updated: 2026-08-31
 - [[modeli-povedeniya](pages/modeli-povedeniya.md)]
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)]
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]
+- [[otkrytyi-razgovor-o-sekse](pages/otkrytyi-razgovor-o-sekse.md)] — та же логика взаимной открытости с раннего возраста, применённая не к сексу, а к чтению переписки: привычка делиться закладывается заранее, а не выбивается угрозами (см. [[chtenie-perepiski-detey](pages/chtenie-perepiski-detey.md)])
 
 ## Relation to Other Wiki Pages
 

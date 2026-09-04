@@ -5,7 +5,7 @@ summary: ЛНВ №241 — шестилетняя девочка, испугав
 tags: [source, transcript, lnv, otsenochnost, motivatsiya, shkola, detskiy-sad]
 sources: [lnv-vypusk-241]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Любить нельзя воспитывать, выпуск #241 от 08.12.2021
@@ -73,6 +73,7 @@ updated: 2026-09-03
 - [[problema-prinadlezhit-tomu-komu-ona-meshaet](pages/problema-prinadlezhit-tomu-komu-ona-meshaet.md)] — разбор ярлыка «неспокойный ребёнок» как неудобства взрослого
 - [[bolshe-odnogo-resheniya](pages/bolshe-odnogo-resheniya.md)] — перечень вариантов для третьеклассника: другой класс, другая школа, индивидуальное расписание, математический класс
 - [[nikogda-ne-pozdno-nauchitsya](pages/nikogda-ne-pozdno-nauchitsya.md)] — довод против форсирования подготовительной группы: смышлёный человек успеет научиться читать и считать
+- [[sotsializatsiya-ne-ravna-shkole](pages/sotsializatsiya-ne-ravna-shkole.md)] — математику ребёнку, которому её мало в школе, предлагается дать вне школы — студия занимательной математики, задачки с родителями
 
 ## Relation to Other Wiki Pages
 

@@ -78,6 +78,8 @@ updated: 2026-09-04
 
 - [[ne-nado-terpet-nado-menyat-zhizn](pages/ne-nado-terpet-nado-menyat-zhizn.md)] — ответ Маргарите: слов ребёнка «мне там плохо» достаточно, дознание излишне.
 - [[pravo-na-postrodovuyu-depressiyu](pages/pravo-na-postrodovuyu-depressiyu.md)] — ответ Инне: состояние старшей объявляется законным, требования снимаются.
+- [[obman-kak-strah-roditelskoy-otsenki](pages/obman-kak-strah-roditelskoy-otsenki.md)] — тот же случай с другой стороны: проверка слов ребёнка сама производит будущую ложь
+- [[travmirovany-obe-storony-travli](pages/travmirovany-obe-storony-travli.md)] — работать нужно со всем классом, включая тех, кто травит
 
 ## Relation to Other Wiki Pages
 

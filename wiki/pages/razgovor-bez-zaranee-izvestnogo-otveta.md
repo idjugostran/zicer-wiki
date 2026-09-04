@@ -3,7 +3,7 @@ title: Разговор без заранее известного ответа
 category: Concepts
 summary: Нельзя входить в разговор, зная ответ ребёнка, даже если вы его действительно знаете, и нельзя отвечать за него: от произнесённого им ответа зависит, какой ход делает родитель дальше
 tags: [concept, roditelstvo, kommunikatsiya]
-sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-ponyat-14-letnyuyu-doch, malchik-hochet-odevatsya-kak-devochka, syn-14-let-vlyubilsya-i-eto-opasno, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-244, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-225, lnv-vypusk-226, lnv-vypusk-222, lnv-vypusk-202, lnv-vypusk-194, lnv-vypusk-174, dima-zicer-mogut-li-chuzhie-sovety-pomoch]
+sources: [chego-boitsya-syn-i-chto-s-etim-delat, kak-ponyat-14-letnyuyu-doch, malchik-hochet-odevatsya-kak-devochka, syn-14-let-vlyubilsya-i-eto-opasno, chto-delat-esli-luchshaya-podruga-ukrala-dengi-u-docheri-9-let, lnv-vypusk-244, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-225, lnv-vypusk-226, lnv-vypusk-222, lnv-vypusk-202, lnv-vypusk-194, lnv-vypusk-174, dima-zicer-mogut-li-chuzhie-sovety-pomoch, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-194](pages/lnv-vypusk-194.md)] — «я не услышал, чего хочет он» и «я понятия не имею, что он скажет» в двух разных звонках
 - [[lnv-vypusk-174](pages/lnv-vypusk-174.md)] — «он хочет победы» названо догадкой отца, который с сыном об этом не говорил
 - [[dima-zicer-mogut-li-chuzhie-sovety-pomoch](pages/dima-zicer-mogut-li-chuzhie-sovety-pomoch.md)] — тот же запрет на заранее известный результат, перенесённый на разговор педагога с аудиторией
+- [[rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane](pages/rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane.md)] — тот же запрет отвечать за ребёнка
 
 ## Related Concepts
 

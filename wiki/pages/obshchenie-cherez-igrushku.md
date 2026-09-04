@@ -31,6 +31,7 @@ updated: 2026-09-04
 - [[kak-razgovorit-cheloveka-4-h-let](pages/kak-razgovorit-cheloveka-4-h-let.md)] — сформулировано впервые: четырёхлетний сын не рассказывает, что его напугало
 - [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — сцену отъезда от светофора, вызвавшую истерику, предлагается разыграть игрушками и посмеяться вместе
 - [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — «волшебный друг» как канал для отведения эмоций; шесть лет назван подходящим возрастом
+- [[chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh](pages/chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh.md)] — соседний приём: взрослый внутри игровой роли
 
 ## Related Concepts
 

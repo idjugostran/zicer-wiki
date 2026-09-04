@@ -3,7 +3,7 @@ title: Пять факторов неформального образовани
 category: Concepts
 summary: Структурированный ответ Зицера на вопрос «можно ли обойтись без школы» — субъектность, выбор, личный интерес, субъектное взаимодействие, учение как исследование
 tags: [concept, obrazovanie, shkola-apelsin]
-sources: [lnv-v-gostyah-u-zicera-chast-1, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-223, lnv-vypusk-250, ii-v-shkole-zlo-ili-blagoslovenie, kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine, kak-organizovat-poezdku-dlya-detey, kak-provodit-klassnye-ekskursii-dlya-detey, kak-uchitelyu-stroit-atmosferu-uroka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, chto-takoe-neformalnoe-obrazovanie, dima-zicer-o-roli-uchitelya, dima-zicer-v-programme-pravila-zhizni-2018, isra-campus-2012, isra-campus-2010, isra-campus-2015, novosti-o-lektsii-zicera-2012, dima-zicer-sovremennyy-pedagog, dima-zicer-o-shkole-apelsin, dima-zicer-o-sovremennoy-pedagogike]
+sources: [lnv-v-gostyah-u-zicera-chast-1, o-shkole-i-ne-tolko-kidfrendli, lnv-vypusk-223, lnv-vypusk-250, ii-v-shkole-zlo-ili-blagoslovenie, kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine, kak-organizovat-poezdku-dlya-detey, kak-provodit-klassnye-ekskursii-dlya-detey, kak-uchitelyu-stroit-atmosferu-uroka, kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, chto-takoe-neformalnoe-obrazovanie, dima-zicer-o-roli-uchitelya, dima-zicer-v-programme-pravila-zhizni-2018, isra-campus-2012, isra-campus-2010, isra-campus-2015, novosti-o-lektsii-zicera-2012, dima-zicer-sovremennyy-pedagog, dima-zicer-o-shkole-apelsin, dima-zicer-o-sovremennoy-pedagogike, dima-zicer-uchitel-kotoromu-prikolno]
 created: 2026-08-30
 updated: 2026-09-04
 ---
@@ -42,6 +42,7 @@ updated: 2026-09-04
 - [[dima-zicer-sovremennyy-pedagog](pages/dima-zicer-sovremennyy-pedagog.md)] — завершающая сводка лекции почти совпадает со списком: взаимодействие, субъектность, выбор, интерес, «здесь и сейчас»
 - [[dima-zicer-o-shkole-apelsin](pages/dima-zicer-o-shkole-apelsin.md)] — факторы названы поимённо, но ещё не сведены в список
 - [[dima-zicer-o-sovremennoy-pedagogike](pages/dima-zicer-o-sovremennoy-pedagogike.md)] — самая ранняя версия структуры: факторов четыре, а не пять — взаимодействие отдельным пунктом ещё не выделено
+- [[dima-zicer-uchitel-kotoromu-prikolno](pages/dima-zicer-uchitel-kotoromu-prikolno.md)] — субъектное взаимодействие названо здесь редкой чертой профессии: «раз-два и обчёлся»
 
 ## Ранняя форма: четыре фактора
 

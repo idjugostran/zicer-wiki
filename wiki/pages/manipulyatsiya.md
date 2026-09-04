@@ -3,7 +3,7 @@ title: Манипуляция
 category: Concepts
 summary: «Мягкая» форма насилия («фокус»), лишающая человека воли без прямого принуждения — дети перенимают её у взрослых
 tags: [concept, nasilie, roditelstvo]
-sources: [o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-5, otkuda-berutsya-modeli-povedeniya, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-164, uchitsya-budu-tolko-v-kieve, kniga-lyubit-nelzya-vospityvat, kak-ubedit-syna-chto-emu-neobhodimo-uehat, kak-naladit-otnosheniya-s-docheryu-13-let, syn-darit-tsennye-veshchi-drugim-detyam, chto-takoe-dogovor-s-rebenkom, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, doch-revnuet-i-ustraivaet-skandaly, moya-doch-deretsya-i-plyuetsya, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy, devochka-hochet-brosit-zanyatiya-peniem, kogda-starshiy-brat-koshmarit-mladshego, vstuplenie-k-programme-16-01-24, vstuplenie-k-efiru-11-04-2023, lnv-vypusk-236, lnv-vypusk-237, lnv-vypusk-231, lnv-vypusk-189, lnv-vypusk-190, lnv-vypusk-194, lnv-vypusk-176, lnv-vypusk-184, lnv-vypusk-170, lnv-vypusk-165, lnv-vypusk-169, dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah, dima-zicer-mogut-li-chuzhie-sovety-pomoch]
+sources: [o-manipulyatsiyah-i-dogovorah, kurs-12-urokov-urok-5, otkuda-berutsya-modeli-povedeniya, dima-zicer-v-programme-nam-nado-pogovorit-rtvi, lnv-vypusk-164, uchitsya-budu-tolko-v-kieve, kniga-lyubit-nelzya-vospityvat, kak-ubedit-syna-chto-emu-neobhodimo-uehat, kak-naladit-otnosheniya-s-docheryu-13-let, syn-darit-tsennye-veshchi-drugim-detyam, chto-takoe-dogovor-s-rebenkom, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, doch-revnuet-i-ustraivaet-skandaly, moya-doch-deretsya-i-plyuetsya, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy, devochka-hochet-brosit-zanyatiya-peniem, kogda-starshiy-brat-koshmarit-mladshego, vstuplenie-k-programme-16-01-24, vstuplenie-k-efiru-11-04-2023, lnv-vypusk-236, lnv-vypusk-237, lnv-vypusk-231, lnv-vypusk-189, lnv-vypusk-190, lnv-vypusk-194, lnv-vypusk-176, lnv-vypusk-184, lnv-vypusk-170, lnv-vypusk-165, lnv-vypusk-169, dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah, dima-zicer-mogut-li-chuzhie-sovety-pomoch, kurs-12-urokov-urok-2]
 created: 2026-08-04
 updated: 2026-09-04
 ---
@@ -53,6 +53,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-169](pages/lnv-vypusk-169.md)] — трёхлетняя не со зла эксплуатирует сильную эмоцию: «не люблю маму» и «не люблю бабушку» работают одинаково
 - [[dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah](pages/dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah.md)] — мать, уходящая от плачущего трёхлетнего и радующаяся, что «воспитывает»
 - [[dima-zicer-mogut-li-chuzhie-sovety-pomoch](pages/dima-zicer-mogut-li-chuzhie-sovety-pomoch.md)] — манипуляцией назван прикладной педагогический совет: «нажал на красную кнопочку, выскочил зелёный флажок»
+- [[kurs-12-urokov-urok-2](pages/kurs-12-urokov-urok-2.md)] — та же критика псевдо-«договора», формализованная в отдельном видео
 
 ## Related Concepts
 

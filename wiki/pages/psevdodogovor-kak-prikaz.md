@@ -3,7 +3,7 @@ title: Псевдодоговор как приказ
 category: Concepts
 summary: Произнесённое слово «договорились?» договора не создаёт: настоящий договор — сопоставление позиций и компромисс, он не может касаться только другого человека, а согласие ребёнка без выхода — это подчинение приказу
 tags: [concept, roditelstvo, dogovor, granitsy, gadzhety]
-sources: [chto-takoe-dogovor-s-rebenkom, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, kak-dobitsya-mira-so-svoimi-detmi, lnv-vypusk-241, lnv-vypusk-237, lnv-vypusk-217, lnv-vypusk-205, lnv-vypusk-199, lnv-vypusk-196, lnv-vypusk-192, lnv-vypusk-182, lnv-vypusk-184, lnv-vypusk-170]
+sources: [chto-takoe-dogovor-s-rebenkom, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, kak-dobitsya-mira-so-svoimi-detmi, lnv-vypusk-241, lnv-vypusk-237, lnv-vypusk-217, lnv-vypusk-205, lnv-vypusk-199, lnv-vypusk-196, lnv-vypusk-192, lnv-vypusk-182, lnv-vypusk-184, lnv-vypusk-170, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -33,6 +33,8 @@ updated: 2026-09-04
 - [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — «скажешь правду — не накажу» разобрано как не-договор
 - [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — «мы договариваемся» с ребёнком года и восьми месяцев
 - [[lnv-vypusk-170](pages/lnv-vypusk-170.md)] — реплика «я тоже буду командовать» как индикатор того, что дома командуют
+- [[kak-dobitsya-mira-so-svoimi-detmi](pages/kak-dobitsya-mira-so-svoimi-detmi.md)] — чем договор отличается от объявленного правила
+- [[kak-nauchit-rebenka-uvazhat-chuzhie-granitsy](pages/kak-nauchit-rebenka-uvazhat-chuzhie-granitsy.md)] — как выглядит настоящее решение, в которое ребёнок включён
 
 ## Related Concepts
 

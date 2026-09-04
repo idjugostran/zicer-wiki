@@ -3,9 +3,9 @@ title: Обобществление личного
 category: Concepts
 summary: Государство отнимает у человека личную боль и делает из неё праздник — так, что человек больше не может сказать «это мой день, день моей семьи, а не государства»; противодействие Зицер видит не в общественном, а в семейном: сохранить день внутри семьи
 tags: [concept, gosudarstvo, pamyat, lichnost, semya, manipulyatsiya]
-sources: [chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy]
+sources: [chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy, vstuplenie-k-programme-16-01-24]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Обобществление личного
@@ -37,3 +37,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy](pages/chto-i-kak-my-prazdnuem-otvet-o-dne-pobedy.md)] — сформулировано впервые: «человек уже не может сказать „я“» о 9 мая
+- [[vstuplenie-k-programme-16-01-24](pages/vstuplenie-k-programme-16-01-24.md)] — соседний случай присвоения личного государством

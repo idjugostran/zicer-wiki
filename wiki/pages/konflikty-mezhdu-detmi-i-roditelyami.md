@@ -5,7 +5,7 @@ summary: Радиоэфир с звонками слушателей всех в
 tags: [source, transcript, konflikt, dima-zicer, hochu-vse-znat]
 sources: [konflikty-mezhdu-detmi-i-roditelyami]
 created: 2026-08-04
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Дима Зицер о конфликтах между детьми и родителями
@@ -42,6 +42,7 @@ updated: 2026-09-03
 - [[programma-hochu-vse-znat](pages/programma-hochu-vse-znat.md)] — программа, в рамках которой вышел выпуск
 - [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)] — центральный концепт видео
 - [[telesnaya-reaktsiya-predshestvuet-postupku](pages/telesnaya-reaktsiya-predshestvuet-postupku.md)] — техника, применённая напрямую в звонке Насти
+- [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — дом как безопасный «тыл», быть на стороне ребёнка даже когда он не прав
 
 ## Relation to Other Wiki Pages
 

@@ -5,7 +5,7 @@ summary: Панель ЮНЕСКО с Туттой Ларсен и Алексе�
 tags: [source, video, panel, bulling]
 sources: [mama-dorogaya-bulling]
 created: 2026-08-30
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # "Мама дорогая" (Школьный буллинг: кто виноват и что делать)
@@ -38,6 +38,7 @@ updated: 2026-09-03
 - [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)]
 - [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)]
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]
+- [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)] — тот же механизм («все должны быть X») как источник буллинга того, кто не соответствует
 
 ## Relation to Other Wiki Pages
 

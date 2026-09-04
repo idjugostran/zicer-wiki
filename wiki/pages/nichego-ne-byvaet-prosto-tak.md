@@ -3,7 +3,7 @@ title: Ничего не бывает просто так
 category: Concepts
 summary: Педагогика — точная наука: поступок ребёнка почти никогда не беспричинен, и когда он выходит за общепринятые рамки или вредит, взрослый обязан найти причину и вмешаться, а не согласиться, что «всё нормально»
 tags: [concept, roditelstvo, otvetstvennost, diagnostika]
-sources: [lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, lnv-vypusk-236, lnv-vypusk-227, lnv-vypusk-204, lnv-vypusk-189, lnv-vypusk-191, lnv-vypusk-181, lnv-vypusk-182, lnv-vypusk-166]
+sources: [lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, lnv-vypusk-236, lnv-vypusk-227, lnv-vypusk-204, lnv-vypusk-189, lnv-vypusk-191, lnv-vypusk-181, lnv-vypusk-182, lnv-vypusk-166, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -31,6 +31,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-181](pages/lnv-vypusk-181.md)] — граница: у отказа есть причина, но здесь она принципиально не узнаваема, и вмешательство отменяется
 - [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — «от хорошей жизни люди так себя не ведут»
 - [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — взятые чужие вещи разобраны как сигнал: не может попросить или не уверена, что её любят
+- [[kak-nauchit-rebenka-uvazhat-chuzhie-granitsy](pages/kak-nauchit-rebenka-uvazhat-chuzhie-granitsy.md)] — обязанность вмешаться, когда ребёнок вредит другим
 
 ## Related Concepts
 

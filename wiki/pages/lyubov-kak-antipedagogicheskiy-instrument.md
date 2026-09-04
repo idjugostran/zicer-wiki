@@ -3,9 +3,9 @@ title: Любовь как антипедагогический инструме
 category: Concepts
 summary: Если дети ведут себя хорошо, чтобы не разочаровать любимого учителя, любовь работает как отрицательный инструмент: поведение держится на присутствии взрослого и рушится в его отсутствие — поэтому эксплуатировать чувство любви Зицер называет антипедагогичным
 tags: [concept, pedagogicheskaya-etika, uchitel, nachalnaya-shkola, refleksiya, professiya]
-sources: [dolzhen-li-uchitel-lyubit-detey]
+sources: [dolzhen-li-uchitel-lyubit-detey, dima-zicer-v-programme-pro-iskusstvo]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Любовь как антипедагогический инструмент
@@ -34,3 +34,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[dolzhen-li-uchitel-lyubit-detey](pages/dolzhen-li-uchitel-lyubit-detey.md)] — сформулировано впервые: третий класс, избитый второклассник и «они слушаются только вас»
+- [[dima-zicer-v-programme-pro-iskusstvo](pages/dima-zicer-v-programme-pro-iskusstvo.md)] — оборотная сторона того же: эксплуатация чувства ученика как рабочего приёма

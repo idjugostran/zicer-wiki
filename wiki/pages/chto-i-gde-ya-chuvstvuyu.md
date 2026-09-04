@@ -31,6 +31,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-196](pages/lnv-vypusk-196.md)] — телесный сигнал назван для детской ревности: скрипят зубы, сжимаются кулачки, слёзы на глазах
 - [[lnv-vypusk-194](pages/lnv-vypusk-194.md)] — «что ты чувствуешь в животике, в горлышке, в ручках» для импульсивной четырёхлетней
 - [[lnv-vypusk-174](pages/lnv-vypusk-174.md)] — «закипает в горле», сжатые кулаки, вода и счёт до пяти в работе с агрессией девятилетней
+- [[kak-nam-nauchitsya-kontrolirovat-sebya](pages/kak-nam-nauchitsya-kontrolirovat-sebya.md)] — тот же приём, применяемый взрослым к себе
 
 ## Related Concepts
 

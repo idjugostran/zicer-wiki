@@ -3,7 +3,7 @@ title: Притча о двух монахах
 category: Concepts
 summary: Любимая притча Зицера — «я всего лишь перенёс девушку на другой берег, а ты несёшь её до сих пор»; умение закрыть тему и идти дальше он считает редким качеством, а не избеганием чувств
 tags: [concept, emotsii, refleksiya, roditelstvo]
-sources: [moya-doch-ne-delitsya-chuvstvami]
+sources: [moya-doch-ne-delitsya-chuvstvami, moy-rebenok-sovsem-nichego-ne-est]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -21,6 +21,7 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[moya-doch-ne-delitsya-chuvstvami](pages/moya-doch-ne-delitsya-chuvstvami.md)] — притча рассказана целиком и применена к тревоге матери о дочери, «не делящейся чувствами»
+- [[moy-rebenok-sovsem-nichego-ne-est](pages/moy-rebenok-sovsem-nichego-ne-est.md)] — смежный случай разбора родительской тревоги об отсутствии проблемы
 
 ## Related Concepts
 

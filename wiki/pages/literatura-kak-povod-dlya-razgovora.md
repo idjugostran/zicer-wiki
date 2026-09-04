@@ -3,7 +3,7 @@ title: Литература как повод для разговора
 category: Concepts
 summary: Готовая чужая история — рабочий вход в тему, которую трудно обсуждать напрямую: читают вместе, обсуждают, задают вопросы и пытаются понять героя, а не вычитывают мораль
 tags: [concept, roditelstvo, kommunikatsiya, chtenie]
-sources: [syn-darit-tsennye-veshchi-drugim-detyam, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-byt-esli-syn-vlyubilsya-v-druga, doch-hochet-vybrosit-staruyu-kuklu, lnv-vypusk-231, lnv-vypusk-212, lnv-vypusk-191, dima-zicer-chitayu-s-udovolstviem]
+sources: [syn-darit-tsennye-veshchi-drugim-detyam, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-byt-esli-syn-vlyubilsya-v-druga, doch-hochet-vybrosit-staruyu-kuklu, lnv-vypusk-231, lnv-vypusk-212, lnv-vypusk-191, dima-zicer-chitayu-s-udovolstviem, dima-zicer-v-programme-pro-iskusstvo]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-212](pages/lnv-vypusk-212.md)] — книга «Откуда я взялся» для девятилетнего работает только как совместное чтение
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — «Откуда я взялся» Питера Мейла: книгу рассматривают и обсуждают вместе
 - [[dima-zicer-chitayu-s-udovolstviem](pages/dima-zicer-chitayu-s-udovolstviem.md)] — граница функций: здесь книга не вход в трудную тему, а самостоятельная ценность
+- [[dima-zicer-v-programme-pro-iskusstvo](pages/dima-zicer-v-programme-pro-iskusstvo.md)] — продолжение спора о «как, а не что»: текст как вход в разговор, а не материал для правильного ответа
 
 ## Related Concepts
 

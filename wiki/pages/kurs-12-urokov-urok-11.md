@@ -5,7 +5,7 @@ summary: «У моего ребёнка дурная компания» — по
 tags: [source, video, kurs-12-urokov, druzhba]
 sources: [kurs-12-urokov-urok-11]
 created: 2026-08-30
-updated: 2026-09-01
+updated: 2026-09-04
 ---
 
 # Курс «Двенадцать уроков для продвинутых родителей» Урок 11
@@ -46,6 +46,7 @@ updated: 2026-09-01
 - [[durnaya-kompaniya-i-svoy-ugol](pages/durnaya-kompaniya-i-svoy-ugol.md)]
 - [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)]
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)]
+- [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — запрет дружбы из страха выталкивает её «в подворотню», вместо того чтобы снизить риск
 
 ## Relation to Other Wiki Pages
 

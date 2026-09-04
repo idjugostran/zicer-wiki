@@ -5,7 +5,7 @@ summary: Специальный домашний выпуск ЛНВ: семь �
 tags: [source, video, lnv, obrazovanie]
 sources: [lnv-v-gostyah-u-zicera-chast-1]
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-09-04
 ---
 
 # Любить нельзя воспитывать в гостях у Димы Зицера. Часть первая
@@ -50,6 +50,7 @@ updated: 2026-08-31
 - [[deti-kak-diskriminiruemaya-gruppa](pages/deti-kak-diskriminiruemaya-gruppa.md)]
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)]
 - [[shkola-apelsin](pages/shkola-apelsin.md)]
+- [[vybor-cherez-proby](pages/vybor-cherez-proby.md)] — институционализация выбора с 4 лет через индивидуальный учебный план и парламент (см. [[pyat-faktorov-neformalnogo-obrazovaniya](pages/pyat-faktorov-neformalnogo-obrazovaniya.md)])
 
 ## Relation to Other Wiki Pages
 

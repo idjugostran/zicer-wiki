@@ -68,6 +68,8 @@ updated: 2026-09-04
 - [[otkaz-ot-edy-kak-emotsionalnyi-blok](pages/otkaz-ot-edy-kak-emotsionalnyi-blok.md)] — отказ есть в саду как эмоциональный, а не пищевой сюжет.
 - [[udovolstvie-kak-kriteriy-kachestva-sada](pages/udovolstvie-kak-kriteriy-kachestva-sada.md)] — единственное надёжное мерило сада и его конфликт с ранним развитием.
 - [[vhod-v-gruppu-do-nachala-dnya](pages/vhod-v-gruppu-do-nachala-dnya.md)] — почему опоздавшему тяжело войти: «жизнь без них уже пошла».
+- [[kuda-on-opazdyvaet](pages/kuda-on-opazdyvaet.md)] — тот же вопрос с другой стороны: в сад приходить вовремя нужно ради ребёнка, а не ради режима
+- [[pomogayte-poka-pomoshch-nuzhna](pages/pomogayte-poka-pomoshch-nuzhna.md)] — начинать сборы с ребёнка и закладывать больше времени
 
 ## Relation to Other Wiki Pages
 

@@ -5,7 +5,7 @@ summary: Тяжёлый звонок про сына, скатывающегос
 tags: [source, video, lnv, podrostki, vozrastnye-krizisy]
 sources: [kak-spasti-15-letnego-syna]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-04
 ---
 
 # Как СПАСТИ 15-летнего сына
@@ -41,6 +41,7 @@ updated: 2026-08-30
 - [[subyektnost](pages/subyektnost.md)]
 - [[ekzistentsialnyi-vopros-perehodnogo-vozrasta](pages/ekzistentsialnyi-vopros-perehodnogo-vozrasta.md)]
 - [[lichnost-vmesto-gendernoy-modeli](pages/lichnost-vmesto-gendernoy-modeli.md)]
+- [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — тяжёлый случай того же принципа: сначала родитель наедине признаёт и оплакивает свою роль, потом идёт к ребёнку
 
 ## Relation to Other Wiki Pages
 

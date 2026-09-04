@@ -5,7 +5,7 @@ summary: Выпуск ЛНВ о выборе безопасной школы, о
 tags: [source, video, lnv]
 sources: [lnv-vypusk-252]
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-09-04
 ---
 
 # Любить нельзя воспитывать, выпуск #252
@@ -50,6 +50,8 @@ updated: 2026-08-31
 - [[roditelskiy-strakh](pages/roditelskiy-strakh.md)]
 - [[otkrytyi-razgovor-o-sekse](pages/otkrytyi-razgovor-o-sekse.md)]
 - [[modeli-povedeniya](pages/modeli-povedeniya.md)]
+- [[otstuplenie-k-sobstvennomu-udovolstviyu](pages/otstuplenie-k-sobstvennomu-udovolstviyu.md)] — то же внимание к конкретному ощущению, стоящему за действием (см. [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)])
+- [[roditelskaya-lyubov-kak-deystvie](pages/roditelskaya-lyubov-kak-deystvie.md)] — тот же приём применён к эмоциональной, а не декларируемой мотивации поведения (см. [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)])
 
 ## Relation to Other Wiki Pages
 

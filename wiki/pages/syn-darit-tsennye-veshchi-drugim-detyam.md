@@ -5,7 +5,7 @@ summary: Мама семилетнего первоклассника в Гер�
 tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, shchedrost, granitsy, germaniya, mladshie-shkolniki]
 sources: [syn-darit-tsennye-veshchi-drugim-detyam]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Сын ДАРИТ ЦЕННЫЕ ВЕЩИ ДРУГИМ ДЕТЯМ
@@ -55,6 +55,7 @@ updated: 2026-09-03
 - [[lichnost-a-ne-povedenie](pages/lichnost-a-ne-povedenie.md)] — отказ от ярлыка «слабохарактерный»
 - [[vozrastnye-krizisy](pages/vozrastnye-krizisy.md)] — кризис семилетия как основание говорить с ребёнком о его решениях
 - [[stop-slovo](pages/stop-slovo.md)] — тот же приём освоения через игру «как в театре»
+- [[subyektnost](pages/subyektnost.md)] — решение ребёнка о своей вещи признаётся его решением, включая право отдать её
 
 ## Relation to Other Wiki Pages
 

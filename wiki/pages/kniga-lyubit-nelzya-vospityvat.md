@@ -5,7 +5,7 @@ summary: Полная аудиокнига (7 часов, 51 глава-эссе
 tags: [source, transcript, dima-zicer, kniga, audiokniga]
 sources: [kniga-lyubit-nelzya-vospityvat]
 created: 2026-09-02
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Аудиокнига "Любить нельзя воспитывать". Читает автор - Дима Зицер
@@ -101,6 +101,8 @@ updated: 2026-09-03
 - [[chetyre-tipa-adaptatsii-k-podavleniyu](pages/chetyre-tipa-adaptatsii-k-podavleniyu.md)] — новый концепт из главы «Первое сентября как похороны»
 - [[subyektivnoe-vremya-rebenka](pages/subyektivnoe-vremya-rebenka.md)] — новый концепт из главы «Практика относительности»
 - [[sdvg-kak-osobennost-a-ne-diagnoz](pages/sdvg-kak-osobennost-a-ne-diagnoz.md)] — глава «Ода синдрому» даёт независимую литературную версию тезиса о СДВГ как особенности, а не диагнозе
+- [[modeli-povedeniya](pages/modeli-povedeniya.md)] — глава «Что посеешь — то и пожнёшь» даёт два канонических литературных примера: мама, требующая аккуратности с обувью, передаёт сыну нетерпимость вместо аккуратности; учитель, кричащий на ученика во время урока о смирении, учит насилию, а не теме урока
+- [[roditelskaya-funktsiya](pages/roditelskaya-funktsiya.md)] — глава «Правила для родителей и подростков» формулирует «тыл» как главное из восьми правил, с личной историей автора (делегатское собрание ТЮЗа как убежище); глава «Детский клуб самоубийц» повторяет ту же формулу уже как условие психологического выживания в тяжёлом конфликте (см. [[tyl-dlya-rebenka](pages/tyl-dlya-rebenka.md)])
 
 ## Relation to Other Wiki Pages
 

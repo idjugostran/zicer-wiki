@@ -3,7 +3,7 @@ title: Воспитывать или растить
 category: Concepts
 summary: Языковое различие «воспитывать ребёнка» (по-русски) vs «растить ребёнка» (в большинстве других языков) — воспитание требует непрерывной оценки и переделки, рост — наблюдения и создания условий
 tags: [concept, roditelstvo, kniga]
-sources: [kniga-lyubit-nelzya-vospityvat, lnv-vypusk-240, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-198, lnv-vypusk-183, dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii, dima-zicer-v-programme-pro-iskusstvo, dima-zicer-printsip-lyubvi]
+sources: [kniga-lyubit-nelzya-vospityvat, lnv-vypusk-240, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-198, lnv-vypusk-183, dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii, dima-zicer-v-programme-pro-iskusstvo, dima-zicer-printsip-lyubvi, pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-04
 - [[dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii](pages/dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii.md)] — «вернуть воспитание в школу» разобрано как возврат к переделке человека по заданной системе ценностей
 - [[dima-zicer-v-programme-pro-iskusstvo](pages/dima-zicer-v-programme-pro-iskusstvo.md)] — ранняя (2016) форма тезиса: замена глагола ставится условием разговора в первую минуту
 - [[dima-zicer-printsip-lyubvi](pages/dima-zicer-printsip-lyubvi.md)] — инерция воспитательной модели объяснена незнанием и ленью, а не идеологией
+- [[pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov](pages/pochemu-vzroslye-ryadom-s-detmi-prevrashchayutsya-v-monstrov.md)] — общая рамка, из которой растёт весь ответ
 
 ## Related Concepts
 

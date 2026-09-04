@@ -3,7 +3,7 @@ title: «Не суди человека в горе его»
 category: Concepts
 summary: Требовать от страдающего сочувствия к другим страдающим — безнравственно, даже когда само требуемое сочувствие правильно; всеобщая эмпатия остаётся высшим уровнем, но на неё нужны силы и другая действительность
 tags: [concept, empatiya, nravstvennost, voyna, gore, sravnenie]
-sources: [vstuplenie-k-programme-16-01-24, lnv-vypusk-178]
+sources: [vstuplenie-k-programme-16-01-24, lnv-vypusk-178, vstuplenie-k-lnv-10-oktyabrya-2023]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -38,3 +38,4 @@ updated: 2026-09-04
 
 - [[vstuplenie-k-programme-16-01-24](pages/vstuplenie-k-programme-16-01-24.md)] — сформулировано впервые: ответ на комментарий о сочувствии по обе стороны войны
 - [[lnv-vypusk-178](pages/lnv-vypusk-178.md)] — «душа у него занята другим»: требовать учёбы от переживающего утрату бессмысленно
+- [[vstuplenie-k-lnv-10-oktyabrya-2023](pages/vstuplenie-k-lnv-10-oktyabrya-2023.md)] — соседний выпуск о требовании сочувствия к «обеим сторонам»

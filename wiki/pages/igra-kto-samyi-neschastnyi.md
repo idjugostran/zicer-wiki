@@ -5,7 +5,7 @@ summary: Регулярная семейная игра вместо рассп�
 tags: [concept, roditelstvo, igra, emotsii, semya]
 sources: [v-poslednee-vremya-syn-ochen-grustit, kak-razgovorit-cheloveka-4-h-let, kak-sdelat-chtoby-ona-slushalas-roditeley]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Игра «кто из нас самый несчастный»
@@ -23,6 +23,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[v-poslednee-vremya-syn-ochen-grustit](pages/v-poslednee-vremya-syn-ochen-grustit.md)] — вводит концепт: правила, примеры взрослых, разведение целей, модификации игры
+- [[kak-razgovorit-cheloveka-4-h-let](pages/kak-razgovorit-cheloveka-4-h-let.md)] — тот же ход на материале восьмилетнего
 
 ## Related Concepts
 

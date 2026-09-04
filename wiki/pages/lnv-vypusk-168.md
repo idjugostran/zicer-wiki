@@ -73,6 +73,7 @@ updated: 2026-09-04
 
 - [[ne-raskachivat-obidu](pages/ne-raskachivat-obidu.md)] — ответ Марии: не подтверждать трактовку «меня обижают», а поменять игру.
 - [[zapret-chitaetsya-kak-nelyubov](pages/zapret-chitaetsya-kak-nelyubov.md)] — ответ Екатерине: «меня никто не любит» как точный отчёт о сумме эпизодов.
+- [[sdat-ekzamen-eto-otdelnyi-navyk](pages/sdat-ekzamen-eto-otdelnyi-navyk.md)] — «не сдаст» названо самым страшным исходом и тут же переопределено как переживаемое и иногда продуктивное
 
 ## Relation to Other Wiki Pages
 

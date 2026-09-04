@@ -44,6 +44,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-192](pages/lnv-vypusk-192.md)] — квота пропусков школы названа договором прямо, с проверкой «тёмных углов» и числом, которое называет сам ребёнок
 - [[lnv-vypusk-170](pages/lnv-vypusk-170.md)] — общее правило как договор с красными чертами у каждого, включая отца
 - [[dima-zicer-karantin-vremya-vozmozhnostey](pages/dima-zicer-karantin-vremya-vozmozhnostey.md)] — свёрнутая ранняя форма: вечером за столом вместе придумать правила месяца
+- [[kak-pravilno-govorit-s-rebenkom-pro-dengi](pages/kak-pravilno-govorit-s-rebenkom-pro-dengi.md)] — совместное решение вместо назначенной суммы
 
 ## Related Concepts
 

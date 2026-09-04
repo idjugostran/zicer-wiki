@@ -3,7 +3,7 @@ title: «Давать сдачи»
 category: Concepts
 summary: Критика совета учить детей отвечать на агрессию физической силой — приравнивается к обучению «языку зоны»
 tags: [concept, konflikt, nasilie]
-sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, moy-syn-yabeda-ili-postupaet-pravilno, kak-razreshit-konflikt-v-shkole, kak-zashchitit-7-letnego-syna-ot-travli, mozhno-li-uberech-rebenka-ot-nenavisti, lnv-vypusk-238, lnv-vypusk-232, lnv-vypusk-226, lnv-vypusk-213, lnv-vypusk-195, lnv-vypusk-176, lnv-vypusk-166, lnv-vypusk-173]
+sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, moy-syn-yabeda-ili-postupaet-pravilno, kak-razreshit-konflikt-v-shkole, kak-zashchitit-7-letnego-syna-ot-travli, mozhno-li-uberech-rebenka-ot-nenavisti, lnv-vypusk-238, lnv-vypusk-232, lnv-vypusk-226, lnv-vypusk-213, lnv-vypusk-195, lnv-vypusk-176, lnv-vypusk-166, lnv-vypusk-173, lnv-vypusk-190]
 created: 2026-08-04
 updated: 2026-09-04
 ---
@@ -37,6 +37,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — требование к трёхлетнему защищать себя отклонено как опасная формула
 - [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — совет «укусить в ответ» разобран как та же логика ответа болью на боль
 - [[lnv-vypusk-173](pages/lnv-vypusk-173.md)] — пятилетний схватил нож в ответ на угрозу отца силой забрать машинку: выученная формула силы применена к самому отцу
+- [[lnv-vypusk-190](pages/lnv-vypusk-190.md)] — ответ Алексею из Калужской области с разбором рефлекса, который вырабатывает удар
 
 ## Related Concepts
 

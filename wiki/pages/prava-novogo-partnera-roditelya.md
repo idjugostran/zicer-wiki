@@ -3,7 +3,7 @@ title: Права нового партнёра родителя нужно пр
 category: Concepts
 summary: Роль отчима или мачехи по отношению к ребёнку партнёра не возникает автоматически из совместного проживания — право немного воспитывать, обижаться, стоять на своём нужно отдельно проговорить и согласовать, иначе оно просто не работает
 tags: [concept, roditelstvo, smeshannaya-semya]
-sources: [kak-naladit-otnosheniya-s-docheryu-13-let, kto-ya-svoey-padcheritse, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-229, lnv-vypusk-165]
+sources: [kak-naladit-otnosheniya-s-docheryu-13-let, kto-ya-svoey-padcheritse, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-229, lnv-vypusk-165, doch-revnuet-i-ustraivaet-skandaly, lnv-vypusk-190, lnv-vypusk-219]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -22,6 +22,9 @@ updated: 2026-09-04
 - [[kto-ya-svoey-padcheritse](pages/kto-ya-svoey-padcheritse.md)] — тот же вопрос «а вы ей кто» задан мачехе тринадцатилетней девочки и снова остаётся без ответа
 - [[lnv-vypusk-229](pages/lnv-vypusk-229.md)] — Зицер называет редкой удачей то, что пасынок приходит к мачехе с почти интимными темами, и строит совет вокруг этой близости
 - [[lnv-vypusk-165](pages/lnv-vypusk-165.md)] — новый друг матери не становится ни родственником, ни «новым папой» автоматически
+- [[doch-revnuet-i-ustraivaet-skandaly](pages/doch-revnuet-i-ustraivaet-skandaly.md)] — смежный разбор появления нового партнёра в семье
+- [[lnv-vypusk-190](pages/lnv-vypusk-190.md)] — случай Мари: близость к дочери мужа не следует из брака
+- [[lnv-vypusk-219](pages/lnv-vypusk-219.md)] — более поздний, развёрнутый случай (13-летняя падчерица) на ту же тему прав нового партнёра родителя
 
 ## Related Concepts
 

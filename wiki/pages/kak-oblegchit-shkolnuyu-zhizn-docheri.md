@@ -5,7 +5,7 @@ summary: Мама четверых детей, три года назад уех
 tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, shkola, bezhentsy, travma, germaniya, domashnie-zadaniya]
 sources: [kak-oblegchit-shkolnuyu-zhizn-docheri]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-04
 ---
 
 # Как ОБЛЕГЧИТЬ ШКОЛЬНУЮ ЖИЗНЬ ДОЧЕРИ
@@ -56,6 +56,7 @@ updated: 2026-09-02
 - [[problema-prinadlezhit-tomu-komu-ona-meshaet](pages/problema-prinadlezhit-tomu-komu-ona-meshaet.md)] — «если некомфортно только тебе, найди способ потерпеть»
 - [[kniga-lyubit-nelzya-vospityvat](pages/kniga-lyubit-nelzya-vospityvat.md)] — Зицер прямо отсылает мать к своей книге о любви в условиях турбулентности
 - [[chto-meshaet-docheri-izbavitsya-ot-nostalgii](pages/chto-meshaet-docheri-izbavitsya-ot-nostalgii.md)] — соседний случай: та же связка вынужденного переезда и детской адаптации
+- [[roditelskiy-strakh](pages/roditelskiy-strakh.md)] — тревога матери об успеваемости отделена от реальности: школа ребёнка принимает, а на вопрос «что будет, если она не будет делать домашних заданий» мать сама отвечает «ничего»
 
 ## Relation to Other Wiki Pages
 
