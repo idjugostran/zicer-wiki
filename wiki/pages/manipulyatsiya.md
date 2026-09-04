@@ -55,6 +55,7 @@ updated: 2026-09-04
 - [[dima-zicer-mogut-li-chuzhie-sovety-pomoch](pages/dima-zicer-mogut-li-chuzhie-sovety-pomoch.md)] — манипуляцией назван прикладной педагогический совет: «нажал на красную кнопочку, выскочил зелёный флажок»
 - [[kurs-12-urokov-urok-2](pages/kurs-12-urokov-urok-2.md)] — та же критика псевдо-«договора», формализованная в отдельном видео
 - [[lnv-vypusk-219](pages/lnv-vypusk-219.md)] — «не будешь есть — мама не заберёт» от воспитательницы: не приём, а манипуляция страхом потери близкого
+- [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] — общая рамка: манипуляция разбирается как модель, усвоенная от взрослых, а не как черта ребёнка
 
 ## Related Concepts
 

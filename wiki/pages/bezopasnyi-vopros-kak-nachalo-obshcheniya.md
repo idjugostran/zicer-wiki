@@ -23,6 +23,7 @@ updated: 2026-09-04
 - [[kto-ya-svoey-padcheritse](pages/kto-ya-svoey-padcheritse.md)] — вопрос «зачем ты сюда приезжаешь» назван «ещё одним порезом»
 - [[chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy](pages/chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy.md)] — расспросы «имеют ощущение пытки»
 - [[papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu](pages/papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu.md)] — контраст: здесь вопросы отменяются вовсе в пользу совместного занятия
+- [[kak-vo-vremya-voyny-uspokaivat-sebya-i-detey](pages/kak-vo-vremya-voyny-uspokaivat-sebya-i-detey.md)] — граница честности «отвечать только на заданные вопросы» смыкается с безопасным вопросом как началом разговора
 
 ## Related Concepts
 

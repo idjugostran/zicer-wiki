@@ -30,6 +30,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-204](pages/lnv-vypusk-204.md)] — «нам с мамой хочется быть в своей спальне» как законное основание границы
 - [[lnv-vypusk-192](pages/lnv-vypusk-192.md)] — вечерняя усталость матери троих как законное основание
 - [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — основание «нет» — «мне жарко, мне плохо, мне неудобно», собственный предел матери
+- [[chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy](pages/chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy.md)] — отказ тащить ребёнка туда, куда он не хочет, при сохранении собственного желания гулять: своё желание законно, но не выдаётся за заботу
 
 ## Related Concepts
 

@@ -25,6 +25,7 @@ updated: 2026-09-04
 - [[kak-byt-esli-syn-vlyubilsya-v-druga](pages/kak-byt-esli-syn-vlyubilsya-v-druga.md)] — вводит концепт: отсутствие разницы между видами любви в шесть лет, «ловим за пуговицу», «тяжёлый камень в центре дома», принимать и отвечать на вопросы
 - [[chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh](pages/chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh.md)] — разбор мультфильма с подведением к морали в четыре года читается как «пап, ты меня загрузил»
 - [[lnv-vypusk-175](pages/lnv-vypusk-175.md)] — граница концепта: когда ребёнок бьёт формулировкой, взрослый помогает подобрать точное слово
+- [[kak-vo-vremya-voyny-uspokaivat-sebya-i-detey](pages/kak-vo-vremya-voyny-uspokaivat-sebya-i-detey.md)] — та же граница со стороны чувств: взрослый точно описывает происходящее, а не назначает ребёнку переживание
 
 ## Related Concepts
 

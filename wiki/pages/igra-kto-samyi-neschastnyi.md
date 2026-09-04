@@ -24,6 +24,7 @@ updated: 2026-09-04
 
 - [[v-poslednee-vremya-syn-ochen-grustit](pages/v-poslednee-vremya-syn-ochen-grustit.md)] — вводит концепт: правила, примеры взрослых, разведение целей, модификации игры
 - [[kak-razgovorit-cheloveka-4-h-let](pages/kak-razgovorit-cheloveka-4-h-let.md)] — тот же ход на материале восьмилетнего
+- [[kak-sdelat-chtoby-ona-slushalas-roditeley](pages/kak-sdelat-chtoby-ona-slushalas-roditeley.md)] — связка «поступок — реакция» переописана как ритуал и потому подлежит замене на другой конкретный ритуал, а не запрету
 
 ## Related Concepts
 

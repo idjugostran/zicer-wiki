@@ -32,6 +32,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-182](pages/lnv-vypusk-182.md)] — вывод: важны не часы и не время суток, а понятные рамки
 - [[lnv-vypusk-173](pages/lnv-vypusk-173.md)] — планшет для восьмилетней: осваивать вместе рисование, письмо, связь с близкими
 - [[lnv-vypusk-190](pages/lnv-vypusk-190.md)] — телефон как одно из занятий среди других, а не предмет изъятия
+- [[kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya](pages/kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya.md)] — тот же приём на другом предмете: спорная вещь не запрещается и не выделяется, а встраивается в общую конструкцию, где у неё появляется размер
 
 ## Related Concepts
 

@@ -53,6 +53,7 @@ updated: 2026-09-04
 - [[moy-syn-yabeda-ili-postupaet-pravilno](pages/moy-syn-yabeda-ili-postupaet-pravilno.md)] — контекст критики внешнего подкрепления поведения
 - [[lnv-vypusk-216](pages/lnv-vypusk-216.md)] — публичная двойка и «приговор» двум четвероклассникам в первые дни сентября названы унижением
 - [[lnv-vypusk-207](pages/lnv-vypusk-207.md)] — оставлять третьеклассника на перемене как наказание — значит дополнительно связать учёбу со стыдом
+- [[otkuda-berutsya-modeli-povedeniya](pages/otkuda-berutsya-modeli-povedeniya.md)] — общая рамка: транзакционные отношения разбираются как усвоенная от взрослых модель поведения
 
 ## Related Concepts
 

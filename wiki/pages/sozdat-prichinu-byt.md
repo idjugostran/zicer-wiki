@@ -24,6 +24,7 @@ updated: 2026-09-04
 - [[mozhno-li-pomoch-rodnym-izdaleka](pages/mozhno-li-pomoch-rodnym-izdaleka.md)] — тётя, с которой можно поболтать, против тёти-расследователя
 - [[kak-byt-esli-devochka-ne-hochet-zdorovatsya](pages/kak-byt-esli-devochka-ne-hochet-zdorovatsya.md)] — прикладные причины жить на новом месте: «красивая кроватка, вкусное мороженое… мамы больше на 2 часа»
 - [[lnv-vypusk-225](pages/lnv-vypusk-225.md)] — у шестилетнего Саши исчез повод ходить в сад вместе с прежней воспитательницей и группой; задача воспитателя — создать повод заново, потому что «удобно родителям» поводом не является
+- [[kak-nam-nauchitsya-kontrolirovat-sebya](pages/kak-nam-nauchitsya-kontrolirovat-sebya.md)] — вопрос, которого корпус до сих пор не ставил: что делать, когда ребёнок не отвечает на привязанность вовсе
 
 ## Related Concepts
 

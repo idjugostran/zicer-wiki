@@ -49,6 +49,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — ноющий тон закрепился на эмоциональной реакции взрослого
 - [[lnv-vypusk-168](pages/lnv-vypusk-168.md)] — выдача игрушки в момент истерики названа прямым закреплением модели
 - [[kak-ne-perehvalit-rebenka](pages/kak-ne-perehvalit-rebenka.md)] — та же механика с обратным знаком: реакция взрослого как топливо
+- [[rebenok-v-shkole-ne-razgovarivaet](pages/rebenok-v-shkole-ne-razgovarivaet.md)] — механика намёка, от которого ребёнок начинает нервничать: реакция взрослого и есть подкрепление
 
 ## Related Concepts
 
