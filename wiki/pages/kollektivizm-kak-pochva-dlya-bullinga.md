@@ -3,7 +3,7 @@ title: Навязанный коллективизм как почва для б
 category: Concepts
 summary: Буллинг — примитивное упрощение личных отношений в групповую агрессию; навязанный взрослыми коллективизм («мы единая команда») порождает вожака и травлю, тогда как личностные отношения в классе защищают от неё; работать нужно с чувствами инициатора, а не с коллективом
 tags: [concept, bulling, samoregulyatsiya, subyektnost]
-sources: [mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-223, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, nam-popalas-plohaya-uchilka, doch-schitaet-sebya-kvadroberom, kak-zashchitit-7-letnego-syna-ot-travli, dolzhen-li-uchitel-lyubit-detey, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-235, lnv-vypusk-224, lnv-vypusk-218, lnv-vypusk-213, lnv-vypusk-212, lnv-vypusk-202, lnv-vypusk-203, lnv-vypusk-198, lnv-vypusk-196, lnv-vypusk-193]
+sources: [mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-223, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, nam-popalas-plohaya-uchilka, doch-schitaet-sebya-kvadroberom, kak-zashchitit-7-letnego-syna-ot-travli, dolzhen-li-uchitel-lyubit-detey, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-235, lnv-vypusk-224, lnv-vypusk-218, lnv-vypusk-213, lnv-vypusk-212, lnv-vypusk-202, lnv-vypusk-203, lnv-vypusk-198, lnv-vypusk-196, lnv-vypusk-193, lnv-vypusk-195]
 created: 2026-08-30
 updated: 2026-09-04
 ---
@@ -41,6 +41,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — травля определяется как «упрощение отношений», ответ — усложнение через рефлексию, а не сплочение коллектива
 - [[lnv-vypusk-196](pages/lnv-vypusk-196.md)] — показан внешний источник: наказание проигравшей команды учителем производит травлю самого слабого игрока
 - [[lnv-vypusk-193](pages/lnv-vypusk-193.md)] — та же механика подхвата травли, но с источником во взрослом, а не в детской группе
+- [[lnv-vypusk-195](pages/lnv-vypusk-195.md)] — развёрнутый разбор травли: причина не имеет значения, работать надо со всем классом на отдельной сессии
 
 ## Related Concepts
 

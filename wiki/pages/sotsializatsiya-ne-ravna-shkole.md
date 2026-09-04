@@ -3,7 +3,7 @@ title: Социализация не равна школе
 category: Concepts
 summary: Социализация не возникает автоматически из факта посещения школы — она строится через любой круг живого общения и может быть сознательно организована отдельно, если в школе не складывается
 tags: [concept, shkola, sotsializatsiya, obrazovanie]
-sources: [kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, lnv-vypusk-249, lnv-vypusk-241, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-230, lnv-vypusk-226, lnv-vypusk-222, lnv-vypusk-217, lnv-vypusk-199, lnv-vypusk-190]
+sources: [kak-vybrat-formu-obucheniya-dlya-syna-v-ukraine, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, lnv-vypusk-249, lnv-vypusk-241, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-230, lnv-vypusk-226, lnv-vypusk-222, lnv-vypusk-217, lnv-vypusk-199, lnv-vypusk-190, lnv-vypusk-195]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-217](pages/lnv-vypusk-217.md)] — запрос на социализацию трёхлетнего решается выбором среды общения — театральная студия, группы «вместе с мамой», — а не самой очевидной секцией
 - [[lnv-vypusk-199](pages/lnv-vypusk-199.md)] — конфликты четырёхлетнего на площадке объясняются дефицитом сверстников; решение — кружок или секция
 - [[lnv-vypusk-190](pages/lnv-vypusk-190.md)] — четырнадцатилетней с некомфортной школой предлагаются студии и кружки, выбранные ею самой
+- [[lnv-vypusk-195](pages/lnv-vypusk-195.md)] — домашнее обучение со студентом-репетитором плюс студии и секции как вариант для первоклассницы
 
 ## Related Concepts
 

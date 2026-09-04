@@ -3,7 +3,7 @@ title: Я на твоей стороне, но не могу тебе этого
 category: Concepts
 summary: Формула запрета, которая не разрывает отношения: граница называется как своя, ребёнок остаётся союзником, и из этой точки обсуждается всё остальное
 tags: [concept, granitsy, otkaz, formulirovki, bezopasnost]
-sources: [kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, mne-nravitsya-kak-papa-reagiruet, lnv-vypusk-247, lnv-vypusk-236, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-210, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-192]
+sources: [kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, mne-nravitsya-kak-papa-reagiruet, lnv-vypusk-247, lnv-vypusk-236, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-210, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-192, lnv-vypusk-195]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-190](pages/lnv-vypusk-190.md)] — мальчик двух лет восьми месяцев: перехватить руку и сказать, что бить себя не позволяешь
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — «нет, я прошу тебя этого не делать» не отменяет безусловного принятия
 - [[lnv-vypusk-192](pages/lnv-vypusk-192.md)] — формула звучит дважды: Наталье про замах четырёхлетнего и Олесе про взятые деньги
+- [[lnv-vypusk-195](pages/lnv-vypusk-195.md)] — формула запрета как третий, завершающий шаг схемы; без двух предыдущих не срабатывает
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Эмоциональное подкрепление поведения
 category: Concepts
 summary: Реакция взрослого — топливо привычки: ребёнок нажимает кнопку, чтобы получить эмоцию, и чем ярче реакция, тем прочнее закрепляется поступок
 tags: [concept, rannii-vozrast, privychki, reaktsiya-vzroslogo]
-sources: [moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, doch-6-let-nachala-zavidovat-i-vydumyvat, mne-nravitsya-kak-papa-reagiruet, kak-byt-esli-devochka-ne-hochet-zdorovatsya, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-244, lnv-vypusk-237, lnv-vypusk-231, lnv-vypusk-226, lnv-vypusk-213, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-194]
+sources: [moya-doch-deretsya-i-plyuetsya, kak-ne-perehvalit-rebenka, rebenok-v-shkole-ne-razgovarivaet, chto-delat-esli-rebenok-boitsya-vsego-novogo, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, kak-byt-esli-vashego-rebenka-schitayut-huliganom, doch-6-let-nachala-zavidovat-i-vydumyvat, mne-nravitsya-kak-papa-reagiruet, kak-byt-esli-devochka-ne-hochet-zdorovatsya, lnv-vypusk-314, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-239, lnv-vypusk-240, lnv-vypusk-244, lnv-vypusk-237, lnv-vypusk-231, lnv-vypusk-226, lnv-vypusk-213, lnv-vypusk-191, lnv-vypusk-193, lnv-vypusk-194, lnv-vypusk-195]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -44,6 +44,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — ногти до крови: разговоры и угрозы вокруг привычки закрепили её
 - [[lnv-vypusk-193](pages/lnv-vypusk-193.md)] — «кнопочка» маминого волнения вокруг чистки зубов
 - [[lnv-vypusk-194](pages/lnv-vypusk-194.md)] — беготня по квартире превращает горшок в игру; разговоры про один ноготок доводят до сгрызенных ногтей
+- [[lnv-vypusk-195](pages/lnv-vypusk-195.md)] — «двойное удовольствие»: старший и подтверждает владение мамой, и получает её эмоцию
 
 ## Related Concepts
 
