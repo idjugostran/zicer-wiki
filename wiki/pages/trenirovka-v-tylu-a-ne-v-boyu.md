@@ -3,7 +3,7 @@ title: Тренировка в тылу, а не в бою
 category: Concepts
 summary: Навык, которого ребёнку не хватает в конкретный момент, тренируют заранее и в игре — в спокойное время, короткими отрезками; и формулируют его как занятие, а не как воздержание
 tags: [concept, navyk, igra, trenirovka, doshkolniki]
-sources: [lnv-vypusk-178]
+sources: [lnv-vypusk-178, dima-zicer-v-programme-pro-iskusstvo]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -39,3 +39,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-178](pages/lnv-vypusk-178.md)] — звонок Юлии из Москвы: тренировка «не мешать» с пятилетней
+- [[dima-zicer-v-programme-pro-iskusstvo](pages/dima-zicer-v-programme-pro-iskusstvo.md)] — ответ на возражение о теплице: инструментов должно быть много, а тренируют их заранее

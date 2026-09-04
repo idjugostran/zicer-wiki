@@ -3,7 +3,7 @@ title: Заняться собой, чтобы перестать пережив
 category: Concepts
 summary: Родителю, тревожащемуся за ребёнка, Зицер даёт совет не про ребёнка: выписать, что любишь делать, вспомнить, когда делал это в последний раз, и записаться туда, куда хотелось
 tags: [concept, trevoga, roditel, resurs, praktika]
-sources: [lnv-vypusk-165]
+sources: [lnv-vypusk-165, dima-zicer-v-programme-pro-iskusstvo]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -38,3 +38,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-165](pages/lnv-vypusk-165.md)] — звонок о родительской тревоге: совет начинается с листа бумаги
+- [[dima-zicer-v-programme-pro-iskusstvo](pages/dima-zicer-v-programme-pro-iskusstvo.md)] — тот же совет, обращённый Зицером к самому себе как к отцу

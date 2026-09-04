@@ -3,7 +3,7 @@ title: Воспитывать или растить
 category: Concepts
 summary: Языковое различие «воспитывать ребёнка» (по-русски) vs «растить ребёнка» (в большинстве других языков) — воспитание требует непрерывной оценки и переделки, рост — наблюдения и создания условий
 tags: [concept, roditelstvo, kniga]
-sources: [kniga-lyubit-nelzya-vospityvat, lnv-vypusk-240, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-198, lnv-vypusk-183, dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii]
+sources: [kniga-lyubit-nelzya-vospityvat, lnv-vypusk-240, lnv-vypusk-234, lnv-vypusk-231, lnv-vypusk-198, lnv-vypusk-183, dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii, dima-zicer-v-programme-pro-iskusstvo]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -23,6 +23,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — тумблер с «он должен делать так, как я считаю нужным» на изучение ребёнка
 - [[lnv-vypusk-183](pages/lnv-vypusk-183.md)] — «зачем и днём-то воспитывать», если человек высыпается
 - [[dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii](pages/dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii.md)] — «вернуть воспитание в школу» разобрано как возврат к переделке человека по заданной системе ценностей
+- [[dima-zicer-v-programme-pro-iskusstvo](pages/dima-zicer-v-programme-pro-iskusstvo.md)] — ранняя (2016) форма тезиса: замена глагола ставится условием разговора в первую минуту
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Читать можно любые книги
 category: Concepts
 summary: Возрастной фильтр на книги снимается почти целиком: слишком раннюю книгу человек откладывает сам, а мотивацию даёт свободная покупка в большом книжном по любому принципу
 tags: [concept, knigi, chtenie, vybor, svoboda]
-sources: [lnv-vypusk-184, dima-zicer-chitayu-s-udovolstviem]
+sources: [lnv-vypusk-184, dima-zicer-chitayu-s-udovolstviem, dima-zicer-v-programme-pro-iskusstvo]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -40,3 +40,4 @@ updated: 2026-09-04
 
 - [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — финальный блок ответов на сообщения о чтении
 - [[dima-zicer-chitayu-s-udovolstviem](pages/dima-zicer-chitayu-s-udovolstviem.md)] — раннее (2016) свидетельство той же нормы с обратной стороны: лишь в трети случаев покупают то, что ребёнок хочет
+- [[dima-zicer-v-programme-pro-iskusstvo](pages/dima-zicer-v-programme-pro-iskusstvo.md)] — школьный эксперимент со свободной библиотекой

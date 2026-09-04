@@ -3,7 +3,7 @@ title: Дистанция педагога
 category: Concepts
 summary: Обожание в глазах учеников — не любовь, а часть профессии; обнять коллегу окей, обнять ученика не окей, даже если ты ничего не имел в виду, и ответственность за эту границу целиком лежит на взрослом
 tags: [concept, pedagogicheskaya-etika, shkola, bezopasnost, professiya]
-sources: [kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, dolzhen-li-uchitel-lyubit-detey, obysk-desyatiklassnikov-v-orske, lnv-vypusk-240, dima-zicer-o-roli-uchitelya, dima-zicer-uchitel-kotoromu-prikolno]
+sources: [kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, dolzhen-li-uchitel-lyubit-detey, obysk-desyatiklassnikov-v-orske, lnv-vypusk-240, dima-zicer-o-roli-uchitelya, dima-zicer-uchitel-kotoromu-prikolno, dima-zicer-v-programme-pro-iskusstvo]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-240](pages/lnv-vypusk-240.md)] — бесстрастность названа профессиональным достоинством, а учительское «я люблю детей» — тем, к чему Зицер относится осторожно
 - [[dima-zicer-o-roli-uchitelya](pages/dima-zicer-o-roli-uchitelya.md)] — эмпатия как рабочее обязательство и «соблазн огромный воспользоваться вот этим самым статусом»
 - [[dima-zicer-uchitel-kotoromu-prikolno](pages/dima-zicer-uchitel-kotoromu-prikolno.md)] — редкое прямое признание мотива профессии: желание быть в центре, желание внимания
+- [[dima-zicer-v-programme-pro-iskusstvo](pages/dima-zicer-v-programme-pro-iskusstvo.md)] — граница выведена из обнажённости ученика; назван приём «закрыть урок… чтобы то, что происходит на уроке, осталось там»
 
 ## Related Concepts
 
