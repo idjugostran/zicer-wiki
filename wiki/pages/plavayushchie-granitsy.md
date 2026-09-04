@@ -3,7 +3,7 @@ title: Плавающие границы
 category: Concepts
 summary: Продавливание просьбами и физическое насилие — симптомы одного и того же: границ, которые ребёнок раз за разом успешно продавливает; лечится не уговорами, а решением, которое не меняется от усталости взрослого
 tags: [concept, granitsy, roditelstvo, nasilie, mladshie-shkolniki]
-sources: [kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-192, lnv-vypusk-176, lnv-vypusk-184]
+sources: [kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-192, lnv-vypusk-176, lnv-vypusk-184, lnv-vypusk-175]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -31,6 +31,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-192](pages/lnv-vypusk-192.md)] — почему ребёнок бьёт второй и третий раз: рамки, которая не меняется, ещё нет
 - [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — требование полуторагодовалой, чтобы мама была только в тапочках, и укусы разобраны как одна и та же продавливаемая граница
 - [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — езда с ребёнком на руках, потому что взрослому не выдержать нытья
+- [[lnv-vypusk-175](pages/lnv-vypusk-175.md)] — звонок Льва: «я тебе не позволяю» не работает, и волшебных слов для двух с половиной лет нет
 
 ## Related Concepts
 

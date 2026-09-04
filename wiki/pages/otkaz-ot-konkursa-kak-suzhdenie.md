@@ -3,7 +3,7 @@ title: Отказ от конкурса как суждение
 category: Concepts
 summary: Детское «я туда больше не пойду» читается не как опущенные руки, а как суждение о самом конкурсе; взрослый поддерживает отказ, а не утешает проигравшего
 tags: [concept, konkurs, otsenka, sorevnovatelnost, tvorchestvo]
-sources: [lnv-vypusk-198]
+sources: [lnv-vypusk-198, lnv-vypusk-175]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -39,3 +39,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — звонок Вики из Парижа о школьном конкурсе рисунков и предложение сделать вместо него классную галерею
+- [[lnv-vypusk-175](pages/lnv-vypusk-175.md)] — предсказание той же реакции: после конкурса ребёнок скажет, что больше не хочет участвовать

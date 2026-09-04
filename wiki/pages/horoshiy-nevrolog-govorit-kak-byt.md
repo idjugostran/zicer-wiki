@@ -3,7 +3,7 @@ title: Хороший невролог говорит, как быть
 category: Concepts
 summary: Критерий специалиста: обследование, закончившееся словами «патологий нет», не является ответом — хороший врач говорит не что всё в порядке, а как быть в конкретной ситуации
 tags: [concept, spetsialisty, sdvg, diagnostika, roditelstvo]
-sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom, lnv-vypusk-245, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-238, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-233, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-217, lnv-vypusk-210, lnv-vypusk-199, lnv-vypusk-189, lnv-vypusk-191, lnv-vypusk-194, lnv-vypusk-186, lnv-vypusk-184, lnv-vypusk-173]
+sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom, lnv-vypusk-245, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-238, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-233, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-217, lnv-vypusk-210, lnv-vypusk-199, lnv-vypusk-189, lnv-vypusk-191, lnv-vypusk-194, lnv-vypusk-186, lnv-vypusk-184, lnv-vypusk-173, lnv-vypusk-175]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -41,6 +41,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-186](pages/lnv-vypusk-186.md)] — там же: родитель обязан знать, какие таблетки и по какому поводу назначены
 - [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — тот же критерий применён к юристу: «я не знаю, что делать» — повод сменить специалиста
 - [[lnv-vypusk-173](pages/lnv-vypusk-173.md)] — невролог, назвавший СДВГ и не сказавший, что с этим делать, назван плохим неврологом
+- [[lnv-vypusk-175](pages/lnv-vypusk-175.md)] — тот же критерий за отказом советовать: специалист подсказывает инструменты
 
 ## Related Concepts
 

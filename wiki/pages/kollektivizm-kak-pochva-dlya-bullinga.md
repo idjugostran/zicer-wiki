@@ -3,7 +3,7 @@ title: Навязанный коллективизм как почва для б
 category: Concepts
 summary: Буллинг — примитивное упрощение личных отношений в групповую агрессию; навязанный взрослыми коллективизм («мы единая команда») порождает вожака и травлю, тогда как личностные отношения в классе защищают от неё; работать нужно с чувствами инициатора, а не с коллективом
 tags: [concept, bulling, samoregulyatsiya, subyektnost]
-sources: [mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-223, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, nam-popalas-plohaya-uchilka, doch-schitaet-sebya-kvadroberom, kak-zashchitit-7-letnego-syna-ot-travli, dolzhen-li-uchitel-lyubit-detey, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-235, lnv-vypusk-224, lnv-vypusk-218, lnv-vypusk-213, lnv-vypusk-212, lnv-vypusk-202, lnv-vypusk-203, lnv-vypusk-198, lnv-vypusk-196, lnv-vypusk-193, lnv-vypusk-195, lnv-vypusk-179, lnv-vypusk-169]
+sources: [mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-223, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, nam-popalas-plohaya-uchilka, doch-schitaet-sebya-kvadroberom, kak-zashchitit-7-letnego-syna-ot-travli, dolzhen-li-uchitel-lyubit-detey, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-235, lnv-vypusk-224, lnv-vypusk-218, lnv-vypusk-213, lnv-vypusk-212, lnv-vypusk-202, lnv-vypusk-203, lnv-vypusk-198, lnv-vypusk-196, lnv-vypusk-193, lnv-vypusk-195, lnv-vypusk-179, lnv-vypusk-169, lnv-vypusk-175]
 created: 2026-08-30
 updated: 2026-09-04
 ---
@@ -44,6 +44,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-195](pages/lnv-vypusk-195.md)] — развёрнутый разбор травли: причина не имеет значения, работать надо со всем классом на отдельной сессии
 - [[lnv-vypusk-179](pages/lnv-vypusk-179.md)] — уход новенькой из третьего класса разбирается через личные отношения и работу классного руководителя
 - [[lnv-vypusk-169](pages/lnv-vypusk-169.md)] — граница: Зицер отказывается называть травлей конфликт девятилетнего с двумя одноклассниками
+- [[lnv-vypusk-175](pages/lnv-vypusk-175.md)] — рассказ Евгении о травле со стороны учительницы и о её последствиях
 
 ## Related Concepts
 

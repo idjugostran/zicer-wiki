@@ -3,9 +3,9 @@ title: Не объяснять, что чувствовать
 category: Concepts
 summary: Ребёнок, пришедший поделиться чувством, просит порадоваться, а не уточнить терминологию; объяснение «на самом деле это чувствуется иначе» превращает лёгкую радость в «тяжёлый камень в центре дома»
 tags: [concept, emotsii, roditelstvo, vlyublennost, doshkolniki]
-sources: [kak-byt-esli-syn-vlyubilsya-v-druga, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, kak-nauchitsya-spravlyatsya-s-emotsiyami, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh]
+sources: [kak-byt-esli-syn-vlyubilsya-v-druga, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, kak-nauchitsya-spravlyatsya-s-emotsiyami, chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh, lnv-vypusk-175]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Не объяснять, что чувствовать
@@ -24,6 +24,7 @@ updated: 2026-09-03
 
 - [[kak-byt-esli-syn-vlyubilsya-v-druga](pages/kak-byt-esli-syn-vlyubilsya-v-druga.md)] — вводит концепт: отсутствие разницы между видами любви в шесть лет, «ловим за пуговицу», «тяжёлый камень в центре дома», принимать и отвечать на вопросы
 - [[chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh](pages/chto-delat-esli-4-letniy-malchik-igraet-v-plohih-i-zlyh.md)] — разбор мультфильма с подведением к морали в четыре года читается как «пап, ты меня загрузил»
+- [[lnv-vypusk-175](pages/lnv-vypusk-175.md)] — граница концепта: когда ребёнок бьёт формулировкой, взрослый помогает подобрать точное слово
 
 ## Related Concepts
 
