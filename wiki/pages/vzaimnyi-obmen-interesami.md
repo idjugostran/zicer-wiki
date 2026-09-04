@@ -3,7 +3,7 @@ title: Взаимный обмен интересами
 category: Concepts
 summary: Отвлечь ребёнка от гаджетов запретом нельзя — работает встречное движение: попроситься в мир ребёнка, затем пригласить его в свой мир как в подарок, а не в обязанность
 tags: [concept, roditelstvo, kurs-12-urokov, gadzhety]
-sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-208, lnv-vypusk-164, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-250, lnv-vypusk-216, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, chto-takoe-dogovor-s-rebenkom, kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kto-ya-svoey-padcheritse, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-239, lnv-vypusk-244, lnv-vypusk-230, lnv-vypusk-218, lnv-vypusk-217, lnv-vypusk-198]
+sources: [kurs-12-urokov-urok-6, lnv-vypusk-215, kurs-12-urokov-urok-10, nablyudatel-o-podrostkah, lnv-vypusk-162, lnv-vypusk-251, lnv-vypusk-248, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-208, lnv-vypusk-164, lnv-v-gostyah-u-zicera-chast-2, lnv-vypusk-250, lnv-vypusk-216, chto-delat-esli-6-letnyaya-doch-ne-hochet-zanimatsya-s-mamoy, papa-tantsuy-kak-ne-poteryat-otnosheniya-s-docheryu, chto-takoe-dogovor-s-rebenkom, kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kto-ya-svoey-padcheritse, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-239, lnv-vypusk-244, lnv-vypusk-230, lnv-vypusk-218, lnv-vypusk-217, lnv-vypusk-198, lnv-vypusk-190]
 created: 2026-08-29
 updated: 2026-09-04
 ---
@@ -48,6 +48,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — мать надевает перчатки и идёт с восьмилетним сыном на помойку, чтобы понять, чего он там ищет
 - [[lnv-vypusk-217](pages/lnv-vypusk-217.md)] — маме советуют искать не то, во что хочет играть сын, а то, что приятно ей самой: в четыре года ребёнок заражается удовольствием взрослого
 - [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — ответ Елене: не игнорировать разность характеров, а «изучайте его»
+- [[lnv-vypusk-190](pages/lnv-vypusk-190.md)] — телефон у семилетнего: эксперимент с коробочкой на полчаса вместо изъятия
 
 ## Related Concepts
 
