@@ -3,7 +3,7 @@ title: Семейный бюджет принадлежит всем
 category: Concepts
 summary: Модель, которую Зицер называет любимой и практикует сам: не выданная ребёнку фиксированная сумма, а право пользоваться общим бюджетом — «мне нужно вот столько» — начиная примерно с семи-девяти лет
 tags: [concept, dengi, byudzhet, semya, subyektnost, samostoyatelnost]
-sources: [kak-pravilno-govorit-s-rebenkom-pro-dengi, lnv-vypusk-197]
+sources: [kak-pravilno-govorit-s-rebenkom-pro-dengi, lnv-vypusk-197, lnv-vypusk-186]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-04
 
 - [[kak-pravilno-govorit-s-rebenkom-pro-dengi](pages/kak-pravilno-govorit-s-rebenkom-pro-dengi.md)] — модель изложена целиком, с возрастной вилкой и оговоркой про путь к ней
 - [[lnv-vypusk-197](pages/lnv-vypusk-197.md)] — учить обращаться с деньгами — брать общие деньги и обсуждать покупки с трёх лет, а не контролировать траты
+- [[lnv-vypusk-186](pages/lnv-vypusk-186.md)] — звонок Ксении: отношения с финансами человек строит сам при поддержке любимых взрослых
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: Отдельные отношения с каждым
 category: Concepts
 summary: Родственник, наблюдающий чужой конфликт, не мирит стороны и не передаёт сообщения — он строит с каждым свои собственные отношения, ценные сами по себе
 tags: [concept, rodstvenniki, konflikt, podderzhka, na-rasstoyanii]
-sources: [mozhno-li-pomoch-rodnym-izdaleka, lnv-vypusk-213]
+sources: [mozhno-li-pomoch-rodnym-izdaleka, lnv-vypusk-213, lnv-vypusk-186]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -26,6 +26,7 @@ updated: 2026-09-04
 
 - [[mozhno-li-pomoch-rodnym-izdaleka](pages/mozhno-li-pomoch-rodnym-izdaleka.md)] — сформулировано впервые: тётя из Днепра и племянники в Германии
 - [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — «икс и игрек» в детском саду: отношения со вторым педагогом в дни присутствия первого
+- [[lnv-vypusk-186](pages/lnv-vypusk-186.md)] — последний звонок: бабушка не мирит стороны, а строит разговор с дочерью отдельно
 
 ## Related Concepts
 

@@ -3,7 +3,7 @@ title: «Тыл» для ребёнка
 category: Concepts
 summary: Главное правило Зицера для родителей подростков — создать дома «тыл», пространство, где можно побыть слабым и отдохнуть от внешнего давления, а не продолжение воспитательного контроля
 tags: [concept, roditelstvo, podrostki]
-sources: [kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, chto-pomogaet-detyam-vyzhit-na-voyne, mamu-arestovali-na-glazah-dvuhletnego-syna, lnv-vypusk-240, lnv-vypusk-237, lnv-vypusk-232, lnv-vypusk-222, lnv-vypusk-213, lnv-vypusk-204, lnv-vypusk-205, lnv-vypusk-190, lnv-vypusk-194]
+sources: [kniga-lyubit-nelzya-vospityvat, kak-oblegchit-shkolnuyu-zhizn-docheri, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, chto-pomogaet-detyam-vyzhit-na-voyne, mamu-arestovali-na-glazah-dvuhletnego-syna, lnv-vypusk-240, lnv-vypusk-237, lnv-vypusk-232, lnv-vypusk-222, lnv-vypusk-213, lnv-vypusk-204, lnv-vypusk-205, lnv-vypusk-190, lnv-vypusk-194, lnv-vypusk-186]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -33,6 +33,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-205](pages/lnv-vypusk-205.md)] — предельный случай: дом, из которого выгоняют, тылом быть перестаёт
 - [[lnv-vypusk-190](pages/lnv-vypusk-190.md)] — дочь мужа четырнадцати лет: близость не следует из брака, предлагается обещание не «сливать» сказанное
 - [[lnv-vypusk-194](pages/lnv-vypusk-194.md)] — дом как единственное место, где не осудят, даже когда человек не прав
+- [[lnv-vypusk-186](pages/lnv-vypusk-186.md)] — там же: в десять лет человек должен чувствовать, что у него есть защита
 
 ## Related Concepts
 

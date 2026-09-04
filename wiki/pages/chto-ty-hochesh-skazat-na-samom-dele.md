@@ -3,7 +3,7 @@ title: «Что ты хочешь сказать на самом деле?»
 category: Concepts
 summary: Сильное обобщающее слово — «ненавижу» — разбирается двумя вопросами: что человек хочет этим сказать и чего он хочет, чтобы было; второй шаг обязателен, потому что только он выводит на выполнимое требование вместо волшебной палочки
 tags: [concept, vopros, emotsii, nenavist, refleksiya, kommunikatsiya]
-sources: [kak-spasti-detey-ot-nenavisti, lnv-vypusk-314, lnv-vypusk-227, lnv-vypusk-199, lnv-vypusk-196]
+sources: [kak-spasti-detey-ot-nenavisti, lnv-vypusk-314, lnv-vypusk-227, lnv-vypusk-199, lnv-vypusk-196, lnv-vypusk-186]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -40,3 +40,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-227](pages/lnv-vypusk-227.md)] — «пристаёт» бракуется как аморфное слово и разбирается до ключевого «никогда»
 - [[lnv-vypusk-199](pages/lnv-vypusk-199.md)] — отказ десятилетнего поздравлять девочек разбирается как сообщение: помочь сформулировать, а не формулировать за него
 - [[lnv-vypusk-196](pages/lnv-vypusk-196.md)] — приём применён дважды за выпуск: к «я его ненавижу» у первоклассницы и у подростка
+- [[lnv-vypusk-186](pages/lnv-vypusk-186.md)] — звонок Евгении: «пошёл вон» разбирается как форма, за которой стоит выполнимое требование

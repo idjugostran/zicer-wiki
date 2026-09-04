@@ -3,7 +3,7 @@ title: Он вернёт то, чему научился
 category: Concepts
 summary: Аргумент к взрослому, которого не берут педагогические доводы: не мораль, а прогноз — через несколько лет ребёнок получит инструменты и вернёт именно ту модель, которой его научили
 tags: [concept, modeli-povedeniya, podrostki, semya, kommunikatsiya]
-sources: [kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, lnv-vypusk-224, lnv-vypusk-222]
+sources: [kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, lnv-vypusk-224, lnv-vypusk-222, lnv-vypusk-186]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -35,3 +35,4 @@ updated: 2026-09-04
 - [[kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny](pages/kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny.md)] — сформулировано впервые: «плохо кончится, родной» как предложенная мужу формулировка
 - [[lnv-vypusk-224](pages/lnv-vypusk-224.md)] — «чему учили, тому и научили»: отбитое в пять лет желание учиться не восстанавливается объяснениями в семь и восемь
 - [[lnv-vypusk-222](pages/lnv-vypusk-222.md)] — принуждение к уборке учит, что сильный вправе настоять на действии слабого
+- [[lnv-vypusk-186](pages/lnv-vypusk-186.md)] — последний звонок: аргумент адресован бабушке, наблюдающей крик матери на внука
