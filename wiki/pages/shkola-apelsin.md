@@ -3,7 +3,7 @@ title: Школа «Апельсин»
 category: Entities
 summary: Школа неформального образования в Санкт-Петербурге, основана Димой и Наташей Зицер в 2008 году
 tags: [entity, shkola, shkola-apelsin]
-sources: [apelsinovye-budni, urok-matematiki-v-shkole-apelsin, lnv-v-gostyah-u-zicera-chast-1, ii-v-shkole-zlo-ili-blagoslovenie, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami, kak-zhe-on-dolgo-sobiraetsya, chto-takoe-neformalnoe-obrazovanie, dima-zicer-o-roli-uchitelya, lnv-vypusk-191]
+sources: [apelsinovye-budni, urok-matematiki-v-shkole-apelsin, lnv-v-gostyah-u-zicera-chast-1, ii-v-shkole-zlo-ili-blagoslovenie, rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, syn-beret-chuzhie-veshchi, moya-doch-ne-delitsya-chuvstvami, kak-zhe-on-dolgo-sobiraetsya, chto-takoe-neformalnoe-obrazovanie, dima-zicer-o-roli-uchitelya, lnv-vypusk-191, lnv-vypusk-179]
 created: 2026-08-04
 updated: 2026-09-04
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-04
 - [[chto-takoe-neformalnoe-obrazovanie](pages/chto-takoe-neformalnoe-obrazovanie.md)] — школа, на опыте которой строится ответ о том, как пять факторов работают в классе на 25 человек
 - [[dima-zicer-o-roli-uchitelya](pages/dima-zicer-o-roli-uchitelya.md)] — обращение учеников к Зицеру по имени объясняется правилами школы
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — углублённая литература с восьмого класса; три или семь часов математики по выбору ученика
+- [[lnv-vypusk-179](pages/lnv-vypusk-179.md)] — пример класса, где большинство пришли не с первого года, и разговора с ними об «иммиграции»
 
 ## Related Concepts
 

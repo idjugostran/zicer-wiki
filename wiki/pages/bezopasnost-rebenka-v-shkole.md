@@ -3,7 +3,7 @@ title: Безопасность ребёнка в школе как обязан
 category: Concepts
 summary: При систематической травле школа обязана обеспечить ребёнку безопасность и прекратить ситуацию без стигматизации того, кто обратился за помощью
 tags: [concept, shkola, bulling, roditelstvo]
-sources: [lnv-vypusk-215, lnv-vypusk-162, lnv-vypusk-252, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-164, lnv-vypusk-332, kak-razreshit-konflikt-v-shkole, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-byt-esli-ne-nravyatsya-druzya-rebenka, kak-zashchitit-7-letnego-syna-ot-travli, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-244, lnv-vypusk-235, lnv-vypusk-218, lnv-vypusk-213, lnv-vypusk-210, lnv-vypusk-203, lnv-vypusk-188, lnv-vypusk-193, lnv-vypusk-195]
+sources: [lnv-vypusk-215, lnv-vypusk-162, lnv-vypusk-252, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-164, lnv-vypusk-332, kak-razreshit-konflikt-v-shkole, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-byt-esli-ne-nravyatsya-druzya-rebenka, kak-zashchitit-7-letnego-syna-ot-travli, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-244, lnv-vypusk-235, lnv-vypusk-218, lnv-vypusk-213, lnv-vypusk-210, lnv-vypusk-203, lnv-vypusk-188, lnv-vypusk-193, lnv-vypusk-195, lnv-vypusk-179]
 created: 2026-08-30
 updated: 2026-09-04
 ---
@@ -47,6 +47,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-188](pages/lnv-vypusk-188.md)] — маршрут родители → учитель → директор, проговорённый самой школьнице
 - [[lnv-vypusk-193](pages/lnv-vypusk-193.md)] — случай, когда источником небезопасности является сам классный руководитель
 - [[lnv-vypusk-195](pages/lnv-vypusk-195.md)] — класс «в шаге от буллинга или уже сделал этот шаг»; Зицер публично предлагает учительнице личную консультацию
+- [[lnv-vypusk-179](pages/lnv-vypusk-179.md)] — то же требование распространено на детский сад, где источник опасности не травля
 
 ## Related Concepts
 

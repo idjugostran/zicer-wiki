@@ -3,7 +3,7 @@ title: Сравнение
 category: Concepts
 summary: Сравнение/оценка как психологический механизм, близкий к зависимости — подменяет внутренний интерес потребностью во внешнем одобрении
 tags: [concept, otsenka, roditelstvo, pedagogika]
-sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin, lnv-vypusk-164, kak-byt-esli-rebenok-ne-uveren-v-sebe, kniga-lyubit-nelzya-vospityvat, kak-ne-perehvalit-rebenka, vstuplenie-k-programme-16-01-24, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-240, lnv-vypusk-241, lnv-vypusk-235, lnv-vypusk-231, lnv-vypusk-227, lnv-vypusk-225, lnv-vypusk-222, lnv-vypusk-205, lnv-vypusk-198, lnv-vypusk-197, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-177]
+sources: [sravnenie-100-shagov-v-ad, urok-matematiki-v-shkole-apelsin, lnv-vypusk-164, kak-byt-esli-rebenok-ne-uveren-v-sebe, kniga-lyubit-nelzya-vospityvat, kak-ne-perehvalit-rebenka, vstuplenie-k-programme-16-01-24, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-240, lnv-vypusk-241, lnv-vypusk-235, lnv-vypusk-231, lnv-vypusk-227, lnv-vypusk-225, lnv-vypusk-222, lnv-vypusk-205, lnv-vypusk-198, lnv-vypusk-197, lnv-vypusk-190, lnv-vypusk-191, lnv-vypusk-177, lnv-vypusk-179]
 created: 2026-08-04
 updated: 2026-09-04
 ---
@@ -41,6 +41,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-190](pages/lnv-vypusk-190.md)] — сообщение о секции плавания: удовольствие разрешено только при сопернике рядом
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — «я дурак» как продукт сравнительной рамки: задача проста для всех, кроме меня
 - [[lnv-vypusk-177](pages/lnv-vypusk-177.md)] — обратная сторона механизма: после отмены оценок дети сами требуют их вернуть
+- [[lnv-vypusk-179](pages/lnv-vypusk-179.md)] — механизм показан на слове «нравится»: оценка рисунка привязывает ребёнка к мнению самого дорогого человека
 
 ## Related Concepts
 

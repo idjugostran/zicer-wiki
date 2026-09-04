@@ -3,7 +3,7 @@ title: Оценка — штамп вместо обратной связи
 category: Concepts
 summary: Оценка — штамп, за которым либо ничего не стоит, либо стоят субъективные факторы; замена ей не нужна, потому что естественная форма — обратная связь, то, с чем человек может работать и меняться, а умение дать её тридцати детям и есть профессионализм учителя
 tags: [concept, otsenki, obratnaya-svyaz, shkola, uchitel]
-sources: [lnv-vypusk-233, lnv-vypusk-225, lnv-vypusk-226, lnv-vypusk-217, lnv-vypusk-206, lnv-vypusk-198, lnv-vypusk-196, dima-zicer-o-roli-uchitelya, lnv-vypusk-191, lnv-vypusk-176, lnv-vypusk-177]
+sources: [lnv-vypusk-233, lnv-vypusk-225, lnv-vypusk-226, lnv-vypusk-217, lnv-vypusk-206, lnv-vypusk-198, lnv-vypusk-196, dima-zicer-o-roli-uchitelya, lnv-vypusk-191, lnv-vypusk-176, lnv-vypusk-177, lnv-vypusk-179]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -43,3 +43,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — обратная связь без отрицательного зачина: сразу «смотри, как у тебя получилось»
 - [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — оценки и домашние задания шестилетке за любимое занятие портят удовольствие и интерес
 - [[lnv-vypusk-177](pages/lnv-vypusk-177.md)] — предмет как зона, свободная от оценивания: разбор в конце занятия вместо балла
+- [[lnv-vypusk-179](pages/lnv-vypusk-179.md)] — замена «нравится / не нравится» художественными категориями как включение рефлексии ребёнка
