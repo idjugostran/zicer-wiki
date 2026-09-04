@@ -3,9 +3,9 @@ title: Партнёрские, а не функциональные отноше
 category: Concepts
 summary: Унижение возникает, когда родитель относится к ребёнку как к обязанности («функции»), а не как к человеку — в партнёрских отношениях любое отклонение переносимо, в функциональных — угрожает самоощущению взрослого
 tags: [concept, roditelstvo, unizhenie]
-sources: [pochemu-vzroslye-unizhayut-detey, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, nablyudatel-o-podrostkah, lnv-vypusk-214, lnv-vypusk-219, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame, kak-aktivnoy-mame-zhit-s-synom-introvertom, lnv-vypusk-230]
+sources: [pochemu-vzroslye-unizhayut-detey, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, nablyudatel-o-podrostkah, lnv-vypusk-214, lnv-vypusk-219, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame, kak-aktivnoy-mame-zhit-s-synom-introvertom, lnv-vypusk-230, lnv-vypusk-203]
 created: 2026-08-29
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Партнёрские, а не функциональные отношения
@@ -27,6 +27,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame](pages/chto-delat-esli-rebenok-sovsem-ne-hochet-pomogat-mame.md)] — отделяет принадлежность к семье от бытовой функции: совместная жизнь и близость обсуждаются раньше уборки, а забота не выдаётся в обмен на исполнение обязанностей
 - [[kak-aktivnoy-mame-zhit-s-synom-introvertom](pages/kak-aktivnoy-mame-zhit-s-synom-introvertom.md)] — «до его рождения у меня были несколько другие представления о людях»
 - [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — разбор глагола «отправить» — «не он пойдёт в детский сад, а мы отправим его, знаете, как багаж»
+- [[lnv-vypusk-203](pages/lnv-vypusk-203.md)] — унижение детей и учителем, и назначенной «помощницей» вырастает из функционального взгляда на человека
 
 ## Related Concepts
 

@@ -3,9 +3,9 @@ title: Отказ от произвольного «нельзя»
 category: Concepts
 summary: Большинство родительских запретов не выдерживают прямой проверки; реальные опасности стоит устранять физически, а не превращать в бесконечный запрет — произвольные же «нельзя» держат в «тюрьме» и родителя, и ребёнка
 tags: [concept, roditelstvo, granitsy]
-sources: [svoboda-ot-vospitaniya-tedx, lnv-vypusk-248, kniga-lyubit-nelzya-vospityvat, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-245, lnv-vypusk-230]
+sources: [svoboda-ot-vospitaniya-tedx, lnv-vypusk-248, kniga-lyubit-nelzya-vospityvat, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya, lnv-vypusk-245, lnv-vypusk-230, lnv-vypusk-203]
 created: 2026-08-29
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Отказ от произвольного «нельзя»
@@ -26,6 +26,7 @@ updated: 2026-09-03
 - [[chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya](pages/chto-delat-esli-otnosheniya-s-4-letnim-synom-stali-uhudshatsya.md)] — «у меня никогда не было такого… нет, нельзя»: мать, вырастившая четырёхлетнего без запретов
 - [[lnv-vypusk-245](pages/lnv-vypusk-245.md)] — запрет на кафе не имеет рационального объяснения и учит выполнять чужую волю
 - [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — перечень запретов проверяется по одному: «почему нельзя игрушки на стол ставить»
+- [[lnv-vypusk-203](pages/lnv-vypusk-203.md)] — разбор «замечаний по делу» между детьми: человеческое общение почти никогда не требует слова «нельзя»
 
 ## Related Concepts
 

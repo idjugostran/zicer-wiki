@@ -3,9 +3,9 @@ title: Семейный семинар для родителей
 category: Concepts
 summary: Родителю, поступающему странно, чаще всего просто никто никогда не объяснял, чем это плохо; ответ — собрать родителей в неформальный круг и спокойно объяснить рационал, взяв ответственность на себя
 tags: [concept, roditelstvo, shkola, prosveshchenie, pedagogika]
-sources: [kak-uchitelyu-pomoch-uchenikam-iz-ukrainy]
+sources: [kak-uchitelyu-pomoch-uchenikam-iz-ukrainy, lnv-vypusk-203]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Семейный семинар для родителей
@@ -21,6 +21,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kak-uchitelyu-pomoch-uchenikam-iz-ukrainy](pages/kak-uchitelyu-pomoch-uchenikam-iz-ukrainy.md)] — сформулировано впервые: родители украинских школьников в Гамбурге, требующие учиться в двух школах сразу
+- [[lnv-vypusk-203](pages/lnv-vypusk-203.md)] — родительское собрание с конкретными примерами унижения детей названо единственным серьёзным способом сдвинуть ситуацию
 
 ## Related Concepts
 

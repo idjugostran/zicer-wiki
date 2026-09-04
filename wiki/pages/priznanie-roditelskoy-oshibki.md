@@ -3,7 +3,7 @@ title: Признание родительской ошибки
 category: Concepts
 summary: Когда решение было принято без ребёнка и объяснено ему неправдой, первым обязательным шагом становится извинение — без самоуничижения, но и без смягчения сути; без этой части ничего остальное не работает
 tags: [concept, roditelstvo, chestnost, podrostki, emigratsiya]
-sources: [kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, lnv-vypusk-314, lnv-vypusk-246, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-233, lnv-vypusk-224]
+sources: [kak-pomoch-rebenku-prinyat-novuyu-realnost, kak-byt-esli-vashego-rebenka-schitayut-huliganom, 9-letniy-malchik-beret-chuzhie-veshchi, lnv-vypusk-314, lnv-vypusk-246, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-233, lnv-vypusk-224, lnv-vypusk-203]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -31,6 +31,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-236](pages/lnv-vypusk-236.md)] — предложенная матери реплика: «я мама Наташа в чём-то была неправа» и «мы перезагрузим с тобой отношения»
 - [[lnv-vypusk-233](pages/lnv-vypusk-233.md)] — отобранный силой наушник: «прости меня» вместо доказательства своей правоты
 - [[lnv-vypusk-224](pages/lnv-vypusk-224.md)] — что сказать шестилетней о собственных словах об отце, сказанных в ссоре два-три года назад
+- [[lnv-vypusk-203](pages/lnv-vypusk-203.md)] — та же механика для педагога: после срыва сказать, что сожалеешь, без валяния в ногах
 
 ## Related Concepts
 
