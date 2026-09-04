@@ -3,9 +3,9 @@ title: «Бессмысленность воспитания подростко�
 category: Entities
 summary: Книга Димы Зицера о подростковом возрасте; в эфирах он ссылается на её тезис о том, что внутри подростка ежесекундно происходит революция, и потому реакция на любой серьёзный разговор может быть какой угодно
 tags: [entity, kniga, dima-zicer, podrostki]
-sources: [doch-revnuet-i-ustraivaet-skandaly]
+sources: [doch-revnuet-i-ustraivaet-skandaly, lnv-vypusk-188]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # «Бессмысленность воспитания подростков»
@@ -19,6 +19,7 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[doch-revnuet-i-ustraivaet-skandaly](pages/doch-revnuet-i-ustraivaet-skandaly.md)] — Зицер ссылается на книгу, объясняя, почему реакция тринадцатилетней дочери может быть любой
+- [[lnv-vypusk-188](pages/lnv-vypusk-188.md)] — рекомендация книги маме четырнадцатилетней: по данным издательства её больше покупали сами подростки
 
 ## Related Concepts
 

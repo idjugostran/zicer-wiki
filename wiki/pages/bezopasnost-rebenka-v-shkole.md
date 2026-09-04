@@ -3,7 +3,7 @@ title: Безопасность ребёнка в школе как обязан
 category: Concepts
 summary: При систематической травле школа обязана обеспечить ребёнку безопасность и прекратить ситуацию без стигматизации того, кто обратился за помощью
 tags: [concept, shkola, bulling, roditelstvo]
-sources: [lnv-vypusk-215, lnv-vypusk-162, lnv-vypusk-252, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-164, lnv-vypusk-332, kak-razreshit-konflikt-v-shkole, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-byt-esli-ne-nravyatsya-druzya-rebenka, kak-zashchitit-7-letnego-syna-ot-travli, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-244, lnv-vypusk-235, lnv-vypusk-218, lnv-vypusk-213, lnv-vypusk-210, lnv-vypusk-203]
+sources: [lnv-vypusk-215, lnv-vypusk-162, lnv-vypusk-252, lnv-vypusk-223, lnv-vypusk-221, lnv-vypusk-164, lnv-vypusk-332, kak-razreshit-konflikt-v-shkole, chego-boitsya-syn-i-chto-s-etim-delat, nam-popalas-plohaya-uchilka, kazhetsya-k-moemu-rebenku-pristaet-vzroslyi, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, kak-byt-esli-ne-nravyatsya-druzya-rebenka, kak-zashchitit-7-letnego-syna-ot-travli, kak-borotsya-s-dvoemysliem-kogda-docheri-9-let, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245, lnv-vypusk-246, lnv-vypusk-238, lnv-vypusk-244, lnv-vypusk-235, lnv-vypusk-218, lnv-vypusk-213, lnv-vypusk-210, lnv-vypusk-203, lnv-vypusk-188]
 created: 2026-08-30
 updated: 2026-09-04
 ---
@@ -44,6 +44,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — систематическая травля десятилетнего: учительница отказалась вмешиваться, разговоры с директором не помогли; Зицер настаивает на выводе ребёнка из класса до всякого разбирательства
 - [[lnv-vypusk-210](pages/lnv-vypusk-210.md)] — случай с запиской про лимоны: в классе нет ненаказуемого способа попросить помощи, а «жаловаться» запрещено самими детьми
 - [[lnv-vypusk-203](pages/lnv-vypusk-203.md)] — школа пять месяцев не реагирует на унижение детей учителем; при таких фактах учитель должен уйти
+- [[lnv-vypusk-188](pages/lnv-vypusk-188.md)] — маршрут родители → учитель → директор, проговорённый самой школьнице
 
 ## Related Concepts
 

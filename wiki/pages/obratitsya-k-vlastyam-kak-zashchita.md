@@ -3,7 +3,7 @@ title: Обратиться к властям как защита
 category: Concepts
 summary: Когда травля продолжается, а взрослые с другой стороны отказываются вмешиваться, защиту ищут в полиции и социальных службах; недопустим только один исход — тот, при котором ребёнка не защищают
 tags: [concept, travlya, bulling, zashchita, protsedura, vzroslye]
-sources: [kak-zashchitit-7-letnego-syna-ot-travli, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245, lnv-vypusk-218, lnv-vypusk-213, lnv-vypusk-210, lnv-vypusk-212, lnv-vypusk-196]
+sources: [kak-zashchitit-7-letnego-syna-ot-travli, obysk-desyatiklassnikov-v-orske, lnv-vypusk-245, lnv-vypusk-218, lnv-vypusk-213, lnv-vypusk-210, lnv-vypusk-212, lnv-vypusk-196, lnv-vypusk-188]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -36,6 +36,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-210](pages/lnv-vypusk-210.md)] — Зицер отправляет мать поднимать вопрос до директора, а девочке переопределяет обращение к взрослым как просьбу о помощи, а не донос
 - [[lnv-vypusk-212](pages/lnv-vypusk-212.md)] — звонок о распространении наркотиков в школе: разговор переносится из педагогики в полицию
 - [[lnv-vypusk-196](pages/lnv-vypusk-196.md)] — обращение адресовано администрации Липецка прямо в эфире, с формулой «дорогие родители, не молчите»
+- [[lnv-vypusk-188](pages/lnv-vypusk-188.md)] — порча и присвоение чужих вещей названы взрослым именем: кража и порча имущества
 
 ## Related Concepts
 

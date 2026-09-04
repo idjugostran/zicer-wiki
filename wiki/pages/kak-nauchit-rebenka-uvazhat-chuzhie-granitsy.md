@@ -3,9 +3,9 @@ title: Как НАУЧИТЬ РЕБЕНКА УВАЖАТЬ ЧУЖИЕ ГРАНИ
 category: Sources
 summary: Семилетняя дочь кричит на родителей, говорит «заткнись» и может ударить; Зицер показывает, что продавливание и физическое насилие — симптомы одних и тех же плавающих границ, что «демократия должна уметь себя защитить», и что при неспособности ребёнка справиться самому обращение к специалисту не обсуждается
 tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, granitsy, nasilie, germaniya, mladshie-shkolniki]
-sources: [kak-nauchit-rebenka-uvazhat-chuzhie-granitsy]
+sources: [kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, lnv-vypusk-188]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Как НАУЧИТЬ РЕБЕНКА УВАЖАТЬ ЧУЖИЕ ГРАНИЦЫ
@@ -61,7 +61,7 @@ updated: 2026-09-03
 
 ## Relation to Other Wiki Pages
 
-Источник даёт вики недостающую половину разговора о границах. До сих пор корпус в основном показывал, как родитель нарушает границы ребёнка ([[mama-narushaet-lichnye-granitsy](pages/mama-narushaet-lichnye-granitsy.md)], [[chtenie-perepiski-detey](pages/chtenie-perepiski-detey.md)]); здесь разбирается обратный случай, и [[plavayushchie-granitsy](pages/plavayushchie-granitsy.md)] объясняет, почему продавливание и удары — одно явление. Формула «нет означает нет» и запрет уступать от усталости дополняют [[psevdodogovor-kak-prikaz](pages/psevdodogovor-kak-prikaz.md)] с другой стороны: там разбиралось, что не является договором со стороны родителя, здесь — что не является решением. Ход «я сделаю своей клиенткой её, а не вас» и вывод «она действует правильно» — приложение [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] и [[libo-durochka-libo-umnaya](pages/libo-durochka-libo-umnaya.md)]. Настойчивость Зицера в отношении специалиста повторяет [[psihoterapiya-kak-instrument](pages/psihoterapiya-kak-instrument.md)] и [[nichego-ne-byvaet-prosto-tak](pages/nichego-ne-byvaet-prosto-tak.md)], а требование включить ребёнка в поиск инструментов — [[izobretenie-instrumentov-v-igre](pages/izobretenie-instrumentov-v-igre.md)].
+Источник даёт вики недостающую половину разговора о границах. До сих пор корпус в основном показывал, как родитель нарушает границы ребёнка ([[mama-narushaet-lichnye-granitsy](pages/mama-narushaet-lichnye-granitsy.md)], [[chtenie-perepiski-detey](pages/chtenie-perepiski-detey.md)]); здесь разбирается обратный случай, и [[plavayushchie-granitsy](pages/plavayushchie-granitsy.md)] объясняет, почему продавливание и удары — одно явление. Формула «нет означает нет» и запрет уступать от усталости дополняют [[psevdodogovor-kak-prikaz](pages/psevdodogovor-kak-prikaz.md)] с другой стороны: там разбиралось, что не является договором со стороны родителя, здесь — что не является решением. Ход «я сделаю своей клиенткой её, а не вас» и вывод «она действует правильно» — приложение [[chto-obsluzhivaet-povedenie](pages/chto-obsluzhivaet-povedenie.md)] и [[libo-durochka-libo-umnaya](pages/libo-durochka-libo-umnaya.md)]. Настойчивость Зицера в отношении специалиста повторяет [[psihoterapiya-kak-instrument](pages/psihoterapiya-kak-instrument.md)] и [[nichego-ne-byvaet-prosto-tak](pages/nichego-ne-byvaet-prosto-tak.md)], а требование включить ребёнка в поиск инструментов — [[izobretenie-instrumentov-v-igre](pages/izobretenie-instrumentov-v-igre.md)]. Та же тема разобрана в [[lnv-vypusk-188](pages/lnv-vypusk-188.md)] на случае гостя, шарящего по чужим шкафам: ребёнка учат не вежливости, а человеческим границам.
 
 ## Footnotes
 

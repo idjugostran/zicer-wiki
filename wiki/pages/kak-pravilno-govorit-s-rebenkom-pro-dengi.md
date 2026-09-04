@@ -3,9 +3,9 @@ title: Как правильно говорить с ребенком ПРО Д�
 category: Sources
 summary: Отец семилетнего москвича спрашивает, как экологично объяснить ценность денег, когда всё оплачивается касанием карточки; Зицер уводит от абстракций к конкретному походу в магазин с названной суммой и излагает свою «любимую модель» — семейный бюджет принадлежит всем
 tags: [source, transcript, dima-zicer, lyubit-nelzya-vospityvat, dengi, byudzhet, karmannye-dengi, mladshie-shkolniki, samostoyatelnost]
-sources: [kak-pravilno-govorit-s-rebenkom-pro-dengi]
+sources: [kak-pravilno-govorit-s-rebenkom-pro-dengi, lnv-vypusk-188]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Как правильно говорить с ребенком ПРО ДЕНЬГИ
@@ -54,7 +54,7 @@ updated: 2026-09-03
 
 ## Relation to Other Wiki Pages
 
-Выпуск даёт денежную тему в наиболее спокойном виде: у собеседника нет проблемы, есть предвидение вопроса. Практический инструмент совпадает с [[pokupka-vnutri-semeynogo-plana](pages/pokupka-vnutri-semeynogo-plana.md)], выведенным из противоположной ситуации — там ребёнок требовал заходить в магазин и родитель отказывал, здесь никакого конфликта нет, а приём тот же; совпадение подтверждает, что приём про устройство совместного дела, а не про гашение истерики. [[semeynyi-byudzhet-prinadlezhit-vsem](pages/semeynyi-byudzhet-prinadlezhit-vsem.md)] — редкий случай, когда Зицер прямо называет модель любимой и говорит, что практикует её сам; по устройству это денежное продолжение [[subyektnost](pages/subyektnost.md)] и [[semeynyi-dogovor](pages/semeynyi-dogovor.md)].
+Выпуск даёт денежную тему в наиболее спокойном виде: у собеседника нет проблемы, есть предвидение вопроса. Практический инструмент совпадает с [[pokupka-vnutri-semeynogo-plana](pages/pokupka-vnutri-semeynogo-plana.md)], выведенным из противоположной ситуации — там ребёнок требовал заходить в магазин и родитель отказывал, здесь никакого конфликта нет, а приём тот же; совпадение подтверждает, что приём про устройство совместного дела, а не про гашение истерики. [[semeynyi-byudzhet-prinadlezhit-vsem](pages/semeynyi-byudzhet-prinadlezhit-vsem.md)] — редкий случай, когда Зицер прямо называет модель любимой и говорит, что практикует её сам; по устройству это денежное продолжение [[subyektnost](pages/subyektnost.md)] и [[semeynyi-dogovor](pages/semeynyi-dogovor.md)]. В [[lnv-vypusk-188](pages/lnv-vypusk-188.md)] тот же разговор ведётся про восьмилетнюю: в этом возрасте ребёнок уже может понимать, откуда берутся деньги, и речь идёт об общем бюджете, а не о «наших» деньгах.
 
 ## Note
 
