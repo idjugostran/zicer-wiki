@@ -3,7 +3,7 @@ title: Взрослый сговор вокруг унижения
 category: Concepts
 summary: Когда взрослые вокруг ребёнка молча согласны, что унижать нормально, довольство ребёнка становится не оправданием среды, а признаком того, что она его уже переделала
 tags: [concept, unizhenie, shkola, bulling, vzroslye]
-sources: [lnv-vypusk-193]
+sources: [lnv-vypusk-193, lnv-vypusk-174]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -41,3 +41,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-193](pages/lnv-vypusk-193.md)] — звонок Олеси из Йошкар-Олы об учительнице, третий год унижающей детей
+- [[lnv-vypusk-174](pages/lnv-vypusk-174.md)] — родители, поддержавшие унижающую детей учительницу и запретившие камеру в классе

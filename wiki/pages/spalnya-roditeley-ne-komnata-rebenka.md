@@ -3,7 +3,7 @@ title: Спальня родителей — не комната ребёнка
 category: Concepts
 summary: Родительскую спальню нельзя называть ребёнку «его комнатой»: пока взрослый перечисляет ей все комнаты квартиры, запрет спать вместе для шестилетнего человека необъясним
 tags: [concept, granitsy, prostranstvo, son, doshkolniki]
-sources: [lnv-vypusk-204]
+sources: [lnv-vypusk-204, lnv-vypusk-174]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -35,3 +35,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[lnv-vypusk-204](pages/lnv-vypusk-204.md)] — звонок Алексея: причина найдена в собственной формуле родителей «и эта твоя комната»
+- [[lnv-vypusk-174](pages/lnv-vypusk-174.md)] — обратный случай: своя комната есть, работа идёт над переходом в неё

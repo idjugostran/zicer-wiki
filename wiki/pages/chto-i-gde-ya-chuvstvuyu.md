@@ -3,7 +3,7 @@ title: Что и где я чувствую
 category: Concepts
 summary: Прежде чем учить ребёнка справляться с эмоциями, нужно вместе с ним назвать телесный сигнал конкретными словами и конкретным местом: крутит живот, потеют ладошки, сводит скулы
 tags: [concept, samoregulyatsiya, emotsii, telo, deti]
-sources: [kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-spasti-detey-ot-nenavisti, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-230, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-196, lnv-vypusk-194]
+sources: [kak-nauchitsya-spravlyatsya-s-emotsiyami, kak-nam-nauchitsya-kontrolirovat-sebya, kak-spasti-detey-ot-nenavisti, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-230, lnv-vypusk-227, lnv-vypusk-226, lnv-vypusk-196, lnv-vypusk-194, lnv-vypusk-174]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -30,6 +30,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — двухчастная конструкция «найти триггер, потом сменить физическую форму», с внешней опорой в притче о Будде
 - [[lnv-vypusk-196](pages/lnv-vypusk-196.md)] — телесный сигнал назван для детской ревности: скрипят зубы, сжимаются кулачки, слёзы на глазах
 - [[lnv-vypusk-194](pages/lnv-vypusk-194.md)] — «что ты чувствуешь в животике, в горлышке, в ручках» для импульсивной четырёхлетней
+- [[lnv-vypusk-174](pages/lnv-vypusk-174.md)] — «закипает в горле», сжатые кулаки, вода и счёт до пяти в работе с агрессией девятилетней
 
 ## Related Concepts
 
