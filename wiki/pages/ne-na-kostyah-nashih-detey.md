@@ -3,9 +3,9 @@ title: Не на костях наших детей
 category: Concepts
 summary: Порядок действий при травле или насилии в школе жёсткий: сначала ребёнка выводят из токсичной среды, и только потом добиваются справедливости; правовой путь не отменяется, но перестаёт быть первым шагом
 tags: [concept, zashchita, bulling, shkola, poryadok-deystviy, nasilie]
-sources: [obysk-desyatiklassnikov-v-orske]
+sources: [obysk-desyatiklassnikov-v-orske, lnv-vypusk-189]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Не на костях наших детей
@@ -36,3 +36,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[obysk-desyatiklassnikov-v-orske](pages/obysk-desyatiklassnikov-v-orske.md)] — сформулировано впервые: ответ на дискуссию о «правовом нигилизме» в чате трансляции
+- [[lnv-vypusk-189](pages/lnv-vypusk-189.md)] — отказ решать проблему класса удалением ребёнка даже в тяжёлом гипотетическом случае

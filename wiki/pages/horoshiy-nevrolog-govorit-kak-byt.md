@@ -3,7 +3,7 @@ title: Хороший невролог говорит, как быть
 category: Concepts
 summary: Критерий специалиста: обследование, закончившееся словами «патологий нет», не является ответом — хороший врач говорит не что всё в порядке, а как быть в конкретной ситуации
 tags: [concept, spetsialisty, sdvg, diagnostika, roditelstvo]
-sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom, lnv-vypusk-245, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-238, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-233, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-217, lnv-vypusk-210, lnv-vypusk-199]
+sources: [kak-byt-esli-vashego-rebenka-schitayut-huliganom, lnv-vypusk-245, lnv-vypusk-247, lnv-vypusk-249, lnv-vypusk-238, lnv-vypusk-244, lnv-vypusk-236, lnv-vypusk-233, lnv-vypusk-226, lnv-vypusk-218, lnv-vypusk-217, lnv-vypusk-210, lnv-vypusk-199, lnv-vypusk-189]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -35,6 +35,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-217](pages/lnv-vypusk-217.md)] — педагог обрывает разговор о подростковом перфекционизме и отправляет к психологу, объясняя, чего от специалиста ждать
 - [[lnv-vypusk-210](pages/lnv-vypusk-210.md)] — Зицер отказывается отвечать за наблюдающего специалиста в вопросе о ребёнке с психическими особенностями, чтобы не навредить
 - [[lnv-vypusk-199](pages/lnv-vypusk-199.md)] — психолог, посоветовавший гомеопата и успокоительные, ответом не является — нужен специалист с акцентом в детскую психотерапию
+- [[lnv-vypusk-189](pages/lnv-vypusk-189.md)] — совет сходить к неврологу мотивируется прямо: не потому, что ребёнок болен, а чтобы понять, что ему мешает изнутри
 
 ## Related Concepts
 

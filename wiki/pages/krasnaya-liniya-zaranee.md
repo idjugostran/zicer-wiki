@@ -3,9 +3,9 @@ title: Красная линия, прочерченная заранее
 category: Concepts
 summary: Вместо реакции на каждый эпизод взрослый заранее определяет — и записывает себе — черту, дальше которой не пустит никого; находится она градуированной пробой от заведомо крайнего случая к спорному
 tags: [concept, granitsy, semya, refleksiya]
-sources: [kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, lnv-vypusk-314, lnv-vypusk-230]
+sources: [kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, lnv-vypusk-314, lnv-vypusk-230, lnv-vypusk-189]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Красная линия, прочерченная заранее
@@ -35,3 +35,4 @@ updated: 2026-09-03
 - [[kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny](pages/kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny.md)] — сформулировано впервые: мать двоих детей 3 и 5 лет, токсичные муж и его родители, проба от «если бы он начал их бить» к «ты маленькая»
 - [[lnv-vypusk-314](pages/lnv-vypusk-314.md)] — «за этой красной линией мы готовы на всё»: граница названа вместе с тем, что за ней открывается
 - [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — безопасность как единственная линия в теме подростковых ролевых игр
+- [[lnv-vypusk-189](pages/lnv-vypusk-189.md)] — бабушке предлагается назвать удар своей красной границей спокойно и от первого лица
