@@ -3,7 +3,7 @@ title: Авторитет учителя дан авансом
 category: Concepts
 summary: Авторитет учителя не зарабатывается, а даётся автоматически в первый школьный день — «столько, сколько ты можешь нести»; трудиться приходится только чтобы его разрушить
 tags: [concept, uchitel, avtoritet, shkola, otvetstvennost]
-sources: [dima-zicer-o-roli-uchitelya, lnv-vypusk-193, lnv-vypusk-195, lnv-vypusk-180]
+sources: [dima-zicer-o-roli-uchitelya, lnv-vypusk-193, lnv-vypusk-195, lnv-vypusk-180, lnv-vypusk-183]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -39,3 +39,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-193](pages/lnv-vypusk-193.md)] — «она больше авторитет, чем вы» как объяснение силы дурного примера в начальной школе
 - [[lnv-vypusk-195](pages/lnv-vypusk-195.md)] — заключительная реплика: учителям нужна поддержка родителей и администрации
 - [[lnv-vypusk-180](pages/lnv-vypusk-180.md)] — обратная сторона: аванс не отменяет профессиональных обязанностей
+- [[lnv-vypusk-183](pages/lnv-vypusk-183.md)] — предупреждение матери первоклассника: в первые дни учительница окажется большим авторитетом, чем мама, и это хорошо
