@@ -3,7 +3,7 @@ title: Несмотря на это, а не благодаря этому
 category: Concepts
 summary: Ответ на аргумент «меня растили строго, и я вырос нормальным»: собственная удачность — не доказательство пользы наказаний, потому что человек вырос таким несмотря на них; при этом родителей прошлого Зицер не обвиняет — они делали как умели
 tags: [concept, nakazanie, nasilie, modeli-povedeniya, refleksiya, detstvo]
-sources: [kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-222]
+sources: [kak-roditeli-perenosyat-na-detey-modeli, lnv-vypusk-222, lnv-vypusk-176]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -37,3 +37,4 @@ updated: 2026-09-04
 
 - [[kak-roditeli-perenosyat-na-detey-modeli](pages/kak-roditeli-perenosyat-na-detey-modeli.md)] — сформулировано впервые: мать трёх сыновей, уверенная, что от соблазнов её спас страх перед матерью
 - [[lnv-vypusk-222](pages/lnv-vypusk-222.md)] — разбор фразы «если бы нас не заставляли, мы бы ничего не делали» как оправдания собственного детства
+- [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — «очень трудно быть благодарным за насилие»: благодарны бывают за поддержку и сомнение

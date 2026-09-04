@@ -3,7 +3,7 @@ title: Защита близкого человека как граница
 category: Concepts
 summary: Когда ребёнок систематически третирует одного родителя, вмешаться и поставить границу должен не он сам, а тот родитель, к которому ребёнок прислушивается — личным «я не позволяю», а не моралью
 tags: [concept, roditelstvo, granitsy]
-sources: [mozhet-li-rebenok-bullit-mamu, mozhno-li-pomoch-rodnym-izdaleka, kak-zashchitit-7-letnego-syna-ot-travli, mozhno-li-uberech-rebenka-ot-nenavisti, kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, mne-nravitsya-kak-papa-reagiruet, lnv-vypusk-226, lnv-vypusk-204, lnv-vypusk-188, lnv-vypusk-186]
+sources: [mozhet-li-rebenok-bullit-mamu, mozhno-li-pomoch-rodnym-izdaleka, kak-zashchitit-7-letnego-syna-ot-travli, mozhno-li-uberech-rebenka-ot-nenavisti, kak-rastit-detey-esli-blizhayshie-rodstvenniki-toksichny, mne-nravitsya-kak-papa-reagiruet, lnv-vypusk-226, lnv-vypusk-204, lnv-vypusk-188, lnv-vypusk-186, lnv-vypusk-176]
 created: 2026-08-29
 updated: 2026-09-04
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-204](pages/lnv-vypusk-204.md)] — Варваре и Андрею предложено личное «я никому не позволяю» вместо морали и вместо разговора с отцом
 - [[lnv-vypusk-188](pages/lnv-vypusk-188.md)] — та же формула «я не позволяю», перенесённая на защиту младшего ребёнка от старшего
 - [[lnv-vypusk-186](pages/lnv-vypusk-186.md)] — там же: защищать внука не значит нападать на дочь
+- [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — мать сама называет границу семилетнему сыну, обижающему её при отчиме
 
 ## Related Concepts
 

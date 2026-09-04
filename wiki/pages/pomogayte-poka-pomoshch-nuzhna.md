@@ -3,7 +3,7 @@ title: Помогайте, пока ваша помощь нужна
 category: Concepts
 summary: На жалобу «он не делает сам» Зицер отвечает одним словом — помогайте; довод не в безвредности помощи, а в сроке: через несколько лет ребёнку понадобится помощь других людей, и о днях, когда он просил родителя, будут скучать
 tags: [concept, samostoyatelnost, doshkolniki, roditelstvo, vremya]
-sources: [kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-233, lnv-vypusk-231, lnv-vypusk-206, lnv-vypusk-204, lnv-vypusk-196, lnv-vypusk-181]
+sources: [kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-233, lnv-vypusk-231, lnv-vypusk-206, lnv-vypusk-204, lnv-vypusk-196, lnv-vypusk-181, lnv-vypusk-176]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -43,3 +43,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-204](pages/lnv-vypusk-204.md)] — звонок Елены об ингаляциях: продолжать напоминать, плюс признак избирательной забывчивости
 - [[lnv-vypusk-196](pages/lnv-vypusk-196.md)] — тот же ответ на письмо из Франкфурта, с аргументацией через укрывание и штанишки
 - [[lnv-vypusk-181](pages/lnv-vypusk-181.md)] — начинать сборы с ребёнка и закладывать больше времени
+- [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — помощь семилетней в утренних сборах не создаёт несамостоятельности

@@ -3,7 +3,7 @@ title: Границы появляются из наших границ
 category: Concepts
 summary: Рамка для ребёнка выводится не из педагогики, а из реального ресурса взрослого: у родителя есть своё время и свой предел, и это законное основание сказать «нет»
 tags: [concept, granitsy, roditelskiy-resurs, semya]
-sources: [kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-244, lnv-vypusk-226, lnv-vypusk-203, lnv-vypusk-204, lnv-vypusk-192]
+sources: [kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, kak-sdelat-chtoby-ona-slushalas-roditeley, chto-delat-esli-doch-ne-hochet-provodit-vremya-s-mamoy, lnv-vypusk-246, lnv-vypusk-247, lnv-vypusk-244, lnv-vypusk-226, lnv-vypusk-203, lnv-vypusk-204, lnv-vypusk-192, lnv-vypusk-176]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -29,6 +29,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-203](pages/lnv-vypusk-203.md)] — семилетний сын, занимающий собой всё пространство: персональное время и родительское «нет» из собственного ресурса
 - [[lnv-vypusk-204](pages/lnv-vypusk-204.md)] — «нам с мамой хочется быть в своей спальне» как законное основание границы
 - [[lnv-vypusk-192](pages/lnv-vypusk-192.md)] — вечерняя усталость матери троих как законное основание
+- [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — основание «нет» — «мне жарко, мне плохо, мне неудобно», собственный предел матери
 
 ## Related Concepts
 

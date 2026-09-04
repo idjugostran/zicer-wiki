@@ -3,7 +3,7 @@ title: «Давать сдачи»
 category: Concepts
 summary: Критика совета учить детей отвечать на агрессию физической силой — приравнивается к обучению «языку зоны»
 tags: [concept, konflikt, nasilie]
-sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, moy-syn-yabeda-ili-postupaet-pravilno, kak-razreshit-konflikt-v-shkole, kak-zashchitit-7-letnego-syna-ot-travli, mozhno-li-uberech-rebenka-ot-nenavisti, lnv-vypusk-238, lnv-vypusk-232, lnv-vypusk-226, lnv-vypusk-213, lnv-vypusk-195]
+sources: [nuzhno-li-uchit-detey-davat-sdachi, lnv-vypusk-253, chto-delat-esli-ya-sryvayus-na-svoego-rebenka, kak-nauchitsya-poluchat-udovolstvie-ot-svoih-detey, lnv-vypusk-171, moy-syn-yabeda-ili-postupaet-pravilno, kak-razreshit-konflikt-v-shkole, kak-zashchitit-7-letnego-syna-ot-travli, mozhno-li-uberech-rebenka-ot-nenavisti, lnv-vypusk-238, lnv-vypusk-232, lnv-vypusk-226, lnv-vypusk-213, lnv-vypusk-195, lnv-vypusk-176]
 created: 2026-08-04
 updated: 2026-09-04
 ---
@@ -34,6 +34,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-226](pages/lnv-vypusk-226.md)] — практическая альтернатива ответу силой: разговор с агрессором вне конфликта
 - [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — совет слушателя отдать травимого мальчика на самбо; Зицер отводит его прогнозом эскалации
 - [[lnv-vypusk-195](pages/lnv-vypusk-195.md)] — «парадигма зоны» приложена не к детям, а к учителю: сильный решает, что и как ест слабый
+- [[lnv-vypusk-176](pages/lnv-vypusk-176.md)] — требование к трёхлетнему защищать себя отклонено как опасная формула
 
 ## Related Concepts
 
