@@ -3,7 +3,7 @@ title: Сомнение вместо единой позиции
 category: Concepts
 summary: Сомнение и единая позиция дают противоположные последствия: сомнение протягивает руку к диалогу, единая позиция влечёт насилие — поэтому сущность учителя в постановке вопросов, а не в трансляции ответа
 tags: [concept, somnenie, ideologiya, uchitel, dialog]
-sources: [dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii]
+sources: [dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii, dima-zicer-sovremennyy-pedagog]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -37,3 +37,4 @@ updated: 2026-09-04
 ## Appearances in Sources
 
 - [[dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii](pages/dima-zicer-ob-ideologii-v-zakone-ob-obrazovanii.md)] — итог разговора с депутатом о патриотизме и единой позиции
+- [[dima-zicer-sovremennyy-pedagog](pages/dima-zicer-sovremennyy-pedagog.md)] — сомнение противопоставлено стабильности как профессиональному инструменту

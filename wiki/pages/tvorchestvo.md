@@ -3,9 +3,9 @@ title: Творчество
 category: Concepts
 summary: Творчество по Зицеру — создание нового из привычного ради собственного продвижения; магия остаётся в личной истории, которую ИИ не может рассказать за человека
 tags: [concept, tvorchestvo, ii]
-sources: [ii-v-shkole-zlo-ili-blagoslovenie]
+sources: [ii-v-shkole-zlo-ili-blagoslovenie, dima-zicer-sovremennyy-pedagog]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-04
 ---
 
 # Творчество
@@ -21,6 +21,7 @@ updated: 2026-09-02
 ## Appearances in Sources
 
 - [[ii-v-shkole-zlo-ili-blagoslovenie](pages/ii-v-shkole-zlo-ili-blagoslovenie.md)] — единственный пока источник, вводящий это определение
+- [[dima-zicer-sovremennyy-pedagog](pages/dima-zicer-sovremennyy-pedagog.md)] — материал предмета трактуется как повод для творчества учителя; урок описан по модели спектакля
 
 ## Related Concepts
 
