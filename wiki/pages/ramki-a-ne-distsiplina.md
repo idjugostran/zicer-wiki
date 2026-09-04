@@ -3,7 +3,7 @@ title: Рамки, а не дисциплина
 category: Concepts
 summary: Урок не нуждается в едином поведенческом стандарте (дисциплине) — ему нужны чёткие рамки (место, правила, канва); шум и движение внутри рамок — признак вовлечённости, а не потери контроля
 tags: [concept, shkola-apelsin, pedagogika]
-sources: [urok-matematiki-v-shkole-apelsin, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-223, lnv-vypusk-250, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, mama-ne-dolzhna-stradat, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kak-organizovat-poezdku-dlya-detey, kak-provodit-klassnye-ekskursii-dlya-detey, chto-takoe-dogovor-s-rebenkom, kak-uchitelyu-stroit-atmosferu-uroka, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-239, lnv-vypusk-233, lnv-vypusk-227, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-226, dima-zicer-o-roli-uchitelya, lnv-vypusk-175, dima-zicer-uchitel-kotoromu-prikolno, dima-zicer-v-programme-pravila-zhizni-2018]
+sources: [urok-matematiki-v-shkole-apelsin, lnv-vypusk-171, u-nego-sdvg-ili-my-ego-razbalovali, lnv-vypusk-223, lnv-vypusk-250, kak-sohranit-otnosheniya-mezhdu-detmi-na-rasstoyanii, mama-ne-dolzhna-stradat, chto-delat-esli-3-letniy-syn-komanduet-mamoy, kak-organizovat-poezdku-dlya-detey, kak-provodit-klassnye-ekskursii-dlya-detey, chto-takoe-dogovor-s-rebenkom, kak-uchitelyu-stroit-atmosferu-uroka, kak-nauchit-rebenka-uvazhat-chuzhie-granitsy, kak-nayti-balans-mezhdu-svobodoy-i-otvetstvennostyu, dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-239, lnv-vypusk-233, lnv-vypusk-227, chto-takoe-neformalnoe-obrazovanie, lnv-vypusk-226, dima-zicer-o-roli-uchitelya, lnv-vypusk-175, dima-zicer-uchitel-kotoromu-prikolno, dima-zicer-v-programme-pravila-zhizni-2018, novosti-o-lektsii-zicera-2012]
 created: 2026-08-29
 updated: 2026-09-04
 ---
@@ -44,6 +44,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-175](pages/lnv-vypusk-175.md)] — формула школьной конституции: учитель является режиссёром собственного урока
 - [[dima-zicer-uchitel-kotoromu-prikolno](pages/dima-zicer-uchitel-kotoromu-prikolno.md)] — определение профессии через рамки: педагог строит рамки, в которых закручивается процесс познания
 - [[dima-zicer-v-programme-pravila-zhizni-2018](pages/dima-zicer-v-programme-pravila-zhizni-2018.md)] — рамка как то, внутри чего интерес растёт сам; «рот закрыли, на меня глазки» — действие противоположное
+- [[novosti-o-lektsii-zicera-2012](pages/novosti-o-lektsii-zicera-2012.md)] — рабочий шум вместо тишины, зафиксированный посторонним наблюдателем
 
 ## Related Concepts
 
