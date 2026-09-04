@@ -74,5 +74,23 @@ class TestTranscriptResolution(unittest.TestCase):
         self.assertEqual(audit_quotes.body_of('просто текст'), 'просто текст')
 
 
+class TestCompoundNumeralAdjectives(unittest.TestCase):
+    """«тринадцатилетнему» в цитате против «13-летнему» в дорожке."""
+
+    def test_prefix_is_stripped(self):
+        self.assertEqual(audit_quotes.strip_age('тринадцатилетнему'), 'летнему')
+        self.assertEqual(audit_quotes.strip_age('пятилетний'), 'летний')
+        self.assertEqual(audit_quotes.strip_age('сорокалетняя'), 'летняя')
+
+    def test_ordinary_words_untouched(self):
+        for w in ('лететь', 'полетел', 'человек', 'летний'):
+            self.assertEqual(audit_quotes.strip_age(w), w)
+
+    def test_quote_and_track_agree_after_stripping(self):
+        quote = audit_quotes.stems('зачем тринадцатилетнему мальчику нужна сестра')
+        track = audit_quotes.stems('зачем 13-летнему мальчику нужна сестра')
+        self.assertEqual(quote, track)
+
+
 if __name__ == '__main__':
     unittest.main()
