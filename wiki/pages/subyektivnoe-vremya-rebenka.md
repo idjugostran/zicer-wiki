@@ -3,7 +3,7 @@ title: Субъективное время ребёнка и взрослого
 category: Concepts
 summary: Три года для взрослого — миг, для шестилетнего ребёнка — большая часть сознательной жизни; парадигма «подготовки к жизни» (детский сад готовит к школе, школа — к вузу) игнорирует эту разницу и подменяет текущую жизнь ребёнка ожиданием будущей
 tags: [concept, roditelstvo, kniga]
-sources: [kniga-lyubit-nelzya-vospityvat, chto-takoe-dogovor-s-rebenkom, v-poslednee-vremya-syn-ochen-grustit, kuda-zhe-my-toropimsya, kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-229, lnv-vypusk-224, lnv-vypusk-189, lnv-vypusk-191]
+sources: [kniga-lyubit-nelzya-vospityvat, chto-takoe-dogovor-s-rebenkom, v-poslednee-vremya-syn-ochen-grustit, kuda-zhe-my-toropimsya, kak-zhe-on-dolgo-sobiraetsya, lnv-vypusk-229, lnv-vypusk-224, lnv-vypusk-189, lnv-vypusk-191, lnv-vypusk-181]
 created: 2026-09-02
 updated: 2026-09-04
 ---
@@ -25,6 +25,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-224](pages/lnv-vypusk-224.md)] — пятнадцатилетняя Софья сама подменяет девятый класс планом на после школы; совет — не принимать решение на три года вперёд
 - [[lnv-vypusk-189](pages/lnv-vypusk-189.md)] — «пять лет назад» для семилетней внучки пересчитывается в четверть жизни; там же — девять из двадцати четырёх часов, идущих по чужой воле
 - [[lnv-vypusk-191](pages/lnv-vypusk-191.md)] — упрёк матери: прыгнула на два года вперёд и не живёт в настоящем пятилетнего сына
+- [[lnv-vypusk-181](pages/lnv-vypusk-181.md)] — двухлетний не понимает, что такое «полчаса» и «меня ждут»; сборы начинают с ребёнка, а не с себя
 
 ## Related Concepts
 

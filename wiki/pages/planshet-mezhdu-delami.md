@@ -3,7 +3,7 @@ title: Планшет между делами
 category: Concepts
 summary: Гаджет перестаёт быть проблемой не тогда, когда его ограничивают по часам, а тогда, когда он становится одним делом среди многих, а не тем, с чего начинается и чем заканчивается день
 tags: [concept, gadzhety, rannii-vozrast, rutina, instrumenty]
-sources: [kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, lnv-vypusk-239, lnv-vypusk-244, lnv-vypusk-230, lnv-vypusk-232, lnv-vypusk-224]
+sources: [kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, kak-pomoch-rebenku-vybratsya-iz-lovushki-potrebleniya, lnv-vypusk-239, lnv-vypusk-244, lnv-vypusk-230, lnv-vypusk-232, lnv-vypusk-224, lnv-vypusk-181]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -28,6 +28,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-230](pages/lnv-vypusk-230.md)] — приставка, подаренная папой, — «ключевое слово это слово вместе»; когда играют вместе, игру можно вместе и закончить
 - [[lnv-vypusk-232](pages/lnv-vypusk-232.md)] — шестилетний наедине с планшетом назван неверным началом истории; менять предлагается первый пункт, а не длительность
 - [[lnv-vypusk-224](pages/lnv-vypusk-224.md)] — компьютер не отнимают, ход отдаётся переезду, который сам меняет жизнь десятилетнего
+- [[lnv-vypusk-181](pages/lnv-vypusk-181.md)] — вместо часов родительского контроля: научить девятилетнего чувствовать время изнутри
 
 ## Related Concepts
 

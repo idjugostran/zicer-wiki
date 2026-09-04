@@ -3,7 +3,7 @@ title: Истерика (детская и взрослая)
 category: Concepts
 summary: Реактивное неконтролируемое состояние — по Зицеру, не специфичное для детей, а общечеловеческое
 tags: [concept, emotional-regulation]
-sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-3, lnv-vypusk-215, otkuda-berutsya-modeli-povedeniya, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, kniga-lyubit-nelzya-vospityvat, moya-doch-deretsya-i-plyuetsya, kak-nauchitsya-spravlyatsya-s-emotsiyami, lnv-vypusk-237, lnv-vypusk-213, lnv-vypusk-195]
+sources: [tak-nazyvaemye-detskie-isteriki, kurs-12-urokov-urok-3, lnv-vypusk-215, otkuda-berutsya-modeli-povedeniya, kak-prinyat-pravilnoe-reshenie-esli-mama-i-papa-ne-soglasny, kniga-lyubit-nelzya-vospityvat, moya-doch-deretsya-i-plyuetsya, kak-nauchitsya-spravlyatsya-s-emotsiyami, lnv-vypusk-237, lnv-vypusk-213, lnv-vypusk-195, lnv-vypusk-181]
 created: 2026-08-04
 updated: 2026-09-04
 ---
@@ -27,6 +27,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-237](pages/lnv-vypusk-237.md)] — внутри истерики трёхлетнего разговор невозможен; обсуждение выносится наружу, внутри остаются сочувствие, вода и объятие
 - [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — падение на пол и крик у трёхлетней девочки — единственное, что Зицер попросил проанализировать отдельно
 - [[lnv-vypusk-195](pages/lnv-vypusk-195.md)] — «так называемые истерики» четырёхлетней: разговор переносится на два часа позже события
+- [[lnv-vypusk-181](pages/lnv-vypusk-181.md)] — «в состоянии истерики он вас не слышит»: разговор переносится в спокойный момент
 
 ## Related Concepts
 

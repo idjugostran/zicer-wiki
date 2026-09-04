@@ -3,9 +3,9 @@ title: «Куда он опаздывает?»
 category: Concepts
 summary: Диагностический вопрос против родительской спешки: прежде чем помогать ребёнку ускориться, надо назвать срок, к которому он опаздывает; чаще всего названного срока не существует, а существующий обычно снимается не ускорением, а сменой плана
 tags: [concept, vopros, diagnostika, roditelskiy-strakh, adaptatsiya, vremya]
-sources: [kuda-zhe-my-toropimsya]
+sources: [kuda-zhe-my-toropimsya, lnv-vypusk-181]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # «Куда он опаздывает?»
@@ -36,3 +36,4 @@ updated: 2026-09-03
 ## Appearances in Sources
 
 - [[kuda-zhe-my-toropimsya](pages/kuda-zhe-my-toropimsya.md)] — сформулировано впервые: шестнадцатилетний Ярослав, Кипр и один год до конца школы
+- [[lnv-vypusk-181](pages/lnv-vypusk-181.md)] — тот же вопрос с другой стороны: в сад приходить вовремя нужно ради ребёнка, а не ради режима
