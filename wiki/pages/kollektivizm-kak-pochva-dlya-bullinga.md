@@ -3,7 +3,7 @@ title: Навязанный коллективизм как почва для б
 category: Concepts
 summary: Буллинг — примитивное упрощение личных отношений в групповую агрессию; навязанный взрослыми коллективизм («мы единая команда») порождает вожака и травлю, тогда как личностные отношения в классе защищают от неё; работать нужно с чувствами инициатора, а не с коллективом
 tags: [concept, bulling, samoregulyatsiya, subyektnost]
-sources: [mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-223, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, nam-popalas-plohaya-uchilka, doch-schitaet-sebya-kvadroberom, kak-zashchitit-7-letnego-syna-ot-travli, dolzhen-li-uchitel-lyubit-detey, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-235, lnv-vypusk-224, lnv-vypusk-218, lnv-vypusk-213, lnv-vypusk-212]
+sources: [mama-dorogaya-bulling, lnv-vypusk-201, lnv-vypusk-223, chto-delat-esli-malchiki-obedinyayutsya-protiv-devochek, nam-popalas-plohaya-uchilka, doch-schitaet-sebya-kvadroberom, kak-zashchitit-7-letnego-syna-ot-travli, dolzhen-li-uchitel-lyubit-detey, kogda-starshiy-brat-koshmarit-mladshego, lnv-vypusk-235, lnv-vypusk-224, lnv-vypusk-218, lnv-vypusk-213, lnv-vypusk-212, lnv-vypusk-202]
 created: 2026-08-30
 updated: 2026-09-04
 ---
@@ -36,6 +36,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — профилактика травли строится через видимость ценности каждого, а не через работу с коллективом
 - [[lnv-vypusk-213](pages/lnv-vypusk-213.md)] — «класс живёт по чужим законам»: пятеро задирающих, шовинистические обзывательства и учительница, которой всё равно
 - [[lnv-vypusk-212](pages/lnv-vypusk-212.md)] — финальный монолог о серой одинаковой форме и о старших, учащих пользоваться силой
+- [[lnv-vypusk-202](pages/lnv-vypusk-202.md)] — «детский» выпуск: четыре из семи звонков от детей 7–15 лет, две истории о травле разбираются с их собственной стороны
 
 ## Related Concepts
 
