@@ -3,7 +3,7 @@ title: Круг «что во мне особенного»
 category: Concepts
 summary: Регулярное занятие в кругу, где каждый — включая учителя — говорит, чем он отличается от других; первые разы дают внешние и шуточные ответы, дальше разговор углубляется, и из него вырастает не сплочённый коллектив, а «единство индивидуальностей», способное само остановить агрессию
 tags: [concept, pedagogika, gruppa, refleksiya, bulling, tehnika, nachalnaya-shkola]
-sources: [dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-218, lnv-vypusk-198, lnv-vypusk-166]
+sources: [dolzhen-li-uchitel-lyubit-detey, lnv-vypusk-232, lnv-vypusk-227, lnv-vypusk-218, lnv-vypusk-198, lnv-vypusk-166, dima-zicer-o-shkolnoy-travle]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -42,3 +42,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-218](pages/lnv-vypusk-218.md)] — разбор для классного руководителя пятого класса: круг «про себя, а не про другого», затем разговор о собственных границах и система сигналов «мне неприятно»
 - [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — круг «чем я особенный» рекомендован школьному психологу как первый шаг; второй этап — «чем удивителен другой»
 - [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — прописан классному руководителю выпускного класса: первый круг ерунда, дальше принятие и эмпатия
+- [[dima-zicer-o-shkolnoy-travle](pages/dima-zicer-o-shkolnoy-travle.md)] — основание практики в одной фразе: ценность в том, что мы личности, и тогда есть место каждому

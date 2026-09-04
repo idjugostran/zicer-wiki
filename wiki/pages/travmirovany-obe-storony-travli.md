@@ -3,7 +3,7 @@ title: Травмированы обе стороны травли
 category: Concepts
 summary: Тот, кто травил, травмирован не меньше жертвы: он не может стереть из памяти, до какого состояния доводил другого — и это рабочий аргумент в разговоре с педагогом, считающим травлю нормой
 tags: [concept, bulling, travma, pedagog, refleksiya]
-sources: [lnv-vypusk-198, lnv-vypusk-195]
+sources: [lnv-vypusk-198, lnv-vypusk-195, dima-zicer-o-shkolnoy-travle]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -38,3 +38,4 @@ updated: 2026-09-04
 
 - [[lnv-vypusk-198](pages/lnv-vypusk-198.md)] — разговор со школьным психологом Юлией: аргумент предложен для тренинга с педагогами, считающими травлю нормой
 - [[lnv-vypusk-195](pages/lnv-vypusk-195.md)] — работать нужно со всем классом, включая тех, кто травит
+- [[dima-zicer-o-shkolnoy-travle](pages/dima-zicer-o-shkolnoy-travle.md)] — Зицер отвечает на прямой вопрос о собственной школьной роли: сам был объектом травли в четвёртом классе
