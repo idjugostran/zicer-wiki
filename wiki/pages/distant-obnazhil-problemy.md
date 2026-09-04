@@ -3,7 +3,7 @@ title: Дистант обнажил проблемы
 category: Concepts
 summary: Дистанционное обучение ничего не сломало, а проявило то, что было и раньше: у хорошего учителя уроки остались хорошими и на дистанции, поэтому требование «вернуть как было» лечит не ту проблему
 tags: [concept, distant, shkola, krizis, diagnostika]
-sources: [lnv-vypusk-183, lnv-vypusk-166, lnv-vypusk-169]
+sources: [lnv-vypusk-183, lnv-vypusk-166, lnv-vypusk-169, dima-zicer-karantin-vremya-vozmozhnostey]
 created: 2026-09-04
 updated: 2026-09-04
 ---
@@ -38,3 +38,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-183](pages/lnv-vypusk-183.md)] — сквозная мысль выпуска, повторённая Зицером дважды
 - [[lnv-vypusk-166](pages/lnv-vypusk-166.md)] — развёрнутый монолог: онлайн назван не форматом, а инструментом; система при переходе не меняется
 - [[lnv-vypusk-169](pages/lnv-vypusk-169.md)] — ноябрь 2020: страх, что за два месяца дистанта девятилетняя выпадет из социальной жизни, снимается прямо
+- [[dima-zicer-karantin-vremya-vozmozhnostey](pages/dima-zicer-karantin-vremya-vozmozhnostey.md)] — прогноз марта 2020-го, что школа изменится, потому что стало очевидно, что можно иначе

@@ -3,7 +3,7 @@ title: Время просто так
 category: Concepts
 summary: Совместное время, наполненное развивающими занятиями, не заменяет времени «просто так»: ревность старшего снимается не игрушками и не вовлечением в дела младшего, а совместным переживанием без цели, когда мама и ребёнок принадлежат друг другу
 tags: [concept, vremya, revnost, sovmestnost, starshiy-rebenok]
-sources: [lnv-vypusk-230, lnv-vypusk-226, lnv-vypusk-224, lnv-vypusk-222, lnv-vypusk-179]
+sources: [lnv-vypusk-230, lnv-vypusk-226, lnv-vypusk-224, lnv-vypusk-222, lnv-vypusk-179, dima-zicer-karantin-vremya-vozmozhnostey]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -37,3 +37,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-224](pages/lnv-vypusk-224.md)] — старшая из трёх дочерей, уже пережившая «разделение мамы на две части», получает не занятия, а пятнадцать минут ежедневной исключительной принадлежности матери
 - [[lnv-vypusk-222](pages/lnv-vypusk-222.md)] — тревога шестилетней после рождения брата снимается разговором и совместным временем, а не доказательствами любви
 - [[lnv-vypusk-179](pages/lnv-vypusk-179.md)] — регулярное время старшей отдельно от младшей прописано как лекарство, успех которого зависит от регулярности
+- [[dima-zicer-karantin-vremya-vozmozhnostey](pages/dima-zicer-karantin-vremya-vozmozhnostey.md)] — «стоит просто жить» вместо сосредоточения на важном и полезном

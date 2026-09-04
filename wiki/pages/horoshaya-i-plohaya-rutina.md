@@ -3,9 +3,9 @@ title: Хорошая и плохая рутина
 category: Concepts
 summary: Плохая рутина механически переносит прежние занятия ребёнка на новое место, хорошая находится заново; аналогия Зицера — хороший и плохой холестерин
 tags: [concept, emigratsiya, adaptatsiya, rutina]
-sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kuda-zhe-my-toropimsya]
+sources: [rebenok-ne-mozhet-adaptirovatsya-v-novoy-strane, kak-vo-vremya-voyny-uspokaivat-sebya-i-detey, kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let, kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov, kuda-zhe-my-toropimsya, dima-zicer-karantin-vremya-vozmozhnostey]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 ---
 
 # Хорошая и плохая рутина
@@ -25,6 +25,7 @@ updated: 2026-09-03
 - [[kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let](pages/kak-ogranichit-vremya-s-gadzhetom-devochke-3-5-let.md)] — день, в котором экран стоит между делами, а не открывает утро
 - [[kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov](pages/kak-deystvovat-esli-prishlos-smenit-7-detskih-sadov.md)] — «создадим эту новую рутину» как замена утраченной стабильности
 - [[kuda-zhe-my-toropimsya](pages/kuda-zhe-my-toropimsya.md)] — «если они введут своего ребёнка… в рутину, они этим ему помогут»: «я клянусь вам, всё наоборот»
+- [[dima-zicer-karantin-vremya-vozmozhnostey](pages/dima-zicer-karantin-vremya-vozmozhnostey.md)] — рутина как способ не отдать вирусу и начальству право решать, как ты живёшь
 
 ## Related Concepts
 

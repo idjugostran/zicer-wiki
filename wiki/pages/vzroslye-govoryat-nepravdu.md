@@ -3,7 +3,7 @@ title: Взрослые говорят неправду
 category: Concepts
 summary: Прошлые несбывшиеся угрозы взрослых обесценили сам жанр запрета, поэтому и правдивый запрет не работает; условие разговора о реальном риске — сначала перестать врать себе и ребёнку в фактах
 tags: [concept, doverie, zaprety, podrostki, pravda]
-sources: [lnv-vypusk-249, lnv-vypusk-217, lnv-vypusk-174]
+sources: [lnv-vypusk-249, lnv-vypusk-217, lnv-vypusk-174, dima-zicer-karantin-vremya-vozmozhnostey]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -34,3 +34,4 @@ updated: 2026-09-04
 - [[lnv-vypusk-249](pages/lnv-vypusk-249.md)] — вводит концепт: курящая тринадцатилетняя дочь и обесцененный жанр запрета
 - [[lnv-vypusk-217](pages/lnv-vypusk-217.md)] — запугивание больницей в детском саду постепенно отучает ребёнка понимать обычную речь
 - [[lnv-vypusk-174](pages/lnv-vypusk-174.md)] — «я не могу» вместо «я не хочу»: шестилетняя видит, что мелочь купить можно, и не верит матери
+- [[dima-zicer-karantin-vremya-vozmozhnostey](pages/dima-zicer-karantin-vremya-vozmozhnostey.md)] — «хватит врать» про нехватку общения с близкими, названное лукавством
