@@ -3,7 +3,7 @@ title: «Почему вы не пишете о…» как перенос от�
 category: Concepts
 summary: Упрёк «почему вы пишете об этом, а не о том» Зицер называет самым манипулятивным способом снять с себя ответственность; проверка простая — у самих требующих нет постов о собственной позиции, а лекарство — написать её у себя
 tags: [concept, manipulyatsiya, propaganda, otvetstvennost, pozitsiya, seti]
-sources: [vstuplenie-k-programme-16-01-24, lnv-vypusk-163]
+sources: [vstuplenie-k-programme-16-01-24, lnv-vypusk-163, dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah]
 created: 2026-09-03
 updated: 2026-09-04
 ---
@@ -37,3 +37,4 @@ updated: 2026-09-04
 
 - [[vstuplenie-k-programme-16-01-24](pages/vstuplenie-k-programme-16-01-24.md)] — сформулировано впервые: разбор комментариев «вам не жалко детей» и «как вы смеете»
 - [[lnv-vypusk-163](pages/lnv-vypusk-163.md)] — «от меня ничего не зависит, руководство только покивает»
+- [[dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah](pages/dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah.md)] — за партнёра и за ребёнка отвечать нельзя, отвечаешь только перед собой

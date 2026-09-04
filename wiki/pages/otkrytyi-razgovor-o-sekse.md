@@ -3,7 +3,7 @@ title: Открытый разговор с детьми о сексе
 category: Concepts
 summary: Секс — обычная интересная тема для ребёнка, а не опасная; неловкость при разговоре о ней — унаследованная взрослыми модель, а не реакция на реальный риск
 tags: [concept, seks, roditelstvo]
-sources: [kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-8, lnv-vypusk-252, lnv-vypusk-201, lnv-vypusk-250, kniga-lyubit-nelzya-vospityvat, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-233, lnv-vypusk-229, lnv-vypusk-226, lnv-vypusk-222, lnv-vypusk-212, lnv-vypusk-202, lnv-vypusk-199, lnv-vypusk-191, lnv-vypusk-194, lnv-vypusk-184, lnv-vypusk-174]
+sources: [kak-razgovarivat-s-detmi-o-sekse, kurs-12-urokov-urok-8, lnv-vypusk-252, lnv-vypusk-201, lnv-vypusk-250, kniga-lyubit-nelzya-vospityvat, lnv-postoyannye-isteriki-interes-k-seksu-poisk-prizvaniya, rebenok-v-8-let-smotrit-zapreshchennyi-kontent, mozhet-li-rebenka-razvratit-nagota-roditeley, lnv-vypusk-233, lnv-vypusk-229, lnv-vypusk-226, lnv-vypusk-222, lnv-vypusk-212, lnv-vypusk-202, lnv-vypusk-199, lnv-vypusk-191, lnv-vypusk-194, lnv-vypusk-184, lnv-vypusk-174, dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah]
 created: 2026-08-29
 updated: 2026-09-04
 ---
@@ -38,6 +38,7 @@ updated: 2026-09-04
 - [[lnv-vypusk-194](pages/lnv-vypusk-194.md)] — ответ Михаилу о пятилетнем сыне: «нужны подробности» вместо «без лишних подробностей», книга Питера Мейла как инструмент
 - [[lnv-vypusk-184](pages/lnv-vypusk-184.md)] — органы называются своими именами, тревога снимается
 - [[lnv-vypusk-174](pages/lnv-vypusk-174.md)] — просьба пятилетнего купаться вместе: бояться нечего, стоит спросить, что ему интересно
+- [[dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah](pages/dima-zicer-i-elena-olshanskaya-o-sovremennyh-detyah.md)] — формула «постарайтесь, чтобы они узнали об этом до восьми», распространённая и на социальные сети
 
 ## Related Concepts
 
